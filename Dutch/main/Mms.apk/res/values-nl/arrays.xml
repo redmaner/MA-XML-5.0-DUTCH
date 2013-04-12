@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 maal</item>
+        <item>2 maal</item>
+        <item>3 maal</item>
+        <item>5 maal</item>
+        <item>10 maal</item>
+    </string-array>
+</resources>

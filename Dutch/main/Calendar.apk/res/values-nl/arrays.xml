@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="availability">
+        <item>Bezet</item>
+        <item>Beschikbaar</item>
+        <item>Voorlopig</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dag</item>
+        <item>Week</item>
+        <item>Maand</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Alleen deze afspraak</item>
+        <item>Alle gebeurtenissen in de reeks</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Alleen deze afspraak</item>
+        <item>Deze en toekomstige afspraken</item>
+        <item>Alle afspraken</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Deze en toekomstige afspraken</item>
+        <item>Alle afspraken</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>eerste</item>
+        <item>tweede</item>
+        <item>derde</item>
+        <item>vierde</item>
+        <item>laatste</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Altijd</item>
+        <item>Alleen indien stil</item>
+        <item>Nooit</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Geen</item>
+        <item>0 minuten</item>
+        <item>1 minuut</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+        <item>20 minuten</item>
+        <item>25 minuten</item>
+        <item>30 minuten</item>
+        <item>45 minuten</item>
+        <item>1 uur</item>
+        <item>2 uur</item>
+        <item>3 uur</item>
+        <item>12 uur</item>
+        <item>24 uur</item>
+        <item>2 dagen</item>
+        <item>1 week</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Standaardlandinstelling</item>
+        <item>Zaterdag</item>
+        <item>Zondag</item>
+        <item>Maandag</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Melding</item>
+        <item>E-mail</item>
+        <item>SMS</item>
+	 <item>Alarm</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 minuten</item>
+        <item>1 minuut</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+        <item>20 minuten</item>
+        <item>25 minuten</item>
+        <item>30 minuten</item>
+        <item>45 minuten</item>
+        <item>1 uur</item>
+        <item>2 uur</item>
+        <item>3 uur</item>
+        <item>12 uur</item>
+        <item>24 uur</item>
+        <item>2 dagen</item>
+        <item>1 week</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Geen reactie</item>
+        <item>Ja</item>
+        <item>Misschien</item>
+        <item>Nee</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Standaard</item>
+        <item>Privé</item>
+        <item>Openbaar</item>
+    </string-array>
+</resources>

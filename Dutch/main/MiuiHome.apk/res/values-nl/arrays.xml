@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Klassiek</item>
+        <item>Klassiek (Geen Overschot)</item>
+        <item>Vervagen</item>
+        <item>Tuimelen</item>
+        <item>Pagina</item>
+        <item>Stapelen</item>
+        <item>Draaien</item>
+        <item>3D Kubus</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Door thema</item>
+        <item>Midden</item>
+        <item>Links</item>
+        <item>Rechts</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Standaard</item>
+        <item>Klassiek</item>
+    </string-array>
+</resources>

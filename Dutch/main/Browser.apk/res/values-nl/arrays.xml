@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array> 
+    <string-array name="pref_content_plugins_choices">
+        <item>Altijd aan</item>
+        <item>Op aanvraag</item>
+        <item>Uit</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>MIUI home</item>
+        <item>Meest bezochte sites</item>
+        <item>Anders</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Minuscuul</item>
+        <item>Klein</item>
+        <item>Normaal</item>
+        <item>Groot</item>
+        <item>Enorm</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Nooit</item>
+        <item>Alleen op Wi-Fi</item>
+        <item>Altijd</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Veraf</item>
+        <item>Normaal</item>
+        <item>Dichtbij</item>
+    </string-array>
+    <string-array name="pref_development_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Pagina omhoog/beneden</item>
+        <item>Wissel tab</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Pagina vooruit/terug</item>
+        <item>Wissel tab</item>
+    </string-array>
+</resources>
