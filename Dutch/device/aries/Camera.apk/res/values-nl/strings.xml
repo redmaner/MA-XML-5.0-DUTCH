@@ -182,8 +182,7 @@ Stap even uit beeld</string>
   <string name="pref_camera_hfr_entry_off">Uit</string>
   <string name="pref_camera_hfr_title">Hoge framerate (slow motion)</string>
   <string name="pref_camera_histogram_default">disable</string>
-  <string name="pref_camera_histogram_entry_disable">Uitschakelen
-</string>
+  <string name="pref_camera_histogram_entry_disable">Uitschakelen</string>
   <string name="pref_camera_histogram_entry_enable">Inschakelen</string>
   <string name="pref_camera_histogram_title">Histogram</string>
   <string name="pref_camera_histogram_value_disable">uitschakelen</string>
@@ -300,14 +299,9 @@ Stap even uit beeld</string>
   <string name="pref_camera_sharpness_title">Scherpte</string>
   <string name="pref_camera_skinToneEnhancement_default">disable</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Auto Verbetering</string>
-  <string name="pref_camera_skinToneEnhancement_entry_disable">Uitschakelen
-</string>
+  <string name="pref_camera_skinToneEnhancement_entry_disable">Uitschakelen</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Inschakelen</string>
   <string name="pref_camera_skinToneEnhancement_title">Huidskleur Verrijking</string>
-  <string name="pref_camera_skin_beautify_default">off</string>
-  <string name="pref_camera_sound_default">on</string>
-  <string name="pref_camera_sound_entry_off">uit</string>
-  <string name="pref_camera_sound_entry_on">aan</string>
   <string name="pref_camera_sound_title">Camera Geluid</string>
   <string name="pref_camera_sound_title_entry_off">Uit</string>
   <string name="pref_camera_sound_title_entry_on">Aan</string>
