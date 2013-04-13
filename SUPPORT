@@ -65,8 +65,10 @@ Extra's
 - Simple_clock
 
 Xiaomi Mi1 Series (mione_plus)
+- device/mione_plus/CABLService.apk
 - device/mione_plus/Camera.apk
 
 Xiaomi Mi2 (aries)
+- device/aries/CABLService.apk
 - device/aries/Camera.apk
 - device/aries/FM.apk
