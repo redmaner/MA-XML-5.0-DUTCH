@@ -797,7 +797,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="sim_card_no_free_space_message">Uw simkaart is vol, niet mogelijk nieuwe contacten te importeren. Wis uw simkaart en probeer opnieuw</string>
   <string name="sim_card_no_free_space_title">simkaart vol</string>
   <string name="sim_contact_search_error">Fout bij zoeken van contacten op simkaart</string>
-  <string name="sim_contacts">Sim Contacten</string>
+  <string name="sim_contacts">Simkaart Contacten</string>
   <string name="sim_export_loading">Simkaart informatie wordt gelezen. Even geduld, dit kan een minuut duren.</string>
   <string name="sim_indexed_contact_not_exist">Positie %1$d op simkaart is niet correct, hoort tussen %2$d en %3$d</string>
   <string name="sim_no_contact">Geen contacten op simkaart</string>

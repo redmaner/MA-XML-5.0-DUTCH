@@ -326,7 +326,7 @@
   <string name="bluetooth_enter_passkey_msg">Koppelen met:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Typ de vereiste toegangscode van het apparaat:</string>
   <string name="bluetooth_enter_passkey_other_device">U moet deze toegangscode wellicht ook opgeven op het andere apparaat.</string>
   <string name="bluetooth_enter_pin_msg_hs">"
-Typ PIN om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist sleutel met 16 tekens]"</string>
+Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist sleutel met 16 tekens]"</string>
   <string name="bluetooth_enter_pin_msg">Koppelen met:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Typ de vereiste pincode van het apparaat:</string>
   <string name="bluetooth_enter_pin_other_device">U moet deze pincode wellicht ook opgeven op het andere apparaat.</string>
   <string name="bluetooth_error_title" />
@@ -390,16 +390,16 @@ Typ PIN om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist sleu
   <string name="bluetooth_profile_opp">Bestandsoverdracht</string>
   <string name="bluetooth_profile_pan">Internettoegang</string>
   <string name="bluetooth_profile_pan_nap">Internetverbinding delen</string>
-  <string name="bluetooth_profile_sap">Sim Toegang</string>
+  <string name="bluetooth_profile_sap">Simkaart Toegang</string>
   <string name="bluetooth_quick_toggle_summary">Bluetooth inschakelen</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_rename_button">Naam wijzigen</string>
   <string name="bluetooth_rename_device">Naam van de telefoon wijzigen</string>
-  <string name="bluetooth_sap_acceptance_dialog_text">%1$s wilt u toegang tot uw sim. Toegang geven tot %2$s?</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s wilt u toegang tot uw simkaart. Toegang geven tot %2$s?</string>
   <string name="bluetooth_sap_connection_permission_request">Sap connectie verzoek</string>
-  <string name="bluetooth_sap_profile_summary_connected">Verbonden met sim Toegang Server</string>
-  <string name="bluetooth_sap_profile_summary_not_connected">Niet verbonden met sim Toegang Server</string>
-  <string name="bluetooth_sap_profile_summary_use_for">Gebruik voor sim Toegang</string>
+  <string name="bluetooth_sap_profile_summary_connected">Verbonden met simkaart Toegang Server</string>
+  <string name="bluetooth_sap_profile_summary_not_connected">Niet verbonden met simkaart Toegang Server</string>
+  <string name="bluetooth_sap_profile_summary_use_for">Gebruik voor simkaart Toegang</string>
   <string name="bluetooth_sap_remember_choice">Niet meer vragen</string>
   <string name="bluetooth_sap_request">SAP verzoek</string>
   <string name="bluetooth_scan_for_devices">Scannen naar apparaten</string>
@@ -964,7 +964,7 @@ Bent u klaar om te starten? Raak 'Volgende' aan."</string>
   <string name="lockpassword_choose_your_pattern_header">Uw patroon kiezen</string>
   <string name="lockpassword_choose_your_pin_header">Uw pincode kiezen</string>
   <string name="lockpassword_confirm_passwords_dont_match">Wachtwoorden komen niet overeen</string>
-  <string name="lockpassword_confirm_pins_dont_match">PIN-codes komen niet overeen</string>
+  <string name="lockpassword_confirm_pins_dont_match">Pincodes komen niet overeen</string>
   <string name="lockpassword_confirm_your_password_header">Uw wachtwoord bevestigen</string>
   <string name="lockpassword_confirm_your_pattern_header">Uw patroon bevestigen</string>
   <string name="lockpassword_confirm_your_pin_header">Uw pincode bevestigen</string>
@@ -1142,8 +1142,8 @@ probeer het volgende:
   <string name="msd_install_succeed">Driver geïnstalleerd</string>
   <string name="msd_install_windows_xp_step_2_1">"1.Als de wizard in beeld komt, 
 volg a.u.b. de stappen om de installatie te voltooien"</string>
-  <string name="multi_sim_settings_summary">Multi sim instellen voor Spraak, Data en SMS</string>
-  <string name="multi_sim_settings_title">Multi sim Instellingen</string>
+  <string name="multi_sim_settings_summary">Multi simkaart instellen voor Spraak, Data en SMS</string>
+  <string name="multi_sim_settings_title">Multi simkaart Instellingen</string>
   <string name="multi_touch_points_category_title">Multi-touch punten</string>
   <string name="multi_touch_points_preference">Herstart voor activatie</string>
   <string name="musicfx_title">Muziekeffecten</string>
@@ -1454,7 +1454,7 @@ volg a.u.b. de stappen om de installatie te voltooien"</string>
   <string name="radio_info_imei_label">IMEI-nummer:</string>
   <string name="radioInfo_lac">LAC</string>
   <string name="radioInfo_menu_getPDP">PDP-lijst ophalen</string>
-  <string name="radioInfo_menu_viewADN">Sim-adresboek weergeven</string>
+  <string name="radioInfo_menu_viewADN">Simkaart adresboek weergeven</string>
   <string name="radioInfo_menu_viewFDN">Vaste nummers weergeven</string>
   <string name="radioInfo_menu_viewSDN">Servicenummers weergeven</string>
   <string name="radio_info_message_waiting_label">Wachtend bericht:</string>
@@ -1614,7 +1614,7 @@ volg a.u.b. de stappen om de installatie te voltooien"</string>
   <string name="security_relative">Veiligheid gerelateerd</string>
   <string name="security_settings_desc">Deze app heeft toegang tot de volgende opties van uw telefoon:</string>
   <string name="security_settings_desc_multi">Deze app heeft toegang tot het volgende op uw telefoon. Om de prestaties te verbeteren en geheugen gebruik te verlagen, heeft %1$s toegang tot dezelfde rechten omdat deze in hetzelfde proces draaien als %2$s:</string>
-  <string name="security_settings_summary">"Mijn locatie', schermontgrendeling, sim- en referentieopslagvergrendeling instellen"</string>
+  <string name="security_settings_summary">"Mijn locatie', schermontgrendeling, simkaart- en referentieopslagvergrendeling instellen"</string>
   <string name="security_settings_title">Beveiliging</string>
   <string name="select_all">Alles selecteren</string>
   <string name="select_application">Selecteer applicatie</string>
@@ -1674,33 +1674,33 @@ volg a.u.b. de stappen om de installatie te voltooien"</string>
   <string name="silent_mode_title">Stille modus</string>
   <string name="sim_absent">Geen sim/RUIM</string>
   <string name="sim_bad_pin">Onjuiste pincode</string>
-  <string name="sim_change_failed_enable_sim_lock">"Wijzigen sim PIN mislukt. 
-Schakel sim LOCK in."</string>
+  <string name="sim_change_failed_enable_sim_lock">"Wijzigen simkaart pincode mislukt. 
+Schakel simkaart vergrendeling in."</string>
   <string name="sim_change_failed">"Kan pincode niet wijzigen.
 Pincode mogelijk onjuist."</string>
-  <string name="sim_change_pin">Sim pincode</string>
-  <string name="sim_change_succeeded">Sim pincode gewijzigd</string>
+  <string name="sim_change_pin">Simkaart pincode</string>
+  <string name="sim_change_succeeded">Simkaart pincode gewijzigd</string>
   <string name="sim_disable_sim_lock">Simkaart ontgrendelen</string>
   <string name="sim_enable_sim_lock">Simkaart vergrendelen</string>
   <string name="sim_enter_cancel">Annuleren</string>
-  <string name="sim_enter_new">Nieuwe sim pincode</string>
+  <string name="sim_enter_new">Nieuwe simkaart pincode</string>
   <string name="sim_enter_ok">OK</string>
-  <string name="sim_enter_old">Oude sim pincode</string>
-  <string name="sim_enter_pin">Sim pincode</string>
-  <string name="sim_lock_change_not_supported">"Sim Lock wijzigen mislukt. 
-sim staat wijziging niet toe."</string>
+  <string name="sim_enter_old">Oude simkaart pincode</string>
+  <string name="sim_enter_pin">Simkaart pincode</string>
+  <string name="sim_lock_change_not_supported">"Simkaart vergrendeling wijzigen mislukt. 
+Simkaart staat wijziging niet toe."</string>
   <string name="sim_lock_failed">"Kan status van simkaartblokkering niet wijzigen.
 Pincode mogelijk onjuist."</string>
   <string name="sim_lock_off">Pincode vereist voor gebruik van telefoon</string>
   <string name="sim_lock_on">Pincode vereist voor gebruik van telefoon</string>
-  <string name="sim_lock_settings_category">Sim vergrendeling instellen</string>
-  <string name="sim_lock_settings">Instellingen simkaartvergrendeling</string>
-  <string name="sim_lock_settings_title">simkaartvergrendeling</string>
+  <string name="sim_lock_settings_category">Simkaart vergrendeling instellen</string>
+  <string name="sim_lock_settings">Instellingen simkaart vergrendeling</string>
+  <string name="sim_lock_settings_title">simkaart vergrendeling</string>
   <string name="sim_pin_attempts">"
 Pogingen Resterende :"</string>
-  <string name="sim_pin_change">Sim pincode wijzigen</string>
-  <string name="sim_pin_disabled">PIN1 Uitgeschakeld!</string>
-  <string name="sim_pin_enabled">PIN1 Ingeschakeld!</string>
+  <string name="sim_pin_change">Simkaart pincode wijzigen</string>
+  <string name="sim_pin_disabled">Pincode1 Uitgeschakeld!</string>
+  <string name="sim_pin_enabled">Pincode1 Ingeschakeld!</string>
   <string name="sim_pins_dont_match">Pincodes komen niet overeen</string>
   <string name="sim_pin_toggle">Simkaart vergrendelen</string>
   <string name="sim_reenter_new">Nieuwe pincode nogmaals invoeren</string>
@@ -1883,7 +1883,7 @@ Pogingen Resterende :"</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Lage beveiliging, experimenteel</string>
   <string name="unlock_set_unlock_biometric_weak_title">Gezicht ontgrendeling</string>
   <string name="unlock_set_unlock_disabled_summary">Uitgeschakeld door beheerder, encryptiebeleid of referentieopslag</string>
-  <string name="unlock_set_unlock_launch_picker_change_summary">Beveiliging via patroon, PIN of wachtwoord wijzigen of uitschakelen</string>
+  <string name="unlock_set_unlock_launch_picker_change_summary">Beveiliging via patroon, pincode of wachtwoord wijzigen of uitschakelen</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Schermvergr. wijzigen</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Kies een methode voor schermvergrendeling</string>
   <string name="unlock_set_unlock_launch_picker_title">Schermvergrendeling</string>
@@ -1902,7 +1902,7 @@ Pogingen Resterende :"</string>
   <string name="unlock_set_unlock_pattern_summary">Gemiddelde beveiliging</string>
   <string name="unlock_set_unlock_pattern_title">Patroon</string>
   <string name="unlock_set_unlock_pin_summary">Gemiddelde tot zware beveiliging</string>
-  <string name="unlock_set_unlock_pin_title">PIN</string>
+  <string name="unlock_set_unlock_pin_title">Pincode</string>
   <string name="unlock_set_unlock_summary">Scherm wachtwoord instellen voor wachtwoord protectie</string>
   <string name="unmount_inform_text">SD-kaart wordt ontkoppeld.</string>
   <string name="untitled_apn">Naamloos</string>
@@ -1972,7 +1972,7 @@ Pogingen Resterende :"</string>
   <string name="user_information_heading">Gebruiker informatie</string>
   <string name="user_list_title">Gebruikers</string>
   <string name="user_market_apps_heading">Geïnstalleerde apps</string>
-  <string name="user_market_requires_pin">Vereis PIN</string>
+  <string name="user_market_requires_pin">Vereis pincode</string>
   <string name="user_max_content_rating">Inhoud rating</string>
   <string name="user_name_title">Naam</string>
   <string name="user_new_user_name">Vervelend kind</string>
@@ -2090,7 +2090,7 @@ Pogingen Resterende :"</string>
   <string name="wfd_menu_teardown">Verbreken</string>
   <string name="wfd_settings_title">Wi-Fi Weergave Instellingen</string>
   <string name="wfd_wps_keypad">Knop druk</string>
-  <string name="wfd_wps_pbc">Voer PIN in</string>
+  <string name="wfd_wps_pbc">Pincode invoeren</string>
   <string name="widget_picker_title">Widget kiezen</string>
   <string name="wifi_access_points">Wi-Fi-netwerken</string>
   <string name="wifi_add_network">Netwerk toevoegen</string>
@@ -2150,7 +2150,7 @@ Pogingen Resterende :"</string>
   <string name="wifi_menu_scan">Scannen</string>
   <string name="wifi_menu_wfd">Wi-Fi Weergave</string>
   <string name="wifi_menu_wps_pbc">WPS Druk op knop</string>
-  <string name="wifi_menu_wps_pin">WPS Pin Invoer</string>
+  <string name="wifi_menu_wps_pin">WPS pincode Invoer</string>
   <string name="wifi_more">Meer</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_network_prefix_length">Lengte van netwerkvoorvoegsel</string>
@@ -2296,7 +2296,7 @@ Pogingen Resterende :"</string>
   <string name="wifi_wps_failed_wep">Deze draadloze router beveiligingsinstelling wordt niet ondersteund (WEP)</string>
   <string name="wifi_wps_in_progress">WPS wordt al uitgevoerd en het voltooien kan even duren</string>
   <string name="wifi_wps_onstart_pbc">Druk op de Wi-Fi Beveiligde Setup knop op uw router. Hier staat mogelijk \"WPS\" op of het symbool:</string>
-  <string name="wifi_wps_onstart_pin">Voer pin %1$s in op uw Wi-Fi router. De setup kan tot twee minuten duren.</string>
+  <string name="wifi_wps_onstart_pin">Voer pincode %1$s in op uw Wi-Fi router. De setup kan tot twee minuten duren.</string>
   <string name="wifi_wps_overlap_error">Er is nog een Wifi Protected-sessie gedetecteerd. Probeer het later opnieuw.</string>
   <string name="wifi_wps_setup_msg">Starten WPS…</string>
   <string name="wifi_wps_setup_title">Wi-Fi WPS Setup</string>
