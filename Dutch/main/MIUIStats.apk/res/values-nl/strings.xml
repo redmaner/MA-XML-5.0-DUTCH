@@ -16,5 +16,5 @@
     <string name="notification_ticker">Statistieken verzonden</string>
     <string name="notification_title">MIUIAndroid.com statistieken</string>
     <string name="notification_desc">Schakel anonieme statistieken in of uit</string>
-    <string name="main_link" />
+    <string name="main_link">&lt;a href=http://stats.miuiandroid.com//>Meer informatie&lt;/a></string>
 </resources>
