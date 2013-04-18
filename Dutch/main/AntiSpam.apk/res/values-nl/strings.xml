@@ -46,6 +46,7 @@
   <string name="context_call">Oproep</string>
   <string name="context_ms">Bericht verzenden</string>
   <string name="context_new_contact">Nieuw Contact</string>
+  <string name="custom_mark_category">Aangepast</string>
   <string name="edit_blacklist">Notitie bewerken</string>
   <string name="edit_whitelist">Notitie bewerken</string>
   <string name="emptylist_fwlog_call">Alle geblokkeerde oproepen zullen hier worden gelogd.</string>
@@ -108,6 +109,8 @@
   <string name="fw_whitelist">Witte lijst</string>
   <string name="fw_whitelist_hint">Leden van de Witte lijst worden niet geblokkeerd</string>
   <string name="log_count">(%d)</string>
+  <string name="mark_number_dialog_maintitle">Markeer en sla onbekend nummer op</string>
+  <string name="mark_number_dialog_subtitle">Ontwikkeld met Sogou</string>
   <string name="member_firewall_log" formatted="false">Geblokkeerd: Nummer %d details %d</string>
   <string name="menu_edit">Bewerken</string>
   <string name="mms_log_tab_title">SMS</string>
@@ -130,5 +133,10 @@
   <string name="save_button">Opslaan</string>
   <string name="show_firewall_notification">Firewall notificaties weergeven</string>
   <string name="show_notification">Notificaties weergeven</string>
+  <string name="smart_antispam">Onbekend nummer gedetecteerd</string>
+  <string name="turn_on_smart_antispam_hint">Na het inschakelen zullen nummers worden geïdentificeerd, etiketten helpen om frauduleuze oproepen te bepalen.</string>
+  <string name="turn_on_smart_antispam_summary_off">Raadpleeg lokale nummer database</string>
+  <string name="turn_on_smart_antispam_summary_on">Werkt alleen op Wi-Fi en 3G netwerken</string>
+  <string name="turn_on_smart_antispam_title">Identificeer onbkende nummers</string> 
   <string name="whitelist_tab_title">Witte lijst</string>
 </resources>

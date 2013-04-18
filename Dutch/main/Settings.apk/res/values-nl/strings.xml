@@ -116,6 +116,8 @@
   <string name="app_factory_reset_dlg_title">Updates verwijderen?</string>
   <string name="app_factory_reset">Updates verwijderen</string>
   <string name="app_floating_window_dlg">\"%1$s\" toestaan om popup vensters te tonen</string>
+  <string name="app_floating_window_dlg_disable">"uitschakelen %1$s's zwevende venster instellingen zal de app geforceerd stoppen. Weet u zeker dat u het wilt uitschakelen?"</string>
+  <string name="app_floating_window_dlg_enable">"Inschakelen %1$s's zwevende venster instellingen vereist de app te herstarten. Weet u zeker dat u het wilt inschakelen?"</string> 
   <string name="app_forward_locked">App is beveiligd tegen kopiëren.</string>
   <string name="app_install_location_summary">De voorkeursinstallatielocatie voor nieuwe apps wijzigen</string>
   <string name="app_install_location_title">Voorkeursinstallatielocatie</string>
@@ -813,6 +815,7 @@ Sommige apps werken mogelijk niet tot ze zijn bijgewerkt door hun ontwikkelaars.
   <string name="finish_button_label">Voltooien</string>
   <string name="firmware_version">Android-versie</string>
   <string name="floating_window_switch_label">Toon popup venster</string>
+  <string name="floating_window_switch_label_disable">Verberg popup venster</string> 
   <string name="font_size_huge">Reusachtig</string>
   <string name="font_size_large">Groot</string>
   <string name="font_size_medium">Medium</string>
@@ -1696,6 +1699,7 @@ Pincode mogelijk onjuist."</string>
   <string name="sim_lock_settings_category">Simkaart vergrendeling instellen</string>
   <string name="sim_lock_settings">Instellingen simkaart vergrendeling</string>
   <string name="sim_lock_settings_title">simkaart vergrendeling</string>
+  <string name="sim_management_title">Simkaart beheer</string>
   <string name="sim_pin_attempts">"
 Pogingen Resterende :"</string>
   <string name="sim_pin_change">Simkaart pincode wijzigen</string>

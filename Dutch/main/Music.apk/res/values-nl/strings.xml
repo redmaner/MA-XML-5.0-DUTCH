@@ -183,6 +183,7 @@
   <string name="playlist_recently_played">Recentelijk afgespeeld</string>
   <string name="playlist_renamed_message">"Naam van afspeellijst gewijzigd in '%s'."</string>
   <string name="playlists_title">Afspeellijsten</string>
+  <string name="powered_by">Ondersteuning door</string>
   <string name="queue">Huidige afspeellijst</string>
   <string name="quit_player">Afsluiten</string>
   <string name="quit_warining">Speler zal stoppen na %d minuut(en)</string>
@@ -198,7 +199,8 @@
   <string name="rename_album_menu">Hernoem album</string>
   <string name="rename_artist_menu">Hernoem artiest</string>
   <string name="rename_playlist_menu">Naam wijzigen</string>
-  <string name="ringtone_menu">Gebr. als toon</string>
+  <string name="retry">Opnieuw proberen</string>
+  <string name="ringtone_menu">Gebruiken als toon</string>
   <string name="ringtone_set">"'%s' is ingesteld als beltoon."</string>
   <string name="save">Opslaan</string>
   <string name="scanning">Scannen van SD-kaart...</string>

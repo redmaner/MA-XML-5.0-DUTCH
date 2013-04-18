@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Importeren</string>
+  <string name="action_fail_unknown_error">Operatie mislukt door onbekende fout.</string>
   <string name="activity_not_found">Geen app beschikbaar om deze actie te voltooien.</string>
   <string name="add_account">Account toevoegen</string>
   <string name="add_to_cloud_album">Toevoegen aan Cloud</string>
@@ -142,7 +143,7 @@
   <string name="loading">Laden...</string>
   <string name="loading_failure">Foto kan niet worden geladen</string>
   <string name="loading_thumbnail">Laden thumbnail...</string>
-  <string name="local_albums">Lokale foto\'s</string>
+  <string name="local_albums">Lokale afbeeldingen</string>
   <string name="location">Locatie</string>
   <string name="locations">Locaties</string>
   <string name="lomoish">Lomo</string>
@@ -231,10 +232,10 @@
   <string name="set_label_local_albums">Locale albums</string>
   <string name="set_label_mtp_devices">MTP apparaten</string>
   <string name="set_lock_and_wallpaper">Instellen als achtergrond ...</string>
-  <string name="set_lock_or_wallpaper">Stel achtergrond in</string>
+  <string name="set_lock_or_wallpaper">Instellen als achtergrond</string>
   <string name="set_lockscreen">Stel vergrendelingsscherm in</string>
   <string name="set_recent_album">Stel in als recent album</string>
-  <string name="set_wallpaper">Stel desktop achtergrond in</string>
+  <string name="set_wallpaper">Instellen als bureaubladachtergrond</string>
   <string name="settings">Instellingen</string>
   <string name="settings_i_xiaomi_com">Login op i.xiaomi.com om uw cloud opslag te beheren</string>
   <string name="shadow">Schaduwen</string>

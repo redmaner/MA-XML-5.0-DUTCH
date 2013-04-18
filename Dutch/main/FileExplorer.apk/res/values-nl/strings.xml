@@ -174,10 +174,11 @@
   <string name="pan_settting">MiDrive settings</string>
   <string name="paused">Gepauzeerd</string>
   <string name="query_bind_state">Berekenen bind status, moment geduld...</string>
+  <string name="release_space_indication">Detecteer ongewenste bestanden</string>
   <string name="remote_management">FTP</string>
   <string name="rename_description">Hernoemen, even geduld a.u.b.…</string>
   <string name="rename_failed">Hernoemen van bestand %1$s is mislukt</string>
-<string name="scanning">Scannen...</string>
+  <string name="scanning">Scannen...</string>
   <string name="sd_card_available">Ruimte beschikbaar:%1$s</string>
   <string name="sd_card_size">SD-kaart:%1$s</string>
   <string name="sd_full">SD-kaart is vol</string>

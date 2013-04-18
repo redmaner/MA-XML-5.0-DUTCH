@@ -427,7 +427,8 @@
   <string name="ssl_unknown">Onbekende certificaatfout.</string>
   <string name="ssl_untrusted">Dit is geen certificaat van een vertrouwde autoriteit.</string>
   <string name="ssl_warnings_header">Er zijn problemen met het beveiligingscertificaat van deze site.</string>
-  <string name="stop">Stoppen</string>
+  <string name="stop">Stop</string>
+  <string name="stop_loading">Stop</string>
   <string name="stopping">Stoppen...</string>
   <string name="tab_bookmarks">Bladwijzers</string>
   <string name="tab_closed">Tab gesloten.</string>
