@@ -133,8 +133,8 @@
   <string name="save_button">Opslaan</string>
   <string name="show_firewall_notification">Firewall notificaties weergeven</string>
   <string name="show_notification">Notificaties weergeven</string>
-  <string name="smart_antispam">Onbekend nummer gedetecteerd</string>
-  <string name="turn_on_smart_antispam_hint">Na het inschakelen zullen nummers worden geïdentificeerd, etiketten helpen om frauduleuze oproepen te bepalen.</string>
+  <string name="smart_antispam">Smart Antispam</string>
+  <string name="turn_on_smart_antispam_hint">Na het inschakelen zullen nummers worden geïdentificeerd, label nummers en help frauduleuze oproepen te bepalen.</string>
   <string name="turn_on_smart_antispam_summary_off">Raadpleeg lokale nummer database</string>
   <string name="turn_on_smart_antispam_summary_on">Werkt alleen op Wi-Fi en 3G netwerken</string>
   <string name="turn_on_smart_antispam_title">Identificeer onbkende nummers</string> 
