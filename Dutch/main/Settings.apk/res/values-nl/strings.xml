@@ -158,6 +158,7 @@
   <string name="auto_startup_dialog_msg">"Miui zal de App toestaan automatisch te starten zonder te vragen. Wat kan leiden tot meer energie / data verbruik. Autostart toestaan?"</string>
   <string name="available_size">%s (beschikbaar)</string>
   <string name="awake">Stand-bytijd apparaat</string>
+  <string name="back_key">Terug toets</string>
   <string name="background_data">Achtergrondgegevens</string>
   <string name="background_data_dialog_message">Als u achtergrondgegevens uitschakelt, bespaart u batterijlading en wordt het gegevensverbruik verlaagd. Sommige apps maken mogelijk nog steeds gebruik van de verbinding voor achtergrondgegevens.</string>
   <string name="background_data_dialog_title">Achtergrondgegevens uitschakelen?</string>
@@ -675,9 +676,12 @@ Om te kiezen welke soorten informatie te synchroniseren binnen elk account, gaat
   <string name="dev_settings_warning_title">Sta ontwikkelinstellingen toe?</string>
   <string name="dialog_title_font_size">Lettergrootte</string>
   <string name="dirac_control">Dirac Beheer</string>
+  <string name="dirac_mode_earbuds">Oordopjes</string>
+  <string name="dirac_mode_earphones">Oortelefoons</string>
+  <string name="dirac_mode_off">Dirac Uit</string>
   <string name="disabled">Uitgeschakeld</string>
-  <string name="disableNetwork">Schakel Netwerk Uit</string>
-  <string name="disable_overlays">Schakel HW overlays uit</string>
+  <string name="disableNetwork">Netwerk uitschakelen</string>
+  <string name="disable_overlays">HW overlays uitschakelen</string>
   <string name="disable_overlays_summary">Gebruik altijd de GPU voor schermcompositie</string>
   <string name="disable_power_key_long_press_under_keyguard">Schakel uit in schermvergrendeling</string>
   <string name="disable_text">Uitschakelen</string>
@@ -869,6 +873,7 @@ Sommige apps werken mogelijk niet tot ze zijn bijgewerkt door hun ontwikkelaars.
   <string name="help_url_wifi" />
   <string name="hidden_ssid_label">Verborgen SSID:</string>
   <string name="history_details_title">Geschiedenisdetails</string>
+  <string name="home_key">Home toets</string>
   <string name="ime_security_warning">Deze invoermethode verzamelt mogelijk alle tekst die u typt, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. De methode is afkomstig uit de app %1$s. Deze invoermethode inschakelen?</string>
   <string name="immediately_destroy_activities">Activiteiten niet opslaan</string>
   <string name="immediately_destroy_activities_summary">Activiteit wissen zodra de gebruiker deze verlaat</string>
@@ -1537,6 +1542,9 @@ volg a.u.b. de stappen om de installatie te voltooien"</string>
   <string name="screen_color_temperature_adjust">Pas kleur temperatuur aan</string>
   <string name="screen_compatibility_label">Scherm compatibiliteit</string>
   <string name="screen_compatibility_text">Deze app is mogelijk niet ontworpen voor uw scherm. U kunt hier bepalen hoe de app wordt aangepast aan uw scherm.</string>
+  <string name="screen_key_long_press">Lang ingedrukt scherm toetsen</string>
+  <string name="screen_key_long_press_action">Schakel functie</string>
+  <string name="screen_key_long_press_timeout">Lang indrukken timeout</string>   
   <string name="screen_on_proximity_sensor_summary">Voorkom telefoon gebruik in broekzak (detecteren via nabijheidssensor).</string>
   <string name="screen_on_proximity_sensor_title">Voorkom misbruik</string>
   <string name="screen_saturation_adjust">Pas verzadiging aan</string>
@@ -1872,6 +1880,7 @@ Pogingen Resterende :"</string>
   <string name="tts_settings_title">Uitvoer voor tekst-naar-spraak</string>
   <string name="turn_off_radio">Radio uitschakelen</string>
   <string name="turn_on_radio">Radio inschakelen</string>
+  <string name="under_keyguard">Op vergrendelscherm</string>
   <string name="uninstall_text">Verwijderen</string>
   <string name="unknown">Onbekend</string>
   <string name="unlock_backup_info_summary">Hoe wilt u ontgrendelen als Face Unlock niet mogelijk is?</string>

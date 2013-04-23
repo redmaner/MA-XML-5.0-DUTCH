@@ -15,6 +15,7 @@
   <string name="bind_description">Sync met telefoon contacten toestaan</string>
   <string name="bind_sina_weibo">Autoriseer Sina Weibo</string>
   <string name="bind_weibo_description">Vind telefoon contacten, vrienden en andere informatie direct van uw account</string>
+  <string name="binded">Aangesloten</string>
   <string name="binding_behavior_error">Autoriseer fout!</string>
   <string name="btn_activate">Activeer</string>
   <string name="btn_back">Terug</string>
@@ -160,6 +161,7 @@
   <string name="prepaid_picker_title_default">Selecteer top-up bedrag</string>
   <string name="prepaid_picker_title_selected">Top-up bedrag</string>
   <string name="prev">Vorige</string>
+  <string name="process_result">Resultaat:</string> 
   <string name="progress_connecting">Verbinden...</string>
   <string name="progress_creating">Ophalen order informatie...</string>
   <string name="progress_downloading">Downloaden...</string>
@@ -231,6 +233,7 @@
   <string name="unbind">De-autoriseer</string>
   <string name="update_contacts">Update contacten</string>
   <string name="update_contacts_description">Update uw telefoon contacten en andere informatie</string>
+  <string name="updated_contacts">%s contacten geupdate</string> 
   <string name="user_agreement_p1">"Door in te loggen, gaat u akkoord met  "</string>
   <string name="user_agreement_p2">Xiaomi Servicevoorwaarden</string>
   <string name="user_agreement_p3"> en </string>
