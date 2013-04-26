@@ -172,8 +172,8 @@
   <string name="screenshot_saving_title">Schermafdruk opslaan...</string>
   <string name="settings_expandable_under_fullscreen">Vergroot op volledig scherm</string>
   <string name="settings_expandable_under_fullscreen_summary">door naar beneden te schuiven vanaf de bovenkant van het scherm</string>
-  <string name="settings_expandable_under_keyguard">Vergrootbaar op vergrendelingsscherm</string>
-  <string name="settings_expandable_under_keyguard_summary">Werkt alleen voor onveilig vergrendelingsscherm</string>
+  <string name="settings_expandable_under_keyguard">Vergrootbaar op vergrendelscherm</string>
+  <string name="settings_expandable_under_keyguard_summary">Werkt alleen voor onveilig vergrendelscherm</string>
   <string name="settings_expanded_view">Vergrote notificatie view</string>
   <string name="settings_notification_icon">Notificaties in statusbalk</string>
   <string name="settings_screenshot_notification_disabled">Toon schermafdruk info</string>
@@ -254,7 +254,7 @@
   <string name="tab_notifications_lable">Notificaties</string>
   <string name="tab_toggles_lable">Schakelaars</string>
   <string name="title_usb_accessory">USB accessoire</string>
-  <string name="torch_activity_hint">Open zaklamp door [icon] in te houden op vergrendelingsscherm</string>
+  <string name="torch_activity_hint">Open zaklamp door [icon] in te houden op vergrendelscherm</string>
   <string name="torch_activity_name">Zaklamp</string>
   <string name="usb_accessory_confirm_prompt">Open %1$s wanneer de USB accessoire is aangesloten?</string>
   <string name="usb_accessory_permission_prompt">Sta app %1$s toe toegang te verkrijgen tot USB accessoire?</string>

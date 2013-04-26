@@ -499,7 +499,7 @@ Toch overschakelen op de nieuwe provider?"</string>
     <string name="incall_error_supp_service_switch">Kan niet overschakelen tussen oproepen.</string>
     <string name="incall_error_supp_service_transfer">Kan oproep niet doorschakelen.</string>
     <string name="incall_error_supp_service_unknown">Niet-ondersteunde service.</string>
-    <string name="incall_screen_background_summary_miui">"Gebruik vergrendelingsscherm achtergrond wanneer er geen avatar is"</string>
+    <string name="incall_screen_background_summary_miui">"Gebruik vergrendelscherm achtergrond wanneer er geen avatar is"</string>
     <string name="incall_screen_background_title_miui">In gesprek achtergrond</string> 
     <string name="incall_status_dialed_mmi">MMI-reeks starten...</string>
     <string name="international_disable">Buitenlands nieuws uitgeschakeld</string>
