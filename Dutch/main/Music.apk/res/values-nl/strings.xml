@@ -190,10 +190,10 @@
   <string name="recentlyadded_title">Laatst toegevoegd</string>
   <string name="recentlyplayed_title">Recent gespeeld</string>
   <string name="recommend">Aanbevelen</string>
-  <string name="refresh_finish">Verversen klaar</string>
-  <string name="refresh_in_processing">Verversen</string>
-  <string name="refresh_media_db">Ververs</string>
-  <string name="refresh_start">Ververs gestart</string>
+  <string name="refresh_finish">Vernieuwen klaar</string>
+  <string name="refresh_in_processing">Vernieuwen...</string>
+  <string name="refresh_media_db">Vernieuwen</string>
+  <string name="refresh_start">Vernieuwen gestart</string>
   <string name="remove_from_favorite">Wis uit Favorieten</string>
   <string name="remove_item">Wis</string>
   <string name="rename_album_menu">Hernoem album</string>

@@ -188,7 +188,7 @@
   <string name="open">Open Synchronisatie</string>
   <string name="open_single_image_failure">Afbeelding openen mislukt!</string>
   <string name="open_sync_title">Synchronisatie benodigd</string>
-  <string name="operation_refresh">Verversen</string>
+  <string name="operation_refresh">Vernieuwen</string>
   <string name="operation_rename">Hernoemen</string>
   <string name="orientation">Orientatie</string>
   <string name="other_category">Andere instellingen</string>

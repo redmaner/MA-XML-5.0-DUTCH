@@ -317,7 +317,7 @@
   <string name="bluetooth_dock_settings_remember">Instellingen onthouden</string>
   <string name="bluetooth_dock_settings_title">Dockstation gebruiken voor audio</string>
   <string name="bluetooth_dun_acceptance_dialog_text">%1$s wil graag DUN gebruiken. Geef toegang aan %2$s?</string>
-  <string name="bluetooth_dun_connection_permission_request">Dun connectie verzoek</string>
+  <string name="bluetooth_dun_connection_permission_request">Dun verbindingsverzoek</string>
   <string name="bluetooth_dun_profile_summary_connected">Verbind met DUN Server</string>
   <string name="bluetooth_dun_profile_summary_not_connected">Niet verbonden met DUN Server</string>
   <string name="bluetooth_dun_profile_summary_use_for">Gebruik voor Dial-up Netwerk Toegang</string>
@@ -334,7 +334,7 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="bluetooth_enter_pin_other_device">U moet deze pincode wellicht ook opgeven op het andere apparaat.</string>
   <string name="bluetooth_error_title" />
   <string name="bluetooth_ftp_acceptance_dialog_text">%1$s wil graag toegang tot uw bestanden en mappen. Toegang geven aan %2$s?</string>
-  <string name="bluetooth_ftp_connection_permission_request">Ftp connectie verzoek</string>
+  <string name="bluetooth_ftp_connection_permission_request">Ftp verbindingsverzoek</string>
   <string name="bluetooth_ftp_remember_choice">"Niet meer vragen"</string>
   <string name="bluetooth_ftp_request">Ftp verzoek</string>
   <string name="bluetooth_headset_profile_summary_connected">Verbonden met audio van telefoon</string>
@@ -346,7 +346,7 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="bluetooth_is_discoverable">Zichtbaar voor alle Bluetooth-apparaten in de buurt (%1$s)</string>
   <string name="bluetooth_lock_voice_dialing">Spraakkeuze vergrendelen</string>
   <string name="bluetooth_lock_voice_dialing_summary">Gebruik van de Bluetooth-dialer voorkomen wanneer het scherm is vergrendeld</string>
-  <string name="bluetooth_map_connection_permission_request">Map connectie verzoek</string>
+  <string name="bluetooth_map_connection_permission_request">Map verbindingsverzoek</string>
   <string name="bluetooth_mas_acceptance_dialog_text">%1$s wil graag toegang tot uw berichten. Toegang geven aan %2$s?</string>
   <string name="bluetooth_mas_remember_choice">"Niet meer vragen"</string>
   <string name="bluetooth_mas_request">Berichten toegang verzoek</string>
@@ -375,7 +375,7 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="bluetooth_pan_profile_summary_use_for">Gebruik voor internettoegang</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Verbonden met apparaat voor internet</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s wil toegang tot uw contacten en oproepgeschiedenis. Toegang verlenen aan %2$s?</string>
-  <string name="bluetooth_pbap_connection_permission_request">Pbap connectie verzoek</string>
+  <string name="bluetooth_pbap_connection_permission_request">Pbap verbindingsverzoek</string>
   <string name="bluetooth_pb_remember_choice">Niet meer vragen</string>
   <string name="bluetooth_permission_request">Machtigingsverzoek voor Bluetooth</string>
   <string name="bluetooth_phonebook_request">Telefoonboekverzoek</string>
@@ -399,7 +399,7 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="bluetooth_rename_button">Naam wijzigen</string>
   <string name="bluetooth_rename_device">Naam van de telefoon wijzigen</string>
   <string name="bluetooth_sap_acceptance_dialog_text">%1$s wilt u toegang tot uw simkaart. Toegang geven tot %2$s?</string>
-  <string name="bluetooth_sap_connection_permission_request">Sap connectie verzoek</string>
+  <string name="bluetooth_sap_connection_permission_request">Sap verbindingsverzoek</string>
   <string name="bluetooth_sap_profile_summary_connected">Verbonden met simkaart Toegang Server</string>
   <string name="bluetooth_sap_profile_summary_not_connected">Niet verbonden met simkaart Toegang Server</string>
   <string name="bluetooth_sap_profile_summary_use_for">Gebruik voor simkaart Toegang</string>
@@ -550,7 +550,7 @@ Geschiktere opties voor gegevensgebruik zijn beschikbaar in de instellingen in d
   <string name="data_usage_app_restrict_dialog_title">Achtergrondgegevens beperken?</string>
   <string name="data_usage_app_restricted">beperkt</string>
   <string name="data_usage_app_settings">Instellingen voor app weergeven</string>
-  <string name="data_usage_auto_sync_off_dialog">"Dit behoudt data en spaart batterij, maar u zal elk account handmatig moeten verversen voor recente informatie. U krijgt ook geen notificaties van updates."</string>
+  <string name="data_usage_auto_sync_off_dialog">"Dit behoudt data en spaart batterij, maar u zal elk account handmatig moeten vernieuwen voor recente informatie. U krijgt ook geen notificaties van updates."</string>
   <string name="data_usage_auto_sync_off_dialog_title">Zet auto-sync data uit?</string>
   <string name="data_usage_auto_sync_on_dialog">"Alle wijzigingen op uw accounts op het web worden automatisch gekopieerd naar uw telefoon.  
 
@@ -2259,7 +2259,7 @@ Pogingen Resterende :"</string>
   <string name="wifi_signal">Signaalsterkte</string>
   <string name="wifi_speed">Linksnelheid</string>
   <string name="wifi_ssid">SSID van netwerk</string>
-  <string name="wifi_starting">Wi-Fi inschakelen&#226;&#8364;&#166;</string>
+  <string name="wifi_starting">Wi-Fi inschakelen...</string>
   <string name="wifi_state_disabled">Uitgeschakeld</string>
   <string name="wifi_state_disabling">Uitschakelen</string>
   <string name="wifi_state_enabled">Ingeschakeld</string>
@@ -2268,7 +2268,7 @@ Pogingen Resterende :"</string>
   <string name="wifi_state_unknown">Onbekend</string>
   <string name="wifi_status">Status</string>
   <string name="wifi_status_test">Wi-Fi Status</string>
-  <string name="wifi_stopping">Wi-Fi uitschakelen&#226;&#8364;&#166;</string>
+  <string name="wifi_stopping">Wi-Fi uitschakelen...</string>
   <string name="wifi_tether_checkbox_text">Draagbare Wi-Fi-hotspot</string>
   <string name="wifi_tether_configure_ap_text">Wi-Fi-hotspot configureren</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>

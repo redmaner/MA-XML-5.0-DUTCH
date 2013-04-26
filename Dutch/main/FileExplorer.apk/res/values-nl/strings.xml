@@ -179,7 +179,7 @@ Junk"</string>
   <string name="operation_pasting">Plakken...</string>
   <string name="operation_pause">Pauzeren</string>
   <string name="operation_pause_all">Alle pauzeren</string>
-  <string name="operation_refresh">Ververs</string>
+  <string name="operation_refresh">Vernieuwen</string>
   <string name="operation_rename">Naam wijzigen</string>
   <string name="operation_rename_message">Voer een nieuwe naam in</string>
   <string name="operation_resume">Hervatten</string>
@@ -263,7 +263,7 @@ Junk"</string>
   <string name="version_text">versie %1$s</string> 
   <string name="wait_net">Wachten op netwerk</string>
   <string name="wait_sdcard">Wachten op koppelen SD-kaart</string>
-  <string name="wait_wifi">Wachten op Wi-Fi connectie</string>
+  <string name="wait_wifi">Wachten op Wi-Fi verbinding</string>
   <string name="waiting">Wachten...</string>
   <string name="waiting_for_cleaning">Wachten op opschonen</string> 
   <string name="waiting_for_scanning">Wachten op scannen</string> 

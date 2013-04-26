@@ -161,7 +161,7 @@
   <string name="resource_title_select_ringtone">Selecteer ringtone</string>
   <string name="resource_update">Update</string>
   <string name="revert">Terugzetten</string>
-  <string name="sdcard_status_changed_dialog_message">"Wordt afgesloten, a.u.b. heropen deze app om hulpbron te verversen."</string>
+  <string name="sdcard_status_changed_dialog_message">"Wordt afgesloten, a.u.b. heropen deze app om hulpbron te vernieuwen."</string>
   <string name="sdcard_status_changed_dialog_title">Status SD-kaart veranderd</string>
   <string name="set_alarm">Alarm instellen</string>
   <string name="settings">Instellingen</string>

@@ -83,8 +83,8 @@
   <string name="no_updates_warning">Heeft geen enkele update gevonden</string>
   <string name="no_updates_warning2">Heeft geen enkele update gevonden!</string>
   <string name="not_recommend">Niet aanbevelen</string>
-  <string name="paused_queued_for_network">Wachten op netwerk connection</string>
-  <string name="paused_queued_for_wifi">Wachten op WI-FI connectie</string>
+  <string name="paused_queued_for_network">Wachten op netwerk verbinding</string>
+  <string name="paused_queued_for_wifi">Wachten op WI-FI verbinding</string>
   <string name="previous">Vorige</string>
   <string name="reboot_later">Later herstarten</string>
   <string name="reboot_now">Nu herstarten</string>

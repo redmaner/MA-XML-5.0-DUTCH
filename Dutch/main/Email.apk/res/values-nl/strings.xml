@@ -237,7 +237,7 @@
   <string name="debug_enable_exchange_file_logging_label">Uitwisseling SD-kaart loggen inschakelen?</string>
   <string name="debug_enable_exchange_logging_label">Uitwisselingen parser loggen inschakelen? (Zeer uitgebreide)</string>
   <string name="debug_enable_strict_mode_label">strict mode (met logging) aan</string>
-  <string name="debug_force_one_minute_refresh_label">Forceer 1-minuut connectie voor POP/IMAP</string>
+  <string name="debug_force_one_minute_refresh_label">Forceer 1-minuut verbinding voor POP/IMAP</string>
   <string name="debug_title">Foutopsporing</string>
   <string name="debug_version_fmt">Versie: %s</string>
   <string name="default_signature">Verzonden vanaf mijn Mi Phone</string>
@@ -498,7 +498,7 @@ CC: %4$s
   <string name="provider_note_t_online">Voordat u dit e-mailaccount instelt, gaat u naar de website van T-Online en maakt u een wachtwoord voor toegang tot e-mail via POP3</string>
   <string name="quick_responses_empty_view">Geen snelle reacties</string>
   <string name="read_action">Gelezen</string>
-  <string name="refresh_action">Ververs</string>
+  <string name="refresh_action">Vernieuwen</string>
   <string name="remove_star_action">Wis ster</string>
   <string name="reply_action">Beantwoord</string>
   <string name="reply_all_action">Beantwoord alle</string>

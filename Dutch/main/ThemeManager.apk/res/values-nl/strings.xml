@@ -41,7 +41,7 @@
   <string name="lockscreen_wallpaper">Vergrendel-achtergrond</string>
   <string name="lockstyle_personal_settings">Aanpassen</string>
   <string name="long_ringtone_resource">Lang (&gt;5sec)</string>
-  <string name="menu_refresh">Ververs</string>
+  <string name="menu_refresh">Vernieuwen</string>
   <string name="mi_wallpaper">Achtergrond</string>
   <string name="mi_wallpaper_loading">Achtergrond laden...</string>
   <string name="mi_wallpaper_title">Achtergrond</string>
@@ -109,7 +109,7 @@
   <string name="resource_title_select_ringtone">Selecteer beltoon</string>
   <string name="resource_update">Update</string>
   <string name="restore_default_theme_alert">U bent mogelijk het slachtoffer van thema namaak, a.u.b. blader door de thema markt om te kopen of om opnieuw te downloaden.</string>
-  <string name="sdcard_status_changed_dialog_message">"Wordt afgesloten. A.u.b. heropen de app om hulpbronnen te verversen."</string>
+  <string name="sdcard_status_changed_dialog_message">"Wordt afgesloten. A.u.b. heropen de app om hulpbronnen te vernieuwen."</string>
   <string name="sdcard_status_changed_dialog_title">SD-kaart status veranderd</string>  
   <string name="short_ringtone_resource">Kort</string>
   <string name="theme_another_import_running">Importeren draait reeds, even geduld a.u.b. en probeer nogmaals</string>
@@ -177,6 +177,6 @@
   <string name="wallpaper_loading_text">Laden ...</string>
   <string name="wallpaper_set_as_both">Instellen als beide</string>
   <string name="wallpaper_set_as_destop">Als achergrond instellen</string>
-  <string name="wallpaper_set_as_lockscreen">Als vergrendelingsscherm instellen</string>
+  <string name="wallpaper_set_as_lockscreen">Als vergrendelscherm instellen</string>
   <string name="wallpaper_settings">Achtergrond instellingen</string>
 </resources>

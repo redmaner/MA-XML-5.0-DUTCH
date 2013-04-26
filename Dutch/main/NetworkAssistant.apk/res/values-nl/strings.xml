@@ -27,7 +27,7 @@
   <string name="app_traffic_detail">Verbruik (%s)</string>
   <string name="apply_rules_failed">"Toepassen firewall mislukt, a.u.b probeer opnieuw. (%s)"</string>
   <string name="apply_rules_failed_known">OK</string>
-  <string name="batch_connect_control">Beheren App Connecties</string>
+  <string name="batch_connect_control">Beheren App verbindingen</string>
   <string name="cancel_txt">Annuleren</string>
   <string name="cannot_find_sms_cmd">"Kan SMS commando niet vinden"</string>
   <string name="carrier_cmcc">%1$s, %2$s, %3$s, %4$s</string>
@@ -48,7 +48,7 @@
   <string name="detail_app_button">App info</string>
   <string name="dialog_button_adjust">Aanpassen</string>
   <string name="disable_background_connect_warning">Als u achtergrond data limieteert, kunnen sommige apps of services mogelijk geen gebruik maken van 2G/3G. Weet u zeker dat u wilt sluiten?</string>
-  <string name="disable_background_mobile_connect">Achtergrond data connectie uitschakelen</string>
+  <string name="disable_background_mobile_connect">Achtergrond data verbinding uitschakelen</string>
   <string name="edit_frame_free_traffic_title">Bewerken maximum verbruik</string>
   <string name="edit_frame_month_start_title">Start datum facturering</string>
   <string name="edit_frame_warning_title">Waarschuwings Drempel</string>
@@ -145,7 +145,7 @@
   <string name="unknown_traffic_hint">Onbekend maximum verbruik, wilt u het nu instellen?</string>
   <string name="unknown_version">Onbekende versie</string>
   <string name="update_fail">Bijwerken mislukt</string>
-  <string name="update_no_network">Bijwerken mislukt, a.u.b. check uw netwerk connectie.</string>
+  <string name="update_no_network">Bijwerken mislukt, a.u.b. controleer uw netwerk verbinding.</string>
   <string name="update_success">Succesvol bijgewerkt</string>
   <string name="updating">Bijwerken...</string>
   <string name="used_flux">Data verbruik</string>

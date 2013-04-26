@@ -113,7 +113,7 @@
   <string name="prompt_sending">Uploaden...</string>
   <string name="prompt_writing">Opslaan...</string>
   <string name="read_encrypt_fail">Codering lezen mislukt</string>
-  <string name="refresh">Verversen</string>
+  <string name="refresh">Vernieuwen</string>
   <string name="restore">Herstellen</string>
   <string name="restore_contact">Herstel contacten</string>
   <string name="restore_contact_content">Herstellen van contacten kan duplicaten veroorzaken, doorgaan?\n Opmerking: u kunt contacten samenvoegen bij contact instellingen</string>

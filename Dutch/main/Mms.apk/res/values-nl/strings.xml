@@ -299,7 +299,7 @@
   <string name="received_label">"Ontvangen: "</string>
   <string name="recipient_editor_count_format">Totaal: %d contact(en)</string>
   <string name="recipient_label">"Ontvanger: "</string>
-  <string name="refresh">Ververs</string>
+  <string name="refresh">Vernieuwen</string>
   <string name="refresh_failed">Update mislukt</string>
   <string name="refreshing">Vernieuwen...</string>
   <string name="remove">Verwijderen</string>

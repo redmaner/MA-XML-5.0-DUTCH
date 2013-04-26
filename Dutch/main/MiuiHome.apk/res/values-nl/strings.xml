@@ -180,7 +180,7 @@
   <string name="screen_button_disabled_message">Knoppen op het lagere scherm zijn uitgeschakeld. U kunt ze inschakelen door op \"Home\" en \"Aan/uit\" te drukken.</string>
   <string name="screen_button_enabled_message">Knoppen op het lagere scherm zijn ingeschakeld</string>
   <string name="screen_rotation_freeze_message">Scherm rotatie is vergrendeld op landschap modus</string>
-  <string name="sdcard_status_changed_dialog_message">"Wordt afgesloten, a.u.b. heropen deze app om hulpbron te verversen."</string>
+  <string name="sdcard_status_changed_dialog_message">"Wordt afgesloten, a.u.b. heropen deze app om hulpbron te vernieuwen."</string>
   <string name="sdcard_status_changed_dialog_title">Status SD-kaart veranderd</string>
   <string name="select_frame">Frame</string>
   <string name="select_photo">Foto</string>

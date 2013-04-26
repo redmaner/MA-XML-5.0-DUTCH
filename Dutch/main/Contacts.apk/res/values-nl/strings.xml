@@ -15,7 +15,7 @@
   <string name="add_2sec_pause">Voer 2-sec pauze toe</string>
   <string name="add_account">Account toevoegen</string>
   <string name="add_blacklist">Voeg toe aan blacklist</string>
-  <string name="add_connection_button">Connectie toevoegen</string>
+  <string name="add_connection_button">Verbinding toevoegen</string>
   <string name="add_contact_dlg_message_fmt" formatted="false">Voeg \"%s\" toe aan contactpersonen?</string>
   <string name="add_field">Nog een veld toevoegen</string>
   <string name="add_new_account">Nieuw account toevoegen</string>
@@ -153,7 +153,7 @@ Als u de contact sync service gebruikt, contact info in de cloud zullen ook word
   <string name="confirm_delete_selected_all_call_logs">"Weet u zeker dat u telefoonlogs van dit contact wil verwijderen"?</string>
   <string name="confirm_export_message" formatted="false">Uw lijst met contacten wordt geëxporteerd naar het bestand: %s.</string>
   <string name="confirm_export_title">Contacten export.?</string>
-  <string name="connections">Connecties</string>
+  <string name="connections">Verbindingen</string>
   <string name="contactDetailAbout">Over</string>
   <string name="contactDetailCalllog">Oproep historie</string>
   <string name="contactDetailUpdates">Updates</string>
@@ -765,7 +765,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="scanning">Scannen naar apparaten…</string>
   <string name="scanning_sdcard_failed_message" formatted="false">"De opslag kan niet worden gescand. (Reden: '%s')"</string>
   <string name="scanning_sdcard_failed_title">Kan opslag niet scannen</string>
-  <string name="sdcard_status_changed_dialog_message">"App zal nu afsluiten. A.u.b. heropen app om hulpronnen te verversen."</string>
+  <string name="sdcard_status_changed_dialog_message">"App zal nu afsluiten. A.u.b. heropen de app om hulpronnen te vernieuwen."</string>
   <string name="sdcard_status_changed_dialog_title">SD-kaart status veranderd</string>
   <string name="searchHint">Contacten zoeken</string>
   <string name="search_results_searching">Zoeken...</string>

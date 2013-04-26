@@ -110,7 +110,7 @@
   <string name="HIPS_Perm_MobileNetwork_Desc">Toegang verkrijgen tot het internet door middel van mobiele netwerk</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s apps hebben permissie om toegang te verkijgen tot het internet</string>
   <string name="HIPS_Perm_MobileNetwork">Mobiele netwerk</string>
-  <string name="HIPS_Perm_Network_Accept">Toestaan connectie van %1$s</string>
+  <string name="HIPS_Perm_Network_Accept">Verbinding toestaan van %1$s</string>
   <string name="HIPS_Perm_Network_Connect">Verbind met %1$s</string>
   <string name="HIPS_Perm_Network_Listen">Luister via poort %1$s</string>
   <string name="HIPS_Perm_Network_MobileEvent">Gebruiken van Mobiele netwerk</string>

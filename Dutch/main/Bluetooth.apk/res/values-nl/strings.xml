@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="ErrorTooManyRequests">er worden te veel verzoeken verwerkt. Probeer het later nogmaals</string>
+  <string name="ErrorTooManyRequests">Er worden te veel verzoeken verwerkt. Probeer het later nogmaals</string>
   <string name="ack_record">ACK-record</string>
-  <string name="airplane_error_msg">Kan Bluetooth niet gebruiken wanneer vliegtuigstand is ingeschakeld</string>
-  <string name="airplane_error_title">Vliegtuigstand</string>
+  <string name="airplane_error_msg">U kunt Bluetooth niet gebruiken in vliegtuigmodus</string>
+  <string name="airplane_error_title">Vliegtuigmodus</string>
   <string name="app_name">Delen via Bluetooth</string>
   <string name="app_name_bpp">Bluetooth BPP</string>
   <string name="auth_notif_message">Geef sessiesleutel in voor %1$s</string>
@@ -81,7 +81,7 @@
   <string name="map_acceptance_dialog_header">Telefoon Map Toegang</string>
   <string name="map_acceptance_dialog_title">%1$s wil uw telefoon mappen benaderen. Toegang verlenen aan %2$s?</string>
   <string name="map_acceptance_timeout_message">Er is een time-out opgetreden bij het accepteren van de verbinding met %1$s</string>
-  <string name="map_alert_conn_failed_message">Bluetooth MAP connectie mislukt.</string>
+  <string name="map_alert_conn_failed_message">Bluetooth MAP verbinding mislukt.</string>
   <string name="map_authentication_timeout_message">Er is een time-out opgetreden bij invoer van de sessiesleutel met %1$s</string>
   <string name="map_notif_message">Sta root toegang toe door %1$s</string>
   <string name="map_notif_ticker">OBEX authenticatie verzoek</string>

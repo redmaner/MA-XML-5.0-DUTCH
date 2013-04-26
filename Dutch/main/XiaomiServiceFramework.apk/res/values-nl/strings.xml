@@ -123,7 +123,7 @@
   <string name="micloud_use_existing">Bestaande</string>
   <string name="micloud_val_sms_alert">Een SMS zal worden verstuurd om uw telefoon nummer te valideren, volgende?</string>
   <string name="micloud_via_int_sms_alert">"Een SMS zal worden verstuurd naar uw apparaat op uw provider's berichten tarief. Weet u zeker dat u wilt doorgaan?"</string>
-+  <string name="micloud_via_sms_alert">Een SMS zal worden verstuurd om uw telefoon nummer te valideren. Weet u zeker dat u wilt doorgaan?</string> 
+  <string name="micloud_via_sms_alert">Een SMS zal worden verstuurd om uw telefoon nummer te valideren. Weet u zeker dat u wilt doorgaan?</string> 
   <string name="micloud_welcome_skip_login">Sla registratie over</string>
   <string name="mili_center">Mi Credit centrum</string>
   <string name="next">Volgende</string>
