@@ -10,7 +10,7 @@
   <string name="alert_title_remove_account">Account verwijderen</string>
   <string name="app_name">Xiaomi Service Framework</string>
   <string name="bad_authentication">Verificatie is mislukt, ongeldige gebruikersnaam of wachtwoord</string>
-  <string name="balance">Tegoed: %1$s Mi krediet</string>
+  <string name="balance">Tegoed: %1$s Mi Credit</string>
   <string name="bind">Autoriseer</string>
   <string name="bind_description">Sync met telefoon contacten toestaan</string>
   <string name="bind_sina_weibo">Autoriseer Sina Weibo</string>
@@ -22,7 +22,7 @@
   <string name="btn_call">Telefonische ondersteuning</string>
   <string name="btn_count_down_auto">%1$s seconden</string>
   <string name="btn_count_down_wait">%1$s seconden te gaan</string>
-  <string name="btn_mili_center_recharge">Mi krediet opwaarderen</string>
+  <string name="btn_mili_center_recharge">Mi Credit opwaarderen</string>
   <string name="btn_query">Nu claimen</string>
   <string name="btn_recharge_large">Nu opwaarderen</string>
   <string name="btn_recharge_other">Andere opwaardeer methode</string>
@@ -55,7 +55,7 @@
   <string name="error_has_bought_title">Nogmaals aanschaffen</string>
   <string name="error_illegal_order_summary">Er is een fout opgetreden tijdens het verwerken van de bestelling, probeer het later nogmaals</string>
   <string name="error_illegal_order_title">Fout in bestelling!</string>
-  <string name="error_mili_title">Niet genoeg Mi krediet</string>
+  <string name="error_mili_title">Niet genoeg Mi Credit</string>
   <string name="error_network">Netwerk fout</string>
   <string name="error_network_summary">Er is een fout op het netwerk opgetreden, controleer de verbinding en probeer het later nogmaals</string>
   <string name="error_network_title">Network fout</string>
@@ -69,7 +69,7 @@
   <string name="error_user_id_mismatch_title">Authenticatie fout!</string>
   <string name="error_verify_summary">Applicatie heeft geen toegang om het verzoek uit te voeren</string>
   <string name="failed_to_send_activate_email">Het versturen van een activatie e-mail is mislukt.</string>
-  <string name="fee">%1$s Mi krediet</string>
+  <string name="fee">%1$s Mi Credit</string>
   <string name="find_device">Zoek het toestel</string>
   <string name="find_device_check_phone_error_title">Inschakelen lokalisering van het toestel is mislukt</string>
   <string name="find_device_disabled_notice">"U kunt het heropenen via Instellingen - Accounts &amp; sync - Xiaomi Account"</string>
@@ -89,14 +89,15 @@
   <string name="i_know">Ok</string>
   <string name="imported_contacts">Geïmporteerde %s contacten</string>
   <string name="input_password_hint">Voer wachtwoord in</string>
+  <string name="int_phone_user_notice">Als u registreert met een telefoonnummer buiten China voer dan uw land code in, bijv. +31xxxxxxxxx</string> 
   <string name="label_order_name">Productnaam:</string>
   <string name="label_order_price">Aantal:</string>
   <string name="login">Inloggen</string>
   <string name="login_failed">Aanmelden mislukt</string>
   <string name="login_notice">Aanmelden...</string>
-  <string name="mibi_license_message">Xiaomi Mi Krediet Dienst. Door op Ok te klikken gaat u akkoord met %1$s.</string>
-  <string name="mibi_license_message_span">Mi Krediet Gebruiker overeenkomst</string>
-  <string name="mibi_license_title">Mi Krediet Gebruiker overeenkomst</string>
+  <string name="mibi_license_message">Xiaomi Mi Credit service. Door op Ok te klikken gaat u akkoord met %1$s.</string>
+  <string name="mibi_license_message_span">Mi Credit Gebruiker overeenkomst</string>
+  <string name="mibi_license_title">Mi Credit Gebruiker overeenkomst</string>
   <string name="micloud_account">XiaoMi account</string>
   <string name="micloud_account_label">Account: %1$s</string>
   <string name="micloud_account_name">XiaoMi Account</string>
@@ -121,6 +122,8 @@
   <string name="micloud_resend_active_email">Herstuur activatie e-mail</string>
   <string name="micloud_use_existing">Bestaande</string>
   <string name="micloud_val_sms_alert">Een SMS zal worden verstuurd om uw telefoon nummer te valideren, volgende?</string>
+  <string name="micloud_via_int_sms_alert">"Een SMS zal worden verstuurd naar uw apparaat op uw provider's berichten tarief. Weet u zeker dat u wilt doorgaan?"</string>
++  <string name="micloud_via_sms_alert">Een SMS zal worden verstuurd om uw telefoon nummer te valideren. Weet u zeker dat u wilt doorgaan?</string> 
   <string name="micloud_welcome_skip_login">Sla registratie over</string>
   <string name="mili_center">Mi Credit centrum</string>
   <string name="next">Volgende</string>
@@ -205,11 +208,13 @@
   <string name="reg_failed">Registratie mislukt</string>
   <string name="reg_type_email">Registreer via e-mail</string>
   <string name="reg_type_phone">Registreer via telefoon nummer (aanbevolen)</string>
+  <string name="reging">Registreren, moment geduld...</string> 
   <string name="relogin">Login</string>
   <string name="remove_account_notice">Wat wilt u doen met eerder gesynchroniseerde berichten, contacten, oproepenlog en notities op uw apparaat?</string>
   <string name="remove_confirm">Verwijderen</string>
   <string name="remove_unactivated_account_notice">Het Xiaomi account is niet geactiveerd, wilt u het verwijderen?</string>
   <string name="removing_account">Account verwijderen...</string>
+  <string name="send_int_sms_for_sync_notice">"Een SMS zal worden verstuurd naar uw apparaat op uw provider's berichten tarief. Weet u zeker dat u wilt doorgaan?"</string> 
   <string name="send_sms_for_sync_notice">Een activatie SMS moet worden verstuurd, akkoord?</string>
   <string name="send_sms_for_sync_title">Synchronisatie service niet geactiveerd</string>
   <string name="sim_changed_notification_content">Simkaart niet geactiveerd. A.u.b. heractiveren</string>

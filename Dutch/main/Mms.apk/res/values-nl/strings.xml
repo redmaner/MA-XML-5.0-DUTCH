@@ -207,7 +207,9 @@
   <string name="mx_current_status">Huidige status: Online</string>
   <string name="mx_dspt">Verzend berichten via internet tussen MIUI, Send messages via Internet between MIUI, gebruik Provider berichten als het mislukt</string>
   <string name="mx_enable">Cloud berichten inschakelen</string>
+  <string name="mx_enable_int_popup_msg">Cloud Berichten stelt u instaat berichten te sturen tussen MIUI gebruikers. Om te activeren wordt een internationale SMS verzonden. provider tarieven kunnen van toepassing zijn.</string> 
   <string name="mx_enable_popup_msg">Cloud berichten stelt u instaat om berichten te verzenden via MIUI. Een normale SMS is vereist om de service te activeren en provider tarieven kunnen van toepassing zijn. Wilt u het nu activeren?</string>
+  <string name="mx_int_warning_notice">Een internationale SMS wordt verzonden om Cloud Berichten te activeren, normale provider tarieven kunnen van toepassing zijn.</string> 
   <string name="mx_msg">Cloud Bericht</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_online">Online</string>

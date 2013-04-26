@@ -410,6 +410,7 @@ Stap even uit beeld</string>
   <string name="simple_mode_button_text_hdr">HDR-modus afsluiten</string>
   <string name="simple_mode_button_text_panorama">Panorama afsluiten</string>
   <string name="simple_mode_button_text_slow_video">Slow-motion camera afsluiten</string>
+  <string name="simple_mode_title">Simpele modus</string>
   <string name="skip">overslaan</string>
   <string name="slideshow">Diavoorstelling</string>
   <string name="snapshot_lower_than_video">Video Snapshot grootte is lager dan video-formaat. Video grootte wordt afgetopt. Selecteer een resolutie die hoger of gelijk is aan de huidige video grootte.</string>
