@@ -54,6 +54,7 @@ Base support
 - main/TelephonyProvider.apk
 - main/TelocationProvider.apk
 - main/ThemeManager.apk
+- main/Transfer.apk
 - main/Updater.apk
 - main/VpnDialogs.apk
 - main/XiaomiServiceFramework.apk
