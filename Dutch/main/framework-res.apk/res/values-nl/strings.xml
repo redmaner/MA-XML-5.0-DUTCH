@@ -744,7 +744,6 @@ Pogingen Resterende :"</string>
     <string name="keyguard_password_entry_touch_hint"><font size="17">Tik om wachtwoord in te voeren</font></string>
     <string name="keyguard_password_enter_password_code">Typ het wachtwoord om te ontgrendelen</string>
     <string name="keyguard_password_enter_pin_password_code">Typ pincode om te ontgrendelen</string>
-    <string name="keyguard_password_wrong_pin_code">Incorrecte pincode.</string>
     <string name="keyguard_password_wrong_pin_code">Onjuiste pincode.</string>
     <string name="keyguard_password_pin_failed">Pincode operatie mislukt!</string>
     <string name="keyguard_password_puk_failed">Pukcode operatie mislukt!</string>
