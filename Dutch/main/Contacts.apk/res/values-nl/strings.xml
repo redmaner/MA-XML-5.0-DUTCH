@@ -784,6 +784,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="separatorJoinAggregateSuggestions">Mogelijke contacten</string>
   <string name="service_provider">Service provider</string>
   <string name="set_default">Standaard instellen</string>
+  <string name="set_photo_failed_msg">Avatar instellen mislukt</string> 
   <string name="share_error">Dit contact kan niet worden gedeeld.</string>
   <string name="share_via">Contact delen via</string>
   <string name="share_visible_contacts">Zichtbare contacten delen</string>

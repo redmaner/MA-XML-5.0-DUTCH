@@ -50,6 +50,8 @@
   <string name="pref_title_record_type">Opname bestands type</string>
   <string name="preference_led_indicator">Opname indicator wanneer scherm is vergrendeld</string>
   <string name="preference_led_indicator_prompt">Toon LED en statusbalk indicators bij opnemen en scherm vergrendeld is</string>
+  <string name="preference_silent_mode">Stille modus opname</string>
+  <string name="preference_silent_mode_summary">Instellen om stille modus opname in te schakelen</string> 
   <string name="preferences_title">Instellingen</string>
   <string name="record_list">Opname lijst</string>
   <string name="record_loading">Opname laden, moment geduld.</string>

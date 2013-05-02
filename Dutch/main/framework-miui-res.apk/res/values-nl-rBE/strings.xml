@@ -412,6 +412,7 @@
   <string name="short_pincode_error_msg">A.u.b. voer 4–8 tekens in</string>
   <string name="short_pukcode_error_msg">A.u.b. voer tenminste 8 tekens in</string>
   <string name="sim_account_name">Simkaart</string>
+  <string name="sim_changed_reactivate_int_notice">Huidige simkaart is niet geactiveerd. Een internationale SMS is vereist om deze service te activeren, wilt u het nu activeren?</string> 
   <string name="sim_changed_reactivate_notice">De huidige simkaart is niet geactiveerd. Een SMS is nodig om de Xiaomi Synchronisatie service te activeren. Nu heractiveren?</string>
   <string name="sim_in_airplane_mode">Schakel vliegtuigmodus uit.</string>
   <string name="sim_locked">Simkaart vergrendeld</string>
