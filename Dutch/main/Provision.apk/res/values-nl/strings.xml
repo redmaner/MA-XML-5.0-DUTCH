@@ -30,6 +30,6 @@
   <string name="traffic_protection_label">Data verkeer bewaking</string>
   <string name="traffic_protection_summary">Data verkeer bewaking zal uw waarschuwen wanneer het limiet van uw data-abonnement is bereikt.</string>
   <string name="traffic_protection_text_hint">A.u.b. voer uw data-abonnement limiet in.</string>
-  <string name="traffic_protection_unknown">&lt;u&gt;Weet ik niet. A.u.b. later invoeren.&lt;/u&gt;</string>
+  <string name="traffic_protection_unknown">&lt;u&gt;"Weet ik niet. A.u.b. later invoeren."&lt;/u&gt;</string>
   <string name="use_data">Data inschakelen</string>
 </resources>
