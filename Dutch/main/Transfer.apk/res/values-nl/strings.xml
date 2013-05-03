@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_to_receive">Gaat bestand(en) ontvangen</string>
   <string name="about_to_send">Verzend bestand(en)</string>
   <string name="app_name">Overdracht</string>
   <string name="button_last">Nu starten</string>
