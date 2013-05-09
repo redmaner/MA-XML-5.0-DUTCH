@@ -46,7 +46,7 @@
   <string name="cloud_albums">Cloud albums</string>
   <string name="cloud_camera_display_name">Ongesorteerd</string>
   <string name="cloud_gallery_no_pictures">"Geen foto's gevonden in MiCloud"</string>
-  <string name="cloud_gallery_recyclebin_full">Cloud Prullenbak is vol, wis a.u.b. de prullenbak door naar i.xiaomi.com te gaan.</string>
+  <string name="cloud_gallery_recyclebin_full">Cloud Prullenbak is vol, wis de prullenbak door naar i.xiaomi.com te gaan.</string>
   <string name="cloud_gallery_space_full">Upload mislukt!, Cloud galerij opslag vol</string>
   <string name="cloud_media_set_set">Cloud albums</string>
   <string name="cloud_screenshots_display_name">Schermafdrukken</string>
@@ -94,8 +94,8 @@
   <string name="edit">Wijzig</string>
   <string name="edited_photo_bucket_name">Bewerkt</string>
   <string name="empty_album">"O afbeeldingen/video's beschikbaar."</string>
-  <string name="error_should_not_select_image">Waarschuwing: selecteer a.u.b. geen afbeeldings bestand.</string>
-  <string name="error_should_not_select_video">Waarschuwing: selecteer a.u.b. geen video bestand.</string>
+  <string name="error_should_not_select_image">Waarschuwing: selecteer geen afbeeldings bestand.</string>
+  <string name="error_should_not_select_video">Waarschuwing: selecteer geen video bestand.</string>
   <string name="exposure_time">Belichtingstijd</string>
   <string name="external_sd_card">SD-kaart</string>
   <string name="external_usb_device">USB apparaat</string>

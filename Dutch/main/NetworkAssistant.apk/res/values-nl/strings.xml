@@ -62,7 +62,7 @@
   <string name="force_stop_dlg_text">Als u een app geforceerd stopt kan hij zich misdragen</string>
   <string name="force_stop_dlg_title">Geforceerd stoppen?</string>
   <string name="i_known_button">OK</string>
-  <string name="input_hint">A.U.B. invoeren</string>
+  <string name="input_hint">Invoeren</string>
   <string name="loading_app">Laden...</string>
   <string name="manual_input_used_traffic_hint">Verbruikte data invoeren</string>
   <string name="manual_input_used_traffic_title">Handmatig verbruikte data invoeren</string>
@@ -121,9 +121,9 @@
   <string name="stop_app_button">Sluiten</string>
   <string name="sync_fail_notify_detail">Feedback van provider niet ontvangen, klik om opnieuw te proberen</string>
   <string name="sync_fail_notify_title">Sync mislukt</string>
-  <string name="sync_traffic_fail_message">Sync met mobiele provider mislukt, de server is bezig. A.U.B. probeer later opnieuw of bel klantenservice %s voor hulp</string>
+  <string name="sync_traffic_fail_message">Sync met mobiele provider mislukt, de server is bezig. Probeer het later opnieuw of bel klantenservice %s voor hulp</string>
   <string name="sync_traffic_fail_title">Sync mislukt</string>
-  <string name="sync_traffic_ing">Syncen van provider, a.u.b. wacht...</string>
+  <string name="sync_traffic_ing">Syncen van provider, even wachten a.u.b...</string>
   <string name="sync_traffic_no_cmd_detail">"Bevestig uw Stad, Provincie en ICC's merk en provider bij deze draad op de forums: http://www.miui.com/forum-172-1.html. Dankuwel."</string>
   <string name="sync_traffic_no_cmd_title">Geen SMS template</string>
   <string name="sync_traffic_success">"Provider's data gesynchroniseerd, verbruik succesvol aangepast"</string>
@@ -140,14 +140,14 @@
   <string name="traffic_used_status">Verbruikt: 
 %s</string>
   <string name="unknown">onbekend</string>
-  <string name="unknown_free_traffic_hint">"Als u uw maximale verbruik niet weet, neem dan a.u.b. contact op met uw mobiele provider voor assistentie"</string>
+  <string name="unknown_free_traffic_hint">"Als u uw maximale verbruik niet weet, neem dan contact op met uw mobiele provider voor assistentie"</string>
   <string name="unknown_free_traffic_text">"Maximale verbruik onbekend?"</string>
   <string name="unknown_free_traffic_title">Onbekend gratis verbruik</string>
   <string name="unknown_location">Onbekende locatie</string>
   <string name="unknown_traffic_hint">Onbekend maximum verbruik, wilt u het nu instellen?</string>
   <string name="unknown_version">Onbekende versie</string>
   <string name="update_fail">Bijwerken mislukt</string>
-  <string name="update_no_network">Bijwerken mislukt, a.u.b. controleer uw netwerk verbinding.</string>
+  <string name="update_no_network">Bijwerken mislukt, controleer uw netwerk verbinding.</string>
   <string name="update_success">Succesvol bijgewerkt</string>
   <string name="updating">Bijwerken...</string>
   <string name="used_flux">Data verbruik</string>

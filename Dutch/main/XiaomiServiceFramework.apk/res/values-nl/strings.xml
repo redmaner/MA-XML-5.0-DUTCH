@@ -43,7 +43,7 @@
   <string name="disable_find_device_error">%1$s, uitschakelen van lokalisering van het toestel is mislukt</string>
   <string name="email_already_be_used">E-mail adres is al in gebruik</string>
   <string name="enable_find_device_error">%1$s, inschakelen van lokalisering van het toestel is mislukt</string>
-  <string name="error_account_changed_summary">Uw Xiaomi account is geupdate. A.u.b. check uw details en probeer opnieuw</string>
+  <string name="error_account_changed_summary">Uw Xiaomi account is geupdate. Controleer uw details en probeer het opnieuw</string>
   <string name="error_account_changed_title">Account geupdate</string>
   <string name="error_auth_summary">Account verificatie is mislukt, probeer het later nogmaals</string>
   <string name="error_auth_title">Account fout</string>
@@ -84,7 +84,7 @@
   <string name="find_device_notice_p2">i.xiaomi.com</string>
   <string name="find_device_notice_p3">Zoek, blokkeer of wis de data op het toestel</string>
   <string name="find_device_success_title">Lokaliseren van het toestel is geactiveerd</string>
-  <string name="find_password_on_web_msg">A.u.b. bezoek account.xiaomi.com om uw wachtwoord te herstellen</string>
+  <string name="find_password_on_web_msg">Bezoek account.xiaomi.com om uw wachtwoord te herstellen</string>
   <string name="forget_password">" "<u>Wachtwoord vergeten</u>" "</string>
   <string name="frozen">(Gesloten)</string>
   <string name="header_data_and_synchronization">Data &amp; synchronisatie</string>
@@ -170,7 +170,7 @@
   <string name="progress_connecting">Verbinden...</string>
   <string name="progress_creating">Ophalen order informatie...</string>
   <string name="progress_downloading">Downloaden...</string>
-  <string name="progress_error_auth">Authenticatie fout, a.u.b. probeer opnieuw.</string>
+  <string name="progress_error_auth">Authenticatie fout, probeer het opnieuw.</string>
   <string name="progress_error_common">Opwaardering mislukt, probeer het later nog eens.</string>
   <string name="progress_error_network">Verbinden met netwerk mislukt, controleer netwerk status.</string>
   <string name="progress_error_pay_title">Afrekenen mislukt</string>
@@ -197,7 +197,7 @@
   <string name="progress_warning_contact_server">"Bericht is niet bezorgd maar zal snel worden verzonden: 
   1. Contacteer customer services op: %1$s 
   2. Geef serienummer: %2$s"</string>
-  <string name="progress_warning_waiting">Account veranderingen worden nog steeds geupdate. A.u.b. probeer later opnieuw.</string>
+  <string name="progress_warning_waiting">Account veranderingen worden nog steeds geupdate. Probeer het later opnieuw.</string>
   <string name="quick_login_title">Verificatie vereist, vul uw wachtwoord in</string>
   <string name="recharge_alipay_summary">Alipay opwaardering</string>
   <string name="recharge_alipay_title">Alipay</string>
@@ -226,7 +226,7 @@
   <string name="send_int_sms_for_sync_notice">"Een SMS zal worden verstuurd naar uw apparaat op uw provider's berichten tarief. Weet u zeker dat u wilt doorgaan?"</string> 
   <string name="send_sms_for_sync_notice">Een activatie SMS moet worden verstuurd, akkoord?</string>
   <string name="send_sms_for_sync_title">Synchronisatie service niet geactiveerd</string>
-  <string name="sim_changed_notification_content">Simkaart niet geactiveerd. A.u.b. heractiveren</string>
+  <string name="sim_changed_notification_content">Simkaart niet geactiveerd. heractiveer a.u.b</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Login overslaan</string>
   <string name="skip_setup_account_msg">"Uw Xiaomi Account ondersteunt het maken van een backup en synchronisatie van SMS, contacten, foto's, notities, etc. Doorgaan en later configureren?"</string>

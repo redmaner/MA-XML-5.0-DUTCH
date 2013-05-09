@@ -26,7 +26,7 @@
   <string name="backup_empty">Geen backups gevonden</string>
   <string name="backup_empty_info">Backup uw gegevens, instellingen en applicaties</string>
   <string name="backup_error">Backup Fout</string>
-  <string name="backup_failed">Backup mislukt, a.u.b. probeer nogmaals</string>
+  <string name="backup_failed">Backup mislukt, probeer het nogmaals</string>
   <string name="backup_file_error">Er is een probleem met de backup, de operatie was niet geldig</string>
   <string name="backup_finished">Backup voltooid</string>
   <string name="backup_hint">Telefoon niet uitzetten, kan corruptie veroorzaken</string>
@@ -65,8 +65,8 @@
   <string name="contact_title">Contacten</string>
   <string name="current_account">Ingelogd als: %s</string>
   <string name="current_sim">Huidige simkaart</string>
-  <string name="data_no_enough_space">Niet genoeg interne opslag ruimte vrij, maak ruimte vrij en probeer opnieuw</string>
-  <string name="data_no_enough_space_message">Herstellen kan mislukken, a.u.b. maak wat interne ruimte vrij en probeer opnieuw</string>
+  <string name="data_no_enough_space">Niet genoeg interne opslag ruimte vrij, maak ruimte vrij en probeer het opnieuw</string>
+  <string name="data_no_enough_space_message">Herstellen kan mislukken,  maak wat interne ruimte vrij en probeer het opnieuw</string>
   <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
   <string name="delete">Wis</string>
   <string name="delete_backup_process">Wissen van backup(s)...</string>
@@ -80,7 +80,7 @@
   <string name="enable_encrypt_summery1">"Systeem zal uw lokale backup coderen op basis van uw Xiaomi account, u moet inloggen op uw Xiaomi account om gegevens te wissen of backups te herstellen op andere toestellen."</string>
   <string name="enable_encrypt_summery2">"De nieuwe backup wordt automatisch gecodeerd. U moet inloggen op uw Xiaomi account om gegevens te wissen of backups te herstellen op andere toestellen."</string>
   <string name="enable_encrypt_title">Codering inschakelen</string>
-  <string name="enable_encrypt_xiaomi_account">Deze backup is gemaakt door %1$s, a.u.b. verwijder het huidige account en log in op %2$s om de gegevens te herstellen.</string>
+  <string name="enable_encrypt_xiaomi_account">Deze backup is gemaakt door %1$s, verwijder het huidige account en log in op %2$s om de gegevens te herstellen.</string>
   <string name="exchange_account">Account uitwisselen</string>
   <string name="fail">mislukt!</string>
   <string name="findlost_contact">Herstel verwijderde contacten</string>
@@ -171,11 +171,11 @@
   <string name="task_restore_finished_local">Herstel compleet</string>
   <string name="task_restore_none">Geen herstel nodig</string>
   <string name="task_running_backup_dialog">Backup draait in de achtergrond, druk op OK om te bekijken.</string>
-  <string name="task_running_backup_hint">Service draait in de achtergrond, a.u.b. probeer opnieuw!</string>
+  <string name="task_running_backup_hint">Service draait in de achtergrond, probeer het opnieuw a.u.b.!</string>
   <string name="task_running_dialog">Backup wordt uitgevoerd op de achtergrond, klik op OK voor de voortgang</string>
   <string name="task_running_hint">Service draait in de achtergrond, probeer herstel opnieuw!</string>
   <string name="task_running_restore_dialog">Achtergrond Herstel is bezig, druk op OK om te bekijken.</string>
-  <string name="task_running_restore_hint">Service draait in de achtergrond, a.u.b. probeer opnieuw!</string>
+  <string name="task_running_restore_hint">Service draait in de achtergrond, probeer het opnieuw a.u.b.!</string>
   <string name="task_service_not_launched">Backup service niet gestart, even wachten!</string>
   <string name="task_stopped_exception">Taak afgebroken</string>
   <string name="total_num">%d opname(s) in totaal</string>

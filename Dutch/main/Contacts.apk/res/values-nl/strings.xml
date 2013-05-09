@@ -24,7 +24,7 @@
   <string name="add_to_my_contacts">Toevoegen aan Mijn contacten</string>
   <string name="add_wait">Wacht toevoegen</string>
   <string name="add_xiaomi_account_dialog_btn">Gebruik Xiaomi account</string>
-  <string name="add_xiaomi_account_dialog_msg">Voor de beste ervaring, a.u.b. overweeg uw Xiaomi account te gebruiken om up contact informatie te synchroniseren en te backuppen en contacten te beheren met uw computer.</string>
+  <string name="add_xiaomi_account_dialog_msg">Voor de beste ervaring, kunt u overwegen uw Xiaomi account te gebruiken om up contact informatie te synchroniseren en te backuppen en contacten te beheren met uw computer.</string>
   <string name="add_xiaomi_account_dialog_title">Kies sync account</string>
   <string name="aggregation_suggestion_edit_dialog_message">Wilt u overschakelen naar het bewerken van het geselecteerde contact? Gegevens die u tot nu toe heeft ingevoerd, worden gekopieerd.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Geselecteerde contacten bewerken</string>
@@ -728,9 +728,9 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_downloaded_title">Hulpbronnen gedownload...</string>
   <string name="resource_downloading">Downloaden...</string>
   <string name="resource_get_auth_checking">Autorisatie checken...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Thema kan niet toegepast worden op het appraat met uw account. A.u.b. probeer een ander Xiaomi account</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Thema kan niet toegepast worden op het appraat met uw account. Probeer een ander Xiaomi account a.u.b.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Geautoriseerd limiet bereikt!</string>
-  <string name="resource_get_auth_missing">Thema niet gedownload van officiele thema markt, a.u.b. download van officiële markt.</string>
+  <string name="resource_get_auth_missing">Thema niet gedownload van officiële thema markt, download via de officiële markt a.u.b.</string>
   <string name="resource_get_auth_retrieving">Autorisatie verkrijgen...</string>
   <string name="resource_importing">Importeren</string>
   <string name="resource_list_title">Laatst geselecteerde</string>
@@ -745,7 +745,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_ringtone_default">Ringtones</string>
   <string name="resource_see_more">Bekijk meer</string>
   <string name="resource_select">Selecteer</string>
-  <string name="resource_server_out_of_service">Server niet beschikbaar, a.u.b. probeer later opnieuw.</string>
+  <string name="resource_server_out_of_service">Server niet beschikbaar, probeer het later opnieuw.</string>
   <string name="resource_switch_account">Wisselen</string>
   <string name="resource_system_title">Systeem hulpbronnen</string>
   <string name="resource_tip_select_ringtone">Geen ringtone geselecteerd</string>
@@ -765,7 +765,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="scanning">Scannen naar apparaten…</string>
   <string name="scanning_sdcard_failed_message" formatted="false">"De opslag kan niet worden gescand. (Reden: '%s')"</string>
   <string name="scanning_sdcard_failed_title">Kan opslag niet scannen</string>
-  <string name="sdcard_status_changed_dialog_message">"App zal nu afsluiten. A.u.b. heropen de app om hulpronnen te vernieuwen."</string>
+  <string name="sdcard_status_changed_dialog_message">"Deze app wordt afgesloten. Heropen de app om hulpronnen te vernieuwen."</string>
   <string name="sdcard_status_changed_dialog_title">SD-kaart status veranderd</string>
   <string name="searchHint">Contacten zoeken</string>
   <string name="search_results_searching">Zoeken...</string>

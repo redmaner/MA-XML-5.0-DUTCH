@@ -207,7 +207,7 @@ Junk"</string>
   <string name="server_control_advanced_settings">Geavanceerde instellingen</string>
   <string name="server_control_charset">Overdracht encoderen</string>
   <string name="server_control_settings">Server Instellingen</string>
-  <string name="share_link_failed">Niet gelukt om link te delen, probeer het nogmaals a.u.b.!</string>
+  <string name="share_link_failed">Niet gelukt om link te delen, probeer het nogmaals!</string>
   <string name="show_message">Bestand kan niet geopened worden zonder te downloaden</string>
   <string name="space_info">MiDrive ruimte: %1$ beschikbaar, %2$s in totaal</string>
   <string name="space_usage">Ruimte gebruikt</string>

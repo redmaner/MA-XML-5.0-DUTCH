@@ -66,7 +66,7 @@
   <string name="account_setup_account_type_pop_action">POP3</string>
   <string name="account_setup_account_type_title">Nieuw E-mailaccount toevoegen</string>
   <string name="account_setup_basic_description_label">Account naam (optioneel)</string>
-  <string name="account_setup_basic_label">Voer a.u.b. informatie in voor %s mailbox :</string>
+  <string name="account_setup_basic_label">Voer informatie in voor %s mailbox :</string>
   <string name="account_setup_basic_name_label">Uw naam (optioneel)</string>
   <string name="account_setup_basics_default_label">E-mail verzenden van dit standaard account</string>
   <string name="account_setup_basics_email_label">E-mailadres</string>

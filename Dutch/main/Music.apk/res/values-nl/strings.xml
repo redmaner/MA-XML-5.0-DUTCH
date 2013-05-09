@@ -14,7 +14,7 @@
   <string name="album_search_failed">Album covers niet gevonden!</string>
   <string name="album_search_local_descript">Lokaal | %1$d x %2$d</string>
   <string name="album_search_online_descript">Online | %1$d x %2$d</string>
-  <string name="album_select">A.u.b. selecteer een album art</string>
+  <string name="album_select">Selecteer een album art</string>
   <string name="albums_title">Albums</string>
   <string name="albumsongseparator">""</string>
   <string name="all_tracks">Alle Nummers</string>
@@ -42,7 +42,7 @@
   <string name="correct_id3_by_internet">Auto corrigeer ID3 middels mobiel Internet</string>
   <string name="correct_id3_failed">ID3 gegevens correctie mislukt!</string>
   <string name="correct_id3_not_support">ID3 correctie is niet ondersteund bij dit bestandstype.</string>
-  <string name="correct_id3_open_other_connect">Zet a.u.b. ID3 gegevens correctie aan middels mobiel Internet instelling</string>
+  <string name="correct_id3_open_other_connect">Zet  ID3 gegevens correctie aan middels mobiele Internet instellingen</string>
   <string name="correct_id3_settings">ID3 correctie instellingen</string>
   <string name="correct_id3_start">Begin ID3 correctie</string>
   <string name="correct_id3_success">ID3 successvol gecorrigeerd</string>
@@ -113,7 +113,7 @@
   <string name="keep_quit_position_summary">Laatste positie opslaan voor continuering bij herstart van de app</string>
   <string name="listen_to_music_online_settings">Online muziek luisteren</string>
   <string name="listen_to_online_summary">(hoog dataverbruik)</string>
-  <string name="load_album_artist_failed">Album en artiest lijst laden mislukt. A.u.b. probeer opnieuw.</string>
+  <string name="load_album_artist_failed">Album en artiest lijst laden mislukt. probeer het opnieuw.</string>
   <string name="load_album_artist_in_process">Album en artiest lijst laden...</string>
   <string name="load_album_failed">Laden album lijst mislukt, probeer het nogmaals</string>
   <string name="load_album_in_process">Laad album lijst</string>

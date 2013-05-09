@@ -784,7 +784,7 @@ Toch overschakelen op de nieuwe provider?"</string>
     <string name="pstn_phone">Oproep met mobiele telefoon</string>
     <string name="puk2_blocked">Pukcode is permanent geblokkeerd.</string>
     <string name="puk2_requested">Wachtwoord niet correct, simkaart is vergrendeld! Pukcode2 aangevraagd</string>
-    <string name="puk_lock_warning_miui">"A.u.b. pas op de simkaart gaat verloren indien de invoer nogmaals mislukt!"</string>
+    <string name="puk_lock_warning_miui">"Pas op de simkaart gaat verloren indien de invoer nogmaals mislukt!"</string>
     <string name="puk_requested">Foutief wachtwoord: simkaart is geblokkeerd! Pukcode2 vereist.</string>
     <string name="puk_unlock_failed">Pukcode ontgrendeling mislukt.</string>
     <string name="puk_unlock_success">Pukcode ontgrendeling succesvol.</string>
@@ -1081,7 +1081,7 @@ Toch overschakelen op de nieuwe provider?"</string>
     <string name="xdivert_active">Actief</string>
     <string name="xdivert_button">X-Divert Instelling</string>
     <string name="xdivert_enternumber_error">Telefoonnummer invoeren voor beide abonnementen</string>
-    <string name="xdivert_imsi_not_read">Simkaart initializeren, a.u.b. moment geduld en probeer opnieuw</string>
+    <string name="xdivert_imsi_not_read">Simkaart initializeren, een moment geduld a.u.b en probeer het opnieuw</string>
     <string name="xdivert_not_active">Niet actief</string>
     <string name="xdivert_not_supported">X-Divert niet ondersteund voor CDMA</string>
     <string name="xdivert_partial_set">XDivert is alleen ingesteld voor 1e abonnement</string>

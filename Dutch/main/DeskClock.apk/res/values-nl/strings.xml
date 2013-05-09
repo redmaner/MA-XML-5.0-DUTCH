@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="account_abnormal_state">Authenticatie fout, a.u.b. probeer opnieuw!</string>
+  <string name="account_abnormal_state">Authenticatie fout, probeer het opnieuw!</string>
   <string name="add_alarm">Alarm toevoegen</string>
   <string name="alarm_alert">Beltoon instellen</string>
   <string name="alarm_alert_alert_silenced">Alarm gaat uit na %d minuten.</string>
@@ -82,12 +82,12 @@
   <string name="gallery_button_description">Galerij</string>
   <string name="hide_clock">Klok verbergen</string>
   <string name="holiday_data_already_newest">Werkdag gegevens zijn al de nieuwste</string>
-  <string name="holiday_data_no_network">Geen netwerk, a.u.b. probeer later opnieuw</string>
-  <string name="holiday_data_update_failed">Check voor updates heeft geresulteerd in fouten, a.u.b. probeer later opnieuw.</string>
-  <string name="holiday_data_update_succeed">Check voor updates voltooid</string>
+  <string name="holiday_data_no_network">Geen netwerk, probeer het later opnieuw</string>
+  <string name="holiday_data_update_failed">Controleren op updates heeft geresulteerd in fouten, probeer het later opnieuw.</string>
+  <string name="holiday_data_update_succeed">Controleren op updates voltooid</string>
   <string name="holiday_data_updating">Updaten...</string>
   <string name="holiday_update_pref_invalidate_title">Werkdagen gegevens update (verlopen)</string>
-  <string name="holiday_update_pref_summary">Check voor updates</string>
+  <string name="holiday_update_pref_summary">Controleer op updates</string>
   <string name="holiday_update_pref_title">Werkdagen gegevens update</string>
   <string name="holiday_update_summary">Controleer op updates</string>
   <string name="holiday_update_title">Dagen updaten vereist een netwerk verbinding</string> 
@@ -139,9 +139,9 @@
   <string name="resource_downloaded_title">Hulpbronnen gedownload...</string>
   <string name="resource_downloading">Downloaden...</string>
   <string name="resource_get_auth_checking">Autorisatie checken...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Thema kan niet toegepast worden op het appraat met uw account. A.u.b. probeer een ander Xiaomi account</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Thema kan niet toegepast worden op het appraat met uw account. Probeer een ander Xiaomi account a.u.b.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Geautoriseerd limiet bereikt!</string>
-  <string name="resource_get_auth_missing">Thema niet gedownload van officiele thema markt, a.u.b. download van officiële markt.</string>
+  <string name="resource_get_auth_missing">Thema niet gedownload van officiële thema markt, download via de officiële markt a.u.b.</string>
   <string name="resource_get_auth_retrieving">Autorisatie verkrijgen...</string>
   <string name="resource_importing">Importeren</string>
   <string name="resource_list_title">Laatst geselecteerde</string>
@@ -156,7 +156,7 @@
   <string name="resource_ringtone_default">Ringtones</string>
   <string name="resource_see_more">Bekijk meer</string>
   <string name="resource_select">Selecteer</string>
-  <string name="resource_server_out_of_service">Server niet beschikbaar, a.u.b. probeer later opnieuw.</string>
+  <string name="resource_server_out_of_service">Server niet beschikbaar, probeer het later opnieuw.</string>
   <string name="resource_switch_account">Wisselen</string>
   <string name="resource_system_title">Systeem hulpbronnen</string>
   <string name="resource_tip_select_ringtone">Geen ringtone geselecteerd</string>
@@ -164,7 +164,7 @@
   <string name="resource_title_select_ringtone">Selecteer ringtone</string>
   <string name="resource_update">Update</string>
   <string name="revert">Terugzetten</string>
-  <string name="sdcard_status_changed_dialog_message">"Wordt afgesloten, a.u.b. heropen deze app om hulpbron te vernieuwen."</string>
+  <string name="sdcard_status_changed_dialog_message">"Deze app wordt afgesloten. Heropen de app om hulpronnen te vernieuwen."</string>
   <string name="sdcard_status_changed_dialog_title">Status SD-kaart veranderd</string>
   <string name="set_alarm">Alarm instellen</string>
   <string name="settings">Instellingen</string>

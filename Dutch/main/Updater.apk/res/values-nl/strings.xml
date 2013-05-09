@@ -2,7 +2,7 @@
 <resources>
   <string name="about_device">Over</string>
   <string name="active_xiaomi_account">Activeer</string>
-  <string name="active_xiaomi_account_msg">"A.u.b. ga naar het MIUI forum om uw Xiaomi account te activeren:"</string>
+  <string name="active_xiaomi_account_msg">"Ga naar het MIUI forum om uw Xiaomi account te activeren:"</string>
   <string name="active_xiaomi_account_title">Activeer Xiaomi account</string>
   <string name="app_name">Updater</string>
   <string name="apply_buddy_update_info_message">Klik toepassen, de telefoon herstart en past de updates toe</string>
@@ -92,7 +92,7 @@
   <string name="recommend">Aanbevelen</string>
   <string name="recommend_comment_hint">Reden (optioneel)</string>
   <string name="recommend_vote_title">MIUI Beta Team Poll</string>
-  <string name="refuse_recommend_reason">A.u.b. vul een reden in</string>
+  <string name="refuse_recommend_reason">Vul een reden in</string>
   <string name="sdcard_has_no_space_dialog_body">SD-kaart heeft te weinig vrije ruimte. Maak ruimte vrij voor dat u de update download</string>
   <string name="sdcard_has_no_space_dialog_title">SD-kaart heeft te weinig vrije ruimte</string>
   <string name="sdcard_is_not_present_dialog_body">U hebt een SD-kaart nodig om de update te kunnen downloaden</string>
@@ -105,7 +105,7 @@
   <string name="share_update">Deel systeem update info</string>
   <string name="share_update_content_sign">Ik heb MIUI geupdate naar %1$s! Mijn update gebruikers ranglijst is %2$s. Voor gedetailleerde changelog, bezoek http://www.miui.com</string>
   <string name="share_update_content_unsign">Ik heb MIUI geupdate naar %s! Voor gedetailleerde changelog, bezoek http://www.miui.com</string>
-  <string name="sign_in_add_account">A.u.b. activeer uw Xiaomi accout</string>
+  <string name="sign_in_add_account">Activeer uw Xiaomi accout</string>
   <string name="sign_in_add_account_helper">Uw telefoon heeft geen MIUI account geconfigureerd, creëer één voor punten</string>
   <string name="sign_in_info">"Uw update ranglijst is %1$s %2$s gebruikers zijn ingelogd op MIUI %3$s"</string>
   <string name="sign_in_info_rank_more">"Uw update ranglijst is %1$s Meer dan %2$s gebruikers zijn ingelogd op MIUI %3$s"</string>
@@ -128,7 +128,7 @@
   <string name="update_comment_hint">(optioneel)</string>
   <string name="update_comment_title">Uw reacties</string>
   <string name="update_feedback">Four-grid Update Feedback</string>
-  <string name="update_feedback_expired">Het is jammer dat u de Update Feedback heeft gemist! A.u.b. dien de poll opnieuw in volgende dinsdag</string>
+  <string name="update_feedback_expired">Het is jammer dat u de Update Feedback heeft gemist! Dien de poll opnieuw in volgende dinsdag</string>
   <string name="update_feel">1. Hoe voelt u zich?</string>
   <string name="update_general">Niet slecht</string>
   <string name="update_happy">Gelukkig</string>

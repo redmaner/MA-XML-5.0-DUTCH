@@ -63,7 +63,7 @@
   <string name="receive_uncompleted">Ontvang proces incompleet</string>
   <string name="received">Ontvangen</string>
   <string name="resend">Opnieuw verzenden</string>
-  <string name="scan_tip">A.u.b. wees er zeker van dat de ontvanger is verbonden en bestanden kan ontvangen</string>
+  <string name="scan_tip">Wees er zeker van dat de ontvanger is verbonden en bestanden kan ontvangen</string>
   <string name="scanning">Scannen...</string>
   <string name="sdcard_unavailable">SD-kaart niet beschikbaar</string>
   <string name="send">Verzenden</string>

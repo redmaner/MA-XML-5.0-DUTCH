@@ -13,9 +13,9 @@ Als u niet om dit herstel heeft gevraagd, sta dan niet toe deze handeling uit te
     <string name="allow_restore_button_label">Herstel mijn gegeven</string>
     <string name="deny_restore_button_label">Niet herstellen</string>
     <string name="current_password_text">A.u.b voer uw huidige wachtwoord hier beneden in:</string>
-    <string name="device_encryption_restore_text">A.u.b. voer uw huidige coderings wachtwoord hier beneden in.</string>
-    <string name="device_encryption_backup_text">A.u.b. voer uw toestel coderings wachtwoord hier beneden in. Dit zal ook gebruikt worden om het backup archief te coderen.</string>
-    <string name="backup_enc_password_text">A.u.b. voer een wachtwoord in om de volledige backup gegevens te coderen. Als u geen wachtwoord invoert dan wordt uw huidige backup wachtwoord gebruikt:</string>
+    <string name="device_encryption_restore_text">Voer uw huidige coderings wachtwoord hier beneden in.</string>
+    <string name="device_encryption_backup_text">Voer uw toestel coderings wachtwoord hier beneden in. Dit zal ook gebruikt worden om het backup archief te coderen.</string>
+    <string name="backup_enc_password_text">Voer een wachtwoord in om de volledige backup gegevens te coderen. Als u geen wachtwoord invoert dan wordt uw huidige backup wachtwoord gebruikt:</string>
     <string name="backup_enc_password_optional">Als u de volledige backup gegevens wilt coderen, voer dan hier beneden een wachtwoord in:</string>
     <string name="restore_enc_password_text">Als de herstel gegevens zijn gecodeerd, voer dan hier beneden het wachtwoord in:</string>
     <string name="toast_backup_started">Backup starten...</string>

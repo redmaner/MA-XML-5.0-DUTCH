@@ -22,7 +22,7 @@
   <string name="Dashboard_Perm">Permissies</string>
   <string name="Dashboard_Perm_SU">Beheer ROOT Permissie</string>
   <string name="Dashboard_Perm_SU_Desc">%1$d apps worden gecontroleerd voor ROOT Permissie</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Het toestaan van ROOT permissies aan apps van derden kan systeem instabiliteit, verlies van persoonlijke gegevens, of syteem of hardware schade veroorzaken. A.u.b. stap over op een ontwikkel versie van MIUI om ROOT permissies in te schakelen.</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Het toestaan van ROOT permissies aan apps van derden kan systeem instabiliteit, verlies van persoonlijke gegevens, of syteem of hardware schade veroorzaken. Stap over op een ontwikkel versie van MIUI om ROOT permissies in te schakelen.</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Download MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT is niet beschikbaar op stabiele versies van MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
@@ -181,7 +181,7 @@
   <string name="Privacy_App_Uninstall">De-installeren</string>
   <string name="Privacy_Perm_Count">Toegestaan: %1$d Afgewezen: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s probeert systeem ROOT permissie te verkrijgen die standaard is uitgeschakeld om systeem veiligheid te garanderen. Als u het wilt inschakelen, ga dan naar instelling in Permissie Beheer.</string>
-  <string name="Su_Unavailable">ROOT Permissie is uitgeschakeld in stabiele MIUI versies. A.u.b. instaleerd MIUI BETA versie om ROOT permissies te activeren.</string>
+  <string name="Su_Unavailable">ROOT Permissie is uitgeschakeld in stabiele MIUI versies. Instaleerd MIUI BETA versie om ROOT permissies te activeren.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart permissie</string>
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
   <string name="SysOpt_Boost_Boot">Opstarten</string>

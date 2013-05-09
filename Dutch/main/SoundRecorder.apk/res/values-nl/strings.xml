@@ -42,7 +42,7 @@
   <string name="open_file_explorer">Open Bestanden</string>
   <string name="overwrite_dialog_message" formatted="false">%s bestaat al. Wilt u het overschrijven?</string>
   <string name="prefDefault_recordType">audio/3gpp</string>
-  <string name="prefDialogTitle_recordType">A.u.b. selecteer bestandstype</string>
+  <string name="prefDialogTitle_recordType">Selecteer bestandstype</string>
   <string name="pref_summary_enable_high_quality">Het audio bestand met hoge kwaliteit kan groter zijn</string>
   <string name="pref_summary_enable_sound_effect">Speel geluidseffect als status is gewijzigd</string>
   <string name="pref_title_enable_high_quality">Hoge kwaliteit inschakelen</string>
@@ -63,8 +63,8 @@
   <string name="recording_stopped">Opname gestopt</string>
   <string name="rename">Hernoemen</string>
   <string name="rename_dialog_title">Andere naam voor deze opname</string>
-  <string name="rename_duplicate">Dubbele opname naam, a.u.b. opnieuw invoeren:</string>
-  <string name="rename_illegal">Illegale opname naam, a.u.b. opnieuw invoeren:</string>
+  <string name="rename_duplicate">Dubbele opname naam, opnieuw invoeren a.u.b.:</string>
+  <string name="rename_illegal">Illegale opname naam, opnieuw invoeren a.u.b.:</string>
   <string name="sd_card_not_available">SD-kaart niet beschikbaar</string>
   <string name="second" formatted="false">%d seconden</string>
   <string name="send_to">verzend naar</string>

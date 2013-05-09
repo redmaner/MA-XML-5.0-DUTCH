@@ -69,7 +69,7 @@
   <string name="remove_download">Verwijderen</string>
   <string name="restart_download">Herstart</string>
   <string name="resume_download">Doorgaan</string>
-  <string name="retry_after_network_available">Probeer a.u.b. opnieuw wanneer er een netwerk verbinding beschikbaar is</string>
+  <string name="retry_after_network_available">Probeer het opnieuw wanneer er een netwerk verbinding beschikbaar is</string>
   <string name="retry_download">Opnieuw proberen</string>
   <string name="select_all">Alles selecteren</string>
   <string name="select_operation_items">Selecteer</string>

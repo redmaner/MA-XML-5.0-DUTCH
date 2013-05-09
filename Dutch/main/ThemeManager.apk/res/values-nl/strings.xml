@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="account_abnormal_state">Fout in account informatie, a.u.b. probeer opnieuw in te loggen.</string>
+  <string name="account_abnormal_state">Fout in account informatie, probeer opnieuw in te loggen.</string>
   <string name="all_resources">Alle</string>
   <string name="all_ringtone_resource">Alle</string>
   <string name="app_name">Thema\'s</string>
@@ -83,9 +83,9 @@
   <string name="resource_downloaded_title">Gedownloade hulpbronnen</string>
   <string name="resource_downloading">Downloaden</string>
   <string name="resource_get_auth_checking">Checken autorisatie...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Thema kan niet draaien op het huidige apparaat. U heeft het maximum van 10 Xiaomi accounts bereikt. A.u.b. probeer een ander account.</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Thema kan niet draaien op het huidige apparaat. U heeft het maximum van 10 Xiaomi accounts bereikt. Probeer een ander account a.u.b.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Autorisatie limiet bereikt!</string>
-  <string name="resource_get_auth_missing">Thema is niet gedownload van de thema markt, a.u.b. download van officiële thema markt.</string>
+  <string name="resource_get_auth_missing">Thema is niet gedownload van de officiële thema markt, download via de officiële markt a.u.b.</string>
   <string name="resource_get_auth_retrieving">Autorisatie verkrijgen...</string>
   <string name="resource_importing">Importeren</string>
   <string name="resource_list_title">Laatst geselecteerde</string>
@@ -108,11 +108,11 @@
   <string name="resource_title">Hulpbron Detail</string>
   <string name="resource_title_select_ringtone">Selecteer beltoon</string>
   <string name="resource_update">Update</string>
-  <string name="restore_default_theme_alert">U bent mogelijk het slachtoffer van thema namaak, a.u.b. blader door de thema markt om te kopen of om opnieuw te downloaden.</string>
-  <string name="sdcard_status_changed_dialog_message">"Wordt afgesloten. A.u.b. heropen de app om hulpbronnen te vernieuwen."</string>
+  <string name="restore_default_theme_alert">U bent mogelijk het slachtoffer van thema namaak, blader door de thema markt om te kopen of om opnieuw te downloaden.</string>
+  <string name="sdcard_status_changed_dialog_message">"Deze app wordt afgesloten. Heropen de app om hulpbronnen te vernieuwen."</string>
   <string name="sdcard_status_changed_dialog_title">SD-kaart status veranderd</string>  
   <string name="short_ringtone_resource">Kort</string>
-  <string name="theme_another_import_running">Importeren draait reeds, even geduld a.u.b. en probeer nogmaals</string>
+  <string name="theme_another_import_running">Importeren draait reeds, even geduld a.u.b. en probeer het opnieuw</string>
   <string name="theme_changed_failed_message">Thema toepassen is mislukt</string>
   <string name="theme_changed_message">Thema toegepast</string>
   <string name="theme_changing_dialog_title">Configureren</string>

@@ -1072,7 +1072,7 @@ Attentie: Dit kan niet ongedaan gemaakt worden</string>
   <string name="mdb_entering">Betreden</string>
   <string name="mdb_restore_cancel">Annuleren</string>
   <string name="mdb_restore_info1">"Zal uw telefoon's gegevens herstellen"</string>
-  <string name="mdb_restore_info2">A.u.b. verbreek de usb connectie niet</string>
+  <string name="mdb_restore_info2">Verbreek de usb connectie niet</string>
   <string name="mdb_restore_label">Mdb Herstel</string>
   <string name="mdb_restore_mode">Herstel Modus</string>
   <string name="mdb_usb_disconnection_exit">USB verbroken, herstel wordt geannuleerd</string>
@@ -1123,7 +1123,7 @@ Attentie: Dit kan niet ongedaan gemaakt worden</string>
   <string name="msd_driver_download">Download driver</string>
   <string name="msd_driver_mac_download">Ga naar http://miuiandroid.com/mac/ om te downloaden voor uw MAC</string>
   <string name="msd_driver_windows_xp_download">Ga naar http://miuiandroid.com/windows/ om te download voor uw PC</string>
-  <string name="msd_help_summary">"Probleem met toegang tot mobiele opslag via de computer? Selecteer a.u.b. het besturingssysteem van uw computer:"</string>
+  <string name="msd_help_summary">"Probleem met toegang tot mobiele opslag via de computer? Selecteer het besturingssysteem van uw computer:"</string>
   <string name="msd_help_title">Help</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install">Installeer driver</string>
@@ -1149,7 +1149,7 @@ probeer het volgende:
   <string name="msd_install_status_undo">Installeer driver</string>
   <string name="msd_install_succeed">Driver geïnstalleerd</string>
   <string name="msd_install_windows_xp_step_2_1">"1.Als de wizard in beeld komt, 
-volg a.u.b. de stappen om de installatie te voltooien"</string>
+volg de stappen om de installatie te voltooien"</string>
   <string name="multi_sim_settings_summary">Multi simkaart instellen voor Spraak, Data en SMS</string>
   <string name="multi_sim_settings_title">Multi simkaart Instellingen</string>
   <string name="multi_touch_points_category_title">Multi-touch punten</string>
@@ -1305,7 +1305,7 @@ volg a.u.b. de stappen om de installatie te voltooien"</string>
   <string name="perm_monitored_app">Gecontroleerde Apps (%1$d)</string>
   <string name="perm_notice">Veiligheids waarschuwing</string>
   <string name="perm_operating">Opereren...</string>
-  <string name="perm_optimize">Optimize</string>
+  <string name="perm_optimize">Optimaliseren</string>
   <string name="perm">Permissies</string>
   <string name="perm_privacy_app_count">%1$d permissies</string>
   <string name="perm_privacy_app_count_trust_summary">Vertrouw app</string>
@@ -1328,8 +1328,8 @@ volg a.u.b. de stappen om de installatie te voltooien"</string>
   <string name="perm_show_system_app">Toon Systeem Apps</string>
   <string name="perm_su_desc1">Beheer ROOT Permissie</string>
   <string name="perm_su_desc">Controleert %1$d apps voor ROOT permissie</string>
-  <string name="perm_su_disabled_desc">Het toestaan van ROOT permissies aan apps van derden kan systeem instabiliteit, verlies van persoonlijke gegevens, of syteem of hardware schade veroorzaken. A.u.b. wees er zeker van dat u ROOT permissie kent.</string>
-  <string name="perm_su_disabled_in_stable_desc">"Het toestaan van ROOT permissies aan apps van derden kan systeem instabiliteit, verlies van persoonlijke gegevens, of syteem of hardware schade veroorzaken. A.u.b. stap over op een ontwikkel versie van MIUI om ROOT permissies in te schakelen.."</string>
+  <string name="perm_su_disabled_desc">Het toestaan van ROOT permissies aan apps van derden kan systeem instabiliteit, verlies van persoonlijke gegevens, of syteem of hardware schade veroorzaken. Wees er zeker van dat u ROOT permissie kent.</string>
+  <string name="perm_su_disabled_in_stable_desc">"Het toestaan van ROOT permissies aan apps van derden kan systeem instabiliteit, verlies van persoonlijke gegevens, of syteem of hardware schade veroorzaken. Stap over op een ontwikkel versie van MIUI om ROOT permissies in te schakelen.."</string>
   <string name="perm_su_disabled_in_stable_download">Download MIUI</string>
   <string name="perm_su_disabled_in_stable">ROOT is niet beschikbaar in MIUI stable</string>
   <string name="perm_su_disabled">ROOT Permissie is uitgeschakeld</string>
@@ -1399,7 +1399,7 @@ volg a.u.b. de stappen om de installatie te voltooien"</string>
   <string name="privacy_relative">Privacy gerelateerd</string>
   <string name="privacy_settings">Back-up maken en opnieuw instellen</string>
   <string name="privacy_settings_title">Back-up maken en opnieuw instellen</string>
-  <string name="private_sms_need_to_unlock">A.u.b. voer privé SMS wachtwoord in</string>
+  <string name="private_sms_need_to_unlock">Voer privé SMS wachtwoord in</string>
   <string name="private_sms_recording_intro_header">Teken partroon om wachtwoord slot te maken</string>
   <string name="private_sms_reset_by_account">Login Xiaomi account om privé SMS wachtwoord te resetten</string>
   <string name="process_kernel_label">Android-besturingssysteem</string>
@@ -2071,7 +2071,7 @@ Pogingen Resterende :"</string>
   <string name="vpn_l2tp_secret">L2TP-geheim</string>
   <string name="vpn_menu_delete">Netwerk verwijderen</string>
   <string name="vpn_menu_edit">Netwerk bewerken</string>
-  <string name="vpn_missing_cert">Een certificaat mist. Bewerk het profiel a.u.b.</string>
+  <string name="vpn_missing_cert">Een certificaat ontbreekt. Bewerk het profiel a.u.b.</string>
   <string name="vpn_mppe">PPP-encryptie (MPPE)</string>
   <string name="vpn_name">Naam</string>
   <string name="vpn_no_ca_cert">(server niet verifiëren)</string>
@@ -2284,19 +2284,19 @@ Pogingen Resterende :"</string>
   <string name="wifi_wapi_cert_cancel_button">Annuleren</string>
   <string name="wifi_wapi_cert_create_subdir">Maak een directory</string>
   <string name="wifi_wapi_cert_delet_subdir">Selecteer een suit certificate</string>
-  <string name="wifi_wapi_certification_dont_exist">Het ingevoerde netwerk wachtwoord is incorrect. Probeer nogmaals a.u.b.</string>
+  <string name="wifi_wapi_certification_dont_exist">Het ingevoerde netwerk wachtwoord is incorrect. Probeer het nogmaals</string>
   <string name="wifi_wapi_cert_install_button">Installeer</string>
   <string name="wifi_wapi_cert_install">Installeer WAPI Certificaat</string>
-  <string name="wifi_wapi_cert_mgmt_as_dont_exist">De SD kaart bevat geen WAPI AS certificaat, controleer dit a.u.b. probeer opnieuw</string>
-  <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Het WAPI AS certificaat formaat is ongeldig! Installeer a.u.b. een geldig WAPI AS certificaat</string>
-  <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Voer a.u.b. de WAPI AS certificaat naam in</string>
+  <string name="wifi_wapi_cert_mgmt_as_dont_exist">De SD-kaart bevat geen WAPI AS certificaat, controleer dit en probeer het opnieuw</string>
+  <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Het WAPI AS certificaat formaat is ongeldig! Installeer een geldig WAPI AS certificaat</string>
+  <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Voer de WAPI AS certificaat naam in</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Mislukt om directory te maken</string>
-  <string name="wifi_wapi_cert_mgmt_subdir_exist">Voer a.u.b. een andere directorynaam in, geselecteerde naam bestaat al!</string>
-  <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Voer a.u.b. de directory naam in die u wil maken!</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_exist">Voer een andere directorynaam in, geselecteerde naam bestaat al!</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Voer de directory naam in die u wil maken!</string>
   <string name="wifi_wapi_cert_mgmt_titlebar">WAPI Certificaat Beheer</string>
-  <string name="wifi_wapi_cert_mgmt_user_dont_exist">Voer a.u.b. de WAPI gebruikers certificaat naam in</string>
-  <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Het WAPI gebruikerscertificaat formaat is ongeldig! Installeer a.u.b. een geldig WAPI gebruikers certificaat</string>
-  <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Voer a.u.b. de WAPI gebruikers certificaat naam in</string>
+  <string name="wifi_wapi_cert_mgmt_user_dont_exist">Voer de WAPI gebruikers certificaat naam in</string>
+  <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Het WAPI gebruikerscertificaat formaat is ongeldig! Installeer een geldig WAPI gebruikers certificaat</string>
+  <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Voer de WAPI gebruikers certificaat naam in</string>
   <string name="wifi_wapi_cert_uninstall_button">Verwijder</string>
   <string name="wifi_wapi_cert_uninstall">Deïnstalleer WAPI Certificaat</string>
   <string name="wifi_wapi_user_cert">WAPI gebruiker Certificaat</string>
@@ -2304,9 +2304,9 @@ Pogingen Resterende :"</string>
   <string name="wifi_wps_available_second_item">" (beveiligd netwerk beschikbaar)"</string>
   <string name="wifi_wps_complete">WPS gelukt. Verbinden met netwerk…</string>
   <string name="wifi_wps_connected">Verbonden met Wi-Fi netwerk %s</string>
-  <string name="wifi_wps_failed_auth">Authenticatie mislukt. Probeer nogmaals a.u.b.</string>
-  <string name="wifi_wps_failed_generic">WPS mislukt. Probeer nogmaals over een paar minuten a.u.b.</string>
-  <string name="wifi_wps_failed_overlap">Een andere WPS sessie gedetecteerd. Probeer nogmaals over een paar minuten a.u.b.</string>
+  <string name="wifi_wps_failed_auth">Authenticatie mislukt. Probeer het nogmaals</string>
+  <string name="wifi_wps_failed_generic">WPS mislukt. Probeer het nogmaals over een paar minuten</string>
+  <string name="wifi_wps_failed_overlap">Een andere WPS sessie gedetecteerd. Probeer het nogmaals over een paar minuten</string>
   <string name="wifi_wps_failed_tkip">Deze draadloze router beveiligingsinstelling wordt niet ondersteund (TKIP)</string>
   <string name="wifi_wps_failed_wep">Deze draadloze router beveiligingsinstelling wordt niet ondersteund (WEP)</string>
   <string name="wifi_wps_in_progress">WPS wordt al uitgevoerd en het voltooien kan even duren</string>

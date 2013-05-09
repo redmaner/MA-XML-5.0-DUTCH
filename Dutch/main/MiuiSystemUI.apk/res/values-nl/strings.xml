@@ -86,7 +86,7 @@
   <string name="dlg_confirm_kill_storage_users_title">USB opslag inschakelen</string>
   <string name="dlg_error_title">USB niet beschikbaar</string>
   <string name="dlg_ok">OK</string>
-  <string name="drive_mode_tip">Automodus ingeschakeld - a.u.b. rij voorzichtig</string>
+  <string name="drive_mode_tip">Automodus ingeschakeld - rijd voorzichtig a.u.b.</string>
   <string name="ext_media_badremoval_notification_message">Ontkoppel SD-kaart voor verwijderen om gegevens verlies te voorkomen.</string>
   <string name="ext_media_badremoval_notification_title">SD-kaart onverwachts verwijderd</string>
   <string name="ext_media_checking_notification_message">Checken op fouten.</string>
@@ -112,7 +112,7 @@
   <string name="mdb_entering">Binnentreden MDB</string>
   <string name="mdb_restore_cancel">Annuleren</string>
   <string name="mdb_restore_info1">zal uw telefoonsgegevens herstellen</string>
-  <string name="mdb_restore_info2">A.u.b. USB verbinding niet verbreken</string>
+  <string name="mdb_restore_info2">USB verbinding niet verbreken</string>
   <string name="mdb_restore_label">MDB Herstel</string>
   <string name="mdb_restore_mode">MDB Herstel Modus</string>
   <string name="mdb_usb_disconnection_exit">USB losgekoppeld, herstel afbreken!</string>
