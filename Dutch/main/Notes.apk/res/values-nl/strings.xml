@@ -65,6 +65,9 @@
   <string name="notealert_ok">Heb het</string>
   <string name="notelist_menu_new">Notitie toevoegen</string>
   <string name="notelist_string_info">...</string>
+  <string name="notify_alarm_action_mute">Dempen</string>
+  <string name="notify_alarm_action_view">Bekijken</string>
+  <string name="notify_alarm_title">Alarm herinnering</string> 
   <string name="pref_desc_mode_grid">Rooster</string>
   <string name="pref_desc_mode_list">Lijst</string>
   <string name="pref_title_data_export">Gegevens export</string>

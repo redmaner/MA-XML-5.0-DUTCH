@@ -44,6 +44,7 @@
   <string name="clock_instructions">Een klok selecteren</string>
   <string name="close_alarm">Alarm sluiten</string>
   <string name="common_settings">Algemene instellingen</string>
+  <string name="confirm_abort">Annuleren</string> 
   <string name="control_set_alarm">Alarm instellen</string>
   <string name="control_set_alarm_with_existing">Alarm is ingesteld: %s</string>
   <string name="day">1 dag</string>
@@ -88,6 +89,8 @@
   <string name="holiday_update_pref_invalidate_title">Werkdagen gegevens update (verlopen)</string>
   <string name="holiday_update_pref_summary">Check voor updates</string>
   <string name="holiday_update_pref_title">Werkdagen gegevens update</string>
+  <string name="holiday_update_summary">Controleer op updates</string>
+  <string name="holiday_update_title">Dagen updaten vereist een netwerk verbinding</string> 
   <string name="home_button_description">Launcher</string>
   <string name="hour">1 uur</string>
   <string name="hour_unit">Uur</string>

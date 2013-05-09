@@ -135,11 +135,13 @@
   <string name="traffic_settings_error">Er is een fout in uw maandelijkse gratis verbruik. Volgens uw instellingen en provider SMS, bedraagt uw maandelijkse gratis verbruik: %1$s en is uw resterende verbruik: %2$s.</string>
   <string name="traffic_suffix">Verbruik</string>
   <string name="traffic_suffix_with_uint">Verbruik (MB)</string>
-  <string name="traffic_total">Totaal: %s</string>
-  <string name="traffic_used_status">Verbruikt: %s</string>
+  <string name="traffic_total">Totaal: 
+%s</string>
+  <string name="traffic_used_status">Verbruikt: 
+%s</string>
   <string name="unknown">onbekend</string>
-  <string name="unknown_free_traffic_hint">"Als u uw maximale verbruik niet weet, a.u.b neem dan contact op met uw mobiele provider voor assistentie"</string>
-  <string name="unknown_free_traffic_text">"Ik weet mijn maximale verbruik niet?"</string>
+  <string name="unknown_free_traffic_hint">"Als u uw maximale verbruik niet weet, neem dan a.u.b. contact op met uw mobiele provider voor assistentie"</string>
+  <string name="unknown_free_traffic_text">"Maximale verbruik onbekend?"</string>
   <string name="unknown_free_traffic_title">Onbekend gratis verbruik</string>
   <string name="unknown_location">Onbekende locatie</string>
   <string name="unknown_traffic_hint">Onbekend maximum verbruik, wilt u het nu instellen?</string>

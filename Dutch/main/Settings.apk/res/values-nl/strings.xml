@@ -1716,9 +1716,11 @@ Pogingen Resterende :"</string>
   <string name="sim_pins_dont_match">Pincodes komen niet overeen</string>
   <string name="sim_pin_toggle">Simkaart vergrendelen</string>
   <string name="sim_reenter_new">Nieuwe pincode nogmaals invoeren</string>
+  <string name="sim_status_title">Simkaart status</string> 
   <string name="skip_button_label">Annuleren</string>
   <string name="skip_label">Overslaan</string>
   <string name="skip_step">Sla deze stap over</string>
+  <string name="slot_status_title">IMEI informatie</string> 
   <string name="small_font">Klein</string>
   <string name="sms_delivered_sound_dialog_title">Kies SMS verzonden geluid</string>
   <string name="sms_delivered_sound_title">SMS verzonden geluid</string>
