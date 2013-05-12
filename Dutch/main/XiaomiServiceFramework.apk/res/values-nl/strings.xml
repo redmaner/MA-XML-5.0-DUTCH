@@ -2,6 +2,7 @@
 <resources>
   <string name="access_denied">Toegang geweigerd</string>
   <string name="account">Account</string>
+  <string name="account_detail">Xiaomi account: %1$s</string> 
   <string name="account_dspt">"Xiaomi Account kan uw berichten, contacten, foto's, etc. synchroniseren"</string>
   <string name="account_hint_text">E-mail/Telefoon nummer</string>
   <string name="account_name">Account: %1$s</string>
@@ -27,6 +28,8 @@
   <string name="btn_query">Nu claimen</string>
   <string name="btn_recharge_large">Nu opwaarderen</string>
   <string name="btn_recharge_other">Andere opwaardeer methode</string>
+  <string name="btn_recharge_success">Topup succesvol</string>
+  <string name="btn_recharge_success_quick">Quick topup succesvol</string> 
   <string name="btn_voucher">Mi Credit card (%1$s)</string>
   <string name="button_cancel">Annuleren</string>
   <string name="button_pay">Betalen</string>
@@ -205,6 +208,8 @@
   <string name="recharge_hint">1 RMB is gelijk aan 1 Mi credit</string>
   <string name="recharge_notification">Opwaarderen van %1$s Mi credit</string>
   <string name="recharge_other">Selecteer andere betalingswijze</string>
+  <string name="recharge_pcpay_summary">Betaling via de computer ondersteund andere methoden en limieten</string>
+  <string name="recharge_pcpay_title">Topup via computer</string> 
   <string name="recharge_prepaid_summary">China Mobile, China Unicom en China Telecom opwaardeer kaarten ondersteund</string>
   <string name="recharge_prepaid_title">Prepaid opwaardeerkaarten</string>
   <string name="recharge_record">Opwaardeer Geschiedenis</string>
