@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <plurals name="move_messages">
+        <item quantity="other">Verplaats berichten</item>
+        <item quantity="one">Verplaats bericht</item>
+    </plurals>
     <plurals name="notification_new_one_account_fmt">
         <item quantity="other">%1$d ongelezen (%2$s)</item>
         <item quantity="one">%1$d ongelezen (%2$s)</item>
@@ -9,9 +13,21 @@
         <item quantity="other">in %d accounts</item>
         <item quantity="few">in %d accounts</item>
     </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">Bijlagen %1$d</item>
+        <item quantity="one">Bijlage %1$d</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">Deze berichten verwijderen?</item>
+        <item quantity="one">Dit bericht verwijderen?</item>
+    </plurals>
     <plurals name="message_deleted_toast">
-        <item quantity="other">Berichten gewist.</item>
-        <item quantity="one">Bericht gewist.</item>
+        <item quantity="other">Berichten verwijderd.</item>
+        <item quantity="one">Bericht verwijderd.</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">%1$d berichten verplaatst naar %2$s</item>
+        <item quantity="one">%1$d bericht verplaatst naar %2$s</item>
     </plurals>
     <plurals name="gal_completed_fmt">
         <item quantity="other">%1$d resultaten van %2$s</item>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Zeer kleine tekst</item>
+        <item>Kleine tekst</item>
+        <item>Normale tekst</item>
+        <item>Grote tekst</item>
+        <item>Zeer grote tekst</item>
+    </string-array>
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>"Toon nieuwer bericht scherm nadat u een bericht verwijdert"</item>
+        <item>"Toon ouder bericht scherm nadat u een bericht verwijdert"</item>
+        <item>"Toon berichtenlijst scherm nadat u een bericht verwijdert"</item>
+    </string-array>
+</resources>

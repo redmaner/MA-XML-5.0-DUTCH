@@ -110,7 +110,7 @@
   <string name="edit_slideshow_activity">Diavoorstelling bewerken</string>
   <string name="enable_password_protect">Schakel wachtwoord beveiliging in</string>
   <string name="enable_visible_pattern_title">Maak patroon zichtbaar</string>
-  <string name="enter_edit_mode">Bewerk</string>
+  <string name="enter_edit_mode">Bewerken</string>
   <string name="error_code_label">"Foutcode: "</string>
   <string name="error_state">Inconsistente status</string>
   <string name="error_state_text">De status van threads en ontvangers is inconsistent. Registreer dit als bug via http://go/droidanizer</string>
@@ -273,7 +273,7 @@
   <string name="pref_title_manage_sim_messages">Berichten op simkaart beheren</string>
   <string name="pref_title_mms_auto_retrieval">Automatisch ophalen</string>
   <string name="pref_title_mms_delete">Limiet voor MMS</string>
-  <string name="pref_title_mms_delivery_reports">Ontvangstbevestigingen</string>
+  <string name="pref_title_mms_read_reports">Leesbevestiging</string>
   <string name="pref_title_mms_retrieval_during_roaming">Ophalen tijdens roaming</string>
   <string name="pref_title_new_message_popup">Pop up nieuwe berichten</string>
   <string name="pref_title_ringtone_repeat">Herhaling meldingsgeluid</string>

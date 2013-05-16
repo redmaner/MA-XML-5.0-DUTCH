@@ -67,7 +67,7 @@
   <string name="download_all_track">Download Alle Tracks</string>
   <string name="download_batch_start">Downloaden starten</string>
   <string name="download_lyric_settings">Songteksten auto downloaden</string>
-  <string name="download_lyric_summary">Songteksten ophalen zorgt niet voor hoog dataverbruik, zet setting uit om dataverbruik laag te houden</string>
+  <string name="download_lyric_summary">Songteksten ophalen zorgt voor hoog dataverbruik, zet setting uit om dataverbruik laag te houden</string>
   <string name="download_processing">Downloaden</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>

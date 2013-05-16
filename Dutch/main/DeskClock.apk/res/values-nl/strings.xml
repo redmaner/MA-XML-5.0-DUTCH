@@ -82,7 +82,7 @@
   <string name="legal_workday_invalidate_message">(Gegevens verlopen, update in instellingen)</string>
   <string name="legal_workday_message">(Alarm uit tijdens vakanties)</string>
   <string name="loading_ringtone">Beltoon laden…</string>
-  <string name="menu_add_worldclock">Timezone toevoegen</string>
+  <string name="menu_add_worldclock">Tijdzone toevoegen</string>
   <string name="menu_alarmclock_edit">Wijzig alarmklok</string>
   <string name="menu_delete">Wis</string>
   <string name="menu_desk_clock">Bureauklok</string>

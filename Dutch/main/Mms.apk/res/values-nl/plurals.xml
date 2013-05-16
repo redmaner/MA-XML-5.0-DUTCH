@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Deze %1$s geselecteerde gesprekken verwijderen?</item>
+        <item quantity="one">Dit gesprek verwijderen?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s secs</item>
+        <item quantity="one">%s sec</item>
+        <item quantity="few">%s secs</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultaat voor \"%2$s\"</item>
+        <item quantity="one">%1$s resultaat voor \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s mensen</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s berichten</item>
+        <item quantity="one">%1$s bericht</item>
+    </plurals>
+</resources>
