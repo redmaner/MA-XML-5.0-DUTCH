@@ -190,7 +190,6 @@ Junk"</string>
   <string name="pan_settting">MiDrive settings</string>
   <string name="paused">Gepauzeerd</string>
   <string name="query_bind_state">Berekenen bind status, moment geduld...</string>
-  <string name="release_space_indication">Detecteer rommel bestanden</string>
   <string name="rename_description">Hernoemen, even geduld a.u.b.…</string>
   <string name="rename_failed">Hernoemen van bestand %1$s is mislukt</string>
   <string name="restart_cleaning">Herstarten</string> 

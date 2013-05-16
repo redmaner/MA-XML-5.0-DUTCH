@@ -35,28 +35,18 @@
   <string name="minute" formatted="false">%d minuten</string>
   <string name="no_file">Geen opname</string>
   <string name="notification_playback">Opname afspelen…</string>
-  <string name="notification_playback_paused">Afspelen gepauzeerd...</string>
   <string name="notification_recording">Opnemen...</string>
   <string name="notification_stopped">Opname is gestopt</string>
   <string name="notification_warning" formatted="false">Weing opslag(minder dan %d minuten)...</string>
   <string name="open_file_explorer">Open Bestanden</string>
   <string name="overwrite_dialog_message" formatted="false">%s bestaat al. Wilt u het overschrijven?</string>
-  <string name="prefDefault_recordType">audio/3gpp</string>
-  <string name="prefDialogTitle_recordType">Selecteer bestandstype</string>
-  <string name="pref_summary_enable_high_quality">Het audio bestand met hoge kwaliteit kan groter zijn</string>
-  <string name="pref_summary_enable_sound_effect">Speel geluidseffect als status is gewijzigd</string>
-  <string name="pref_title_enable_high_quality">Hoge kwaliteit inschakelen</string>
-  <string name="pref_title_enable_sound_effect">Geluidseffect inschakelen</string>
-  <string name="pref_title_record_type">Opname bestands type</string>
   <string name="preference_led_indicator">Opname indicator wanneer scherm is vergrendeld</string>
   <string name="preference_led_indicator_prompt">Toon LED en statusbalk indicators bij opnemen en scherm vergrendeld is</string>
   <string name="preference_silent_mode">Stille modus opname</string>
   <string name="preference_silent_mode_summary">Instellen om stille modus opname in te schakelen</string> 
-  <string name="preferences_title">Instellingen</string>
   <string name="record_list">Opname lijst</string>
   <string name="record_loading">Opname laden, moment geduld.</string>
   <string name="record_name_hour">.</string>
-  <string name="record_name_minute">min</string>
   <string name="record_picker_title">Kies opname</string>
   <string name="record_saving">Opname opslaan, moment geduld!</string>
   <string name="recording">Opnemen</string>
@@ -72,7 +62,6 @@
   <string name="status_bar_anti_disturb">Telefoon staat op stil, pas volume aan om te hervatten.</string>
   <string name="status_bar_back">Klik om terug te keren naar Recorder</string>
   <string name="status_bar_recording">Opnemen...</string>
-  <string name="status_bar_recording_back">Klik om terug te keren naar Recorder</string>
   <string name="status_bar_recording_pause">"Opname is gepauzeerd. "</string>
   <string name="storage_is_full">Opslag is vol</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>

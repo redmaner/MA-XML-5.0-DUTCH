@@ -136,7 +136,6 @@ Als u de contact sync service gebruikt, contact info in de cloud zullen ook word
   <string name="clear_default">Standaardwaarden wissen</string>
   <string name="click_close">Klik om te sluiten</string>
   <string name="cloud_antispam_mark">Spam</string>
-  <string name="cloud_antispam_summary">Filter oproepen en berichten over Wi-Fi en data netwerken</string>
   <string name="cloud_antispam_title">Cloud Controle</string>
   <string name="composer_failed_to_get_database_infomation">Kan databasegegevens niet ophalen.</string>
   <string name="composer_has_no_exportable_contact">Er zijn geen exporteerbare contacten. Als u wel contacten op uw telefoon heeft opgeslagen, staat uw gegevensprovider het exporteren van contacten van de telefoon mogelijk niet toe.</string>
@@ -412,7 +411,6 @@ Als u de contact sync service gebruikt, contact info in de cloud zullen ook word
   <string name="import_weibo_fetch_followers">Sina Weibo volgers verkrijgen…</string>
   <string name="import_weibo_notification_title">Importeren Sina weibo contacten…</string>
   <string name="import_weibo_notification_title_done">Importeren voltooid</string>
-  <string name="import_weibo_progress_hint">Importeren…</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_vcard_canceled_title" formatted="false">Importeren van %s geannuleerd</string>
@@ -429,7 +427,6 @@ Als u de contact sync service gebruikt, contact info in de cloud zullen ook word
   <string name="label_notes">Opmerkingen</string>
   <string name="label_sip_address">Internetoproep</string>
   <string name="launcherDialer">Telefoon</string>
-  <string name="listAllContactsInAccount">Contacten in %s</string>
   <string name="listCustomView">Contacten in aangepaste weergave</string>
   <string name="listFoundAllContactsZero">Niets gevonden.</string>
   <string name="listSingleContact">Enkelvoudig contact</string>

@@ -8,10 +8,8 @@
   <string name="alert_message_delete_note">Wissen bevestigen?</string>
   <string name="alert_message_delete_notes">Bevestig wissen van de geselecteerde %d notities?</string>
   <string name="alert_message_discard_changes">Alle veranderingen weggooien?</string>
-  <string name="alert_message_exceed_image_limit">Een maximum van 15 foto\'s kunnen worden toegevoegd aan een notitie, maak een nieuwe notitie om meer foto\'s toe te voegen</string>
   <string name="alert_title_delete">Verwijder geselecteerde notitie</string>
   <string name="alert_title_discard">Veranderingen weggooien?</string>
-  <string name="alert_title_exceed_image_limit">Limiet van foto\'s per notitie is bereikt!</string>
   <string name="app_name">Notities</string>
   <string name="app_widget">Notities</string>
   <string name="attachment_camera">Camera</string>

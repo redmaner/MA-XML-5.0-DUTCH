@@ -28,8 +28,6 @@
   <string name="menu_settings">Zoek instellingen</string>
   <string name="remove_from_history">Verwijder uit zoek geschiedenis</string>
   <string name="remove_from_history_failed">Kan niet uit zoek geschiedenis wissen</string>
-  <string name="search_in_app_store">Zoek in markt</string>
-  <string name="search_in_web">Zoek op het web</string>
   <string name="search_settings">Zoek instellingen</string>
   <string name="search_sources">Zoekbare items</string>
   <string name="search_sources_summary">Kies</string>

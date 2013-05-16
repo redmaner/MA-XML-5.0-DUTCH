@@ -148,7 +148,6 @@
   <string name="HIPS_Perm_SMS_Desc">Toegang verkrijgen tot uw SMS inbox</string>
   <string name="HIPS_Perm_SMS_Hint">%1$s apps hebben permissie om toegang te verkrijgen tot uw SMS inbox</string>
   <string name="HIPS_Perm_SMS">SMS</string>
-  <string name="HIPS_Perm_Title">Titel</string>
   <string name="HIPS_Perm_WIFINetwork_Desc">Toegang verkijgen tot het internet door middel van WI-Fi</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s apps hebben permissie om toegang te verkrijgen tot het internet</string>
   <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>

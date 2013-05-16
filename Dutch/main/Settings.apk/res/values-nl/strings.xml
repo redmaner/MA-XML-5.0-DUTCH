@@ -115,7 +115,6 @@
   <string name="app_factory_reset_dlg_text">Alle updates van deze app van het Android-systeem worden verwijderd.</string>
   <string name="app_factory_reset_dlg_title">Updates verwijderen?</string>
   <string name="app_factory_reset">Updates verwijderen</string>
-  <string name="app_floating_window_dlg">\"%1$s\" toestaan om popup vensters te tonen</string>
   <string name="app_floating_window_dlg_disable">"uitschakelen %1$s's zwevende venster instellingen zal de app geforceerd stoppen. Weet u zeker dat u het wilt uitschakelen?"</string>
   <string name="app_floating_window_dlg_enable">"Inschakelen %1$s's zwevende venster instellingen vereist de app te herstarten. Weet u zeker dat u het wilt inschakelen?"</string> 
   <string name="app_forward_locked">App is beveiligd tegen kopiëren.</string>
@@ -164,8 +163,6 @@
   <string name="background_data_dialog_title">Achtergrondgegevens uitschakelen?</string>
   <string name="background_data_summary">Onbeperkt gegevens synchroniseren, verzenden en ontvangen</string>
   <string name="background_process_stop_description">Dit is een oud app-proces dat nog actief is voor het geval het opnieuw nodig is. Er is meestal geen reden om dit te stoppen.</string>
-  <string name="back_long_press">Terug toets</string>
-  <string name="back_long_press_timeout">"Vertraag %1$.1f seconden"</string>
   <string name="backup_configure_account_default_summary">Er is momenteel geen account ingesteld voor het opslaan van back-upgegevens</string>
   <string name="backup_configure_account_title">Back-upaccount</string>
   <string name="backup_data_summary">Een back-up van gegevens voor apps, wifi-wachtwoorden en andere instellingen maken op de Google-servers</string>
@@ -389,7 +386,6 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="bluetooth_profile_dun">Dial-up Netwerk Toegang</string>
   <string name="bluetooth_profile_headset">Telefoonaudio</string>
   <string name="bluetooth_profile_hid">Invoerapparaat</string>
-  <string name="bluetooth_profile_name">"%1$s's MIUI Telefoon"</string>
   <string name="bluetooth_profile_opp">Bestandsoverdracht</string>
   <string name="bluetooth_profile_pan">Internettoegang</string>
   <string name="bluetooth_profile_pan_nap">Internetverbinding delen</string>
@@ -655,7 +651,6 @@ Om te kiezen welke soorten informatie te synchroniseren binnen elk account, gaat
   <string name="device_cpu2_info">Dual core</string>
   <string name="device_cpu4_info">"Quad-Core "</string>
   <string name="device_cpu">CPU:</string>
-  <string name="device_default_name">Xiaomi telefoon</string>
   <string name="device_edit_title">Verander apparaat naam</string>
   <string name="device_info_default">Onbekend</string>
   <string name="device_info_label">Apparaatinfo</string>
@@ -769,8 +764,6 @@ Om te kiezen welke soorten informatie te synchroniseren binnen elk account, gaat
   <string name="empty_list_msg">U heeft geen apps van derden geïnstalleerd.</string>
   <string name="enable_adb_summary">Foutopsporingsmodus bij USB-verbinding</string>
   <string name="enable_adb">USB-foutopsporing</string>
-  <string name="enable_assist_key_long_press">Lang indrukken om de Voice app te openen</string>
-  <string name="enable_back_long_press">Lang indrukken om App te sluiten</string>
   <string name="enable_compatibility">App schalen</string>
   <string name="enable_drive_mode">Auto modus inschakelen</string>
   <string name="enableNetwork">Schakel Netwerk In</string>
@@ -1069,13 +1062,6 @@ Attentie: Dit kan niet ongedaan gemaakt worden</string>
 Attentie: Dit kan niet ongedaan gemaakt worden</string>
   <string name="master_clear_summary">Alle gegevens op de telefoon wissen</string>
   <string name="master_clear_title">Fabrieksinstellingen terug</string>
-  <string name="mdb_entering">Betreden</string>
-  <string name="mdb_restore_cancel">Annuleren</string>
-  <string name="mdb_restore_info1">"Zal uw telefoon's gegevens herstellen"</string>
-  <string name="mdb_restore_info2">Verbreek de usb connectie niet</string>
-  <string name="mdb_restore_label">Mdb Herstel</string>
-  <string name="mdb_restore_mode">Herstel Modus</string>
-  <string name="mdb_usb_disconnection_exit">USB verbroken, herstel wordt geannuleerd</string>
   <string name="media_button">Media toets</string>
   <string name="media_format_button_text">SD-kaart wissen</string>
   <string name="media_format_desc">Wilt u de SD-kaart wissen? <b>Alle</b>gegevens op de kaart gaan verloren.</string>
@@ -1111,7 +1097,6 @@ Attentie: Dit kan niet ongedaan gemaakt worden</string>
   <string name="misc_files">Diverse bestanden</string>
   <string name="misc_files_selected_count">%1$d van %2$d geselecteerd</string>
   <string name="misc_files_selected_count_bytes">%1$s van %2$s</string>
-  <string name="miui_device_default_name">Android</string>
   <string name="mms_vibrate_abbreviation">Berichten</string>
   <string name="model_number">Modelnummer</string>
   <string name="move_app_failed_dlg_text">Kan app niet verplaatsen. %1$s</string>
@@ -1308,7 +1293,6 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_optimize">Optimaliseren</string>
   <string name="perm">Permissies</string>
   <string name="perm_privacy_app_count">%1$d permissies</string>
-  <string name="perm_privacy_app_count_trust_summary">Vertrouw app</string>
   <string name="perm_privacy_app_finish">Voltooien</string>
   <string name="perm_privacy_app_installed">Installatie succesvol!</string>
   <string name="perm_privacy_app_launch">Starten</string>
@@ -1370,7 +1354,6 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Mobiel stand-by</string>
   <string name="power_idle">Telefoon inactief</string>
-  <string name="power_key">Aan/uit-knop</string>
   <string name="power_mode">Energie Modus</string>
   <string name="power_phone">Spraakoproepen</string>
   <string name="power_screen">Scherm</string>
@@ -1390,7 +1373,6 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="preferred_launcher_warning_use_system">Gebruik standaard launcher</string>
   <string name="preferred_media_app_summary">Kies Muziekspeler</string>
   <string name="pref_operational_key">Operationele toets</string>
-  <string name="pref_volume_category_title">Volume</string>
   <string name="pref_volume_wake_summary">Druk op volume toetsen opent de telefoon. Voor telefoons waar de aan/uit toets moeilijk bereikbaar is</string>
   <string name="pref_volume_wake_title">Volume rocker open</string>
   <string name="privacy_mode_enable_sum">Verberg bel geschiedenis, berichten en andere data om privacy te beschermen.</string>
@@ -1535,7 +1517,6 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="runningservicedetails_stop_dlg_title">Systeemservice stoppen?</string>
   <string name="runningservices_settings_summary">Services die momenteel actief zijn, weergeven en beheren</string>
   <string name="runningservices_settings_title">Actieve services</string>
-  <string name="safe_relative">Veilige permissie</string>
   <string name="scan_list_label">Scan resultaten:</string>
   <string name="screen_button_custom">Pas scherm-knop positie aan</string>
   <string name="screen_button_key">Virtuele scherm toetsen</string>
@@ -1675,7 +1656,6 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="show_owner_info_on_lockscreen_label">Eigenaarsgegevens weergeven op vergrendeld scherm</string>
   <string name="show_password_summary" />
   <string name="show_password">Wachtwoorden zichtbaar maken</string>
-  <string name="show_rounded_corners_summary">Herstart is nodig voor activatie</string>
   <string name="show_rounded_corners">Toon afgeronde hoeken</string>
   <string name="show_running_services">Actieve services weergeven</string>
   <string name="show_screen_updates">Schermupdates weergeven</string>

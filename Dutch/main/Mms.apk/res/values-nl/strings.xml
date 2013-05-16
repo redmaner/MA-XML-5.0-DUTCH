@@ -14,7 +14,6 @@
   <string name="add_slide">Dia toevoegen</string>
   <string name="add_slide_hint">Raak dit aan om een nieuwe dia te maken.</string>
   <string name="add_smiley">Smiley</string>
-  <string name="add_subject">Onderwerp toevoegen</string>
   <string name="add_timing">Timing</string>
   <string name="add_video">Video toevoegen</string>
   <string name="adding_attachments">De items worden toegevoegd aan de diavoorstelling. Een ogenblik geduld.</string>
@@ -86,7 +85,6 @@
   <string name="delete_bookmark">Verwijder favoriet</string>
   <string name="delete_message">Verwijderen</string>
   <string name="delete_phrase">Wis term</string>
-  <string name="delete_subject">Verwijder onderwerp</string>
   <string name="delete_unlocked">Vergrendelde berichten verwijderen</string>
   <string name="delivery_report_activity">Leveringsrapport</string>
   <string name="delivery_toast_body">Bericht ontvangen door %s.</string>

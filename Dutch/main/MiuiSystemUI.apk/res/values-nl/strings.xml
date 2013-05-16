@@ -91,13 +91,10 @@
   <string name="ext_media_badremoval_notification_title">SD-kaart onverwachts verwijderd</string>
   <string name="ext_media_checking_notification_message">Checken op fouten.</string>
   <string name="ext_media_checking_notification_title">SD-kaart voorbereiden</string>
-  <string name="ext_media_mountable_notification_message">Media gekoppeld, u kunt toegang verkrijgen via Bestandsbeheer</string>
-  <string name="ext_media_mountable_notification_title">USB opslag apparaat verbonden</string>
   <string name="ext_media_nofs_notification_message">SD-kaart is leeg of heeft een niet ondersteund bestandssysteem.</string>
   <string name="ext_media_nofs_notification_title">Lege SD-kaart</string>
   <string name="ext_media_nomedia_notification_message">SD-kaart verwijderd. Voer nieuwe media in.</string>
   <string name="ext_media_nomedia_notification_title">SD-kaart verwijderd</string>
-  <string name="ext_media_safe_remove">Media Veilig Verwijderen</string>
   <string name="ext_media_safe_unmount_notification_message">U kunt de SD-kaart veilig verwijderen.</string>
   <string name="ext_media_safe_unmount_notification_title">SD-kaart veilig om te verwijderen</string>
   <string name="ext_media_unmountable_notification_message">SD-kaart beschadigd. U zult hem opnieuw moeten formateren.</string>

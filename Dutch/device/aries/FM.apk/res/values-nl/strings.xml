@@ -75,7 +75,6 @@
   <string name="msg_searching">Zoeken naar stations om voorinstellingen lijst te maken</string>
   <string name="msg_searching_title">Auto-Selecteer Voorinstellingen</string>
   <string name="msg_seeking">Zoeken naar FM Station</string>
-  <string name="msg_unable_start_fm_title">Mislukt om FM te starten</string>
   <string name="msg_weak_searching">Zoeken naar frequenties om te zenden</string>
   <string name="no_storage">Mount SDkaart voordat opname begint.</string>
   <string name="preparing_sd">SDkaart voorbereiden</string>
@@ -90,7 +89,6 @@
   <string name="record_file_location_format">Klik om bestand te bekijken %s</string>
   <string name="record_sucess">Opname succesvol</string>
   <string name="regional_band">Regionale Band zal alle opgeslagen stations wissen</string>
-  <string name="revert_to_fac">Ga terug naar fabrieksinstellingen</string>
   <string name="search_dialog_title">Scan Stations</string>
   <string name="sel_audio_output">Selecteer Audio Uitvoer</string>
   <string name="sel_band_menu">Selecteer Regionale Band</string>
@@ -99,7 +97,6 @@
   <string name="set_sigth">Configureer Signaal Th</string>
   <string name="settings_menu">Instellingen</string>
   <string name="settings_revert_confirm_msg">Dit zal alle instellingen inclusief voorinstellingen verwijderen</string>
-  <string name="settings_revert_confirm_title">Bevestig Instelingen Reset</string>
   <string name="settings_revert_defaults_title">Herstel naar fabrieksinstellingen</string>
   <string name="spaceIsLow_content">Uw SDkaart is bijna vol. Wijzig de kwaliteitsinstelling of verwijder afbeeldingen of andere bestanden.</string>
   <string name="stat_notif_frequency">: %1$s MHz</string>

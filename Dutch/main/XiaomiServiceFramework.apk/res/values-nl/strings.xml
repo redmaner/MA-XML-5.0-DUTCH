@@ -12,12 +12,9 @@
   <string name="app_name">Xiaomi Service Framework</string>
   <string name="bad_authentication">Verificatie is mislukt, ongeldige gebruikersnaam of wachtwoord</string>
   <string name="balance">Tegoed: %1$s Mi Credit</string>
-  <string name="bind">Autoriseer</string>
-  <string name="bind_description">Sync met telefoon contacten toestaan</string>
   <string name="bind_sina_weibo">Autoriseer Sina Weibo</string>
   <string name="bind_weibo_description">Vind telefoon contacten, vrienden en andere informatie direct van uw account</string>
   <string name="binded">Aangesloten</string>
-  <string name="binding_behavior_error">Autoriseer fout!</string>
   <string name="btn_activate">Activeer</string>
   <string name="btn_back">Terug</string>
   <string name="btn_call">Telefonische ondersteuning</string>
@@ -92,7 +89,6 @@
   <string name="frozen">(Gesloten)</string>
   <string name="header_data_and_synchronization">Data &amp; synchronisatie</string>
   <string name="i_know">Ok</string>
-  <string name="imported_contacts">Geïmporteerde %s contacten</string>
   <string name="input_password_hint">Voer wachtwoord in</string>
   <string name="int_phone_user_notice">Als u registreert met een telefoonnummer buiten China voer dan uw land code in, bijv. +31xxxxxxxxx</string> 
   <string name="label_order_name">Productnaam:</string>
@@ -126,13 +122,11 @@
   <string name="micloud_reg_new">Nieuw</string>
   <string name="micloud_resend_active_email">Herstuur activatie e-mail</string>
   <string name="micloud_use_existing">Bestaande</string>
-  <string name="micloud_val_sms_alert">Een SMS zal worden verstuurd om uw telefoon nummer te valideren, volgende?</string>
   <string name="micloud_via_int_sms_alert">"Een SMS zal worden verstuurd naar uw apparaat op uw provider's berichten tarief. Weet u zeker dat u wilt doorgaan?"</string>
   <string name="micloud_via_sms_alert">Een SMS zal worden verstuurd om uw telefoon nummer te valideren. Weet u zeker dat u wilt doorgaan?</string> 
   <string name="micloud_welcome_skip_login">Sla registratie over</string>
   <string name="mili_center">Mi Credit centrum</string>
   <string name="next">Volgende</string>
-  <string name="no_sim">Geen simkaart, synchronisatie service is niet beschikbaar</string>
   <string name="nobind">Niet geautoriseerd</string>
   <string name="order_price">%1$s Mi credits</string>
   <string name="other_settings">Overige instellingen</string>
@@ -173,14 +167,8 @@
   <string name="progress_connecting">Verbinden...</string>
   <string name="progress_creating">Ophalen order informatie...</string>
   <string name="progress_downloading">Downloaden...</string>
-  <string name="progress_error_auth">Authenticatie fout, probeer het opnieuw.</string>
-  <string name="progress_error_common">Opwaardering mislukt, probeer het later nog eens.</string>
-  <string name="progress_error_network">Verbinden met netwerk mislukt, controleer netwerk status.</string>
   <string name="progress_error_pay_title">Afrekenen mislukt</string>
   <string name="progress_error_recharge_title">Top-up mislukt</string>
-  <string name="progress_error_server">Server fout, probeer het later nogmaals.</string>
-  <string name="progress_error_title">Opwaardering mislukt</string>
-  <string name="progress_error_waiting">Nog niet bijgewerkt, probeer het later nogmaals!</string>
   <string name="progress_loading">Verwerken, moment geduld a.u.b....</string>
   <string name="progress_paytool_creating">Genereer %1$s order...</string>
   <string name="progress_paytool_installing">Installeren %1$s mobiel beveiligingsplugin...</string>
@@ -189,13 +177,10 @@
   <string name="progress_submit_hint">Verwacht in circa 3 minuten</string>
   <string name="progress_submit_pay_summary">Kassabon: %1$s RMB</string>
   <string name="progress_submit_recharge_summary">To-up voor: %1$s RMB</string>
-  <string name="progress_submit_summary">Opwaardering: %1$s RMB</string>
   <string name="progress_submit_title">Opwaardeer verzoek ingediend</string>
   <string name="progress_success_pay_title">%1$s Mi Credit betaling voltooid</string>
   <string name="progress_success_recharge_summary">Account tegoed: %1$s Mi Credits</string>
   <string name="progress_success_recharge_title">%1$s Mi Credit top-up voltooid</string>
-  <string name="progress_success_summary">Account tegoed: %1$sMi credit</string>
-  <string name="progress_success_title">%1$s Mi credit opwaardering voltooid</string>
   <string name="progress_voucher_creating">Updaten Mi Credit...</string>
   <string name="progress_warning_contact_server">"Bericht is niet bezorgd maar zal snel worden verzonden: 
   1. Contacteer customer services op: %1$s 
