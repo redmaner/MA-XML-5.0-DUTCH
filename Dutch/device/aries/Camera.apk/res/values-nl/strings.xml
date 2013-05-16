@@ -87,6 +87,7 @@ Stap even uit beeld</string>
   <string name="manual">Handleiding</string>
   <string name="mimetype">MIME-type</string>
   <string name="model">Model</string>
+  <string name="no_save">Niet opslaan</string> 
   <string name="no_storage">Plaats een SD-kaart voordat u de camera gebruikt.</string>
   <string name="no_thumbnail">Geen miniatuurafbeelding</string>
   <string name="not_enough_space">Uw interne geheugen is vol.</string>
@@ -384,6 +385,7 @@ Stap even uit beeld</string>
   <string name="review_cancel">ANNULEREN</string>
   <string name="rotate_left">Linksom draaien</string>
   <string name="rotate_right">Rechtsom draaien</string>
+  <string name="save">Opslaan</string>
   <string name="select_all">Selecteer alles</string>
   <string name="select_group">Selecteer groep</string>
   <string name="select_image">Selecteer foto</string>

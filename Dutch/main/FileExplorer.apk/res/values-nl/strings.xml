@@ -67,6 +67,7 @@
   <string name="dialog_type_image">Afbeelding</string>
   <string name="dialog_type_text">Tekst</string>
   <string name="dialog_type_video">Video</string>
+  <string name="directory_info_divider">"  |  "</string> 
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Downloaden mislukt!</string>
   <string name="download_link_completed">Ik heb %1$s gedeelt via MiDrive. Klik op de onderstaande link om te bekijken: </string>
@@ -88,6 +89,7 @@
   <string name="file_loading">Laden...</string>
   <string name="file_too_large">Bestand is te groot en kan niet worden geupload</string>
   <string name="finished">Klaar</string>
+  <string name="folder_exist">De map bestaat al</string> 
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Klik hier&lt;/a&gt;om cloud prullenbank te openen</string>
   <string name="ftp_account_req_notice">Gebruikersnaam en wachtwoord, 4~16 karakters, bevat getallen, letters, hoofdlettergevoelig</string>
   <string name="ftp_anonymous_login">Anonieme FTP</string>
@@ -98,8 +100,10 @@
   <string name="ftp_transfer_secure">Beveiligde FTP overdracht</string>
   <string name="ftp_username_and_passworld">Gebruikersnaam en wachtwoord</string>
   <string name="ftp_username_hint">Gebruikersnaam</string>
+  <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
+  <string name="garbage_item_path_format" formatted="false">%s %s</string> 
   <string name="garbage_size_metric">"%s
-Junk"</string> 
+Rommel"</string> 
   <string name="gbk_summary">Wanneer u GBK codering gebruikt, zoals Windows Explorer, kies deze codering om onleesbare Chinese tekst te voorkomen</string>
   <string name="gbk_title">GBK</string>
   <string name="give_up_cleaning">Opschonen annuleren</string>
