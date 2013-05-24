@@ -95,9 +95,9 @@
   <string name="powered_by">Technisch onderhoud door MIUI.com</string>
   <string name="pref_category_adjust_traffic">Aanpassen Verbruiks Instellingen</string>
   <string name="pref_connect_settings_enable_backgroung">Achtergrond services inschakelen</string>
-  <string name="pref_connect_settings_enable_backgroung_hint">Allow auto connecting to Network when app is running in the background</string>
+  <string name="pref_connect_settings_enable_backgroung_hint">Automatisch verbinden met netwerk toestaan wanneer app draait in de achtergrond</string>
   <string name="pref_connect_settings_exceed_limit">Data uitschakelen</string>
-  <string name="pref_connect_settings_exceed_limit_hint">Notify and disconnect Internet when monthly traffic limit is exceeded</string>
+  <string name="pref_connect_settings_exceed_limit_hint">Waarschuw en verbreek Internet wanneer maandelijks verbruikslimiet is overschreden</string>
   <string name="pref_connect_settings_notify_in_statusbar">Weergeven in notificate balk</string>
   <string name="pref_connect_settings_title">Netwerk bewaking Instellingen</string>
   <string name="pref_network_speed_internal_title">Netwerk snelheid interval</string>
