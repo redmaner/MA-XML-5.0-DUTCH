@@ -29,7 +29,7 @@
   <string name="edit_station">Wijzig station</string>
   <string name="enter_rssi">Voer RMSSI Delta in</string>
   <string name="enter_sigth">Voer Signal Th in</string>
-  <string name="exit_fm">Beïndigen</string>
+  <string name="exit_fm">Beëindigen</string>
   <string name="factory_reset_dialog_message">Dit zal alle instellingen en voorinstellingen wissen</string>
   <string name="factory_reset_dialog_title">Bevestig Reset</string>
   <string name="find_af_station">Zoeken</string>

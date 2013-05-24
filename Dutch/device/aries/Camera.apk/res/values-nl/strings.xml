@@ -17,6 +17,8 @@ Stap even uit beeld</string>
   <string name="can_not_play_video">Ontgrendel scherm om af te spelen</string>
   <string name="cancel">Annuleren</string>
   <string name="cannot_connect_camera">Kan geen verbinding maken met de camera.</string>
+  <string name="cannot_connect_camera_once">"Kan geen verbinding maken met de camera, herstart de camera"</string>
+  <string name="cannot_connect_camera_twice">"Kan geen verbinding maken met de camera, herstart uw telefoon"</string>
   <string name="clear_effects">Wis effecten</string>
   <string name="close">Sluiten</string>
   <string name="confirm_change_mode_title">Modus wisselen</string>

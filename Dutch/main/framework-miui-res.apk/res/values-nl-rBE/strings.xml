@@ -252,7 +252,9 @@
   <string name="country_name_zm">ZM</string>
   <string name="country_name_zw">ZW</string>
   <string name="day_of_month">" %d"</string>
+  <string name="days">dagen</string> 
   <string name="delete">Wissen</string>
+  <string name="deprecated_alarm_message_12_hour_formate"/> 
   <string name="device_xiaomi">Xiaomi telefoon</string>
   <string name="double_seventh_day">七夕</string>
   <string name="emergency_call_string">Noodoproep</string>
@@ -293,6 +295,7 @@
   <string name="group_name_friends">Vrienden</string>
   <string name="heavy_snow" />
   <string name="hoar_frost_falls" />
+  <string name="hours">%d uren</string> 
   <string name="incorrect_pincode">Incorrecte pincode</string>
   <string name="incorrect_pincode_remaining_attempts">Incorrecte pincode, pogingen resterende %d</string>
   <string name="incorrect_pukcode">Incorrecte pukcode</string>
@@ -345,6 +348,7 @@
   <string name="lunar_zheng" />
   <string name="memory_clear_nothing_result">Geen geheugen om te wissen</string>
   <string name="memory_clear_result">"%1$s vrij | %2$s beschikbaar"</string>
+  <string name="minutes">%d minuten</string> 
   <string name="miui_copyright_title">Copyright</string>
   <string name="miui_mibi_license_title">Mi Credit Gebruikersovereenkomst</string>
   <string name="miui_device_name">Android</string>
@@ -390,6 +394,7 @@
   <string name="private_num">Privé nummer</string>
   <string name="puk_operation_failed">Pukcode operatie mislukt.</string>
   <string name="reboot_confirm">Telefoon zal herstart worden</string>
+  <string name="reboot_confirm_title">Weet u zeker dat u uw telefoon wilt herstarten?</string> 
   <string name="reboot_progress">Herstarten...</string>
   <string name="return_to_me_message">Geef terug aan eigenaar a.u.b.</string>
   <string name="reverse_all">Alles wissen</string>
@@ -411,6 +416,7 @@
   <string name="share">Delen</string>
   <string name="short_pincode_error_msg">Voer 4–8 tekens in</string>
   <string name="short_pukcode_error_msg">Voer tenminste 8 tekens in</string>
+  <string name="shutdown_confirm_title">Weet u zeker dat u uw telefoon wilt uitschakelen?</string> 
   <string name="sim_account_name">Simkaart</string>
   <string name="sim_changed_reactivate_int_notice">Huidige simkaart is niet geactiveerd. Een internationale SMS is vereist om deze service te activeren, wilt u het nu activeren?</string> 
   <string name="sim_changed_reactivate_notice">De huidige simkaart is niet geactiveerd. Een SMS is nodig om de Xiaomi Synchronisatie service te activeren. Nu heractiveren?</string>

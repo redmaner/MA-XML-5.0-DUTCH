@@ -88,7 +88,7 @@
   <string name="filter_by_duration_format">%2$dmin%5$2dsec</string>
   <string name="filter_by_duration_max">5 min</string>
   <string name="filter_by_duration_min">0 sec</string>
-  <string name="filter_by_duration_prefix">"Max lengte (in uren):"</string>
+  <string name="filter_by_duration_prefix">"Minimale lengte: "</string> 
   <string name="filter_by_duration_summary">Filter lengte is te klein voor audio bestanden</string>
   <string name="filter_by_folder">Filter op map</string>
   <string name="filter_by_folder_summary_off">Niet open, klik op de map, filter dan op map</string>

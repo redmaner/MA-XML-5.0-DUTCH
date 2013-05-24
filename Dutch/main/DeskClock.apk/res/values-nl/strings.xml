@@ -117,6 +117,7 @@ U kunt dit alarm ook annuleren."</string>
   <string name="stopwatch_title">Stopwatch</string>
   <string name="system_time_setting">Instellingen</string>
   <string name="time">Tijd</string>
+  <string name="timer_alert_alert_silenced">Timer is gestopt na %d minuten.</string> 
   <string name="timer_continue">Doorgaan</string>
   <string name="timer_got_it">Gevonden</string>
   <string name="timer_hour">U</string>

@@ -51,7 +51,7 @@
   <string name="cloud_tab_all">Alles</string>
   <string name="cloud_tab_locations">Locaties</string>
   <string name="cloudfolder_already_exists">Cloud map bestaat reeds</string>
-  <string name="confirm_delete">Verwijder</string>
+  <string name="confirm_delete">Weet u zeker dat u deze %s geselecteerde items wilt verwijderen?</string> 
   <string name="confirm_delete_album" formatted="false">Weet u zeker dat u %s albums wil verwijderen (inclusief %s items)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s foto(\'s) in %s album(s), weet u zeker dat u ze wilt wissen?</string>
   <string name="confirm_delete_folders_and_pictures">Weet u zeker dat u %s wil verwijderen?</string>

@@ -17,6 +17,8 @@
   <string name="can_not_play_video">Om de video af te spelen moet u het scherm ontgrendelen</string>
   <string name="cancel">Annuleren</string>
   <string name="cannot_connect_camera">Kan geen verbinding maken met de camera.</string>
+  <string name="cannot_connect_camera_once">"Kan geen verbinding maken met de camera, herstart de camera"</string>
+  <string name="cannot_connect_camera_twice">"Kan geen verbinding maken met de camera, herstart uw telefoon"</string>
   <string name="clear_effects">Wis effecten</string>
   <string name="close">Sluiten</string>
   <string name="confirm_change_mode_title">Modus wisselen</string>

@@ -8,8 +8,10 @@
   <string name="alert_message_delete_note">Wissen bevestigen?</string>
   <string name="alert_message_delete_notes">Bevestig wissen van de geselecteerde %d notities?</string>
   <string name="alert_message_discard_changes">Alle veranderingen weggooien?</string>
+  <string name="alert_message_edit_anyway">Deze notitie bevat inhoud die niet wordt ondersteund, aanpassen kan resulteren in gegevensverlies.</string> 
   <string name="alert_title_delete">Verwijder geselecteerde notitie</string>
   <string name="alert_title_discard">Veranderingen weggooien?</string>
+  <string name="alert_title_edit_anyway">Bevestig aanpassen notitie, dit kan dataverlies veroorzaken, weet u het zeker?</string> 
   <string name="app_name">Notities</string>
   <string name="app_widget">Notities</string>
   <string name="attachment_camera">Camera</string>
@@ -26,6 +28,7 @@
   <string name="error_note_not_exist">De notitie bestaat niet</string>
   <string name="error_sdcard_export">Exporteren mislukt, controleer SD-kaart</string>
   <string name="error_sdcard_unmounted">SD-kaart bezig, niet beschikbaar</string>
+  <string name="error_unsupport_content">Deze notitie bevat inhoud die niet wordt ondersteund, klik om het systeem te upgraden</string> 
   <string name="error_widget_exist_for_send_to_desktop">Deze notitie bestaat al op de desktop</string>
   <string name="failed_sdcard_export">Exporteren mislukt</string>
   <string name="file_name_txt_format">notities_%s.txt</string>
