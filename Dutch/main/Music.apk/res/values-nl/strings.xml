@@ -19,7 +19,7 @@
   <string name="albumsongseparator">""</string>
   <string name="all_tracks">Alle Nummers</string>
   <string name="android_album_settings">Gebruik ingebedde albumart</string>
-  <string name="android_album_summary">Het automatisch gebruik van ingebedde album- en nummer info kana tot fouten leiden</string>
+  <string name="android_album_summary">Het automatisch gebruiken van ingebedde album- en nummer info kan tot fouten leiden</string>
   <string name="artist_albums">Alle Albums</string>
   <string name="artist_details_format" formatted="false">%1$s, %2$s</string>
   <string name="artist_edit">Artiest</string>
