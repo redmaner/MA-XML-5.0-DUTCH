@@ -94,6 +94,7 @@ Als u de contact sync service gebruikt, contact info in de cloud zullen ook word
   <string name="callrecordview_item_op_time_short_incoming">Inkomende\u0020</string>
   <string name="callrecordview_item_op_time_short_outgoing">Uitgaande\u0020</string>
   <string name="callrecordview_menu_delete">Wis oproep</string>
+  <string name="callrecordview_menu_delete_new">Wis oproepen log van nieuwe contacten</string>
   <string name="callrecordview_menu_delete_accepted">Wis inkomende oproepen</string>
   <string name="callrecordview_menu_delete_all">Wis gesprekslog</string>
   <string name="callrecordview_menu_delete_called">Wis uitgaande oproepen</string>
@@ -108,6 +109,7 @@ Als u de contact sync service gebruikt, contact info in de cloud zullen ook word
   <string name="callrecordview_menu_show_all">Alle oproepen</string>
   <string name="callrecordview_menu_show_called">Gemaakte oproepen</string>
   <string name="callrecordview_menu_show_missed">Gemiste oproepen</string>
+  <string name="callrecordview_menu_show_new">Nieuwe contacten</string>
   <string name="callrecordview_menu_show_stranger">Onbekende oproepen</string>
   <string name="callrecordview_menu_show_title">Weer te geven categorie</string>
   <string name="cancel_confirmation_dialog_message">Uw wijzigingen annuleren?</string>
@@ -323,6 +325,8 @@ Als u de contact sync service gebruikt, contact info in de cloud zullen ook word
   <string name="eventLabelsGroup">Afspraken</string>
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Export naar simkaart voltooid</string>
+  <string name="export_sim_contact_finish_failure">Simkaart opslag is vol, voltooid: %1$d resterende: %2$d</string>
++  <string name="export_sim_contact_finish_success">%d contact(s) gekopiëerd van simkaart</string> 
   <string name="export_sim_contacts_dialog_message">Uw simkaart kan %d contacten bevatten, weet u zeker dat u wilt doorgaan?</string>
   <string name="export_to_sdcard">Exporteren naar opslag</string>
   <string name="export_to_sim">Exporteer naar simkaart</string>
@@ -385,7 +389,8 @@ Als u de contact sync service gebruikt, contact info in de cloud zullen ook word
   <string name="hint_distance">Houdt afstand</string>
   <string name="hint_findContacts">Contacten vinden</string>
   <string name="hint_more_contact">gebruik contacten samenvoegen bij dubbele contacten</string>
-  <string name="hint_search_contacts" formatted="false">%d contacten</string>
+  <string name="hint_search_contacts">%d contacten</string>
+  <string name="hint_search_emails">%d E-mails</string> 
   <string name="hint_search_phone_numbers">%d contact telefoonnummers</string>
   <string name="ic_menu_back">Vorige</string>
   <string name="ic_menu_done">Voltooid</string>

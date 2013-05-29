@@ -41,6 +41,7 @@
   <string name="confirm">Bevestig</string>
   <string name="correct_id3_by_internet">Auto corrigeer ID3 middels mobiel Internet</string>
   <string name="correct_id3_failed">ID3 gegevens correctie mislukt!</string>
+  <string name="correct_id3_in_processing">ID3 nummer tag gegevens corrigeren</string>
   <string name="correct_id3_not_support">ID3 correctie is niet ondersteund bij dit bestandstype.</string>
   <string name="correct_id3_open_other_connect">Zet  ID3 gegevens correctie aan middels mobiele Internet instellingen</string>
   <string name="correct_id3_settings">ID3 correctie instellingen</string>
@@ -57,8 +58,6 @@
   <string name="delete_playlist_menu">Verwijderen</string>
   <string name="delete_song_desc">“%s” zal permanent worden gewist van de SD-kaart</string>
   <string name="deselect_all">Deselecteer alle</string>
-  <string name="dirac_disabled">Dirac Uitgeschakeld</string>
-  <string name="dirac_enabled">Dirac Ingeschakeld</string>
   <string name="download">Download</string>
   <string name="download_album_settings">Cover auto downloaden</string>
   <string name="download_album_summary">Album covers auto downloaden (hoog dataverbruik)</string>
@@ -72,7 +71,6 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-  <string name="edit_playlist_menu">Bewerken</string>
   <string name="empty_edit_hint">Song informatie niet beschikbaar</string>
   <string name="emptyplaylist">Geselecteerde afspeellijst is leeg.</string>
   <string name="enter_sleep_mode">Betreed Slaap Modus</string>
@@ -161,8 +159,8 @@
   <string name="no_song_downloaded">Nummer kan niet worden gedownload</string>
   <string name="not_selected">Selecteer een nummer a.u.b.</string>
   <string name="notification_artist_album">"%2$s %1$s"</string>
-  <string name="online_music">Online Muziek</string>
   <string name="online_search_hint">Zoek naar online muziek</string>
+  <string name="online_title">Online</string>
   <string name="other_settings">Overig</string>
   <string name="overwrite_confirm">Overschrijven</string>
   <string name="play_all">Alles Afspelen</string>
@@ -178,7 +176,6 @@
   <string name="playlist_deleted_message">Afspeellijst verwijderd.</string>
   <string name="playlist_favorite">Favorieten</string>
   <string name="playlist_frequently_played">Frequent gespeeld</string>
-  <string name="playlist_new">Maak nieuwe afspeellijst</string>
   <string name="playlist_recently_added">Recentelijk toegevoegd</string>
   <string name="playlist_recently_played">Recentelijk afgespeeld</string>
   <string name="playlist_renamed_message">"Naam van afspeellijst gewijzigd in '%s'."</string>

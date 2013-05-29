@@ -74,6 +74,7 @@
   <string name="download_successful">Download succesvol</string>
   <string name="downloading">Downloaden…</string>
   <string name="enable_sd_card">SD-kaart is niet beschikbaar, gelieve één aan te sluiten</string>
+  <string name="error_filename_too_long">Bestandsnaam is te lang</string> 
   <string name="error_info_cant_send_folder">Kan de map niet versturen</string>
   <string name="error_open_file_failed_no_app_found">Geen app gevonden om bestand te openen</string> 
   <string name="fail_to_create_folder">Dit doel bevat al een map met dezelfde naam, gelieve kiest u een andere naam</string>

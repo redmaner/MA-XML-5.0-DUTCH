@@ -53,6 +53,7 @@
   <string name="error_expired_summary">Uw bestelling is verlopen</string>
   <string name="error_frozen_summary">Uw account is gesloten</string>
   <string name="error_frozen_title">Account gesloten!</string>
+  <string name="error_giftcard_summary">Niet in staat cadeaukaart info te verkrijgen</string>
   <string name="error_has_bought_summary">Dit product is al aangeschaft</string>
   <string name="error_has_bought_title">Nogmaals aanschaffen</string>
   <string name="error_illegal_order_summary">Er is een fout opgetreden tijdens het verwerken van de bestelling, probeer het later nogmaals</string>
@@ -87,6 +88,16 @@
   <string name="find_password_on_web_msg">Bezoek account.xiaomi.com om uw wachtwoord te herstellen</string>
   <string name="forget_password">" "<u>Wachtwoord vergeten</u>" "</string>
   <string name="frozen">(Gesloten)</string>
+  <string name="giftcard_acitivity_and_denomination">%2$s Mi Credit cadeaukaart van %1$s</string>
+  <string name="giftcard_denom">Mi Credit(s)</string>
+  <string name="giftcard_denom_available">Mi Credit(s) beschikbaar</string>
+  <string name="giftcard_denom_frozen">Mi Credit(s) bevroren</string>
+  <string name="giftcard_empty">Geen cadeaukaart</string>
+  <string name="giftcard_expire">%1$s-%2$s-%3$s verlopen</string>
+  <string name="giftcard_hint">"MiCredits in cadeaukaaart eerst uitgegeven
+en kan niet worden gebruikt als hij is verlopen"</string>
+  <string name="giftcard_record">Mi Credit received</string>
+  <string name="giftcard_value">(%1$s Mi Credit gift card)</string>
   <string name="header_data_and_synchronization">Data &amp; synchronisatie</string>
   <string name="i_know">Ok</string>
   <string name="input_password_hint">Voer wachtwoord in</string>
@@ -126,6 +137,7 @@
   <string name="micloud_via_sms_alert">Een SMS zal worden verstuurd om uw telefoon nummer te valideren. Weet u zeker dat u wilt doorgaan?</string> 
   <string name="micloud_welcome_skip_login">Sla registratie over</string>
   <string name="mili_center">Mi Credit centrum</string>
+  <string name="my_mili_record">Mijn Mi Credit</string>
   <string name="next">Volgende</string>
   <string name="nobind">Niet geautoriseerd</string>
   <string name="order_price">%1$s Mi credits</string>
@@ -245,18 +257,9 @@
   <string name="user_agreement_p3"> en </string>
   <string name="user_agreement_p4">Privacybeleid</string>
   <string name="user_agreement_p5">"Door in te loggen, gaat u akkoord met  "</string>
-  <string name="voucher_btn_exchange">Gebruik voucher</string>
-  <string name="voucher_btn_exchange_error">Ongeldig</string>
-  <string name="voucher_btn_has_exchanged">Voucher ingewisseld</string>
-  <string name="voucher_denom">Mi Credits</string>
   <string name="voucher_edit_hint">Wachtwoord:</string>
   <string name="voucher_edit_limit">Aanpas limiet</string>
-  <string name="voucher_empty">Geen opgeslagen Mi Credit gegevens</string>
   <string name="voucher_error_code">Er heeft zich een fout voorgedaan met uw Mi Credit voucher code</string>
-  <string name="voucher_exchange">Inwisselen</string>
-  <string name="voucher_exchange_count">Vouchers gebruikt (%1$s)</string>
-  <string name="voucher_exchange_success">%1$s Mi Credit(s) inwisseling compleet</string>
-  <string name="voucher_expire">%1$s-%2$s-%3$s verlopen</string>
-  <string name="voucher_input">Invoer</string>
+  <string name="voucher_input_password_prompt">Wachtwoord invoeren</string>
   <string name="xmpp_server_addr" />
 </resources>
