@@ -32,7 +32,6 @@ Als het toestel meerdere gebruikers heeft, het gebruik van deze snelkoppeling op
   <string name="accessibility_global_gesture_preference_summary_on">Aan</string>
   <string name="accessibility_global_gesture_preference_title">Toegankelijkheids snelkoppeling</string>
   <string name="accessibility_long_press_timeout_preference_title">Aanraak &amp; Vertraging</string>
-  <string name="accessibility_long_press_timeout_title">Vertraging voor blijven aanraken</string>
   <string name="accessibility_menu_item_settings">Instellingen</string>
   <string name="accessibility_no_services_installed">Geen services geïnstalleerd</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Aan/uit-knop beëindigt oproep</string>
@@ -72,7 +71,6 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="accessibility_sync_error">Synchronisatiefout.</string>
   <string name="accessibility_system_title">Systeem</string>
   <string name="accessibility_toggle_large_text_preference_title">Grote tekst</string>
-  <string name="accessibility_toggle_large_text_title">Grote tekst</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Update scherm vergroting bij app overgangen</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto update scherm vergroting</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Scherm vergroten</string>
@@ -1509,6 +1507,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="radio_info_band_mode_label">Radioband selecteren</string>
   <string name="radio_info_call_redirect_label">Oproep omleiden:</string>
   <string name="radio_info_call_status_label">Oproepstatus:</string>
+  <string name="radio_info_cellinfo_label">CellInfo:</string> 
   <string name="radioInfo_cid">CID</string>
   <string name="radio_info_current_network_label">Huidig netwerk:</string>
   <string name="radio_info_data_attempts_label">Gegevenspogingen:</string>
@@ -1566,7 +1565,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="recognizer_settings_title">Spraakgestuurd zoeken</string>
   <string name="recognizer_title">Spraakherkenning</string>
   <string name="recompute_size">Grootte opnieuw berekenen...</string>
- <string name="regulatory_information">Regulatory information</string>
+  <string name="regulatory_information">Wettelijk verplichte informatie</string>
   <string name="remove_account_failed">"Dit account is vereist voor sommige apps. U kunt het account alleen verwijderen door de telefoon te herstellen naar de fabrieksinstellingen (al uw persoonlijke gegevens worden gewist). U kunt dit doen via 'Instellingen' &gt; 'Back-up en herstel'."</string>
   <string name="remove_account_label">Account verwijderen</string>
   <string name="remove_device_admin">Deactiveren</string>
@@ -1590,7 +1589,12 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="roaming_reenable_title">Let op</string>
   <string name="roaming_turn_it_on_button">Inschakelen</string>
   <string name="roaming_warning">Gegevensroaming toestaan? Er kunnen hoge roamingkosten in rekening worden gebracht.</string>
+ <string name="roaming_warning_multiuser">"When you allow data roaming, you may incur significant roaming charges!
+
+This setting affects all users on this phone."</string> 
   <string name="rssi_label">RSSI:</string>
+ <string name="running_process_item_removed_user_label">Removed user</string>
+ <string name="running_process_item_user_label">User: %1$s</string> 
   <string name="running_processes_item_description_p_p">%1$d processen en %2$d services</string>
   <string name="running_processes_item_description_p_s">%1$d processen en %2$d service</string>
   <string name="running_processes_item_description_s_p">%1$d proces en %2$d services</string>
@@ -1619,14 +1623,14 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="screensaver_settings_summary_off">Uitgeschakeld</string>
   <string name="screensaver_settings_summary_on">Wordt gestart bij activeren van slaapstand indien aangesloten op stroomvoorziening</string>
   <string name="screensaver_settings_title">Screen Candy</string>
-  <string name="screensaver_test">Probeer het eens!</string>
-  <string name="screensaver_timeout_summary">Na %1$s inactiviteit</string>
-  <string name="screensaver_timeout_title">Wanneer activeren</string>
-  <string name="screensaver_timeout_zero_summary">Nooit</string>
   <string name="screen">Scherm</string>
   <string name="screen_timeout">Slaapstand</string>
   <string name="screen_timeout_summary">Na %1$s inactiviteit</string>
   <string name="screen_timeout_title">Scherm time-out</string>
+  <string name="screensaver_settings_button">Instellingen</string>
+  <string name="screensaver_settings_disabled_prompt">Om te beheren wat er gebeurd als de telefoon in een dock staat en/of slaapt, schakel Dagdroom in.</string>
+  <string name="screensaver_settings_dream_start">Nu starten</string> 
+  <string name="screensaver_settings_when_to_dream">Wanneer dagdromen</string> 
   <string name="sdcard_changes_instructions">Wijzigingen worden van kracht als de USB-kabel opnieuw wordt aangesloten</string>
   <string name="sdcard_format">SD-kaart wissen</string>
   <string name="sdcard_settings_available_bytes_label">Beschikbare bytes:</string>
@@ -1689,19 +1693,24 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="security_passwords_title">Wachtwoorden</string>
   <string name="security_privacy_settings_title">Beveiliging &amp; privacy</string>
   <string name="security_relative">Veiligheid gerelateerd</string>
+  <string name="security_settings_billing_desc">Deze app kan kosten in rekening brengen:</string> 
   <string name="security_settings_desc">Deze app heeft toegang tot de volgende opties van uw telefoon:</string>
   <string name="security_settings_desc_multi">Deze app heeft toegang tot het volgende op uw telefoon. Om de prestaties te verbeteren en geheugen gebruik te verlagen, heeft %1$s toegang tot dezelfde rechten omdat deze in hetzelfde proces draaien als %2$s:</string>
   <string name="security_settings_summary">"Mijn locatie', schermontgrendeling, simkaart- en referentieopslagvergrendeling instellen"</string>
+  <string name="security_settings_premium_sms_desc">Verzend premium SMS</string> 
   <string name="security_settings_title">Beveiliging</string>
   <string name="select_all">Alles selecteren</string>
   <string name="select_application">Selecteer applicatie</string>
   <string name="select_device_admin_msg">Apparaatbeheerders</string>
-  <string name="select_subscription">Selecteer Abonnement</string>
+  <string name="selinux_status">SELinux status</string>
+  <string name="selinux_status_disabled">Uitgeschakeld</string>
+  <string name="selinux_status_enforcing">Handhaving</string>
+  <string name="selinux_status_permissive">Toegeeflijk</string>
   <string name="sel_sub_summary">Selecteer het Abonnement voor SUB-1 en SUB-2</string>
   <string name="sel_sub_title">Configureer Abonnementen</string>
   <string name="service_background_processes">%1$s vrij</string>
   <string name="service_client_name">%1$s</string>
-  <string name="service_foreground_processes">%1$s gebr.</string>
+  <string name="service_foreground_processes">%1$s gebruikt</string>
   <string name="service_manage_description">"%1$s: momenteel in gebruik. Raak 'Instellingen' aan om dit te bedienen."</string>
   <string name="service_manage">Instellingen</string>
   <string name="service_process_name">%1$s</string>
