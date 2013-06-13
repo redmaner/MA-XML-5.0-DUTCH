@@ -362,7 +362,6 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="bluetooth_enable">Bluetooth inschakelen</string>
   <string name="bluetooth_enter_passkey_msg">Koppelen met:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Typ de vereiste toegangscode van het apparaat:</string>
   <string name="bluetooth_enter_passkey_other_device">U moet deze toegangscode wellicht ook opgeven op het andere apparaat.</string>
-  <string name="bluetooth_enter_pin_msg">"To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Type the device's required PIN:"</string>
   <string name="bluetooth_enter_pin_msg_hs">"
 Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist sleutel met 16 tekens]"</string>
   <string name="bluetooth_enter_pin_msg">Koppelen met:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Typ de vereiste pincode van het apparaat:</string>
