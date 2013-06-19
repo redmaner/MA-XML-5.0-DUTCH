@@ -12,6 +12,7 @@
    <string name="dlg_app_replacement_title">Applicatie vervangen</string>
    <string name="dlg_ok">OK</string>
    <string name="dlg_sys_app_replacement_statement">"Dit is een systeem-app. Wilt u deze app toch vervangen? Alle eerdere gebruikersgegevens worden opgeslagen."</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) zal de huidige versie (%3$s) vervangen. Gebruikers gegevens zullen bewaard blijven. Weet u zeker dat u wilt installeren?"</string> 
    <string name="done">Gereed</string>
    <string name="high_risk_perms">Hoge Risico Permissies</string>
    <string name="install_confirm_question">Wilt u deze app installeren?</string>

@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="add_account_desc">Notities kunnen gesynchroniseerd worden met uw Xiaomi account. Nu inloggen en synchroniseren?</string>
+  <string name="alert_action_edit_anyway">Doorgaan met aanpassen</string>
   <string name="alert_edit_action_delete">Verwijder</string>
   <string name="alert_edit_action_update">Bijwerken</string>
   <string name="alert_message_delete_folders">Verwijder de geselecteerde %1$s mappen?</string>

@@ -450,6 +450,7 @@ Als u de contact sync service gebruikt, contact info in de cloud zullen ook word
   <string name="loading_group_members">Groepsleden laden...</string>
   <string name="loading_groups">Groepen laden...</string>
   <string name="loading_recent">Recente contacten laden...</string>
+  <string name="loading_resource_detail_fail">Hulpbron laden mislukt!</string> 
   <string name="loading_resource_detail_info">Hulpbron info laden...</string>
   <string name="local_invisible_directory">Overig</string>
   <string name="local_profile_title">Mijn lokale profiel</string>
@@ -754,6 +755,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_title">Hulpbron Detail</string>
   <string name="resource_title_select_ringtone">Selecteer ringtone</string>
   <string name="resource_update">Update</string>
+  <string name="resource_waiting_download">Wachten op download...</string>
   <string name="restore_nickname">Herstel</string>
   <string name="ret_sign">" "</string>
   <string name="returnCall">Terugbellen</string>
