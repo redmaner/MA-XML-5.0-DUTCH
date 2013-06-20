@@ -38,11 +38,13 @@
   <string name="clean_trash_box">Prullenbak leegmaken</string>
   <string name="cleanup_complete">Opschonen succesvol</string> 
   <string name="close">Sluiten</string>
+  <string name="compress_fail">Comprimeren mislukt, bestemming bestaat al</string> 
   <string name="compress_message">Comprimeer naar:</string>
   <string name="compress_title">Comprimeer</string>
   <string name="confirm">Bevestigen</string>
   <string name="confirm_know">Bevestigen</string>
   <string name="copy_failed">Kopiëren mislukt</string>
+  <string name="create_kuaipan_shortcut_pref">Maak een snelkoppeling op de homescreen</string> 
   <string name="create_new_folder_failed">Niet gelukt om de map %1$s te maken</string>
   <string name="create_new_folder_succeeded">De map %1$s is succesvol aangemaakt</string>
   <string name="create_share_link_description">Maken te delen link…</string>
@@ -68,6 +70,8 @@
   <string name="dialog_type_text">Tekst</string>
   <string name="dialog_type_video">Video</string>
   <string name="directory_info_divider">"  |  "</string> 
+  <string name="directory_no_item">Lege map</string>
+  <string name="dlg_error_unmount_text">"Kon USB opslag niet ontkoppelen, probeer het later opnieuw."</string> 
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Downloaden mislukt!</string>
   <string name="download_link_completed">Ik heb %1$s gedeelt via MiDrive. Klik op de onderstaande link om te bekijken: </string>
@@ -78,6 +82,7 @@
   <string name="error_info_cant_send_folder">Kan de map niet versturen</string>
   <string name="error_open_file_failed_no_app_found">Geen app gevonden om bestand te openen</string> 
   <string name="fail_to_create_folder">Dit doel bevat al een map met dezelfde naam, gelieve kiest u een andere naam</string>
+  <string name="fail_to_create_folder_unknown">Kan niet maken: onbekende fout.</string>
   <string name="fail_to_rename">Dit doel bevat al een map met de gekozen naam, gelieve een andere naam te kiezen</string>
   <string name="favorite_photo">Foto</string>
   <string name="favorite_ringtone">Beltoon</string>
@@ -122,7 +127,6 @@ Rommel"</string>
   <string name="kuaipan_tech_support">Technische ondersteuning door Kingsoft Kuaipan</string>
   <string name="load_err">Laden mislukt</string>
   <string name="loading">Laden…</string>
-  <string name="local_cache">Lokale cache</string>
   <string name="local_cache_size">Loake cache grootte: %s</string>
   <string name="login_reg_content">MiDrive helpt u om uw bestanden te synchroniseren tussen meerdere apparaten.</string>
   <string name="login_reg_content0">KuaiPan is uw Cloud schijf</string>
@@ -146,6 +150,9 @@ Rommel"</string>
   <string name="no_app_cache_indication">Geen applicatie cache</string>
   <string name="no_app_garbage_indication">Geen applicatie rommel</string>
   <string name="no_empty_dir_indication">Geen lege directories</string> 
+  <string name="no_enough_space">Niet genoeg ruimte</string>
+  <string name="no_enough_storage_indication">Niet genoeg ruimte beschikbaar, plakken mislukt. Verwijder onnodige bestanden en probeer het opnieuw, of gebruik Bestand Opschonen voor meer ruimte.</string>
+  <string name="no_enough_storage_title">Niet genoeg ruimte beschikbaar</string> 
   <string name="no_file">Geen bestanden</string>
   <string name="no_more_space">Geen vrije ruimte</string>
   <string name="no_tasks">Geen taken</string>
@@ -199,7 +206,7 @@ Rommel"</string>
   <string name="rename_description">Hernoemen, even geduld a.u.b.…</string>
   <string name="rename_failed">Hernoemen van bestand %1$s is mislukt</string>
   <string name="restart_cleaning">Herstarten</string> 
-  <string name="scanning">Scannen...</string>
+  <string name="scanning" formatted="false">Scannen %d app ... (totaal %d apps)</string>
   <string name="scanning_on_going">Scannen...</string>
   <string name="sd_card_available">Ruimte beschikbaar:%1$s</string>
   <string name="sd_card_size">SD-kaart:%1$s</string>

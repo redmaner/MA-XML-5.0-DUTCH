@@ -712,6 +712,8 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="recent_contacts_label">Recent</string>
   <string name="recent_number">Recent</string>
   <string name="recent_updates">Recente updates</string>
+  <string name="redirect_calls_to_vm_confirm_message">Als u de provider nog niet op de hoogte hebt gebracht van dit werk, zet het dit niet aan. Anders kunt u misschien geen oproepen ontvangen van dit contact.</string>
+  <string name="redirect_calls_to_vm_confirm_text">Aanzetten</string> 
   <string name="relationLabelsGroup">Relatie</string>
   <string name="remind_btn_ignore">Negeren</string>
   <string name="remind_btn_sync_now">Nu</string>
