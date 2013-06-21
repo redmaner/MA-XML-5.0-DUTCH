@@ -38,6 +38,8 @@
   <string name="add_xiaomi_account_warning">U moet eerst me uw Xiaomi account inloggen</string>
   <string name="added_to_bookmarks">Toegevoegd aan bladwijzers.</string>
   <string name="allow">Toestaan</string>
+  <string name="app_new_version">U heeft al de laatste versie gedownload</string>
+  <string name="app_update_install">Nieuwe versie gedownload en is klaar voor installatie</string> 
   <string name="application_name">Browser</string>
   <string name="autofill_profile_editor_address_line_1">Adresregel 1:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Adres, postbus, t.a.v.</string>
@@ -98,6 +100,7 @@
   <string name="clear">Wissen</string>
   <string name="clear_history">Geschiedenis wissen</string>
   <string name="clear_history_group">Geschiedenis wissen</string> 
+  <string name="clip_dialog_title">Open gekopiëerde link?</string> 
   <string name="containing_folder">Toevoegen aan</string>
   <string name="contextheader_folder_bookmarkcount">%d bladwijzers</string>
   <string name="contextheader_folder_empty">Lege map</string>
@@ -127,6 +130,8 @@
   <string name="delete_multi_bookmarks_alert_title">Weet u zeker dat u deze %1$s items wilt wissen?</string>
   <string name="disable_autofill">Automatisch aanvullen uitschakelen</string>
   <string name="do_not_save">Annuleren</string>
+  <string name="download_complete">Download voltooid</string>
+  <string name="download_failed">Download mislukt</string> 
   <string name="download_no_sdcard_dlg_msg">"USB-opslag vereist om '%s' te downloaden."</string>
   <string name="download_no_sdcard_dlg_title">USB-opslag niet beschikb.</string>
   <string name="download_pending">Downloaden starten...</string>
@@ -273,12 +278,14 @@
   <string name="pref_content_open_in_background">Openen op achtergrond</string>
   <string name="pref_content_open_in_background_summary">Nieuwe tabbladen openen achter het huidige tabblad</string>
   <string name="pref_content_plugins">Plug-ins inschakelen</string>
+  <string name="pref_content_preload_title">Inhoud voorladen</string> 
   <string name="pref_content_search_engine">Zoekmachine instellen</string>
   <string name="pref_content_search_engine_summary">Selecteer een zoekmachine</string>
   <string name="pref_content_title">Pagina-inhoud</string>
   <string name="pref_data_preload_dialogtitle">Zoekresultaten vooraf laden</string>
   <string name="pref_data_preload_summary">Browser toestaan resultaten met hoog betrouwbaarheidsniveau vooraf te laden</string>
   <string name="pref_data_preload_title">Zoekresultaten vooraf laden</string>
+  <string name="pref_data_preload_value_never_summary">Browser niet toestaan gevoelige resultaten te openen in de achtergrond</string> 
   <string name="pref_data_title">Bandbreedtebeheer</string>
   <string name="pref_default_text_encoding">Tekstcodering</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>
@@ -320,6 +327,13 @@
   <string name="pref_general_sync_title">Synchronisatie</string>
   <string name="pref_general_title">Algemeen</string>
   <string name="pref_gesture_title">Gebaren acties</string>
+  <string name="pref_image_display_control">Afbeelding weergave beheer</string>
+  <string name="pref_images_preload_dialogtitle">Voorladen afbeeldingen...</string>
+  <string name="pref_images_preload_summary">" Browser toestaan afbeeldingen voor te laden wanneer het wordt ondersteund door de server"</string>
+  <string name="pref_images_preload_title">Afbeelding voorladen</string>
+  <string name="pref_images_preload_value_always_summary">Browser altijd toestaan afbeeldingen voor te laden wanneer het wordt ondersteund door de server</string>
+  <string name="pref_images_preload_value_never_summary">Browser nooit toestaan afbeeldingen voor te laden</string>
+  <string name="pref_images_preload_value_wifi_only_summary">Afbeeldingen alleen met WI-FI voorladen</string>
   <string name="pref_inverted">Omgekeerde opbouw</string>
   <string name="pref_inverted_category">Omgekeerde opbouw van scherm</string>
   <string name="pref_inverted_contrast">Contrast</string>
@@ -334,6 +348,7 @@
   <string name="pref_link_prefetch_dialogtitle">Webpagina voorladen</string>
   <string name="pref_link_prefetch_summary">Sta browser toe om webpagina op de achtergrond in te laden</string>
   <string name="pref_link_prefetch_title">Webpagina voorladen</string>
+  <string name="pref_link_prefetch_value_never_summary">"Browser nooit toestaan gelinkte webpagina's te voorladen in de achtergrond"</string>
   <string name="pref_min_font_size">Minimum lettergrootte</string>
   <string name="pref_min_font_size_value">%d pt</string>
   <string name="pref_privacy_clear_cache">Cache wissen</string>
@@ -384,6 +399,7 @@
   <string name="pref_video_preload_dialogtitle">Video bufferen...</string>
   <string name="pref_video_preload_summary">Sta browser toe video te bufferen wanneer de server dit ondersteunt</string>
   <string name="pref_video_preload_title">Video bufferen</string>
+  <string name="pref_video_preload_value_never_summary">"Browser nooit toestaan video's voor te laden"</string> 
   <string name="pref_volume_key_enabled">Volume toetsen</string>
   <string name="pref_volume_key_operation">Operatie voor volume toetsen</string>
   <string name="pref_zoom_on_double_tap">Zoomen bij dubbeltikken</string>
