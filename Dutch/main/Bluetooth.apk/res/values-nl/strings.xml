@@ -88,6 +88,9 @@
   <string name="map_notif_title">Sessie Sleutel verzoek voor MAP</string>
   <string name="map_session_key_dialog_header">Bluetooth sessiesleutel vereist</string>
   <string name="map_session_key_dialog_title">Voer sessiesleutel in voor %1$s</string>
+  <string name="miui_transfer_history_title">Bluetooth overdracht geschiedenis</string>
+  <string name="miui_transfer_inbound_title">Inkomend</string>
+  <string name="miui_transfer_outbound_title">Uitgaand</string>
   <string name="no_transfers">Overdrachtlijst is leeg</string>
   <string name="not_exist_file">Bestand bestaat niet</string>
   <string name="not_exist_file_desc">Bestand bestaat niet</string>

@@ -107,6 +107,7 @@ en kan niet worden gebruikt als hij is verlopen"</string>
   <string name="login">Inloggen</string>
   <string name="login_failed">Aanmelden mislukt</string>
   <string name="login_notice">Aanmelden...</string>
+  <string name="memu_refresh">Vernieuwen</string> 
   <string name="mibi_license_message">Xiaomi Mi Credit service. Door op Ok te klikken gaat u akkoord met %1$s.</string>
   <string name="mibi_license_message_span">Mi Credit Gebruiker overeenkomst</string>
   <string name="mibi_license_title">Mi Credit Gebruiker overeenkomst</string>

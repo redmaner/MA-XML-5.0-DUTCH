@@ -23,6 +23,7 @@
   <string name="app_detail_internet_control_category">Netwerk beheer</string>
   <string name="app_detail_title">App Details</string>
   <string name="app_detail_version">Versie: %s</string>
+  <string name="app_has_deleted">%s is verwijderd.</string>
   <string name="app_name">Monitor</string>
   <string name="app_traffic_detail">Verbruik (%s)</string>
   <string name="apply_rules_failed">"Toepassen firewall mislukt, a.u.b probeer opnieuw. (%s)"</string>

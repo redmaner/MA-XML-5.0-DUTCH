@@ -53,6 +53,7 @@ Stap even uit beeld</string>
   <string name="dialog_ok">OK</string>
   <string name="disable_video_snapshot_hint">Video Snapshot wordt uitgeschakeld wanneer speciale effecten zijn ingeschakeld.</string>
   <string name="download_by_browser">Download met browser</string> 
+  <string name="download_wechat">Download WeChat</string>
   <string name="duration">Duur</string>
   <string name="edit">Bewerk</string>
   <string name="effect_backdropper_disco">Disco</string>
@@ -80,6 +81,7 @@ Stap even uit beeld</string>
   <string name="find_mecard_qrcode">Vind bezoekkaart QR code</string>
   <string name="find_other_qrcode">Vind QR code</string>
   <string name="find_web_qrcode">Vind website QR code</string>
+  <string name="find_wechat_qrcode">Vind een WeChat QR code</string>
   <string name="find_weixin_qrcode">Vind weixin QR code</string> 
   <string name="flash">Flits</string>
   <string name="flash_off">Geen flits</string>
@@ -103,6 +105,7 @@ Stap even uit beeld</string>
   <string name="import_fail">Importeren mislukt!</string>
   <string name="iso">ISO</string>
   <string name="launch_market">Open PlayStore</string>
+  <string name="launch_wechat">Open WeChat</string>
   <string name="loading">Laden...</string>
   <string name="loading_video">Laden video...</string>
   <string name="location">Locatie</string>
@@ -451,6 +454,7 @@ Stap even uit beeld</string>
   <string name="web_url_apk_warning">De geselecteerde QR code bevat een app die een risico kan veroorzaken, zoek de app via de PlayStore</string>
   <string name="web_url_warning">De website QR code kan een risico veroorzaken, MIUI browser zal de QR code veilig voor uw scannen.</string>
   <string name="website_details">"Website details: "</string>
+  <string name="wechat_details">WeChat details:</string> 
   <string name="weixin_details">"Weixin details: "</string> 
   <string name="white_balance">Witbalans</string>
   <string name="width">Breedte</string>

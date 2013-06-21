@@ -261,6 +261,8 @@
   <string name="pref_summary_mms_retrieval_during_roaming">Berichten automatisch ophalen tijdens roaming</string>
   <string name="pref_summary_new_message_popup">Geef een pop up bij nieuwe berichten</string>
   <string name="pref_summary_new_message_popup_when_secure">Pop ups zijn uitgeschakeld wanneer SMS applicatie is beveiligt met wachtwoord</string>
+  <string name="pref_summary_notification_body_enabled">Voorbeeld berichten op vergrendelscherm en statusbalk</string>
+  <string name="pref_summary_notification_body_enabled_when_secure">Voorbeeld berichten uitgeschakeld als toegangscontrole is ingeschakeld</string>
   <string name="pref_summary_on_system_mms_priority">Systeem mms app krijgt prioriteit voor ontvangst</string>
   <string name="pref_summary_show_recent_contacts">Toon lijst met recente contacten tijdens het opstellen van een nieuw bericht</string>
   <string name="pref_summary_wake_up_screen">Scherm gaat aan bij binnenkomende berichten</string>
@@ -276,6 +278,7 @@
   <string name="pref_title_mms_read_reports">Leesbevestiging</string>
   <string name="pref_title_mms_retrieval_during_roaming">Ophalen tijdens roaming</string>
   <string name="pref_title_new_message_popup">Pop up nieuwe berichten</string>
+  <string name="pref_title_notification_body_enabled">Toon voorbeeld</string> 
   <string name="pref_title_ringtone_repeat">Herhaling meldingsgeluid</string>
   <string name="pref_title_show_recent_contacts">Toon recente contacten</string>
   <string name="pref_title_sms_delete">Limiet voor sms</string>
@@ -392,6 +395,7 @@
   <string name="too_many_recipients">Bericht bevat te veel ontvangers (%1$s). De limiet is %2$s ontvangers.</string>
   <string name="too_many_unsent_mms">"Kan bericht nu niet verzenden. Er zijn teveel onverzonden multimedia berichten."</string>
   <string name="try_to_send">Poging tot verzenden</string>
+  <string name="type_attachment">bijlage</string>
   <string name="type_audio">audio</string>
   <string name="type_picture">foto</string>
   <string name="type_to_compose_text_enter_to_send">Typ een bericht</string>

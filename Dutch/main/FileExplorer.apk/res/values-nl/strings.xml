@@ -11,6 +11,8 @@
   <string name="app_name">Bestandsbeheer</string>
   <string name="application_size_label">App</string> 
   <string name="background">Download op de achtergrond</string>
+  <string name="big5_summary">De standaard encoding van de traditionele Chinese Windows systeem versie</string>
+  <string name="big5_title">BIG5</string> 
   <string name="bind_account">Koppel aan MiDrive account</string>
   <string name="bind_account_summary">Indien u al een KuaiPan account heeft kunt u het toevoegen om persoonlijke data op te halen</string>
   <string name="binded_accout_description">Accounts zijn samengevoegd, gebruik uw Xiaomi account of KuaiPan account om in te loggen, beiden kunnen uw data lezen</string>
@@ -121,6 +123,7 @@ Rommel"</string>
   <string name="instruction">Voer het volgende adres in uw FTP-client:</string>
   <string name="instruction_pre">Druk op de knop om de FTP server in te schakelen</string>
   <string name="item_name">Geen naam</string> 
+  <string name="kuaipan_label">Kuaipan</string> 
   <string name="kuaipan_over_space">Uw MiDrive heeft geen vrije ruimte meer beschikbaar.</string>
   <string name="kuaipan_prompt">MiDrive Help</string>
   <string name="kuaipan_prompt_message">"De server is momenteel onbereikbaar, probeer het later nogmaals"</string>
@@ -259,6 +262,7 @@ Rommel"</string>
   <string name="ui_main_toast_favorite_removed">Favoriet(en) verwijdert</string>
   <string name="ui_main_toast_operation_failed">Verwijderen favoriet %1$s mislukt.</string>
   <string name="uninstall_app_data">Verwijder App en gegevens</string>
+  <string name="unmount_inform_text">USB opslag wordt ontkoppeld.</string> 
   <string name="upload_failed">Upload mislukt!</string>  
   <string name="upload_file_toolarge_message">%1$d bestanden groter dan 300 MB kunnen niet worden geupload. Bekijk Overdracht Management voor details.</string>
   <string name="upload_successful">Upload succesvol</string>

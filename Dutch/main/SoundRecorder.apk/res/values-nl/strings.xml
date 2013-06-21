@@ -42,6 +42,8 @@
   <string name="overwrite_dialog_message" formatted="false">%s bestaat al. Wilt u het overschrijven?</string>
   <string name="preference_led_indicator">Opname indicator wanneer scherm is vergrendeld</string>
   <string name="preference_led_indicator_prompt">Toon LED en statusbalk indicators bij opnemen en scherm vergrendeld is</string>
+  <string name="preference_record_type_dialog_title">Selecteer een opname type</string>
+  <string name="preference_record_type_title">Opname type</string> 
   <string name="preference_silent_mode">Stille modus opname</string>
   <string name="preference_silent_mode_summary">Instellen om stille modus opname in te schakelen</string> 
   <string name="record_list">Opname lijst</string>
