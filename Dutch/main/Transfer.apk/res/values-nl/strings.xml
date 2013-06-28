@@ -25,7 +25,7 @@
   <string name="error_network">Netwerk fout opgetreden</string>
   <string name="error_not_enough_space">Niet genoeg ruimte op apparaat</string> 
   <string name="error_not_selected">Er zijn geen bestanden geselecteerd</string>
-  <string name="error_peer_disconnected">Peer verbroken/string>
+  <string name="error_peer_disconnected">Peer verbroken</string>
   <string name="error_select">Bestand fout of er is geen bestand geselecteerd</string>
   <string name="error_transmit">Overdracht fout</string>
   <string name="error_upload">Upload mislukt</string> 
