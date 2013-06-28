@@ -224,7 +224,7 @@
   <string name="location">Adres</string>
   <string name="max_tabs_warning">Er zijn niet meer tabbladen beschikbaar</string>
   <string name="menu_disable_night_mode">Zet nachtmodus uit</string>
-  <string name="menu_enable_night_mode">Zet natchmodus aan</string>
+  <string name="menu_enable_night_mode">Zet nachtmodus aan</string>
   <string name="menu_exit">Afsluiten</string>
   <string name="menu_preferences">Instellingen</string>
   <string name="menu_save_snapshot">Opslaan voor offline lezen</string>

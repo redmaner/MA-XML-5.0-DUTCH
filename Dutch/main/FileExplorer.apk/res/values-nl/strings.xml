@@ -5,9 +5,9 @@
   <string name="adding_upload_tasks">Uploadtaken toevoegen.</string>
   <string name="app_cache_cleanup_indication">%s cache</string>
   <string name="app_cache_title">App cache</string>
-  <string name="app_garbage_cleanup_indication">%s app rommel</string>
+  <string name="app_garbage_cleanup_indication">%s app afval</string>
   <string name="app_garbage_path">Locatie:</string>
-  <string name="app_garbage_title">App rommel</string> 
+  <string name="app_garbage_title">App afval</string> 
   <string name="app_name">Bestandsbeheer</string>
   <string name="application_size_label">App</string> 
   <string name="background">Download op de achtergrond</string>
@@ -116,10 +116,10 @@ Rommel"</string>
   <string name="gbk_summary">Wanneer u GBK codering gebruikt, zoals Windows Explorer, kies deze codering om onleesbare Chinese tekst te voorkomen</string>
   <string name="gbk_title">GBK</string>
   <string name="give_up_cleaning">Opschonen annuleren</string>
-  <string name="header_text_cleaned">Rommel gewist</string>
-  <string name="header_text_cleaning">Opschonen overgebleven rommel</string>
-  <string name="header_text_scanned">Rommel bestanden gevonden om te wissen</string>
-  <string name="header_text_scanning">Scannen rommel bestanden…</string> 
+  <string name="header_text_cleaned">Afval gewist</string>
+  <string name="header_text_cleaning">Opschonen overgebleven afval</string>
+  <string name="header_text_scanned">Afval bestanden gevonden om te wissen</string>
+  <string name="header_text_scanning">Scannen afval bestanden…</string> 
   <string name="instruction">Voer het volgende adres in uw FTP-client:</string>
   <string name="instruction_pre">Druk op de knop om de FTP server in te schakelen</string>
   <string name="item_name">Geen naam</string> 
@@ -151,7 +151,7 @@ Rommel"</string>
   <string name="new_folder_name">Nieuw map</string>
   <string name="no">Nee</string>
   <string name="no_app_cache_indication">Geen applicatie cache</string>
-  <string name="no_app_garbage_indication">Geen applicatie rommel</string>
+  <string name="no_app_garbage_indication">Geen applicatie afval</string>
   <string name="no_empty_dir_indication">Geen lege directories</string> 
   <string name="no_enough_space">Niet genoeg ruimte</string>
   <string name="no_enough_storage_indication">Niet genoeg ruimte beschikbaar, plakken mislukt. Verwijder onnodige bestanden en probeer het opnieuw, of gebruik Bestand Opschonen voor meer ruimte.</string>

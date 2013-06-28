@@ -181,6 +181,8 @@
   <string name="playlist_renamed_message">"Naam van afspeellijst gewijzigd in '%s'."</string>
   <string name="playlists_title">Afspeellijsten</string>
   <string name="powered_by">Ondersteuning door</string>
+  <string name="project_device">Xiaomi MiBox</string>
+  <string name="project_device_mobile">Mobiel apparaat</string> 
   <string name="queue">Huidige afspeellijst</string>
   <string name="quit_player">Afsluiten</string>
   <string name="quit_warining">Speler zal stoppen na %d minuut(en)</string>
