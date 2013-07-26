@@ -144,7 +144,7 @@
   <string name="verify_and_apply_dialog_title">Controleren en toepassen van update</string>
   <string name="view_install_log">Toon Log</string>
   <string name="view_upgrade_tutorial">Bekijk tutorial</string>
-  <string name="weekly_build">Weekelijkse Build</string>
+  <string name="weekly_build">Wekelijkse Build</string>
   <string name="wifi_not_available_body">ROM bestanden zijn groot, Wi-Fi wordt aanbevolen om te downloaden. Op het moment is er geen Wi-Fi verbinding, wilt u doorgaan met downloaden?</string>
   <string name="wifi_not_available_title">Wi-Fi niet beschikbaar</string>
   <string name="worst_update">3. Slechtste update</string>
