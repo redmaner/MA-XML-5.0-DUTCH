@@ -338,4 +338,10 @@
         <item>Animatieschaal 5x</item>
         <item>Animatieschaal 10x</item>
     </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>Face unlock</item>
+        <item>Patroon</item>
+        <item>Pincode</item>
+        <item>Gemixt</item>
+    </string-array> 
 </resources>

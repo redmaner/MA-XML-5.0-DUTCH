@@ -138,8 +138,10 @@
   <string name="theme_component_title_ringtone">Beltonen</string>
   <string name="theme_component_title_statusbar">Statusbalk</string>
   <string name="theme_component_title_wallpaper">Achtergronden</string>
+  <string name="theme_current_using_has_update">Het huidige theme is geüpdatet, klik hier om toe te passen</string>
   <string name="theme_description_title_customized">Aangepast</string>
   <string name="theme_description_title_default">Standaard</string>
+  <string name="theme_immediately_apply_tip">Het thema is geüpdatet, meteen toepassen?</string>
   <string name="theme_import_activity_label">Thema bijwerken</string>
   <string name="theme_import_data">Thema data importeren</string>
   <string name="theme_import_fail">Importeren van %1$s mislukt</string>
@@ -161,6 +163,7 @@
   <string name="theme_import_preparing">Lokale thema\'s scanning</string>
   <string name="theme_import_stoping">Stoppen...</string>
   <string name="theme_is_imported">Thema geïmporteerd</string>
+  <string name="theme_name">%1$s</string>
   <string name="theme_sdcard_importing">Importeren van SD-kaart</string>
   <string name="theme_select_others">Overige</string>
   <string name="theme_upgrade_request_cancel">Annuleren</string>

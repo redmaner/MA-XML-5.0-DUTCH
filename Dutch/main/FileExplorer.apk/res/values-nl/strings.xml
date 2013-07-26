@@ -19,6 +19,7 @@
   <string name="binded_accout_title">KuaiPan account</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_app_garbage_cleanup">App opschonen annuleren</string> 
+  <string name="cancel_with_count_down">(%d) annuleren</string> 
   <string name="category_all">Alles</string>
   <string name="category_apk">"Apk's"</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -38,7 +39,10 @@
   <string name="clean_message">%1$s ruimte vrijgemaakt</string>
   <string name="clean_title">Verwijder bestanden, ouder dan 30 dagen, in de Prullenbak</string>
   <string name="clean_trash_box">Prullenbak leegmaken</string>
+  <string name="cleaned">Opschonen voltooid</string>
+  <string name="cleaning">Opschonen...</string>
   <string name="cleanup_complete">Opschonen succesvol</string> 
+  <string name="cleanup_stopped">Opschonen geannuleerd</string> 
   <string name="close">Sluiten</string>
   <string name="compress_fail">Comprimeren mislukt, bestemming bestaat al</string> 
   <string name="compress_message">Comprimeer naar:</string>
@@ -46,6 +50,7 @@
   <string name="confirm">Bevestigen</string>
   <string name="confirm_know">Bevestigen</string>
   <string name="copy_failed">Kopiëren mislukt</string>
+  <string name="count_down_time">Start na %d seconden</string> 
   <string name="create_kuaipan_shortcut_pref">Maak een snelkoppeling op de homescreen</string> 
   <string name="create_new_folder_failed">Niet gelukt om de map %1$s te maken</string>
   <string name="create_new_folder_succeeded">De map %1$s is succesvol aangemaakt</string>
@@ -89,6 +94,7 @@
   <string name="favorite_photo">Foto</string>
   <string name="favorite_ringtone">Beltoon</string>
   <string name="favorite_screen_cap">MIUI Schermafdruk</string>
+  <string name="file_cleanup">Bestand opschoning</string> 
   <string name="file_info_canread">Leesbaar:</string>
   <string name="file_info_canwrite">Schrijfbaar:</string>
   <string name="file_info_ishidden">Verborgen:</string>
@@ -209,6 +215,7 @@ Rommel"</string>
   <string name="rename_description">Hernoemen, even geduld a.u.b.…</string>
   <string name="rename_failed">Hernoemen van bestand %1$s is mislukt</string>
   <string name="restart_cleaning">Herstarten</string> 
+  <string name="scanned">Scan voltooid</string> 
   <string name="scanning" formatted="false">Scannen %d app ... (totaal %d apps)</string>
   <string name="scanning_on_going">Scannen...</string>
   <string name="sd_card_available">Ruimte beschikbaar:%1$s</string>

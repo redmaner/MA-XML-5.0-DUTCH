@@ -7,7 +7,8 @@
   <string name="add_sharer">Deelgenoot toevoegen</string>
   <string name="add_to_cloud_album">Toevoegen aan Cloud</string>
   <string name="add_to_cloud_fail_too_many_items">Operatie mislukt, te veel artikelen geselecteerd</string>
-  <string name="add_to_cloud_folder">Voeg toe aan Cloud map</string>
+  <string name="add_to_cloud_failed_message_with_count">%s item(s) kunnen niet worden toegevoegd aan cloud albums</string>
+  <string name="add_to_cloud_folder">Voeg toe aan Cloud album</string>
   <string name="adding_recipients">Ontvangers toevoegen...</string>
   <string name="album_name">Album naam</string>
   <string name="album_share_stat_content">Nieuwe uitnodigingen album delen</string>
@@ -187,6 +188,7 @@
   <string name="menu_item_sort_visit_desc">Frequentie aflopend</string>
   <string name="menu_view_contact">Bekijk contact</string>
   <string name="message_no_delete_access">Toegang geweigerd. Kan bestand niet verwijderen: %s</string>
+  <string name="message_no_delete_access_with_count">Kan %d bestand(en) of map(pen) niet verwijderen. Wees er zeker van dat ze bestaan en permissie hebben.</string>
   <string name="messagelist_sender_self">Ik</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk kleuren</string>

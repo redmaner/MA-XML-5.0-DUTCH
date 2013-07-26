@@ -88,6 +88,8 @@
   <string name="time_picker_dialog_title">Stel notificatie tijd in</string>
   <string name="toast_message_add_image_fail">invoegen afbeelding milukt!</string>
   <string name="toast_privacy_mode">Kan geen notitie bewerken in bewaakte modus</string> 
+  <string name="toast_reach_text_limit_attachment">De inhoud van deze notitie is te lang om nieuwe bijlagen toe te voegen.</string>
+  <string name="toast_reach_text_limit_truncate">"De inhoud van deze notitie is geknipt omdat deze te lang is."</string>
   <string name="widget_havenot_content">Geen bijbehorende notitie gevonden, klik om te bijbehorende notitie te maken</string>
   <string name="widget_under_visit_mode">Prive modus, kan de inhoud van de opmerking niet zien</string>
 </resources>

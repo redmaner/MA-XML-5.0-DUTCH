@@ -3,6 +3,13 @@
    <string name="app_label">Opslag contacten</string>
    <string name="call_log_provider_label">Bel log</string>
    <string name="create_contact">Nieuw contact aanmaken</string>
+   <string name="debug_dump_database_message">U staat op het punt om 1) een kopie te maken van uw database met alle contact gerelateerde informatie en oproeplogs op het interne geheugen, en 2) de database e-mailen. Onthoud om de kopie te verwijderen zodra u het succesvol hebt gekopiëerd van het apparaat of de email is ontvangen.</string>
+   <string name="debug_dump_delete_button">Nu verwijderen</string>
+   <string name="debug_dump_email_body">Mijn contacten database met al mijn contacten informatie is bijgevoegd. Gebruik het met zorg.</string>
+   <string name="debug_dump_email_sender_picker">Kies een programma om uw bestand te verzenden</string>
+   <string name="debug_dump_email_subject">Contacten DB bijgevoegd</string>
+   <string name="debug_dump_start_button">Start</string>
+   <string name="debug_dump_title">Contacten database kopiëren</string>
    <string name="default_directory">Contacten</string>
    <string name="edit_contact">Contact bewerken</string>
    <string name="local_invisible_directory">Overig</string>
