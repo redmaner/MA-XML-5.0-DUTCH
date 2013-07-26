@@ -149,7 +149,7 @@
   <string name="unknown_version">Onbekende versie</string>
   <string name="update_fail">Bijwerken mislukt</string>
   <string name="update_no_network">Bijwerken mislukt, controleer uw netwerk verbinding.</string>
-  <string name="update_success">Succesvol bijgewerkt</string>
+  <string name="update_success">Bijwerken succesvol</string>
   <string name="updating">Bijwerken...</string>
   <string name="used_flux">Data verbruik</string>
   <string name="version_label">"Versie: "</string>

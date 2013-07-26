@@ -416,11 +416,11 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="import_to_xiaomi_account_title">Wilt u de volgende contacten naar uw Xiaomi account?</string>
   <string name="import_vcard_description">Importeer contacten van SD-kaart</string>
   <string name="import_weibo_dialog_title">Importeer Sina weibo contacten</string>
-  <string name="import_weibo_error_no_matched_contacts">Contacten updaten voltooid: geen overeenkomende contacten</string>
-  <string name="import_weibo_error_no_network">Contacten updaten voltooid: netwerk problemen</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Contacten updaten voltooid: geen telefoonnummers gevonden onder Xiaomi account</string>
-  <string name="import_weibo_error_unknown">Contacten updaten voltooid: onbekende fout</string>
-  <string name="import_weibo_error_user_cancel">Contacten updaten voltooid: door gebruiker gestopt</string> 
+  <string name="import_weibo_error_no_matched_contacts">Contacten bijwerken voltooid: geen overeenkomende contacten</string>
+  <string name="import_weibo_error_no_network">Contacten bijwerken voltooid: netwerk problemen</string>
+  <string name="import_weibo_error_no_xiaomi_phone">Contacten bijwerken voltooid: geen telefoonnummers gevonden onder Xiaomi account</string>
+  <string name="import_weibo_error_unknown">Contacten bijwerken voltooid: onbekende fout</string>
+  <string name="import_weibo_error_user_cancel">Contacten bijwerken voltooid: door gebruiker gestopt</string> 
   <string name="import_weibo_fetch_followers">Sina Weibo volgers verkrijgen...</string>
   <string name="import_weibo_notification_title">Sina weibo contacten importeren...</string>
   <string name="import_weibo_notification_title_done">Importeren voltooid</string>

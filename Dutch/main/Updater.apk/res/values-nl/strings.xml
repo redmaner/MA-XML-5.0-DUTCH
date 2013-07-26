@@ -11,13 +11,13 @@
   <string name="apply_now_button_text">Nu toepassen</string>
   <string name="apply_unable_to_reboot_toast">Kan niet in recovery modus opstarten</string>
   <string name="apply_update_dialog_cancel_button">Annuleer update</string>
-  <string name="apply_update_dialog_update_button">Update</string>
+  <string name="apply_update_dialog_update_button">Bijwerken</string>
   <string name="apply_update_fail">Systeem update fout</string>
   <string name="apply_update_timer">Update voltooid，toestel zal herstarten in %d seconden</string>
   <string name="apply_upload_info_message">Update toepassen?</string>
   <string name="apply_upload_info_message_manually">Uitschakelen, start Recovery handmatig om de update toe te passen op SD-kaart, in de %s. Als u een backup wilt, backup en ga terug naar systeem update</string>
   <string name="applying_rom_message">Toepassen ROM</string>
-  <string name="applying_update">Updaten</string>
+  <string name="applying_update">Bijwerken</string>
   <string name="best_update">2. Beste update</string>
   <string name="boot_recovery">Herstart recovery</string>
   <string name="cancel_download_buton_text">Annuleer download</string>
@@ -103,8 +103,8 @@
   <string name="share_qq">Post het via Tencent weibo</string>
   <string name="share_sina">Post het via Sina weibo</string>
   <string name="share_update">Deel systeem update info</string>
-  <string name="share_update_content_sign">Ik heb MIUI geupdate naar %1$s! Mijn update gebruikers ranglijst is %2$s. Voor gedetailleerde changelog, bezoek http://www.miui.com</string>
-  <string name="share_update_content_unsign">Ik heb MIUI geupdate naar %s! Voor gedetailleerde changelog, bezoek http://www.miui.com</string>
+  <string name="share_update_content_sign">Ik heb MIUI bijgewerkt naar %1$s! Mijn update gebruikers ranglijst is %2$s. Voor gedetailleerde changelog, bezoek http://www.miui.com</string>
+  <string name="share_update_content_unsign">Ik heb MIUI bijgewerkt naar %s! Voor gedetailleerde changelog, bezoek http://www.miui.com</string>
   <string name="sign_in_add_account">Activeer uw Xiaomi accout</string>
   <string name="sign_in_add_account_helper">Uw telefoon heeft geen MIUI account geconfigureerd, creëer één voor punten</string>
   <string name="sign_in_info">"Uw update ranglijst is %1$s %2$s gebruikers zijn ingelogd op MIUI %3$s"</string>

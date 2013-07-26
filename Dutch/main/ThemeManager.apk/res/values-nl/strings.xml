@@ -107,7 +107,7 @@
   <string name="resource_tip_select_ringtone">Geen beltoon geselecteerd</string>
   <string name="resource_title">Hulpbron Detail</string>
   <string name="resource_title_select_ringtone">Selecteer beltoon</string>
-  <string name="resource_update">Update</string>
+  <string name="resource_update">Bijwerken</string>
   <string name="restore_default_theme_alert">U bent mogelijk het slachtoffer van thema namaak, blader door de thema markt om te kopen of om opnieuw te downloaden.</string>
   <string name="sdcard_status_changed_dialog_message">"Deze app wordt afgesloten. Heropen de app om hulpbronnen te vernieuwen."</string>
   <string name="sdcard_status_changed_dialog_title">SD-kaart status veranderd</string>  
@@ -138,10 +138,10 @@
   <string name="theme_component_title_ringtone">Beltonen</string>
   <string name="theme_component_title_statusbar">Statusbalk</string>
   <string name="theme_component_title_wallpaper">Achtergronden</string>
-  <string name="theme_current_using_has_update">Het huidige theme is geüpdatet, klik hier om toe te passen</string>
+  <string name="theme_current_using_has_update">Het huidige thema is bijgewerkt, klik hier om toe te passen</string>
   <string name="theme_description_title_customized">Aangepast</string>
   <string name="theme_description_title_default">Standaard</string>
-  <string name="theme_immediately_apply_tip">Het thema is geüpdatet, meteen toepassen?</string>
+  <string name="theme_immediately_apply_tip">Het thema is bijgewerkt, meteen toepassen?</string>
   <string name="theme_import_activity_label">Thema bijwerken</string>
   <string name="theme_import_data">Thema data importeren</string>
   <string name="theme_import_fail">Importeren van %1$s mislukt</string>

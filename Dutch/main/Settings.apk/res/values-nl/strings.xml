@@ -2052,10 +2052,10 @@ Pogingen Resterende :"</string>
 
 Nadat u een gebruiker heeft gemaakt, moet die persoon door een instellings proces.
 
-Elke gebruiker kan geupdated app permissies accepteren voor alle gebruikers."</string>
+Elke gebruiker kan bijgewerkte app permissies accepteren voor alle gebruikers."</string>
  <string name="user_add_user_message_short">"Nadat u een gebruiker heeft gemaakt, moet die persoon door een instellings proces.
 
-Elke gebruiker kan geupdated app permissies accepteren voor alle gebruikers."</string>
+Elke gebruiker kan bijgewerkte app permissies accepteren voor alle gebruikers."</string>
   <string name="user_add_user_title">Nieuwe gebruiker toevoegen</string>
   <string name="user_adding_new_user">Nieuwe gebruiker toevoegen…</string>
   <string name="user_cannot_manage_message">"Alleen de telefoon's eigenaar kan gebruikers beheren."</string>
@@ -2139,7 +2139,7 @@ Elke gebruiker kan geupdated app permissies accepteren voor alle gebruikers."</s
   <string name="virus_scanner_auto_update">Automatische update</string>
   <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
   <string name="virus_scanner_lib_already_latest">Virus database is actueel</string>
-  <string name="virus_scanner_lib_update_failed">Virus database update mislukt!</string>
+  <string name="virus_scanner_lib_update_failed">Virus database bijwerken mislukt!</string>
   <string name="virus_scanner_lib_updating">Bijwerken database...</string>
   <string name="virus_scanner_manual_update">Handmatig bijwerken</string>
   <string name="virus_scanner_provider">Veiligheid verzorgd door %s</string>
@@ -2152,7 +2152,7 @@ Elke gebruiker kan geupdated app permissies accepteren voor alle gebruikers."</s
   <string name="virus_scanner_select_single">Selecteer meest vertrouwde virus database</string>
   <string name="virus_scanner_select_trust_lib">Selecteer vertrouwde Virus bibliotheek</string>
   <string name="virus_scanner_title">Anti Virus</string>
-  <string name="virus_scanner_update_lib">Update database</string>
+  <string name="virus_scanner_update_lib">Database bijwerken</string>
   <string name="voice_category">Spraak</string>
   <string name="voice_input_output_settings">Spraakinvoer en -uitvoer</string>
   <string name="voice_input_output_settings_title">Instellingen voor spraakinvoer en -uitvoer</string>

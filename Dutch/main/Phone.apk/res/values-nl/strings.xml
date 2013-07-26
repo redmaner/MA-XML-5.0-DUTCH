@@ -274,8 +274,8 @@
     <string name="contactAddFailed">Contact toevoegen aan simkaart mislukt!</string>
     <string name="contactAddSuccess">Contact succesvol toegevoegd aan simkaart</string>
     <string name="contactPhoto">foto contactpersoon</string>
-    <string name="contactUpdateFailed">Contact updaten op simkaart mislukt!</string>
-    <string name="contactUpdateSuccess">Contact succesvol geupdate op simkaart</string>
+    <string name="contactUpdateFailed">Contact bijwerken op simkaart mislukt!</string>
+    <string name="contactUpdateSuccess">Contact succesvol bijgewerkt op simkaart</string>
     <string name="contactdeleteFailed">Contact verwijderen van simkaart mislukt!</string>
     <string name="contactdeleteSuccess">Contact succesvol verwijderd van simkaart</string>
     <string name="contacts_icon_label_miui">Contacten</string>
@@ -722,10 +722,10 @@ Toch overschakelen op de nieuwe provider?"</string>
     <string name="pin2_attempts">"Pogingen Resterende :"</string>
     <string name="pin2_changed">Pincode gewijzigd</string>
     <string name="pin2_changed_miui">Pincode met succes gewijzigd</string>
-    <string name="pin2_invalid">FDN niet geupdate: u heeft een onjuiste pincode ingevoerd.</string>
+    <string name="pin2_invalid">FDN niet bijgewerkt: u heeft een onjuiste pincode ingevoerd.</string>
     <string name="pin2_lock_warning_miui">"Pincode wordt geblokkeerd bij foute ingeving."</string>
     <string name="pin2_locked_message_miui">Foutieve pincode2 en de pincode2 gerelateerde functies zijn geblokkeerd. Reset pincode2 met de pukcode2.</string>
-    <string name="pin2_or_fdn_invalid">FDN was niet geupdate. Pincode2 fout of het telefoonnummer was afgewezen</string>
+    <string name="pin2_or_fdn_invalid">FDN was niet bijgewerkt. Pincode2 fout of het telefoonnummer was afgewezen</string>
     <string name="pin2_unblocked">Pincode2 gedeblokkeerd!</string>
     <string name="pin_attempts_miui">U heeft nog %d pogingen</string>
     <string name="pin_changed">Simkaart pincode gewijzigd</string>

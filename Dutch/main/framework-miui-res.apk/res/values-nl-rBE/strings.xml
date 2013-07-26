@@ -377,7 +377,7 @@
   <string name="payphone">Telefooncel</string>
   <string name="peace_day">Dag van de vrede</string>
   <string name="perm_auto_backup">Automatische backup</string>
-  <string name="perm_data_update_dspt">Toegestaan om data watermerk te updaten</string>
+  <string name="perm_data_update_dspt">Toegestaan om data watermerk bij te werken</string>
   <string name="perm_data_update_lab">Data update</string>
   <string name="perm_payment_dspt">Sta app toe om te betalen via Xiaomi betaal service</string>
   <string name="perm_payment_lab">Xiaomi betaal service</string>
