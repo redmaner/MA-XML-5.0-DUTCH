@@ -25,9 +25,3 @@ http://miui.connortumbleson.com/dev_guide
 It can be used in other languages to be included in multi language ROM
 
 ---------------------------------------------------------------------------------------------
-
-For more information regarding the support of this REPO for specific apk's and devices.
-
-Please see the Doc included in this REPO: 
-
-SUPPORT
