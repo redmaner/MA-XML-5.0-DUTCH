@@ -255,8 +255,10 @@
   <string name="days">dagen</string> 
   <string name="delete">Wissen</string>
   <string name="deprecated_alarm_message_12_hour_formate"/> 
+  <string name="device_hongmi">Hongmi telefoon</string> 
   <string name="device_xiaomi">Xiaomi telefoon</string>
   <string name="emergency_call_string">Noodoproep</string>
+  <string name="err_resource_leak">Helaas, %1$s is gestopt vanwege een hulpbron lek.</string> 
   <string name="error_forbidden">Uw account heeft problemen. Sync uitgeschakeld.</string>
   <string name="error_not_acceptable">Server fout. Sync uitgeschakeld.</string>
   <string name="error_title">Sync fout voor %s</string>

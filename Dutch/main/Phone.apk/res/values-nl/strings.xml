@@ -772,6 +772,7 @@ Toch overschakelen op de nieuwe provider?"</string>
     <string name="preferred_network_type_pref_entries_global_miui">Global</string>
     <string name="preferred_network_type_pref_entries_only_2g_miui">Alleen 2G (stroombesparend)</string>
     <string name="preferred_network_type_pref_entries_only_3g_miui">Alleen 3G</string>
+    <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title_miui">Selectie netwerktype</string>
     <string name="primary_account_summary_with">Primair account. %s</string>
     <string name="private_num">Privénummer</string>

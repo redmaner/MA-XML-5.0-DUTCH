@@ -8,6 +8,7 @@
   <string name="account_type_format">%1$s contact</string>
   <string name="actionIncomingCall">Inkomende oproepen</string>
   <string name="action_menu_overflow_description">Meer opties</string>
+  <string name="activity_not_found_uri">Geen ondersteunde applicatie gevonden!</string> 
   <string name="activity_title_confirm_add_detail">Voeg toe aan contact</string>
   <string name="activity_title_contacts_filter">Zichtbare contacten</string>
   <string name="activity_title_settings">Instellingen</string>
@@ -154,6 +155,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="config_prohibited_phone_number_regexp" />
   <string name="confirm_delete_contact_all_call_logs">Weet u zeker dat u de telefoonlogs van %s wil verwijderen?</string>
   <string name="confirm_delete_selected_all_call_logs">"Weet u zeker dat u telefoonlogs van dit contact wil verwijderen"?</string>
+  <string name="confirm_delete_sim_entry_miui">%d geselecteerde contacten van de simkaart verwijderen?</string> 
   <string name="confirm_export_message" formatted="false">Uw lijst met contacten wordt geëxporteerd naar het bestand: %s.</string>
   <string name="confirm_export_title">Contacten export.?</string>
   <string name="connections">Verbindingen</string>
@@ -209,7 +211,11 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="delete_duplicate_message">"Samenvoegen ... "</string>
   <string name="delete_group_dialog_message" formatted="false">"De groep '%1$s' verwijderen? (De contacten zelf worden niet verwijderd.)"</string>
   <string name="delete_group_dialog_title">Groep verwijderen</string>
+  <string name="delete_selected_sim_entry_miui">Verwijder geselecteerde contacten?</string>
+  <string name="delete_sim_entries_finish">Geselcteerde simkaart contacten succesvol verwijderd</string>
+  <string name="delete_sim_entry_miui">Verwijder simkaart contacten</string> 
   <string name="delete_unknown_contact_calllog_title">"Bevestig het verwijderen van de oproep log van dit onbekende contact?"</string>
+  <string name="deleting_sim_entry_miui">Contacten van simkaart verwijderen</string> 
   <string name="description_add_contact">Contact toevoegen</string>
   <string name="description_author">Auteur:</string>
   <string name="description_call">%1$s bellen</string>
@@ -399,6 +405,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="ic_menu_done">Voltooid</string>
   <string name="imLabelsGroup">Chat</string>
   <string name="imei">IMEI-nummer</string>
+  <string name="import_all_sim_entries_miui">Importeer alle contacten</string>
   <string name="import_all_vcard_string">Alle vCard-bestanden importeren</string>
   <string name="import_contact_card_button">Importeer</string>
   <string name="import_failure_no_vcard_file">Geen vCard-bestand gevonden in opslag.</string>
@@ -409,6 +416,9 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="import_name">naam</string>
   <string name="import_one_vcard_string">E&#195;&#169;n vCard-bestand importeren</string>
   <string name="import_percent">0%</string>
+  <string name="import_selected_sim_entries_miui">Importeer geselecteerde contacten</string>
+  <string name="import_sim_entries_finish">Importeren simkaart contacten succesvol voltooid</string>
+  <string name="import_sim_entry_miui">Importeer van simkaart</string> 
   <string name="import_to_xiaomi_account_confirm">Importeer</string>
   <string name="import_to_xiaomi_account_progress_finish">Importeren voltooid</string>
   <string name="import_to_xiaomi_account_progress_message">Importeren...</string>
@@ -426,6 +436,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="import_weibo_notification_title_done">Importeren voltooid</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
+  <string name="importing_sim_contacts_miui">Importeren simkaart contacten...</string> 
   <string name="importing_vcard_canceled_title" formatted="false">Importeren van %s geannuleerd</string>
   <string name="importing_vcard_description" formatted="false">%s importeren</string>
   <string name="importing_vcard_finished_title" formatted="false">Importeren van vCard %s voltooid</string>
@@ -700,12 +711,14 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="processing">Verwerken...</string>
   <string name="profile_display_name">Mijn profiel instellen</string>
   <string name="profile_name">Mijn profiel</string>
+  <string name="profile_name_photo">I</string> 
   <string name="progress_notifier_message" formatted="false">Importeren %s/%s: %s</string>
   <string name="quickcontact_missing_app">Er is geen app gevonden om deze actie uit te voeren.</string>
   <string name="quit_dialog_confirm_title">Contact samenvoegen afsluiten?</string>
   <string name="readOnlyContactDeleteConfirmation">Dit contact bevat gegevens uit meerdere accounts. Gegevens uit alleen-lezen accounts worden verborgen in uw contactenlijst, maar niet verwijderd.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" bevat informatie uit meerdere accounts. Informatie uit alleen-lezen accounts zal worden verborgen in uw contactlijst maar niet worden verwijdert.</string>
   <string name="readOnlyContactWarning">U kunt contacten niet verwijderen uit alleen-lezen-accounts, maar u kunt ze verbergen in uw contactenlijst.</string>
+  <string name="readingSimContacts">Simkaart informatie lezen, een moment geduld...</string> 
   <string name="reading_vcard_canceled_title">Lezen vCard-data geannuleerd</string>
   <string name="reading_vcard_failed_title">Kan vCard-gegevens niet lezen</string>
   <string name="rebuild_t9_index_dialog_message">T9 index data opnieuw opbouwen…</string>
@@ -809,10 +822,14 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="shortcutDialContact">Direct bellen</string>
   <string name="shortcutMessageContact">Direct bericht</string>
   <string name="showAllContactsJoinItem">Alle contacten weergeven</string>
+  <string name="simContacts_airplaneMode">Om contacten van de simkaart te importeren moet u vliegtuigmodus uitschakelen.</string>
+  <string name="simContacts_empty">Geen contacten gevonden op de simkaart.</string>
   <string name="simContacts_emptyLoading">Laden vanaf simkaart...</string>
   <string name="simContacts_title">Contacten op simkaart</string>
   <string name="sim_card_no_free_space_message">Uw simkaart is vol, niet mogelijk nieuwe contacten te importeren. Wis uw simkaart en probeer opnieuw</string>
   <string name="sim_card_no_free_space_title">simkaart vol</string>
+  <string name="sim_contact_dropdown_menu_deselect_all_miui">Alles deselecteren</string>
+  <string name="sim_contact_dropdown_menu_select_all_miui">Alles selecteren</string> 
   <string name="sim_contact_search_error">Fout bij zoeken van contacten op simkaart</string>
   <string name="sim_contacts">Simkaart Contacten</string>
   <string name="sim_export_loading">Simkaart informatie wordt gelezen. Even geduld, dit kan een minuut duren.</string>
@@ -874,13 +891,15 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="title_other_devices">Andere beschikbare apparaten</string>
   <string name="title_paired_devices">Gekoppelde Apparaten</string>
   <string name="toast_call_detail_error">Kan geen gegevens over het gevraagde gesprek vinden.</string>
+  <string name="toast_copy_done">Kopiëren succesvol voltooid</string>
+  <string name="toast_copying">Kopiëren, een moment geduld...</string>
   <string name="toast_displaying_all_contacts">Alle contacten weergeven</string>
   <string name="toast_finish_delete_call_log">Oproep record(s) zijn verwijderd</string>
   <string name="toast_for_failed_saving_nickname">Opslaan van wijzigingen mislukt</string>
   <string name="toast_for_saving_nickname">Wijzigingen opslaan</string>
   <string name="toast_join_with_empty_contact">Geef een contactnaam op voordat u dit contact samenvoegt met een ander contact.</string>
   <string name="toast_making_personal_copy">Een persoonlijke kopie maken...</string>
-  <string name="toast_text_copied">Tekst gekopieerd</string>
+  <string name="toast_text_copied">Tekst gekopiëerd</string>
   <string name="today">Vandaag</string>
   <string name="type_incoming">Inkomende oproep</string>
   <string name="type_missed">Oproep gemist</string>

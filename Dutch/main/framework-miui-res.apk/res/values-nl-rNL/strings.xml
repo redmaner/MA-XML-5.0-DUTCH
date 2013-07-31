@@ -255,8 +255,10 @@
   <string name="days">dagen</string> 
   <string name="delete">Wissen</string>
   <string name="deprecated_alarm_message_12_hour_formate"/> 
+  <string name="device_hongmi">Hongmi telefoon</string> 
   <string name="device_xiaomi">Xiaomi telefoon</string>
   <string name="emergency_call_string">Noodoproep</string>
+  <string name="err_resource_leak">Helaas, %1$s is gestopt vanwege een hulpbron lek.</string> 
   <string name="error_forbidden">Uw account heeft problemen. Sync uitgeschakeld.</string>
   <string name="error_not_acceptable">Server fout. Sync uitgeschakeld.</string>
   <string name="error_title">Sync fout voor %s</string>
@@ -377,7 +379,7 @@
   <string name="payphone">Telefooncel</string>
   <string name="peace_day">Dag van de vrede</string>
   <string name="perm_auto_backup">Automatische backup</string>
-  <string name="perm_data_update_dspt">Toegestaan om data watermerk te bij te werken</string>
+  <string name="perm_data_update_dspt">Toegestaan om data watermerk bij te werken</string>
   <string name="perm_data_update_lab">Data update</string>
   <string name="perm_payment_dspt">Sta app toe om te betalen via Xiaomi betaal service</string>
   <string name="perm_payment_lab">Xiaomi betaal service</string>

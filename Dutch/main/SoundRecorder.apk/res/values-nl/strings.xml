@@ -18,6 +18,9 @@
   <string name="dialog_send">Verstuur</string>
   <string name="dialog_title_storage_full">Opslag vol</string>
   <string name="dialog_warning">Waarschuwing</string>
+  <string name="duration_format_hour">%sh</string>
+  <string name="duration_format_minute">%sm</string>
+  <string name="duration_format_second">%ss</string> 
   <string name="error_app_internal">Interne toepassingsfout</string>
   <string name="error_app_internal_title">Geluidsrecorder fout</string>
   <string name="error_mediadb_new_record">Kan opgenomen audio niet opslaan</string>
@@ -32,6 +35,7 @@
   <string name="max_length_reached">Maximumlengte is bereikt</string>
   <string name="menu_settings">Instellingen</string>
   <string name="menu_view_record_list">Toon opname lijst</string>
+  <string name="message_file_size_error">Opname heeft de maximale ondersteunde opname tijd bereikt voor %s</string>
   <string name="minute" formatted="false">%d minuten</string>
   <string name="no_file">Geen opname</string>
   <string name="notification_playback">Opname afspelen…</string>
@@ -67,5 +71,6 @@
   <string name="status_bar_recording_pause">"Opname is gepauzeerd. "</string>
   <string name="storage_is_full">Opslag is vol</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
+  <string name="toast_max_record_time">App: %1$s maximale ondersteunde opname tijd %2$s</string> 
   <string name="unknown_caller">Onbekende beller</string>
 </resources>
