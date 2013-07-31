@@ -225,10 +225,9 @@ Stap even uit beeld</string>
   <string name="pref_camera_jpegquality_entry_normal">Normaal</string>
   <string name="pref_camera_jpegquality_entry_superfine">Superfijn</string>
   <string name="pref_camera_jpegquality_title">Beeldkwaliteit</string>
-  <string name="pref_camera_long_pressing_burst_shooting_default">on</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Uit</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_on">Aan</string>
-  <string name="pref_camera_long_pressing_burst_shooting_title">Burst Shooting</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Focus</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_on">Burst Shoot</string>
+  <string name="pref_camera_long_pressing_burst_shooting_title">Ontspanknop actie</string> 
   <string name="pref_camera_movie_solid_default">on</string>
   <string name="pref_camera_movie_solid_entry_off">Uit</string>
   <string name="pref_camera_movie_solid_entry_on">Aan</string>
