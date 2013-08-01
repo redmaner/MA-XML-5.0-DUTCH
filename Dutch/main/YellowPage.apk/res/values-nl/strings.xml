@@ -15,7 +15,7 @@
   <string name="confirm_delete_call_log_title">Verwijder oproeplog?</string>
   <string name="contact_detail_calllog_call_note_tips">Oproep notities</string>
   <string name="contact_detail_calllog_call_record_tips">Oproeplog</string>
-  <string name="custom_mark_category">Custom</string>
+  <string name="custom_mark_category">Aangepast</string>
   <string name="data_error">Sorry, huidige service is niet beschikbaar, probeer het later opnieuw</string>
   <string name="delete">Verwijderen</string>
   <string name="mark_number_custom_dialog_maintitle">Accepteren of corrigeer de markering</string>

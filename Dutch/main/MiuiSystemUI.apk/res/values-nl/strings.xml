@@ -105,6 +105,9 @@
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Locatie ingesteld door GPS</string>
   <string name="gps_notification_searching_text">Zoeken naar GPS</string>
+  <string name="headset_custom">Aanpassen</string>
+  <string name="headset_info">Knop functies aanpassen</string>
+  <string name="headset_settings">Oortjes verbonden</string> 
   <string name="invalid_charger">"USP opladen niet ondersteund. Gebruik alleen de bijgeleverde oplader."</string>
   <string name="key_position_custom">Aangepaste sleutelpositie</string>
   <string name="label_view">Zicht</string>
@@ -220,7 +223,7 @@
   <string name="status_bar_time_format_12">h:mma</string>
   <string name="status_bar_time_format_24">HH:mm</string>
   <string name="status_bar_toggle_ac">Toegangscontrole</string>
-  <string name="status_bar_toggle_bluetooth">BT</string>
+  <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Helderheid</string>
   <string name="status_bar_toggle_auto_brightness">Auto-Helderheid</string>
   <string name="status_bar_toggle_data">Data</string>
@@ -238,7 +241,7 @@
   <string name="status_bar_toggle_shutdown">Uitschakelen</string>
   <string name="status_bar_toggle_sync">Sync</string>
   <string name="status_bar_toggle_torch">Zaklamp</string>
-  <string name="status_bar_toggle_vibrate">Vibratie</string>
+  <string name="status_bar_toggle_vibrate">Trillen</string>
   <string name="status_bar_toggle_wifi">WI-FI</string>
   <string name="status_bar_toggle_power_mode">Power mode</string>
   <string name="status_bar_toggle_drive_mode">Rijden</string>
