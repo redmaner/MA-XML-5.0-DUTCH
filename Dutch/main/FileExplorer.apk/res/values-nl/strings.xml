@@ -3,6 +3,7 @@
   <string name="account_bind_prompt">"Verhuizen van gebruikersgegevens, uw account wordt tijdelijk vergrendeld, a.u.b. een moment geduld..."</string>
   <string name="add_task">Taak toevoegen</string>
   <string name="adding_upload_tasks">Uploadtaken toevoegen.</string>
+  <string name="already_signin_description">U bent al ingelogd</string> 
   <string name="app_cache_cleanup_indication">%s cache</string>
   <string name="app_cache_title">App cache</string>
   <string name="app_garbage_cleanup_indication">%s app afval</string>
@@ -41,7 +42,7 @@
   <string name="clean_trash_box">Prullenbak leegmaken</string>
   <string name="cleaned">Opschonen voltooid</string>
   <string name="cleaning">Opschonen...</string>
-  <string name="cleanup_complete">Opschonen succesvol</string> 
+  <string name="cleanup_complete">Voltooien</string> 
   <string name="cleanup_stopped">Opschonen geannuleerd</string> 
   <string name="close">Sluiten</string>
   <string name="compress_fail">Comprimeren mislukt, bestemming bestaat al</string> 
@@ -124,7 +125,7 @@ Rommel"</string>
   <string name="give_up_cleaning">Opschonen annuleren</string>
   <string name="header_text_cleaned">Afval gewist</string>
   <string name="header_text_cleaning">Opschonen overgebleven afval</string>
-  <string name="header_text_scanned">Afval bestanden gevonden om te wissen</string>
+  <string name="header_text_scanned">Bestanden gevonden om te wissen</string>
   <string name="header_text_scanning">Scannen afval bestanden…</string> 
   <string name="instruction">Voer het volgende adres in uw FTP-client:</string>
   <string name="instruction_pre">Druk op de knop om de FTP server in te schakelen</string>
@@ -211,7 +212,9 @@ Rommel"</string>
   <string name="operation_unfavorite">Verwijderen uit Favorieten</string>
   <string name="pan_settting">MiDrive settings</string>
   <string name="paused">Gepauzeerd</string>
+  <string name="pull_to_signin">Sleep naar beneden om in te loggen en krijg gratis opslag</string> 
   <string name="query_bind_state">Berekenen bind status, moment geduld...</string>
+  <string name="release_to_signin">Loslaten om in te loggen</string> 
   <string name="rename_description">Hernoemen, even geduld a.u.b.…</string>
   <string name="rename_failed">Hernoemen van bestand %1$s is mislukt</string>
   <string name="restart_cleaning">Herstarten</string> 
@@ -231,6 +234,10 @@ Rommel"</string>
   <string name="server_control_settings">Server Instellingen</string>
   <string name="share_link_failed">Niet gelukt om link te delen, probeer het nogmaals!</string>
   <string name="show_message">Bestand kan niet geopened worden zonder te downloaden</string>
+  <string name="sign_description">Inloggen...</string>
+  <string name="signin_error">Newerk momenteel onbereikbaar, probeer het opnieuw</string>
+  <string name="signin_success">"Inloggen succesvol!
+Krijg gratis opslag %1$s"</string> 
   <string name="space_info">MiDrive ruimte: %1$ beschikbaar, %2$s in totaal</string>
   <string name="space_usage">Ruimte gebruikt</string>
   <string name="start_cleanup">Start opschonen</string>
@@ -249,7 +256,7 @@ Rommel"</string>
   <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_phone">Telefoon</string>
   <string name="temp_file_cleanup_indication">%s tijdelijke bestanden</string>
-  <string name="temp_file_title">Tijdeleijke bestanden</string>
+  <string name="temp_file_title">Tijdelijke bestanden</string>
   <string name="thumbnail_cleanup_indication">%s thumbnails</string>
   <string name="thumbnail_title">Thumbnail bestanden</string> 
   <string name="toast_file_not_can_read">Het bestand is onleesbaar.</string>
@@ -264,6 +271,7 @@ Rommel"</string>
   <string name="ui_bar_txt_upload_progress">Uploaden...</string>
   <string name="ui_filechange_btn_download">Download bestanden</string>
   <string name="ui_filechange_btn_upload">Upload bestanden</string> 
+  <string name="ui_main_menu_option_sign_in">Inloggen</string> 
   <string name="ui_main_menu_option_task_manage">Overdracht Management</string>
   <string name="ui_main_progress_txt_open_file">Downloaden...</string>
   <string name="ui_main_toast_favorite_removed">Favoriet(en) verwijdert</string>

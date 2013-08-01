@@ -317,6 +317,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="display_warn_remove_ungrouped" formatted="false">"Als u '%s' verwijdert uit de synchronisatie, worden ook contacten die niet bij een groep horen uit de synchronisatie verwijderd."</string>
   <string name="download_failed">Download mislukt!</string>
   <string name="download_preview_failed">Laden preview mislukt</string>
+  <string name="duplicate_group_name">Groepnaam bestaat al</string>
   <string name="editContactDescription">Contact bewerken</string>
   <string name="editGroupDescription">Bewerk groep</string>
   <string name="edit_contact">Contact bewerken</string>

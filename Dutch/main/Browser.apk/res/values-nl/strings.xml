@@ -99,7 +99,7 @@
   <string name="choosertitle_sharevia">Delen via</string>
   <string name="clear">Wissen</string>
   <string name="clear_history">Geschiedenis wissen</string>
-  <string name="clear_history_group">Geschiedenis wissen</string> 
+  <string name="clear_history_group">Alle %s geschiedenis wissen</string> 
   <string name="clip_dialog_title">Open gekopiëerde link?</string> 
   <string name="close_all_tab_alert_message">Wilt u alle tabs sluiten?</string>
   <string name="close_all_tab_alert_title">Alle tabs sluiten</string>
@@ -268,7 +268,7 @@
   <string name="open_all_bookmarks">Alles openen</string>
   <string name="open_all_in_new_window">Alle bladwijzers openen op nieuwe tabbladen</string>
   <string name="open_bookmark">Openen</string>
-  <string name="open_history_group_in_new_window">Open alle geschiedenis items in een nieuw venster</string>
+  <string name="open_history_group_in_new_window">Open alle %s geschiedenis items in een nieuw venster</string>
   <string name="open_history_most_visited_group_in_new_window">"Open alle meest bezochte webpagina's"</string> 
   <string name="other_bookmarks">Andere bladwijzers</string>
   <string name="page_info">Pagina-informatie</string>

@@ -17,7 +17,7 @@
   <string name="app_widget">Notities</string>
   <string name="attachment_camera">Camera</string>
   <string name="attachment_contact">Contacten</string>
-  <string name="attachment_gallery">Gallerij</string>
+  <string name="attachment_gallery">Galerij</string>
   <string name="button_new_note">Nieuwe notitie</string>
   <string name="call_record_folder_name">Gespreksgegevens</string>
   <string name="close">Sluiten</string>
@@ -26,6 +26,7 @@
   <string name="dlg_title_confirm_alarm_silent">Wilt u alarmen dempen in stille modus?</string>
   <string name="enable_sync">Sync</string>
   <string name="enable_sync_desc">Notities kunnen gesynchroniseerd worden met uw Xiaomi account %1$s, nu synchroniseren?</string>
+  <string name="error_contact_not_exist">Het contact bestaat niet</string> 
   <string name="error_note_empty_for_clock">Sorry, kan de klok niet instellen op een lege notitie</string>
   <string name="error_note_empty_for_send_to_desktop">Sorry, kan geen lege notitie verzenden naar homescreen</string>
   <string name="error_note_not_exist">De notitie bestaat niet</string>
