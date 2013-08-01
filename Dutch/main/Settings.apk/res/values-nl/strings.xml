@@ -764,7 +764,7 @@ This setting affects all users on this phone."</string>
   <string name="dolby_ieq_flat">Uit</string>
   <string name="dolby_ieq_focused">Gefocused</string>
   <string name="dolby_ieq_open">Open</string>
-  <string name="dolby_ieq_rich">Rijk</strin>
+  <string name="dolby_ieq_rich">Rijk</string>
   <string name="dolby_eq_flat">Plat</string>
   <string name="dolby_mode_movie">Film Modus</string>
   <string name="dolby_mode_music">Muziek Modus</string>
