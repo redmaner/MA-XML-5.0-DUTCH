@@ -242,7 +242,8 @@
   <string name="status_bar_toggle_sync">Sync</string>
   <string name="status_bar_toggle_torch">Zaklamp</string>
   <string name="status_bar_toggle_vibrate">Trillen</string>
-  <string name="status_bar_toggle_wifi">WI-FI</string>
+  <string name="status_bar_toggle_wifi">Wi-Fi</string>
+  <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string> 
   <string name="status_bar_toggle_power_mode">Power mode</string>
   <string name="status_bar_toggle_drive_mode">Rijden</string>
   <string name="status_bar_toggle_ringtone">Beltoon</string>

@@ -215,6 +215,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="delete_sim_entries_finish">Geselcteerde simkaart contacten succesvol verwijderd</string>
   <string name="delete_sim_entry_miui">Verwijder simkaart contacten</string> 
   <string name="delete_unknown_contact_calllog_title">"Bevestig het verwijderen van de oproep log van dit onbekende contact?"</string>
+  <string name="deleting">Verwijderen...</string> 
   <string name="deleting_sim_entry_miui">Contacten van simkaart verwijderen</string> 
   <string name="description_add_contact">Contact toevoegen</string>
   <string name="description_author">Auteur:</string>
@@ -315,6 +316,8 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="display_sim_contacts">Toon sim contacten</string>
   <string name="display_ungrouped">Alle andere contacten</string>
   <string name="display_warn_remove_ungrouped" formatted="false">"Als u '%s' verwijdert uit de synchronisatie, worden ook contacten die niet bij een groep horen uit de synchronisatie verwijderd."</string>
+  <string name="dlg_add_blacklist">Geselecteerd nummer toevoegen aan blacklist?</string>
+  <string name="dlg_remove_blacklist">Geselecteerd nummer verwijderen van blacklist?</string> 
   <string name="download_failed">Download mislukt!</string>
   <string name="download_preview_failed">Laden preview mislukt</string>
   <string name="duplicate_group_name">Groepnaam bestaat al</string>
@@ -742,6 +745,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="remind_btn_ignore">Negeren</string>
   <string name="remind_btn_sync_now">Nu</string>
   <string name="removePhoto">Foto verwijderen</string>
+  <string name="remove_blacklist">Verwijderen van blacklist</string> 
   <string name="remove_duplicate">"MIUI zal u helpen met vinden en samenvoegen van dubbele contacten, contacten zullen niet automatisch samengevoegd worden. Om contacten samen te voegen dient u dit handmatig te doen"</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Resource Browser</string>
@@ -752,6 +756,8 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_default_name">Hulpbron</string>
   <string name="resource_delete_all">Weet u zeker dat u %1$d geselecteerde hulpbron wilt verwijderen?</string>
   <string name="resource_delete_confirm">Weet u zeker dat u deze hulpbronnen wilt verwijderen?</string>
+  <string name="resource_delta_update_failed">Patch update mislukt! De complete hulpbron wordt nu gedownload!</string>
+  <string name="resource_delta_update_successful">Patch update succesvol，opslaan %1$s.</string> 
   <string name="resource_detail">Details</string>
   <string name="resource_download">Download</string>
   <string name="resource_downloaded_title">Hulpbronnen gedownload...</string>
@@ -761,6 +767,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_get_auth_exceed_max_limit_title">Geautoriseerd limiet bereikt!</string>
   <string name="resource_get_auth_missing">Thema niet gedownload van officiële thema markt, download via de officiële markt a.u.b.</string>
   <string name="resource_get_auth_retrieving">Autorisatie verkrijgen...</string>
+  <string name="resource_import_successful">Download succesvol.</string>
   <string name="resource_importing">Importeren</string>
   <string name="resource_list_title">Laatst geselecteerde</string>
   <string name="resource_local">Lokaal %1$s</string>

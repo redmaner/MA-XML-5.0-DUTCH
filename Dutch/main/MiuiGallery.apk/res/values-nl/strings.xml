@@ -101,7 +101,10 @@
   <string name="damaged_file">Bestand is corrupt</string>
   <string name="defalt_local_mobile">mobiel</string>
   <string name="delete">Wissen</string>
-  <string name="delete_fail_too_many_items">Wissen mislukt, te veel artikelen geselecteerd</string>
+  <string name="delete_fail_too_many_items">Wissen mislukt, te veel items geselecteerd</string>
+  <string name="delete_file">Wilt u de %1$d geselecteerde bestanden verwijderen?</string>
+  <string name="delete_files_and_folders">Wilt u de %1$d geselecteerde bestanden en %2$d geselecteerde mappen verwijderen?</string>
+  <string name="delete_folder">Wilt u de %1$d geselecteerde mappen verwijderen?</string>
   <string name="deleting_files">Bestanden wissen...</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="description">Omschrijving</string>
@@ -109,6 +112,7 @@
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_title">%1$d van %2$d items:</string>
+  <string name="directory_info_divider">"  |  "</string> 
   <string name="documentary">Documentaire</string>
   <string name="done">Klaar</string>
   <string name="doodle">Doodle</string>
@@ -175,6 +179,7 @@
   <string name="import_fail">Importeren mislukt</string>
   <string name="initial_cloud_button_text">Start met gebruiken van MiCloud </string>
   <string name="initial_cloud_text">Op elk tijdstip en elke plaats uw foto\'s organiseren en bekijken</string>
+  <string name="initializing_cloud">Cloud album initialiseren...</string>
   <string name="input_cloudfolder_name">Cloud mapnaam</string>
   <string name="internal_camera_folder_display_name">"Interne Camera Foto's"</string>
   <string name="internal_miui_capture_screen_folder_display_name">Interne Schermafdrukken</string>
@@ -236,6 +241,8 @@
   <string name="open">Open Synchronisatie</string>
   <string name="open_single_image_failure">Afbeelding openen mislukt!</string>
   <string name="open_sync_title">Synchronisatie benodigd</string>
+  <string name="operation_delete_confirm_message_folder">"Mappen en bestanden worden tegelijkertijd verwijderd.
+"</string> 
   <string name="operation_refresh">Vernieuwen</string>
   <string name="operation_rename">Hernoemen</string>
   <string name="orientation">Orientatie</string>

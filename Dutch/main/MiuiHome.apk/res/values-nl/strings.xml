@@ -136,7 +136,7 @@
   <string name="starting_preset_app">Starten</string>
   <string name="status_bar_toggle_ac">Toegangscontrole</string>
   <string name="status_bar_toggle_auto_brightness">Auto-Helderheid</string>
-  <string name="status_bar_toggle_bluetooth">BT</string>
+  <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Helderheid</string>
   <string name="status_bar_toggle_data">Data</string>
   <string name="status_bar_toggle_divider">Meer</string>
@@ -163,8 +163,9 @@
   <string name="status_bar_toggle_sync_manual">Handmatig sync</string>
   <string name="status_bar_toggle_syncing">Synchr.</string>
   <string name="status_bar_toggle_torch">Zaklamp</string>
-  <string name="status_bar_toggle_vibrate">Vibratie</string>
+  <string name="status_bar_toggle_vibrate">Trillen</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
+  <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string> 
   <string name="title_select_live_folder">Selecteer map</string>
   <string name="title_select_shortcut">Snelkoppeling selecteren</string>
   <string name="toggle_select_title">Selecteer schakelaar</string>

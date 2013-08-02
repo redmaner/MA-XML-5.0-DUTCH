@@ -316,6 +316,9 @@
   <string name="lockscreen_access_pattern_detected">Patroon voltooid</string>
   <string name="lockscreen_access_pattern_start">Patroon gestart</string>
   <string name="lockscreen_emergency_call">Noodoproep</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"U heeft %d keer een incorrect wachtwoord ingevoerd. Na %d meer mislukte pogingen, wordt u gevraagd de telefoon te ontgrendelen met uw account gegevens.
+
+Probeer het opnieuw over %d seconden."</string> 
   <string name="lockscreen_forgot_pattern_button_text">Patroon vergeten?</string>
   <string name="lockscreen_pattern_instructions">Teken patroon om te ontgrendelen</string>
   <string name="lockscreen_pattern_wrong">Patroon incorrect! Probeer opnieuw</string>

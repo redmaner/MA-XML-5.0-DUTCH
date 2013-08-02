@@ -387,6 +387,8 @@
     <string name="empty_alert">%s is verplicht en mag niet worden leeggelaten</string>
     <string name="empty_networks_list">Geen netwerken gevonden.</string>
     <string name="enable">Inschakelen</string>
+    <string name="enable_antispam_strange_summary">&gt;Demp eerste oproep van een onbekend nummer</string>
+    <string name="enable_antispam_strange_title">Anti vreemde oproep</string>
     <string name="enable_disable_administrative">Beheer</string>
     <string name="enable_disable_advertisements">Advertenties</string>
     <string name="enable_disable_atr">Verkeersberichten</string>
@@ -716,6 +718,7 @@ Toch overschakelen op de nieuwe provider?"</string>
     <string name="phone_entered_ecm_text">Modus voor noodoproepen ingeschakeld</string>
     <string name="phone_in_ecm_call_notification_text">Gegevensverbinding uitgeschakeld</string>
     <string name="phone_in_ecm_notification_title">Modus voor noodoproepen</string>
+    <string name="phone_info_divider">"  |  "</string> 
     <string name="phone_numbers">Telefoonnummers invoeren</string>
     <string name="pick_outgoing_call_phone_type">Bellen</string>
     <string name="pick_outgoing_sip_phone">Account voor internetoproepen gebruiken:</string>

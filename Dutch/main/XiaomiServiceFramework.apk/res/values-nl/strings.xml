@@ -343,6 +343,7 @@ We zullen het binnen twee werkdagen voor u controleren"</string>
   <string name="sync_on">Aan</string>
   <string name="sync_sub_dspt">Er zal een SMS verzonden worden om de service te activeren</string>
   <string name="sync_sub_int_dspt">Er wordt een internationale SMS verzonden om de service te activeren</string>
+  <string name="title">titel</string> 
   <string name="title_mili_center">MiCredit centrum</string>
   <string name="title_pay">Afrekenen met MiCredits</string>
   <string name="title_pay_record">%1$s betaal geschiedenis artikelen</string>
@@ -362,6 +363,7 @@ We zullen het binnen twee werkdagen voor u controleren"</string>
   <string name="user_agreement_p3"> en </string>
   <string name="user_agreement_p4">Privacybeleid</string>
   <string name="user_agreement_p5">"Door in te loggen, gaat u akkoord met  "</string>
+  <string name="value">Hoeveelheid</string> 
   <string name="voucher_edit_hint">Wachtwoord:</string>
   <string name="voucher_edit_limit">Aanpas limiet</string>
   <string name="voucher_error_code">Er heeft zich een fout voorgedaan met uw MiCredit voucher code</string>
