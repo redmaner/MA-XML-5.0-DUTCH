@@ -80,7 +80,7 @@
   <string name="resource_delete_all">Weet u zeker dat u de %1$d geselecteerde hulpbronnen wilt verwijderen?</string>
   <string name="resource_delete_confirm">Weet u zeker dat u deze hulpbronnen wilt verwijderen?</string>
   <string name="resource_delta_update_failed">Patch update milukt! De complete hulpbron wordt nu gedownload!</string>
-+  <string name="resource_delta_update_successful">Patch update succesvol，opslaan %1$s.</string> 
+  <string name="resource_delta_update_successful">Patch update succesvol，opslaan %1$s.</string> 
   <string name="resource_detail">Details</string>
   <string name="resource_download">Download</string>
   <string name="resource_downloaded_title">Gedownloade hulpbronnen</string>
