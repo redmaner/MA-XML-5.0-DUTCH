@@ -372,7 +372,7 @@ Probeer het opnieuw over %d seconden."</string>
   <string name="month_of_november">Nov</string>
   <string name="month_of_october">Okt</string>
   <string name="month_of_september">Sep</string>
-  <string name="multi_select_title">%1$s artikel(en) geselecteerd</string>
+  <string name="multi_select_title">%1$s item(s) geselecteerd</string>
   <string name="national_day" />
   <string name="never">Nooit</string>
   <string name="new_years_day" />
@@ -464,7 +464,7 @@ Probeer het opnieuw over %d seconden."</string>
   <string name="v5_date_picker_label_month" />
   <string name="v5_date_picker_label_year" />
   <string name="v5_deselect_all">Deselecteer alles</string>
-  <string name="v5_edit_mode_title_empty">Controleer Artikelen</string>
+  <string name="v5_edit_mode_title_empty">Controleer Items</string>
   <string name="v5_icon_menu_bar_more_item_label">Meer</string>
   <string name="v5_select_all">Selecteer alles</string>
   <string name="v5_time_picker_label_hour" />
