@@ -298,7 +298,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="dialog_new_group_account">Groep in account maken</string>
   <string name="dialog_phone_call_prohibited_message">Oproep niet verzonden</string>
   <string name="dialog_sync_add">Synchronisatiegroep toevoegen</string>
-  <string name="dialog_voicemail_airplane_mode_message">Om voicemail te bellen, schakel eerst vliegtuig modus uit.</string>
+  <string name="dialog_voicemail_airplane_mode_message">Om voicemail te bellen, dient u vliegmodus uit te schakelen.</string>
   <string name="dialog_voicemail_not_ready_message">Om voicemail in te stelen, ga naar Menu &gt; Instellingen.</string>
   <string name="directory_search_label">Directory</string>
   <string name="dirty_contacts_notification_description" formatted="false">Telefoon heeft %d ongesynchroniseerde contacten</string>
@@ -830,7 +830,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="shortcutDialContact">Direct bellen</string>
   <string name="shortcutMessageContact">Direct bericht</string>
   <string name="showAllContactsJoinItem">Alle contacten weergeven</string>
-  <string name="simContacts_airplaneMode">Om contacten van de simkaart te importeren moet u vliegtuigmodus uitschakelen.</string>
+  <string name="simContacts_airplaneMode">Om contacten van de simkaart te importeren moet u vliegmodus uitschakelen.</string>
   <string name="simContacts_empty">Geen contacten gevonden op de simkaart.</string>
   <string name="simContacts_emptyLoading">Laden vanaf simkaart...</string>
   <string name="simContacts_title">Contacten op simkaart</string>

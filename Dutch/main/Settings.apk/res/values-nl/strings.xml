@@ -93,7 +93,7 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="additional_system_update_settings_list_item_title">Aanvullende systeemupdates</string>
   <string name="advanced_settings">Geavanceerde instellingen</string>
   <string name="advanced_settings_summary">Meer opties voor instellingen inschakelen</string>
-  <string name="airplane_mode">Vliegtuigmodus</string>
+  <string name="airplane_mode">Vliegmodus</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Toestaan</string>
@@ -1220,7 +1220,7 @@ Attentie: Dit kan niet ongedaan gemaakt worden</string>
   <string name="msd_install_retry_linux">"Als uw computer uw apparaat niet detecteert, Probeer het volgende: 
 1) Gebruik installatie tools, sudo aptitude install mtpfs libfuse-dev libmad0-dev 
 2) Maak directory: mkdir /media/mtp 
-3) Bevestig gebruikersgroep permissies in de huidige gebruikersgroep 
+3) Bevestig gebruikersgroep machtigingen in de huidige gebruikersgroep 
 4) Opnieuw inloggen 
 5) Benader ge-mount apparaat mtpfs /media/mtp via Bestands Explorer; hetzelfde als lokale map 
 6) Verwijder apparaat fusermount -u /media/mtp  
@@ -1274,7 +1274,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="nsd_quick_toggle_title">Netwerk ontdekking service</string>
   <string name="oem_radio_info_label">OEM-specifieke gegevens/instellingen</string>
   <string name="onscreen_keyboard_settings_summary">Instellingen voor schermtoetsenbord</string>
-  <string name="other_relative">Andere permissies</string>
+  <string name="other_relative">Andere machtigingen</string>
   <string name="overlay_display_devices_title">Simuleer secudaire schermen</string>
   <string name="owner_info_settings_edit_text_hint">Typ tekst voor weergave op vergrendeld scherm</string>
   <string name="owner_info_settings_summary" />
@@ -1283,7 +1283,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="password_guard">Beveiliging</string>
   <string name="percentage">%d%%</string>
   <string name="perm_app">Apps</string>
-  <string name="perm_app_name">Permissies</string>
+  <string name="perm_app_name">Machtigingen</string>
   <string name="perm_auto_start_desc">In-/uitschakelen app autostart feature</string>
   <string name="perm_auto_start">Beheer App Autostart</string>
   <string name="perm_canceling">Annuleren...</string>
@@ -1292,11 +1292,11 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_configuration">Instellingen</string>
   <string name="perm_copyright">Ondersteuning door LBE Privacy Guard</string>
   <string name="perm_disable">Uitschakelen</string>
-  <string name="perm_enable">Permissie controle inschakelen</string>
+  <string name="perm_enable">Machtigings controle inschakelen</string>
   <string name="perm_good">Goed</string>
   <string name="perm_header">Controleert %1$d apps</string>
-  <string name="perm_header_disabled">Permissie controle is uitgeschakeld</string>
-  <string name="perm_hide_system_app">Hide System Apps</string>
+  <string name="perm_header_disabled">Machtigings controle is uitgeschakeld</string>
+  <string name="perm_hide_system_app">Verberg Systeem Apps</string>
   <string name="perm_hips_action_accept_count">Toegestaan: %1$d</string>
   <string name="perm_hips_action_reject_count">Afgewezen: %1$d</string>
   <string name="perm_hips_adjust_ringer_volume">ringer volume aan te passen</string>
@@ -1311,7 +1311,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_hips_desc2">Controleert %1$d apps voor veiligheid en privacy</string>
   <string name="perm_hips_desc">Controleert %1$d apps voor veiligheid en privacy</string>
   <string name="perm_hips_disable_content">"MIUI zal stoppen met het controleren van applicatie verzoeken en zal uw veiligheid en privacy niet langer beveiligen. Weet u zeker dat u het wilt uitschakelen?"</string>
-  <string name="perm_hips_disable_title">Permissie Controle</string>
+  <string name="perm_hips_disable_title">Machtigings Controle</string>
   <string name="perm_hips_end_call">huidige oproep beëindigen</string>
   <string name="perm_hips_get_call_state">huidige bel status verkrijgen</string>
   <string name="perm_hips_group_data_privacy">Privacy</string>
@@ -1329,7 +1329,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_hips_location_source_cellular">Bron: Cellular Netwerk</string>
   <string name="perm_hips_location_source_gps">Bron: GPS</string>
   <string name="perm_hips_location_source_network">Bron: Netwerk</string>
-  <string name="perm_hips">Beheer App Permissies</string>
+  <string name="perm_hips">Beheer App Machtigingen</string>
   <string name="perm_hips_mobile_network_desc">Mobiele Netwerk</string>
   <string name="perm_hips_mobile_network_hint">%1$s apps zijn toegestaan internet te verkrijgen via het mobiele netwerk</string>
   <string name="perm_hips_mobile_network">Mobiele Netwerk</string>
@@ -1348,13 +1348,13 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_hips_phoneid_number">uw telefoonnummer te verkrijgen</string>
   <string name="perm_hips_prompt_all">Alle vragen</string>
   <string name="perm_hips_reject_all">Alle afwijzen</string>
-  <string name="perm_hips_risky">Riskanten Permissies (%1$d)</string>
+  <string name="perm_hips_risky">Riskante Machtigingen (%1$d)</string>
   <string name="perm_hips_root_desc_stable">Niet beschikbaar op MIUI Stable</string>
-  <string name="perm_hips_root_desc">Verzoek ROOT Permissie</string>
-  <string name="perm_hips_root_hint">%1$s apps hebben ROOT Permissie</string>
+  <string name="perm_hips_root_desc">Verzoek ROOT Toegang</string>
+  <string name="perm_hips_root_hint">%1$s apps hebben ROOT Toegang</string>
   <string name="perm_hips_root">ROOT</string>
-  <string name="perm_hips_root_title">verkrijg ROOT Permissie</string>
-  <string name="perm_hips_safe">Normale Permissie (%1$d)</string>
+  <string name="perm_hips_root_title">verkrijg ROOT Toegang</string>
+  <string name="perm_hips_safe">Normale Machtigingen (%1$d)</string>
   <string name="perm_hips_security_prompt_accept_root">Toestaan</string>
   <string name="perm_hips_security_prompt_accept">Toestaan (%d)</string>
   <string name="perm_hips_security_prompt_caption">Veiligheids Waarschuwing Warning</string>
@@ -1362,12 +1362,12 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_hips_security_prompt_reject">Afwijzen (%d)</string>
   <string name="perm_hips_security_prompt_remember">Onthoud mijn keuze</string>
   <string name="perm_hips_security_prompt_root_caption">Belangrijke Waarschuwing</string>
-  <string name="perm_hips_security_prompt_root_step1">Wilt u %1$s toestaan ROOT permissie te verkrijgen?</string>
-  <string name="perm_hips_security_prompt_root_step2">ROOT permissie kan systeem instabiliteit veroorzaken</string>
+  <string name="perm_hips_security_prompt_root_step1">Wilt u %1$s toestaan ROOT Toegang te verkrijgen?</string>
+  <string name="perm_hips_security_prompt_root_step2">ROOT Toegang kan systeem instabiliteit veroorzaken</string>
   <string name="perm_hips_security_prompt_root_step3">Uw privacy gegevens zoals accounts, wachtwoorden en berichten kunnen worden aangetast</string>
   <string name="perm_hips_security_prompt_root_step4">Permanente hardware schade is ook mogelijk</string>
   <string name="perm_hips_security_prompt_root_step5">Gebruik voorzichtig!</string>
-  <string name="perm_hips_security_prompt_root_step6">%1$s toestaan ROOT permissie te verkrijgen??</string>
+  <string name="perm_hips_security_prompt_root_step6">%1$s toestaan ROOT Toegang te verkrijgen??</string>
   <string name="perm_hips_security_prompt_title">%1$s is aan het proberen %2$s</string>
   <string name="perm_hips_send_sms_content">Inhoud:</string>
   <string name="perm_hips_send_sms_data">een SMS te verzenden naar %1$s:%2$d</string>
@@ -1378,17 +1378,17 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_hips_send_sms_text">een SMS te verzenden naar %1$s</string>
   <string name="perm_hips_silence_ringer">ringer op stil te zetten</string>
   <string name="perm_hips_sms_access">uw SMS inbox te lezen</string>
-  <string name="perm_hips_switch">Permissie Controle</string>
+  <string name="perm_hips_switch">Machtigings Controle</string>
   <string name="perm_hips_wifi_network_desc">Wi-Fi Netwerk</string>
-  <string name="perm_hips_wifi_network_hint">%1$s apps hebben permissie om toegang te verkrijgen tot het internet</string>
+  <string name="perm_hips_wifi_network_hint">%1$s apps zijn gemachtigd om toegang te verkrijgen tot het internet</string>
   <string name="perm_hips_wifi_network">Wi-Fi Netwerk</string>
   <string name="perm_invalid_input">Ongeldige invoer</string>
-  <string name="permission_detail_info">Bekijk permissie info</string>
+  <string name="permission_detail_info">Bekijk machtings info</string>
   <string name="permission_detail_info_summary">Alle permission: Veilig %1$d，Privé %2$d，Anderen %3$d</string>
-  <string name="permission_manage">Permissie beheer</string>
-  <string name="permission_manage_summary">Auto start, privacy, beveilig permissie beheer</string>
-  <string name="permission_manage_title">%s permissie details</string>
-  <string name="permissions_label">Permissies</string>
+  <string name="permission_manage">Machtigings beheer</string>
+  <string name="permission_manage_summary">Auto start, privacy, beveilig machtings beheer</string>
+  <string name="permission_manage_title">%s machtings details</string>
+  <string name="permissions_label">Machtigingen</string>
   <string name="perm_loading">Laden...</string>
   <string name="perm_log_clear_content">Alle logs worden gewist. Wilt u het inschakelen?</string>
   <string name="perm_log_clear_title">Logs Wissen</string>
@@ -1397,8 +1397,8 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_notice">Veiligheids waarschuwing</string>
   <string name="perm_operating">Opereren...</string>
   <string name="perm_optimize">Optimaliseren</string>
-  <string name="perm">Permissies</string>
-  <string name="perm_privacy_app_count">%1$d permissies</string>
+  <string name="perm">Machtigingen</string>
+  <string name="perm_privacy_app_count">%1$d machtigingen</string>
   <string name="perm_privacy_app_finish">Voltooien</string>
   <string name="perm_privacy_app_installed">Installatie succesvol!</string>
   <string name="perm_privacy_app_launch">Starten</string>
@@ -1416,21 +1416,21 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_service_enabled">Service is actief</string>
   <string name="perm_shortcut">Contextual menu</string>
   <string name="perm_show_system_app">Toon Systeem Apps</string>
-  <string name="perm_su_desc1">Beheer ROOT Permissie</string>
-  <string name="perm_su_desc">Controleert %1$d apps voor ROOT permissie</string>
-  <string name="perm_su_disabled_desc">Het toestaan van ROOT permissies aan apps van derden kan systeem instabiliteit, verlies van persoonlijke gegevens, of syteem of hardware schade veroorzaken. Wees er zeker van dat u ROOT permissie kent.</string>
-  <string name="perm_su_disabled_in_stable_desc">"Het toestaan van ROOT permissies aan apps van derden kan systeem instabiliteit, verlies van persoonlijke gegevens, of syteem of hardware schade veroorzaken. Stap over op een ontwikkel versie van MIUI om ROOT permissies in te schakelen.."</string>
+  <string name="perm_su_desc1">Beheer ROOT Toegang</string>
+  <string name="perm_su_desc">Controleert %1$d apps voor ROOT Toegang</string>
+  <string name="perm_su_disabled_desc">Het toestaan van ROOT Toegang aan apps van derden kan systeem instabiliteit, verlies van persoonlijke gegevens, of syteem of hardware schade veroorzaken. Wees er zeker van dat u ROOT Toegang kent.</string>
+  <string name="perm_su_disabled_in_stable_desc">"Het toestaan van ROOT Toegang aan apps van derden kan systeem instabiliteit, verlies van persoonlijke gegevens, of syteem of hardware schade veroorzaken. Stap over op een ontwikkel versie van MIUI om ROOT Toegang in te schakelen.."</string>
   <string name="perm_su_disabled_in_stable_download">Download MIUI</string>
   <string name="perm_su_disabled_in_stable">ROOT is niet beschikbaar in MIUI stable</string>
-  <string name="perm_su_disabled">ROOT Permissie is uitgeschakeld</string>
-  <string name="perm_su_enable_content">"Het inschakelen zal apps toestaan ROOT permissie te verzoeken. Notitie: Apps met ROOT permissie kunnen systeem instabiliteit, gegevens verlies, of systeem of hardware schade veroorzaken, gebruik voorzichtig. Weet u zeker dat u het wilt inschakelen?"</string>
-  <string name="perm_su_enable_dialog">%1$s probeert systeem ROOT permissie te verkrijgen die standaard is uitgeschakeld om systeem veiligheid te garanderen. Als u het wilt inschakelen, ga dan naar instelling in Permissie Beheer.</string>
-  <string name="perm_su_enable_title">ROOT Permissie</string>
-  <string name="perm_su">Beheer ROOT Permissie</string>
+  <string name="perm_su_disabled">ROOT Toegang is uitgeschakeld</string>
+  <string name="perm_su_enable_content">"Het inschakelen zal apps toestaan ROOT Toegang te verzoeken. Notitie: Apps met ROOT Toegang kunnen systeem instabiliteit, gegevens verlies, of systeem of hardware schade veroorzaken, gebruik voorzichtig. Weet u zeker dat u het wilt inschakelen?"</string>
+  <string name="perm_su_enable_dialog">%1$s probeert systeem ROOT Toegang te verkrijgen die standaard is uitgeschakeld om systeem veiligheid te garanderen. Als u het wilt inschakelen, ga dan naar instelling in Machtigings Controle.</string>
+  <string name="perm_su_enable_title">ROOT Toegang</string>
+  <string name="perm_su">Beheer ROOT Toegang</string>
   <string name="perm_summary_disabled">Uit</string>
   <string name="perm_summary_enabled">Aan</string>
-  <string name="perm_su_switch">ROOT Permissie</string>
-  <string name="perm_sysopt_boost_auto_start">Autostart permissie</string>
+  <string name="perm_su_switch">ROOT Toegang</string>
+  <string name="perm_sysopt_boost_auto_start">Autostart machting</string>
   <string name="perm_sysopt_boost_auto_start_group">Autostart</string>
   <string name="perm_sysopt_boost_auto_start_summary">Sta dit proces toe om te autostarten</string>
   <string name="perm_sysopt_boost_boot">Opstarten</string>
@@ -1483,7 +1483,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="pref_volume_wake_title">Volume rocker open</string>
   <string name="privacy_mode_enable_sum">Verberg bel geschiedenis, berichten en andere data om privacy te beschermen.</string>
   <string name="privacy_mode_enable_title">Bescherm privacy</string>
-  <string name="privacy_protect_title">Privacy protectie</string>
+  <string name="privacy_protect_title">Privacy bewaking</string>
   <string name="privacy_relative">Privacy gerelateerd</string>
   <string name="privacy_settings">Back-up maken en opnieuw instellen</string>
   <string name="privacy_settings_title">Back-up maken en opnieuw instellen</string>
@@ -2077,10 +2077,10 @@ Pogingen Resterende :"</string>
 
 Nadat u een gebruiker heeft gemaakt, moet die persoon door een instellings proces.
 
-Elke gebruiker kan bijgewerkte app permissies accepteren voor alle gebruikers."</string>
+Elke gebruiker kan bijgewerkte app machtigingen accepteren voor alle gebruikers."</string>
  <string name="user_add_user_message_short">"Nadat u een gebruiker heeft gemaakt, moet die persoon door een instellings proces.
 
-Elke gebruiker kan bijgewerkte app permissies accepteren voor alle gebruikers."</string>
+Elke gebruiker kan bijgewerkte app machtigingen accepteren voor alle gebruikers."</string>
   <string name="user_add_user_title">Nieuwe gebruiker toevoegen</string>
   <string name="user_adding_new_user">Nieuwe gebruiker toevoegen…</string>
   <string name="user_cannot_manage_message">"Alleen de telefoon's eigenaar kan gebruikers beheren."</string>

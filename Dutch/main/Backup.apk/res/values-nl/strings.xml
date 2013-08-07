@@ -9,7 +9,7 @@
   <string name="auto_backup_all_user_apps">Alle apps</string>
   <string name="auto_backup_choose">Automatische backup</string>
   <string name="auto_backup_choose_empty">Geen backups</string>
-  <string name="auto_backup_choose_title">Kies backup artikelen</string>
+  <string name="auto_backup_choose_title">Kies backup items</string>
   <string name="auto_backup_date">Backup frequentie (in dagen)</string>
   <string name="auto_backup_only_wifi">Automatische backup alleen met Wi-Fi</string>
   <string name="auto_backup_open">Automatische backup inschakelen</string>
@@ -102,7 +102,7 @@
   <string name="miliao_account_guide">MiTalk account geupgrade naar Xiaomi account\n Gebruik alle Xiaomi online services</string>
   <string name="miliao_account_login">Login bij MiTalk</string>
   <string name="mms_title">Multimedia Berichten</string>
-  <string name="multi_select_title">%1$s artikelen geselecteerd</string>
+  <string name="multi_select_title">%1$s items geselecteerd</string>
   <string name="no_encrypt_password">Geen wachtwoord codering</string>
   <string name="no_network">Netwerk fout\n Controleer de verbinding en probeer opnieuw</string>
   <string name="note_title">Notities</string>
@@ -141,7 +141,7 @@
   <string name="sdcard_no_enough_space_warning">SD-kaart ruimte is minimaal, backup kan mislukken, doorgaan?</string>
   <string name="sdcard_unmounted">SD-kaart losgekoppeld of niet gevonden!</string>
   <string name="select_all">Selecteer alles</string>
-  <string name="select_backup_item">Selecteer backup artikel</string>
+  <string name="select_backup_item">Selecteer backup item</string>
   <string name="service_stoped">Service gestopt</string>
   <string name="settings_summary">Backup telefoon- en bericht instellingen</string>
   <string name="sms_title">Berichten</string>

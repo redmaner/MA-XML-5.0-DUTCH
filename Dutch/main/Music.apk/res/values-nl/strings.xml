@@ -207,7 +207,7 @@
   <string name="scanning_nosdcard">Scan USB opslag…</string>
   <string name="screen_bright_wake">Laat scherm aan</string>
   <string name="screen_bright_wake_summary">Laat scherm aan wanneer u zich in de muziek applicatie bevind</string>
-  <string name="sdcard_busy_message">"Sorry, uw SD-kaart is bezig. Check status van SD-kaart"</string>
+  <string name="sdcard_busy_message">"Sorry, uw SD-kaart is bezig. Controleer status van SD-kaart"</string>
   <string name="sdcard_busy_message_nosdcard">Sorry, uw USB opslag is bezig.</string>
   <string name="sdcard_error_message">Een fout gevonden op de SD-kaart.</string>
   <string name="sdcard_error_message_nosdcard">Een fout gevondenop de USB opslag.</string>

@@ -36,7 +36,7 @@
   <string name="category_zip">Zip</string>
   <string name="choose_send_type">Selecteer verzend type</string>
   <string name="choose_upload_location">Kies upload locatie</string>
-  <string name="clean_app_garbage">Wis %d artikel(en)</string>
+  <string name="clean_app_garbage">Wis %d item(s)</string>
   <string name="clean_message">%1$s ruimte vrijgemaakt</string>
   <string name="clean_title">Verwijder bestanden, ouder dan 30 dagen, in de Prullenbak</string>
   <string name="clean_trash_box">Prullenbak leegmaken</string>

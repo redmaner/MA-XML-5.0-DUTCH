@@ -303,9 +303,9 @@ Pogingen Resterende :"</string>
     <string name="global_action_toggle_silent_mode">Stille modus</string>
     <string name="global_action_silent_mode_on_status">Geluid is UIT</string>
     <string name="global_action_silent_mode_off_status">Geluid is AAN</string>
-    <string name="global_actions_toggle_airplane_mode">Vliegtuigmodus</string>
-    <string name="global_actions_airplane_mode_on_status">Vliegtuigmodus is AAN</string>
-    <string name="global_actions_airplane_mode_off_status">Vliegtuigmodus is UIT</string>
+    <string name="global_actions_toggle_airplane_mode">Vliegmodus</string>
+    <string name="global_actions_airplane_mode_on_status">Vliegmodus is AAN</string>
+    <string name="global_actions_airplane_mode_off_status">Vliegmodus is UIT</string>
     <string name="safeMode">Veilige modus</string>
     <string name="android_system_label">Android-systeem</string>
     <string name="permgrouplab_costMoney">Services waarvoor u moet betalen</string>
@@ -400,8 +400,8 @@ Pogingen Resterende :"</string>
     <string name="permdesc_setProcessLimit">Hiermee kan de app het maximale aantal processen beheren dat kan worden uitgevoerd. Nooit nodig voor normale apps.</string>
     <string name="permlab_setAlwaysFinish">achtergrondapps gedwongen stoppen</string>
     <string name="permdesc_setAlwaysFinish">Hiermee kan de app bepalen of activiteiten worden afgerond zodra ze naar de achtergrond worden verplaatst. Dit is nooit nodig voor normale apps.</string>
-    <string name="permlab_batteryStats">accustatistieken aanpassen</string>
-    <string name="permdesc_batteryStats">Hiermee kan de app verzamelde accustatistieken wijzigen. Niet voor gebruik door normale apps.</string>
+    <string name="permlab_batteryStats">batterij statistieken aanpassen</string>
+    <string name="permdesc_batteryStats">Hiermee kan de app verzamelde batterij statistieken wijzigen. Niet voor gebruik door normale apps.</string>
     <string name="permlab_backup">systeemback-up en -herstel beheren</string>
     <string name="permdesc_backup">Hiermee kan de app het beheer van het mechanisme voor systeemback-up en -herstel beheren. Niet voor gebruik door normale apps.</string>
     <string name="permlab_confirm_full_backup">een volledige back-up- of herstelbewerking bevestigen</string>
@@ -1257,7 +1257,7 @@ voor account %s."</string>
     <string name="share_action_provider_share_with">Delen met</string>
     <string name="status_bar_device_locked">Apparaat vergrendeld.</string>
     <string name="list_delimeter">", "</string>
-    <string name="sending">Verzenden…</string>
+    <string name="sending">Verzenden...</string>
     <string name="launchBrowserDefault">Browser starten?</string>
     <string name="SetupCallDefault">Oproep accepteren?</string>
     <string name="activity_resolver_use_always">Altijd</string>

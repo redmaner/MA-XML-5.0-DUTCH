@@ -2,8 +2,8 @@
 <resources>
   <string name="ErrorTooManyRequests">Er worden te veel verzoeken verwerkt. Probeer het later nogmaals</string>
   <string name="ack_record">ACK-record</string>
-  <string name="airplane_error_msg">U kunt Bluetooth niet gebruiken in vliegtuigmodus</string>
-  <string name="airplane_error_title">Vliegtuigmodus</string>
+  <string name="airplane_error_msg">U kunt Bluetooth niet gebruiken in vliegmodus</string>
+  <string name="airplane_error_title">Vliegmodus</string>
   <string name="app_name">Delen via Bluetooth</string>
   <string name="app_name_bpp">Bluetooth BPP</string>
   <string name="auth_notif_message">Geef sessiesleutel in voor %1$s</string>
@@ -121,7 +121,7 @@
   <string name="sharedUserId" />
   <string name="start_server">TCP-server starten</string>
   <string name="status_bpp_aborted_by_printer">Afdrukken mislukt, afgebroken door de printer</string>
-  <string name="status_bpp_canceled_by_user">Printing geannuleerd door gebruiker</string>
+  <string name="status_bpp_canceled_by_user">Afdrukken geannuleerd door gebruiker</string>
   <string name="status_bpp_cancelled_by_printer">Afdrukken mislukt, geannuleerd door de printer</string>
   <string name="status_bpp_disconnected">Afdrukken mislukt, bluetooth verbinding verloren</string>
   <string name="status_bpp_door_open">Afdrukken mislukt omdat lade werd geopend</string>

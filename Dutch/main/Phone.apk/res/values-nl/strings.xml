@@ -704,7 +704,7 @@ Toch overschakelen op de nieuwe provider?"</string>
     <string name="ota_title_problem_with_activation">Probleem met activeren</string>
     <string name="ota_touch_activate">"U moet een speciale oproep uitvoeren om uw telefoonservice te activeren.Nadat u op 'Activeren' heeft gedrukt, luistert u naar de instructies om uw telefoon te activeren."</string>
     <string name="ota_try_again">Opnieuw proberen</string>
-    <string name="ota_unsuccessful">"Your phone did not activate.You may need to find an area with better coverage (near a window, or outside). Try again or call customer service for more options."</string>
+    <string name="ota_unsuccessful">"Uw telefoon heeft niet geactiveerd. U moet een omgeving zoeken met beter bereik (dichtbij een raam, buiten). Probeer het opnieuw of bel klantenservice voor meer opties."</string>
     <string name="other_settings">Andere instellingen voor bellen</string>
     <string name="other_settings_miui">Andere instellingen</string>
     <string name="password">Wachtwoord</string>
@@ -945,7 +945,7 @@ Toch overschakelen op de nieuwe provider?"</string>
     <string name="sip_menu_discard">Annuleren</string>
     <string name="sip_menu_save">Opslaan</string>
     <string name="sip_receive_calls">Inkomende gesprekken ontvangen</string>
-    <string name="sip_receive_calls_summary">Verkort levensduur van accu</string>
+    <string name="sip_receive_calls_summary">Verkort levensduur van batterij</string>
     <string name="sip_settings">Instellingen voor bellen via internet</string>
     <string name="sip_settings_miui">Internet oproep</string>
     <string name="sip_system_decide">Automatisch</string>

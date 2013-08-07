@@ -122,7 +122,7 @@ Probeer het nogmaals over vijf minuten"</string>
   <string name="error_user_id_mismatch_summary">Controleer de accountinstellingen en probeer het nogmaals</string>
   <string name="error_user_id_mismatch_title">Authenticatie fout!</string>
   <string name="error_verify_summary">Applicatie heeft geen toegang om het verzoek uit te voeren</string>
-  <string name="error_verify_title">Geen permissie</string>
+  <string name="error_verify_title">Geen toegang</string>
   <string name="failed_to_send_activate_email">Het versturen van een activatie e-mail is mislukt.</string>
   <string name="fee">%1$s MiCredit</string>
   <string name="find_device">Zoek het toestel</string>
@@ -346,7 +346,7 @@ We zullen het binnen twee werkdagen voor u controleren"</string>
   <string name="title">titel</string> 
   <string name="title_mili_center">MiCredit centrum</string>
   <string name="title_pay">Afrekenen met MiCredits</string>
-  <string name="title_pay_record">%1$s betaal geschiedenis artikelen</string>
+  <string name="title_pay_record">%1$s betaal geschiedenis items</string>
   <string name="title_paytool">Top-up via %1$s</string>
   <string name="title_prepaid">Opwaarderen via kaart</string>
   <string name="title_recharge">MiCredits opwaarderen</string>

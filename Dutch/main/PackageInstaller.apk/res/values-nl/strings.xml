@@ -14,7 +14,7 @@
    <string name="dlg_sys_app_replacement_statement">"Dit is een systeem-app. Wilt u deze app toch vervangen? Alle eerdere gebruikersgegevens worden opgeslagen."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) zal de huidige versie (%3$s) vervangen. Gebruikers gegevens zullen bewaard blijven. Weet u zeker dat u wilt installeren?"</string> 
    <string name="done">Gereed</string>
-   <string name="high_risk_perms">Hoge Risico Permissies</string>
+   <string name="high_risk_perms">Hoge Risico Machtigingen</string>
    <string name="install_confirm_question">Wilt u deze app installeren?</string>
    <string name="install_done">App is geïnstalleerd</string>
    <string name="install_failed">App niet geïnstalleerd</string>
@@ -30,11 +30,11 @@
    <string name="install">Installeren</string>
    <string name="launch">Openen</string>
    <string name="lift_ban">ban opheffen</string>
-   <string name="low_risk_perms">Lage Risico Permissies</string>
+   <string name="low_risk_perms">Lage Risico Machtigingen</string>
    <string name="manage_applications">Toepassingen beheren</string>
    <string name="manage_device_administrators">Apparaatbeheerders beheren</string>
    <string name="ok">OK</string>
-   <string name="other_relative">Andere permissies</string>
+   <string name="other_relative">Andere machtigingen</string>
    <string name="out_of_space_dlg_text">%1$s kan niet worden geïnstalleerd. Maak ruimte vrij en probeer het opnieuw.</string>
    <string name="out_of_space_dlg_title">Geen ruimte beschikbaar</string>
    <string name="Parse_error_dlg_text">Er is een probleem opgetreden bij het parseren van het pakket.</string>
@@ -48,11 +48,11 @@
    <string name="perm_privacy_app_launch">Open</string>
    <string name="perm_privacy_app_trust">Ik vertrouw deze app</string>
    <string name="perm_privacy_app_trust_summary">MIUI zal deze app controleren</string>
-   <string name="perm_sysopt_boost_auto_start">Autostart permissies</string>
+   <string name="perm_sysopt_boost_auto_start">Autostart machtigingen</string>
    <string name="perm_sysopt_boost_auto_start_summary">App zal automatisch starten!</string>
-   <string name="privacy_relative">Privacy permissies</string>
+   <string name="privacy_relative">Privacy machtigingen</string>
    <string name="safe_guard_support">Ondersteuning door %1$s</string>
-   <string name="safe_relative">Veilige permissies</string>
+   <string name="safe_relative">Veilige machtigingen</string>
    <string name="security_settings_desc">Deze app toestaan het volgende te doen:</string>
    <string name="settings">Instellingen</string>
    <string name="trust_switch_dialog_msg">"MIUI will not ask you for confirmation of any security and privacy related operations from this App. Trust this App？"</string>

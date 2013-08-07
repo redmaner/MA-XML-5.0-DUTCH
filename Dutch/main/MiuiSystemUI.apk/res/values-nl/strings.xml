@@ -2,7 +2,7 @@
 <resources>
   <string name="accessibility_airplane_mode">Vliegmodus.</string>
   <string name="accessibility_back">Terug</string>
-  <string name="accessibility_battery_level">Accu: %d procent.</string>
+  <string name="accessibility_battery_level">Batterij: %d procent.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth-verbinding ingesteld.</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth-verbinding verbroken.</string>
   <string name="accessibility_bluetooth_tether">Bluetooth-tethering.</string>
@@ -51,9 +51,9 @@
   <string name="always_use_device">Standaard gebruiken voor dit USB-apparaat</string>
   <string name="app_label">System UI</string>
   <string name="battery_low_percent_format">%d%% resterend</string>
-  <string name="battery_low_subtitle">De accu raakt leeg.</string>
+  <string name="battery_low_subtitle">De batterij raakt leeg.</string>
   <string name="battery_low_title">Sluit de oplader aan</string>
-  <string name="battery_low_why">Accugebruik</string>
+  <string name="battery_low_why">Batterij gebruik</string>
   <string name="bluetooth_tethered">Bluetooth getetherd</string>
   <string name="call_status_dialing">Kiezen</string>
   <string name="camera_key_action_app_title">Open app</string>
@@ -210,7 +210,7 @@
   <string name="status_bar_recent_remove_item_title">Verwijder van lijst</string>
   <string name="status_bar_recording_back">Klik om terug te keren naar recorder</string>
   <string name="status_bar_recording_pause">"Opnemen is gepauzeerd. "</string>
-  <string name="status_bar_settings_airplane">Vliegtuigmodus</string>
+  <string name="status_bar_settings_airplane">Vliegmodus</string>
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>
   <string name="status_bar_settings_auto_rotation">Auto-rotate scherm</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
@@ -228,7 +228,7 @@
   <string name="status_bar_toggle_auto_brightness">Auto-Helderheid</string>
   <string name="status_bar_toggle_data">Data</string>
   <string name="status_bar_toggle_divider">Meer</string>
-  <string name="status_bar_toggle_flight_mode">Vliegtuig</string>
+  <string name="status_bar_toggle_flight_mode">Vliegmodus</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Vergrendel</string>
   <string name="status_bar_toggle_mute">Stil</string>
@@ -247,7 +247,7 @@
   <string name="status_bar_toggle_power_mode">Power mode</string>
   <string name="status_bar_toggle_drive_mode">Rijden</string>
   <string name="status_bar_toggle_ringtone">Beltoon</string>
-  <string name="status_bar_toggle_ring">Ring</string>
+  <string name="status_bar_toggle_ring">Geluid</string>
   <string name="status_bar_toggle_sync_auto">Auto sync</string>
   <string name="status_bar_toggle_sync_manual">Handmatig sync</string>
   <string name="status_bar_toggle_syncing">Synchr.</string>

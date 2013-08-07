@@ -431,7 +431,7 @@ CC: %4$s
   <string name="password_expired_dialog_content_fmt">De gegevens voor %s worden gewist op uw apparaat. U kunt het account herstellen door uw pincode of wachtwoord voor schermvergrendeling te wijzigen. Nu wijzigen?</string>
   <string name="password_expired_dialog_title">Wachtwoord schermvergrendeling verlopen</string>
   <string name="password_expired_ticker">Uw pincode of wachtwoord voor schermvergrendeling is verlopen.</string>
-  <string name="pause_state_low_battery">onderbroken - de accu is bijna leeg</string>
+  <string name="pause_state_low_battery">onderbroken - de batterij is bijna leeg</string>
   <string name="pause_state_manually_paused">handmatig gepauzeerd</string>
   <string name="pause_state_need_charger">onderbroken - uitgesteld tot opladen</string>
   <string name="pause_state_need_connectivity">onderbroken - wachten op verbinding</string>
@@ -461,7 +461,7 @@ CC: %4$s
   <string name="preference_mobile_data_usage_for_photos_only">"Alleen foto's uploaden via mobiele netwerken"</string>
   <string name="preference_mobile_data_usage_never">"Foto's en video's alleen via Wi-Fi uploaden"</string>
   <string name="preference_plus_category_advanced">Geavanceerd</string>
-  <string name="preference_plus_delay_sync_until_charging">Accu-uploads</string>
+  <string name="preference_plus_delay_sync_until_charging">Batterij-uploads</string>
   <string name="preference_plus_delay_sync_until_charging_summary">"Foto's en video's alleen uploaden tijdens het opladen"</string>
   <string name="preference_plus_enable_cs">Automatisch uploaden</string>
   <string name="preference_plus_enable_cs_summary">"Nieuwe foto's en video's automatisch uploaden naar een persoonlijk webalbum"</string>
@@ -531,7 +531,7 @@ CC: %4$s
   <string name="summary_menu_show_pending">Uploads in behandeling weergeven</string>
   <string name="summary_subtitle_counts_format">"%1$d foto's • %2$d video's"</string>
   <string name="summary_subtitle_disabled">Uitgeschakeld</string>
-  <string name="summary_subtitle_paused_low_battery">de accu is bijna leeg</string>
+  <string name="summary_subtitle_paused_low_battery">de batterij is bijna leeg</string>
   <string name="summary_subtitle_paused_need_charger">uitgesteld tot opladen</string>
   <string name="summary_subtitle_paused_need_media">SD-kaart niet beschikbaar</string>
   <string name="summary_subtitle_paused_need_network">wachten op verbinding</string>
