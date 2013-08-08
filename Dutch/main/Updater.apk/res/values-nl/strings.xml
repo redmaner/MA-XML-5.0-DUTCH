@@ -107,8 +107,13 @@
   <string name="share_update_content_unsign">Ik heb MIUI bijgewerkt naar %s! Voor gedetailleerde changelog, bezoek http://www.miui.com</string>
   <string name="sign_in_add_account">Activeer uw Xiaomi accout</string>
   <string name="sign_in_add_account_helper">Uw telefoon heeft geen MIUI account geconfigureerd, creëer één voor punten</string>
-  <string name="sign_in_info">"Uw update ranglijst is %1$s %2$s gebruikers zijn ingelogd op MIUI %3$s"</string>
-  <string name="sign_in_info_rank_more">"Uw update ranglijst is %1$s Meer dan %2$s gebruikers zijn ingelogd op MIUI %3$s"</string>
+  <string name="sign_in_info">"Uw update ranking is over de %1$s Meer dan %2$s gebruikers zijn ingelogd op MIUI %3$s"</string>
+  <string name="sign_in_info_rank_more">"Uw update ranking is %1$s Meer dan %2$s gebruikers zijn ingelogd op MIUI %3$s"</string>
+  <string name="sina_share_fail">Verzenden mislukt!</string>
+  <string name="sina_share_pendding">Verzenden...</string>
+  <string name="sina_share_success">Verzenden succesvol!</string>
+  <string name="sina_token_expired_warning">Weibo account is verlopen, a.u.b. herverbinden</string>
+  <string name="sina_token_invalid_warning">Weibo account is ongeldig, a.u.b. herverbinden</string> 
   <string name="sign_in_info_total_more">"Uw update ranglijst is %1$s Meer dan %2$s gebruikers hebben ingelogd op MIUI %3$s"</string>
   <string name="stable_build">Stabiele Build</string>
   <string name="start_update">Begin update</string>

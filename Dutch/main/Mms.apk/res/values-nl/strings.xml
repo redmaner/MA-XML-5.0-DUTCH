@@ -239,6 +239,7 @@
   <string name="notification_multiple">%s ongelezen berichten.</string>
   <string name="notification_multiple_title">Nieuwe berichten</string>
   <string name="number_add_hint">Voer nummer in om toe te voegen aan privé contact</string>
+  <string name="overwrite_edited_content">Zal de aangepaste inhoud overschrijven, doorgaan?</string> 
   <string name="phrase_confirm_delete_message">Term wissen?</string>
   <string name="phrase_empty">Geen zinnen</string>
   <string name="phrase_from">Van %1s</string>

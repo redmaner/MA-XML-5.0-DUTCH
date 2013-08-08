@@ -61,14 +61,7 @@
   <string name="every_day">Elke dag</string>
   <string name="full_wday_month_day_no_year">EEEE d MMMM</string>
   <string name="gallery_button_description">Galerij</string>
-  <string name="hide_clock">Klok verbergen</string>
-  <string name="holiday_data_already_newest">Werkdag gegevens zijn al de nieuwste</string>
-  <string name="holiday_data_no_network">Geen netwerk, probeer het later opnieuw</string>
-  <string name="holiday_data_update_failed">Controleren op updates heeft geresulteerd in fouten, probeer het later opnieuw.</string>
-  <string name="holiday_data_update_succeed">Controleren op updates voltooid</string>
-  <string name="holiday_data_updating">Bijwerken...</string>
-  <string name="holiday_update_summary">Controleer op updates</string>
-  <string name="holiday_update_title">Dagen bijwerken vereist een netwerk verbinding</string> 
+  <string name="hide_clock">Klok verbergen</string> 
   <string name="home_button_description">Launcher</string>
   <string name="hour">1 uur</string>
   <string name="hour_unit">Uur</string>

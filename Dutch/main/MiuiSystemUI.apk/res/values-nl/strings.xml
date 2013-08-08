@@ -254,6 +254,7 @@
   <string name="status_bar_toggle_power_low">Energiebesparing</string>
   <string name="status_bar_toggle_power_mid">Normaal</string>
   <string name="status_bar_toggle_power_high">Prestatie</string>
+  <string name="status_bar_toggle_quiet_mode">DND</string> 
   <string name="status_bar_use_physical_keyboard">Gebruik fysiek toetsenbord</string>
   <string name="tab_notifications_lable">Notificaties</string>
   <string name="tab_toggles_lable">Schakelaars</string>

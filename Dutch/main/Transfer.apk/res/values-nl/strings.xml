@@ -20,6 +20,7 @@
   <string name="editmode_menu_delete">Wissen</string>
   <string name="editmode_menu_share">Delen</string>
   <string name="error_bad_file">Corrupt bestad</string>
+  <string name="error_connect_service">Kon niet verbinden met overdracht service.</string> 
   <string name="error_download">Download mislukt</string>
   <string name="error_general">Normale fout opgetreden</string>
   <string name="error_network">Netwerk fout opgetreden</string>

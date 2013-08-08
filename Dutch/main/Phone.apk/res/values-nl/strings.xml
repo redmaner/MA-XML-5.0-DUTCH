@@ -140,6 +140,7 @@
     <string name="call_ind_services">Bel Onafhankelijke Services</string>
     <string name="call_lost">De verbinding is verbroken.</string>
     <string name="call_number">Naar:</string>
+    <string name="call_record_button_label">Opnemen %s</string> 
     <string name="call_record_notification_message_low_space_miui">Opname is gestopt wegens ruimtegebrek, klik om %s te tonen</string>
     <string name="call_record_notification_message_miui">Klik om %s te tonen.</string>
     <string name="call_record_notification_message_sd_unmounted_miui">Opname is gestopt omdat de SD-Kaart niet meer beschikbaar is.</string>

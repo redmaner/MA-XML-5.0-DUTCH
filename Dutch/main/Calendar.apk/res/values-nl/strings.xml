@@ -162,6 +162,7 @@
   <string name="response_maybe">Misschien</string>
   <string name="response_no">Nee</string>
   <string name="response_yes">Ja</string>
+  <string name="rest_day_indication"/> 
   <string name="save_label">Gereed</string>
   <string name="saving_event">Afspraak opgeslagen.</string>
   <string name="saving_event_with_guest">Updates verzonden.</string>
@@ -193,6 +194,7 @@
   <string name="what_label">Wat</string>
   <string name="when_label">Wanneer</string>
   <string name="where_label">Waar</string>
+  <string name="work_day_indication"/> 
   <string name="yearly">Jaarlijks (op %s)</string>
   <string name="yearly_plain">Jaarlijks</string>
 </resources>

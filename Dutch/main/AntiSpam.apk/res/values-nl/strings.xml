@@ -64,8 +64,8 @@
   <string name="qm_auto_time_turn_off_title">Selecteer tijd om rustmodus uit te schakelen</string>
   <string name="qm_auto_time_turn_on">Van</string>
   <string name="qm_auto_time_turn_on_title">Selecteer tijd om rustmodus in te schakelen</string>
-  <string name="qm_notification">Stille modus ingeschakeld, u zult niet gestoord worden</string>
-  <string name="qm_open">Open rustmodus</string>
+  <string name="qm_notification">Stille modus ingeschakeld.</string>
+  <string name="qm_open">Rustmodus inschakelen</string>
   <string name="qm_other_settings">Geavanceerd</string>
   <string name="qm_other_settings_group">Andere instellingen</string>
   <string name="qm_other_settings_info">Actie aanpassen voor oproepen en berichten als rustmodus is ingeschakeld</string>
@@ -73,7 +73,7 @@
   <string name="qm_repeated_call_summary_3min">Een tweede oproep van dezelfde persoon binnen drie minuten wordt niet gedempt</string>
   <string name="qm_repeated_call_summary_none">Maak geen uitzondering voor herhaalde oproepen</string>
   <string name="qm_special_call_setting_group">Uitzonderingen</string>
-  <string name="qm_summary">Na het openen van rustmodus worden inkomende oproepen en berichten gedempt en de telefoon zal niet ontwaken</string>
+  <string name="qm_summary">Na het inschakelen van rustmodus worden inkomende oproepen en berichten gedempt en de telefoon zal niet ontwaken door notificaties</string>
   <string name="qm_vip_call_button_title">Oproepen toestaan van whitelist</string>
   <string name="qm_vip_call_setting_title">Whitelist inkomende oproep instellingen</string>
   <string name="qm_vip_call_summary_contact">Alle contacten</string>

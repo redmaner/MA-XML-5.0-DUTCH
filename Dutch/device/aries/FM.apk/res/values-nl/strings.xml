@@ -46,6 +46,7 @@
   <string name="frequency_should_not_null">Radio frequentie niet gevuld</string>
   <string name="frequency_string"/>
   <string name="hint_station_name">Station naam</string>
+  <string name="increase_af">frequentie verhogen</string> 
   <string name="input_station">Geef radio frequentie (MHz)</string>
   <string name="menu_add_list">Voeg lijst toe</string>
   <string name="menu_delete">Wis</string>
@@ -76,18 +77,22 @@
   <string name="msg_searching_title">Auto-Selecteer Voorinstellingen</string>
   <string name="msg_seeking">Zoeken naar FM Station</string>
   <string name="msg_weak_searching">Zoeken naar frequenties om te zenden</string>
+  <string name="next_station">volgende station</string> 
   <string name="no_storage">Mount SDkaart voordat opname begint.</string>
+  <string name="pre_station">vorige station</string> 
   <string name="preparing_sd">SDkaart voorbereiden</string>
   <string name="preset_delete">Verwijder</string>
   <string name="preset_replace">Vervang</string>
   <string name="preset_tune">Afstemmen</string>
   <string name="presetlist_autoselect_title">Bevestig Auto-Select</string>
   <string name="radio_text_string">Dit is het lange Radio Tekst String Bericht dat moet scrollen</string>
+  <string name="record_error_file_removed">Opname gestopt. Opgenomen bestand is verwijderd.</string> 
   <string name="record_error_unknown">Opname gestopt. Onbekende fout tijdens opname.</string>
   <string name="record_fail">Opname mislukt</string>
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Klik om bestand te bekijken %s</string>
   <string name="record_sucess">Opname succesvol</string>
+  <string name="reduce_af">frequentie verlagen</string> 
   <string name="regional_band">Regionale Band zal alle opgeslagen stations wissen</string>
   <string name="search_dialog_title">Scan Stations</string>
   <string name="sel_audio_output">Selecteer Audio Uitvoer</string>
@@ -118,5 +123,10 @@
   <string name="toast_save_station">%s MHz station opgeslagen</string>
   <string name="toast_sleep_mode">Stop FM in %s</string>
   <string name="transmit_msg_string">Uitzenden op:</string>
+  <string name="turn_off_fm">FM uitzetten</string>
+  <string name="turn_off_speaker_phone">Telefoon speaker uitzetten</string>
+  <string name="turn_on_fm">FM aanzetten</string>
+  <string name="turn_on_speaker_phone">Telefoon speaker aanzetten</string> 
   <string name="type_rd"/>
+  <string name="view_stations_list">Bekijk station lijst</string> 
 </resources>
