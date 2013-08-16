@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="slideshow_time_entries">
+        <item>5 minuten</item>
+        <item>15 minuteb</item>
+        <item>30 minuteb</item>
+        <item>1 uur</item>
+        <item>Geen limiet</item>
+    </string-array>
+</resources>

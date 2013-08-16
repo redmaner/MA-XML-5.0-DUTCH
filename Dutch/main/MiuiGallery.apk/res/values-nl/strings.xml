@@ -278,6 +278,12 @@
   <string name="saving_failure">Foto kan niet worden opgeslagen</string>
   <string name="saving_image">Afbeelding opslaan...</string>
   <string name="scan_qr_code">Laat anderen deze QR code scannen om gedeelde album te bekijken</string>
+  <string name="screensaver_activate_mode">Screensaver Slideshow</string>
+  <string name="screensaver_activate_only_charging">Activeer Screensaver alleen tijdens opladen</string>
+  <string name="screensaver_category">Screensaver</string>
+  <string name="screensaver_no_data">Geen foto\'s in het album.</string>
+  <string name="screensaver_path">Screensaver album:</string>
+  <string name="screensaver_path_not_set">Niet ingesteld</string>
   <string name="sd_not_available">SD-kaart niet beschikbaar</string>
   <string name="seconds">seconden</string>
   <string name="select_album">Selecteer album</string>
@@ -298,6 +304,8 @@
   <string name="set_lock_or_wallpaper">Instellen als achtergrond</string>
   <string name="set_lockscreen">Stel vergrendelscherm in</string>
   <string name="set_recent_album">Stel in als recent album</string>
+  <string name="set_screensaver_path_message">5 seconden nadat het scherm is uitgeschakeld wordt dit album getoond.</string>
+  <string name="set_screensaver_path_title">Screensaver Slideshow</string> 
   <string name="set_wallpaper">Instellen als bureaubladachtergrond</string>
   <string name="settings">Instellingen</string>
   <string name="settings_i_xiaomi_com">Login op i.xiaomi.com om uw cloud opslag te beheren</string>
@@ -331,6 +339,8 @@
   <string name="slideshow_interval_dialog_title">Diavoorstelling tijdsinterval moet groter zijn dan 0 seconden</string>
   <string name="slideshow_interval_invalid">Ongeldige tijdsinterval instelling, deze moet liggen tussen 1 en 3600. Standaard tijdsinterval zal nu worden gebruikt</string>
   <string name="slideshow_repeat_mode">Herhaal</string>
+  <string name="slideshow_time_select_title">Selecteer Slideshow Tijd</string>
+  <string name="slideshow_time_title">Slideshow Tijd</string> 
   <string name="storage_all_volumes">Alle opslag apparaten</string>
   <string name="storage_no_space">Geen opslagruimte beschikbaar.</string>
   <string name="straighten">Rechtzetten</string>
