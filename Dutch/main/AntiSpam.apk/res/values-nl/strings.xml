@@ -85,12 +85,17 @@
   <string name="qm_vip_list_group">Whitelist</string>
   <string name="qm_vip_sms_setting_button">Demp whitelist berichten</string>
   <string name="quiet_mode">Rustmodus</string>
+  <string name="st_advanced_setting_group">Geavanceerde Instellingen</string> 
   <string name="st_bl_block_setting_title">Vraag me later</string>
   <string name="st_bl_setting_group">Blacklist Instellingen</string>
   <string name="st_block_all">Blokkeer oproepen en berichten</string>
   <string name="st_block_mute">Blokkeer oproepen en demp berichten</string>
   <string name="st_block_private_call_button">Blokkeer inkomende privénummers</string>
-  <string name="st_block_title">Blokkeer en log</string>
+  <string name="st_block_setting_group">Blokkeerlijst Instellingen</string>
+  <string name="st_block_setting_title">Oproepen en berichten</string> 
+  <string name="st_block_title">Blokkeren en loggen</string>
+  <string name="st_block_unknown_call">Alle onbekende oproepen blokkeren</string>
+  <string name="st_block_unknown_sms">Alle onbekende berichten blokkeren</string> 
   <string name="st_call_group">Bellen</string>
   <string name="st_common_setting_group">Quick View</string>
   <string name="st_filter_keywords_setting_summary1">Berichten van onbekende contacten worden geblokkeerd.</string>
@@ -101,7 +106,9 @@
   <string name="st_mute_all">Demp oproepen en berichten</string>
   <string name="st_mute_block">Demp oproepen en blokkeer berichten</string>
   <string name="st_mute_title">Rustmodus</string>
+  <string name="st_other_setting_group">Andere Instellingen</string> 
   <string name="st_settings_name">Instellingen</string>
+  <string name="st_show_block_notification">Toon geblokkeerde notificatie</string> 
   <string name="st_sms_group">Berichten</string>
   <string name="tab_blacklist">Blacklist</string>
   <string name="tab_block_log">Firewall</string>
@@ -110,6 +117,7 @@
   <string name="tab_title">AntiSpam</string>
   <string name="toast_keyword_blank">Trefwoord is leeg</string>
   <string name="toast_keyword_exist">Trefwood: %s bestaat al</string>
+  <string name="toast_keyword_invalid">Ongeldig trefwoord ingevoerd</string> 
   <string name="twelve_hour_time_format">a h:mm</string>
   <string name="twenty_four_hour_time_format">HH:mm</string>
 </resources>

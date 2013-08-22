@@ -28,6 +28,7 @@
   <string name="attach_subject">Onderwerp</string>
   <string name="attach_take_photo">Foto nemen</string>
   <string name="attach_video">"Video's"</string>
+  <string name="back_to_message_list">terug naar berichtenlijst</string>
   <string name="batch_delete_confirm_dialog_message">Wis geselecteerde %1$s berichten</string>
   <string name="batch_deleting_message_progress_message">Wis geselecteerde berichten</string>
   <string name="batch_deleting_progress_message">Wissen van geselecteerde conversaties</string>
@@ -81,6 +82,7 @@
   <string name="converting_to_picture_message">Converteren naar MMS-bericht...</string>
   <string name="converting_to_text_message">Converteren naar sms...</string>
   <string name="copy_message_text">Tekst kopiëren</string>
+  <string name="copy_message_text_success">Bericht succesvol gekopiëerd!</string> 
   <string name="copy_to_sdcard">Bijlage opslaan</string>
   <string name="copy_to_sdcard_fail">Kan bijlage niet opslaan.</string>
   <string name="copy_to_sdcard_success">Bijlage opgeslagen.</string>
@@ -239,7 +241,7 @@
   <string name="notification_multiple">%s ongelezen berichten.</string>
   <string name="notification_multiple_title">Nieuwe berichten</string>
   <string name="number_add_hint">Voer nummer in om toe te voegen aan privé contact</string>
-  <string name="overwrite_edited_content">Zal de aangepaste inhoud overschrijven, doorgaan?</string> 
+  <string name="overwrite_edited_content">Aangepaste inhoud wordt overschreven, wilt u doorgaan?</string> 
   <string name="phrase_confirm_delete_message">Term wissen?</string>
   <string name="phrase_empty">Geen zinnen</string>
   <string name="phrase_from">Van %1s</string>
@@ -342,10 +344,12 @@
   <string name="select_link_title">Selecteer actie</string>
   <string name="select_local_audio">Selecteer lokale audio</string>
   <string name="select_local_video">Selecteer lokale video</string>
+  <string name="select_recipient">Selecteer ontvanger</string> 
   <string name="select_top_text">Tekst bovenaan</string>
   <string name="send">Verzenden</string>
   <string name="send_signature_confirm_dialog_message">Bericht heeft geen inhoud, wilt u alleen de handtekening sturen?</string>
   <string name="send_signature_confirm_dialog_title">Bevestiging van verzending</string>
+  <string name="send_sms">Bericht verzenden</string> 
   <string name="send_to">Aan:</string>
   <string name="send_to_count">%1$s bericht succesvol verzonden</string>
   <string name="send_to_index_contact">Verzenden %1$s vanf %2$s...</string>

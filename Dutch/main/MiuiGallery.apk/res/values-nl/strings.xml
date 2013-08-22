@@ -245,10 +245,13 @@
 "</string> 
   <string name="operation_refresh">Vernieuwen</string>
   <string name="operation_rename">Hernoemen</string>
+  <string name="operation_set_as_screensaver">Instellen als Screensaver</string>
+  <string name="operation_unset_as_screensaver">Screensaver annuleren</string> 
   <string name="orientation">Oriëntatie</string>
   <string name="other_category">Andere instellingen</string>
   <string name="path">Pad</string>
   <string name="people">Mensen</string>
+  <string name="photo_page_always_rotate">Afbeeldingen automatisch draaien</string> 
   <string name="photo_page_save_image">Opslaan</string>
   <string name="photo_page_save_uri_image_fail">Foto opslaan mislukt.</string>
   <string name="photo_page_save_uri_image_ok">Foto opslaan in camera\'s foto\'s map.</string>

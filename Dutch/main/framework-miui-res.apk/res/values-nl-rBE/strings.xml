@@ -5,7 +5,10 @@
   <string name="activating">Activeren...</string>
   <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="alwaysUsePrompt">Gebruik als standaard (Niet meer vragen)</string>
-  <string name="android_lockscreen_glogin_instructions">Om te openen, login met uw account</string>
+  <string name="android_lockscreen_glogin_instructions">Login met uw account om te openen</string>
+  <string name="app_no_notification">geen notificatie</string>
+  <string name="app_notificaiton_on_notificationBar">Notificatiebalk</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Status- en notificatiebalk</string>
   <string name="arbor_day">Arbor Day</string>
   <string name="autumn_begins">Herfst Begint</string>
   <string name="autumn_equinox">Herst Equinox</string>

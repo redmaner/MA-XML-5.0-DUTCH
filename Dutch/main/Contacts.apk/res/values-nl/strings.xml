@@ -78,6 +78,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="call_other_fax">Fax bellen</string>
   <string name="call_pager">Bellen naar pager</string>
   <string name="call_radio">Bellen naar radio</string>
+  <string name="call_record_setting_miui">Opname Instellingen</string>
   <string name="call_settings">Instellingen</string>
   <string name="call_telex">Telex bellen</string>
   <string name="call_tty_tdd">Tekststelefoon bellen</string>
@@ -139,7 +140,9 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="clearFrequentsConfirmation_title">Wis regelmatig getacteerden?</string>
   <string name="clearFrequentsProgress_title">Wissen van regelmatig gecontacteerden...</string>
   <string name="clear_default">Standaardwaarden wissen</string>
+  <string name="clear_digits">telefoonnummer wissen</string> 
   <string name="click_close">Klik om te sluiten</string>
+  <string name="close_dial_pad">dial pad sluiten</string>
   <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_title">Cloud Controle</string>
   <string name="composer_failed_to_get_database_infomation">Kan databasegegevens niet ophalen.</string>
@@ -207,6 +210,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="deleteConfirmation_title">Contact verwijderen?</string>
   <string name="delete_call_log_title">Deze oproep selecteren?</string>
   <string name="delete_contact_calllog_title">"Bevestig het verwijderen van de oproep log van dit contact?"</string>
+  <string name="delete_dial_input">verwijderen</string> 
   <string name="delete_duplicate">Samenvoegen</string>
   <string name="delete_duplicate_message">"Samenvoegen ... "</string>
   <string name="delete_group_dialog_message" formatted="false">"De groep '%1$s' verwijderen? (De contacten zelf worden niet verwijderd.)"</string>
@@ -283,6 +287,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="device_version_header_bluetooth">open bluetooth op uw telefoon</string>
   <string name="device_version_header_no_bluetooth">Contacen importeren van simkaart</string>
   <string name="device_version_title">selecteer mobiele telefoon versie</string>
+  <string name="dial">bellen</string> 
   <string name="dialerDialpadHintText">Oproep toevoegen</string>
   <string name="dialerIconLabel">Recent</string>
   <string name="dialerKeyboardHintText">Gebruik toetsen om te kiezen</string>

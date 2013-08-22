@@ -63,6 +63,7 @@ gebruikt verschillende coderingen om uw financiële veiligheid te garanderen"</s
   <string name="btn_pay_large">Nu afrekenen</string>
   <string name="btn_prev">Vorige</string>
   <string name="btn_query">Nu claimen</string>
+  <string name="btn_recharge_confirm">Aankoop bevestigen</string>
   <string name="btn_recharge_large">Nu opwaarderen</string>
   <string name="btn_recharge_other">Andere opwaardeer methode</string>
   <string name="btn_recharge_success">Opwaarderen succesvol</string>
@@ -70,6 +71,8 @@ gebruikt verschillende coderingen om uw financiële veiligheid te garanderen"</s
   <string name="btn_voucher">MiCredit kaart (%1$s)</string>
   <string name="btn_wait_call">Wachten</string>
   <string name="btn_wait_call_count">Wachten (%1$s)</string>
+  <string name="btn_wait_confirm">Wachten...</string>
+  <string name="btn_wait_confirm_count">Wachten (%1$s)</string> 
   <string name="button_cancel">Annuleren</string>
   <string name="button_pay">Betalen</string>
   <string name="button_recharge">Opwaarderen</string>
@@ -78,6 +81,8 @@ gebruikt verschillende coderingen om uw financiële veiligheid te garanderen"</s
   <string name="check_phone_io_error">Netwerk fout</string>
   <string name="checking_account">"Account verifiëren..."</string>
   <string name="cloud_messaging">MiCloud berichten</string> 
+  <string name="cmcc_data_sync_notice">Gebruik uw Xiaomi account om berichten, contacten en andere gegevens te synchroniseren. Geniet ondertussen van Xiaomi cloud services.</string>
+  <string name="cmcc_micloud_dspt">Cloud services bevat mobiele synchronisatie, apparaat locatie en andere functies. U kunt ook online uw gegevens beheren wanneer u maar wilt!</string>
   <string name="completed">Voltooien</string>
   <string name="confirm">Bevestigen</string>
   <string name="current_account">Huidig account</string>
@@ -222,6 +227,18 @@ en kan niet worden gebruikt als hij is verlopen"</string>
   <string name="msg_picker_hint_2_2">Met elke SMS opwaardering, provider kosten van 0.1 RMB</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Maximale maandelijkse betaling van 300 RMB</string>
+  <string name="msg_send_no_net_error">Bericht verzenden mislukt: Kon niet verbinden met netwerk provider.</string>
+  <string name="msg_send_no_sim_error">Bericht verzenden mislukt: probeer uw simkaart opnieuw te plaatsen.</string>
+  <string name="msg_send_send_fail_error">Bericht verzenden mislukt</string>
+  <string name="msg_telecom_order_denom">%1s yuan (bevat geen mobiele data kosten)</string>
+  <string name="msg_telecom_order_denom_label">Verschuldigde bedrag:</string>
+  <string name="msg_telecom_order_goods">%1s MiCredit(s)</string>
+  <string name="msg_telecom_order_goods_label">Product omschrijving:</string>
+  <string name="msg_telecom_picker_hint_1_1">Nadat u klikt op \"aankoop bevestigen\" zal uw telefoon</string>
+  <string name="msg_telecom_picker_hint_1_2">automatischuw service provider benaderen.</string>
+  <string name="msg_telecom_picker_hint_2_1">Uw network provider is benaderd!</string>
+  <string name="msg_telecom_picker_hint_2_2">U ontvangt binnenkort een bevestigings bericht.</string>
+  <string name="msg_telecom_sending">Uw netwerk provider benaderen...</string> 
   <string name="my_mili_record">Mijn MiCredit</string>
   <string name="my_xiaomi_account">Mijn huidige Xiaomi account</string>
   <string name="next">Volgende</string>

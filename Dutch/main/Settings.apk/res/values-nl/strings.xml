@@ -1263,6 +1263,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="no_nearby_wifi">Geen WI-FI netwerk gedetecteeerd, re-scan of voeg netwerk handmatig toe</string>
   <string name="no_running_services">Niets wordt uitgevoerd.</string>
   <string name="no_services">Niet actief</string>
+  <string name="noise_suppression">Ruisonderdrukking</string>
   <string name="normal_date_format">Regionaal (%s)</string>
   <string name="not_installed">Niet geïnstalleerd</string>
   <string name="notification_pulse_title">Knipperen trackball</string>
@@ -1442,6 +1443,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_user_app">Gedownloade Apps (%d)</string>
   <string name="perm_version">Versie: %1$s</string>
   <string name="personal_data_section_title">Persoonlijke gegevens</string>
+  <string name="phone_call_noise_suppression">Telefoon ruisonderdrukking</string> 
   <string name="phone_info_label">Telefooninfo</string>
   <string name="phone_language_summary" />
   <string name="phone_language">Taal</string>
@@ -2432,7 +2434,7 @@ Elke gebruiker kan bijgewerkte app machtigingen accepteren voor alle gebruikers.
   <string name="wifi_setup_title">Instellen van Wi-Fi</string>
   <string name="wifi_setup_wizard_title">Selecteer Wi-Fi</string>
   <string name="wifi_setup_wps">Automatische setup (WPS)</string>
-  <string name="wifi_share">Deel publiek Wi-Fi netwerk</string>
+  <string name="wifi_share">Deel Wi-Fi</string>
   <string name="wifi_share_action_turn_off">Wi-Fi delen uitschakelen</string>
   <string name="wifi_share_action_turn_on">Wi-Fi delen inschakelen</string>
   <string name="wifi_share_action_turn_on_summary">Login met uw Xiaomi gebruikersnaam en wachtwoord</string>
@@ -2457,8 +2459,8 @@ Elke gebruiker kan bijgewerkte app machtigingen accepteren voor alle gebruikers.
   <string name="wifi_share_summary1">MIUI gebruikers kunnen wachtwoord beveiligde publieke Wi-Fi netwerken met elkaar delen.</string>
   <string name="wifi_share_summary2">Als een andere MIUI gebruiker een netwerk deelt, kunt u direct verbinden met dat netwerk zonder wachtwoord.</string>
   <string name="wifi_share_summary3">Deel publieke Wi-Fi netwerken met vrienden en collega\'s</string>
-  <string name="wifi_share_turn_off">Publiek Wi-Fi delen uit</string>
-  <string name="wifi_share_turn_on">Publiek Wi-Fi delen aan</string>
+  <string name="wifi_share_turn_off">Delen uit</string>
+  <string name="wifi_share_turn_on">Delen aan</string>
   <string name="wifi_share_upload">Delen</string>
   <string name="wifi_share_upload_finish">Delen succesvol!</string>
   <string name="wifi_share_uploading">Publiek Wi-Fi netwerk delen</string> 

@@ -26,6 +26,13 @@
   <string name="check_update_when_wifi_available">Alleen via Wi-Fi op updates controleren</string>
   <string name="checking_for_updates">Controleren op updates</string>
   <string name="choose_recommend">Please choose whether or not to recommend</string>
+  <string name="comment_invalid">Raak sterren aan om te beoordelen</string>
+  <string name="comment_publish">Bevestigen</string>
+  <string name="comment_sending">Reactie verzenden...</string>
+  <string name="comment_upload_failed">Reactie verzenden mislukt</string>
+  <string name="comment_upload_hint">Bedankt voor uw reactie</string>
+  <string name="comment_upload_not_logined">U dient eerst in te loggen alvorens u kunt reageren</string>
+  <string name="comment_upload_success">Reactie succesvol verzonden!</string> 
   <string name="confirm_download_cancelation_dialog_message">Wilt u echt de huidige download annuleren?</string>
   <string name="copy_install_log">Kopieer op klembord</string>
   <string name="current_version_text">Laatste versie:</string>
@@ -38,6 +45,9 @@
   <string name="download_ota_rom">Download OTA (%s)</string>
   <string name="download_whole_rom">Volledige ROM (%s) downloaden</string>
   <string name="downloading_description">Downloaden...</string>
+  <string name="edit_comment">Reactie toevoegen</string>
+  <string name="edit_comment_title">Reactie aanpassen</string>
+  <string name="edit_text_default">Reactie schrijven</string>
   <string name="emegency_build">Build:</string>
   <string name="exception_while_downloading">Fout tijdens downloaden updates</string>
   <string name="expect">4. Verwachtingen</string>

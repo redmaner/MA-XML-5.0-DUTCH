@@ -81,11 +81,13 @@
   <string name="invalid_contact_shortcut">Ongeldig contact</string>
   <string name="loading_desktop">Launcher laden...</string>
   <string name="menu_add">Toevoegen</string>
-  <string name="menu_back_desktop">Terug naar homescreen</string>
+  <string name="menu_back_desktop">Terug naar startscherm</string>
+  <string name="menu_customize">Instellingen Aanpassen</string> 
   <string name="menu_edit">Widgets toevoegen</string>
-  <string name="menu_exit_scene">Home afsluiten</string>
-  <string name="menu_item_add_item">Toevoegen aan startpagina</string>
+  <string name="menu_exit_scene">MiSpace afsluiten</string>
+  <string name="menu_item_add_item">Toevoegen aan startscherm</string>
   <string name="menu_launcher_setting">Launcher instellingen</string>
+  <string name="menu_picktheme">Selecteer thema</string> 
   <string name="menu_reset_scene">Reset naar standaard scene</string>
   <string name="menu_search">Zoeken</string>
   <string name="menu_settings">Instellingen</string>
@@ -126,6 +128,7 @@
   <string name="screen_button_disabled_message">Knoppen op het lagere scherm zijn uitgeschakeld. U kunt ze inschakelen door op \"Home\" en \"Aan/uit\" te drukken.</string>
   <string name="screen_button_enabled_message">Knoppen op het lagere scherm zijn ingeschakeld</string>
   <string name="screen_rotation_freeze_message">Scherm rotatie is vergrendeld op landschap modus</string>
+  <string name="scroll_tip_format_when_announce_accessibility">Pagina %1$d, %2$d apps</string> 
   <string name="select_frame">Frame</string>
   <string name="select_photo">Foto</string>
   <string name="sharedUserId" />
