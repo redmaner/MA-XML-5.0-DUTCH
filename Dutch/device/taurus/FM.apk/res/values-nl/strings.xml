@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="FMRecording_reach_storage_threshold">Opname is gestopt. De vrije schijfruimte op uw SDkaart is beperkt.</string>
-  <string name="access_sd_fail">Kon SDkaart niet benaderen</string>
+  <string name="FMRecording_reach_storage_threshold">Opname is gestopt. De vrije schijfruimte op uw SD-kaart is beperkt.</string>
+  <string name="access_sd_fail">Kon SD-kaart niet benaderen</string>
   <string name="alert_dialog_cancel">Annuleren</string>
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_message_delete_station">Wis station?</string>
@@ -46,7 +46,7 @@
   <string name="frequency_should_not_null">Radio frequentie niet gevuld</string>
   <string name="frequency_string"/>
   <string name="hint_station_name">Station naam</string>
-  <string name="increase_af">frequentie verhogen</string> 
+  <string name="increase_af">Frequentie verhogen</string> 
   <string name="input_station">Geef radio frequentie (MHz)</string>
   <string name="menu_add_list">Voeg lijst toe</string>
   <string name="menu_delete">Wis</string>
@@ -77,10 +77,10 @@
   <string name="msg_searching_title">Auto-Selecteer Voorinstellingen</string>
   <string name="msg_seeking">Zoeken naar FM Station</string>
   <string name="msg_weak_searching">Zoeken naar frequenties om te zenden</string>
-  <string name="next_station">volgende station</string> 
-  <string name="no_storage">Mount SDkaart voordat opname begint.</string>
-  <string name="pre_station">vorige station</string> 
-  <string name="preparing_sd">SDkaart voorbereiden</string>
+  <string name="next_station">Volgende station</string> 
+  <string name="no_storage">Koppel SD-kaart voordat opname begint.</string>
+  <string name="pre_station">Vorige station</string> 
+  <string name="preparing_sd">SD-kaart voorbereiden</string>
   <string name="preset_delete">Verwijder</string>
   <string name="preset_replace">Vervang</string>
   <string name="preset_tune">Afstemmen</string>
@@ -92,7 +92,7 @@
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Klik om bestand te bekijken %s</string>
   <string name="record_sucess">Opname succesvol</string>
-  <string name="reduce_af">frequentie verlagen</string> 
+  <string name="reduce_af">Frequentie verlagen</string> 
   <string name="regional_band">Regionale Band zal alle opgeslagen stations wissen</string>
   <string name="search_dialog_title">Scan Stations</string>
   <string name="sel_audio_output">Selecteer Audio Uitvoer</string>
@@ -103,7 +103,7 @@
   <string name="settings_menu">Instellingen</string>
   <string name="settings_revert_confirm_msg">Dit zal alle instellingen inclusief voorinstellingen verwijderen</string>
   <string name="settings_revert_defaults_title">Herstel naar fabrieksinstellingen</string>
-  <string name="spaceIsLow_content">Uw SDkaart is bijna vol. Wijzig de kwaliteitsinstelling of verwijder afbeeldingen of andere bestanden.</string>
+  <string name="spaceIsLow_content">Uw SD-kaart is bijna vol. Wijzig de kwaliteitsinstelling of verwijder afbeeldingen of andere bestanden.</string>
   <string name="stat_notif_frequency">: %1$s MHz</string>
   <string name="stat_notif_tx_frequency">FM Zend uit op: %1$s</string>
   <string name="station_edit">Wijzig</string>
