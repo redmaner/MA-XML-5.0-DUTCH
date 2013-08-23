@@ -22,14 +22,14 @@
   <string name="Dashboard_Perm">Machtigingen</string>
   <string name="Dashboard_Perm_SU">Beheer ROOT Toegang</string>
   <string name="Dashboard_Perm_SU_Desc">%1$d apps worden gecontroleerd voor ROOT Toegang</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Het verlenen van ROOT Toegang aan apps van derden kan systeem instabiliteit, verlies van persoonlijke gegevens, of syteem of hardware schade veroorzaken. Stap over op een ontwikkel versie van MIUI om ROOT toegang in te schakelen.</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Het verlenen van ROOT Toegang aan apps van derden kan systeem instabiliteit, verlies van persoonlijke gegevens, of syteem of hardware schade veroorzaken. Stap over op een ontwikkel versie van MIUI om ROOT Toegang in te schakelen.</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Download MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT is niet beschikbaar op stabiele versies van MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
   <string name="Dashboard_Perm_SU_Disabled">ROOT Toegang is uitgeschakeld</string>
   <string name="Dashboard_Perm_SU_Switch">ROOT Toegang</string>
-  <string name="Dashboard_Su_Enable_Content">Het inschakelen zal apps toestaan ROOT toegang te verzoeken. Notitie: Apps met ROOT toegang kunnen systeem instabiliteit, gegevens verlies, of systeem of hardware schade veroorzaken, gebruik voorzichtig. Weet u zeker dat u het wilt inschakelen?</string>
-  <string name="Dashboard_Su_Enable_Title">ROOT toegang</string>
+  <string name="Dashboard_Su_Enable_Content">Het inschakelen zal apps toestaan ROOT Toegang te verzoeken. Notitie: Apps met ROOT Toegang kunnen systeem instabiliteit, gegevens verlies, of systeem of hardware schade veroorzaken, gebruik voorzichtig. Weet u zeker dat u het wilt inschakelen?</string>
+  <string name="Dashboard_Su_Enable_Title">ROOT Toegang</string>
   <string name="Generic_Canceling">Annuleren...</string>
   <string name="Generic_Check">Check</string>
   <string name="Generic_Clean">Schoon</string>
@@ -57,13 +57,13 @@
   <string name="Generic_UserApp">Gedownloade Apps (%d)</string>
   <string name="Generic_Version">Versie: %1$s</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Allow&lt;/font></string>
-  <string name="HIPS_Action_Accept_Count">Toegestaan: %1$d</string>
+  <string name="HIPS_Action_Accept_Count">Toestaan: %1$d</string>
   <string name="HIPS_Action_Accept">Toestaan</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Ask&lt;/font></string>
   <string name="HIPS_Action_Prompt">Vragen</string>
   <string name="HIPS_Action_Reject">Afwijzen</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>Deny&lt;/font></string>
-  <string name="HIPS_Action_Reject_Count">Afgewezen: %1$d</string>
+  <string name="HIPS_Action_Reject_Count">Afwijzen: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Privacy</string>
   <string name="HIPS_Group_Expense">Veiligheid</string>
   <string name="HIPS_Group_Internet">Internet toegang</string>
@@ -152,18 +152,18 @@
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s apps zijn gemachtigd om toegang te verkrijgen tot het internet</string>
   <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Toestaan</string>
-  <string name="HIPS_SecurityPrompt_Accept">Toegestaan (%d)</string>
+  <string name="HIPS_SecurityPrompt_Accept">Toestaan (%d)</string>
   <string name="HIPS_SecurityPrompt_Caption">Veiligheids Waarschuwing</string>
   <string name="HIPS_SecurityPrompt_Next">Volgende</string>
-  <string name="HIPS_SecurityPrompt_Reject">Afgewezen (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject">Afwijzen (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Onthoud mijn keuze</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Belangrijke Waarschuwing</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step1">Wilt u %1$s toestaan ROOT toegang te verkrijgen?</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT toegang kan systeem instabiliteit veroorzaken</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step1">Wilt u %1$s toestaan ROOT Toegang te verkrijgen?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT Toegang kan systeem instabiliteit veroorzaken</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Uw privacy gegevens zoals accounts, wachtwoorden en berichten kunnen worden aangetast</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Permanente hardware schade is ook mogelijk</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Gebruik voorzichtig!</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step6">Weet u zeker dat u %1$s wilt toestaan ROOT toegang te verkrijgen?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step6">Weet u zeker dat u %1$s wilt toestaan ROOT Toegang te verkrijgen?</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s is aan het proberen om %2$s</string>
   <string name="Privacy_App_Finish">Afmaken</string>
   <string name="Privacy_App_Installed">Configureer machtiging</string>
@@ -179,8 +179,8 @@
   <string name="Privacy_App_Trust_Summary_On">MIUI zal deze App vertrouwen</string>
   <string name="Privacy_App_Uninstall">De-installeren</string>
   <string name="Privacy_Perm_Count">Toegestaan: %1$d Afgewezen: %2$d</string>
-  <string name="Su_Enable_Dialog">%1$s probeert systeem ROOT toegang te verkrijgen die standaard is uitgeschakeld om systeem veiligheid te garanderen. Als u het wilt inschakelen, ga dan naar instelling in Machtingings Controle.</string>
-  <string name="Su_Unavailable">ROOT Toegang is uitgeschakeld in stabiele MIUI versies. Instaleerd MIUI BETA versie om ROOT toegang te activeren.</string>
+  <string name="Su_Enable_Dialog">%1$s probeert systeem ROOT Toegang te verkrijgen die standaard is uitgeschakeld om systeem veiligheid te garanderen. Als u het wilt inschakelen, ga dan naar instelling in Machtingings Controle.</string>
+  <string name="Su_Unavailable">ROOT Toegang is uitgeschakeld in stabiele MIUI versies. Instaleerd MIUI BETA versie om ROOT Toegang te activeren.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart machtiging</string>
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
   <string name="SysOpt_Boost_Boot">Opstarten</string>
