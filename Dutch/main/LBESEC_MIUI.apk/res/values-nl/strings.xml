@@ -152,10 +152,10 @@
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s apps zijn gemachtigd om toegang te verkrijgen tot het internet</string>
   <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Toestaan</string>
-  <string name="HIPS_SecurityPrompt_Accept">Toestaan (%d)</string>
+  <string name="HIPS_SecurityPrompt_Accept">Toegestaan (%d)</string>
   <string name="HIPS_SecurityPrompt_Caption">Veiligheids Waarschuwing</string>
   <string name="HIPS_SecurityPrompt_Next">Volgende</string>
-  <string name="HIPS_SecurityPrompt_Reject">Afwijzen (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject">Afgewezen (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Onthoud mijn keuze</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Belangrijke Waarschuwing</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Wilt u %1$s toestaan ROOT toegang te verkrijgen?</string>
