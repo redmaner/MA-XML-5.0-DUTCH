@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="date_of_traffic">
-        <item>Verkeer gisteren</item>
-        <item>Verkeer vandaag</item>
-        <item>Verkeer deze maand</item>
+        <item>Verbruik gisteren</item>
+        <item>Verbruik vandaag</item>
+        <item>Verbruik deze maand</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Gisteren op 2G/3G</item>
