@@ -144,6 +144,7 @@
     <string name="call_record_notification_message_low_space_miui">Opname is gestopt wegens ruimtegebrek, klik om %s te tonen</string>
     <string name="call_record_notification_message_miui">Klik om %s te tonen.</string>
     <string name="call_record_notification_message_sd_unmounted_miui">Opname is gestopt omdat de SD-Kaart niet meer beschikbaar is.</string>
+    <string name="call_record_notification_message_start_failed">Apparaat opname wordt gebruikt door een andere applicatie.</string>
     <string name="call_record_notification_title_error_miui">Gespreksopname mislukt</string>
     <string name="call_record_notification_title_miui">Gespreksopname gelukt</string>
     <string name="call_record_path_name_of_sdcard_miui">SD-kaart</string>
@@ -156,6 +157,7 @@
     <string name="call_settings">Oproepinstellingen</string>
     <string name="call_settings_category_miui">Oproepinstellingen</string>
     <string name="call_settings_miui">Oproepinstellingen</string>
+    <string name="call_record_unknown_error">Er is een onbekende fout opgetreden tijdens het opnemen!</string>
     <string name="call_title_redialing_with_times_miui">%d maal herkiezen</string>
     <string name="call_waiting_sum_miui">Waarschuw voor binnenkomende oproepen tijdens een oproep</string>
     <string name="call_waiting_tone_continuously_miui">Toon continue afspelen</string>
