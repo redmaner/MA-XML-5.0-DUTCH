@@ -64,6 +64,7 @@
   <string name="confirm_no_block_positive">Niet blokkeren en herstellen</string>
   <string name="confirm_no_block_title">Nummer niet blokkeren en alle berichten herstellen?</string> 
   <string name="confirm_rate_limit">Er wordt een groot aantal multimediaberichten verzonden. Is dat OK?</string>
+  <string name="confirm_restore_all_title">Alle berichten van dit nummer herstellen?</string>
   <string name="confirm_restore_positive">Herstellen</string>
   <string name="confirm_restore_title">Alle geselecteerde berichten herstellen?</string> 
   <string name="context_menu_add_contact">Aan contact toevoegen</string>
@@ -324,6 +325,7 @@
   <string name="replace_image">Foto vervangen</string>
   <string name="resent_message">Opnieuw versturen</string>
   <string name="resize_image_error_information">Deze afbeelding is te groot om te verzenden, zelfs als het formaat wordt aangepast.</string>
+  <string name="restore_all_button_msg">Alle berichten van dit nummer herstellen</string>
   <string name="restore_blocked_message">Herstel geblokkeerd bericht</string> 
   <string name="save">Opslaan</string>
   <string name="save_ringtone">Opslaan als beltoon</string>

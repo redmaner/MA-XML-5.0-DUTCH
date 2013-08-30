@@ -28,6 +28,8 @@
   <string name="alert">Waarschuwing</string>
   <string name="alert_message_initial_cloud">"Het systeem zal automatisch oude en nieuwe foto's en schermafdrukken uploaden indien er een Wi-Fi verbinding is."</string>
   <string name="alert_message_open_sync">Synchronisatie is nodig, wilt u nu synchronisatie openen?</string>
+  <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
+  <string name="androidesk_wallpapers">Android Achtergronden</string>
   <string name="aperture">Aperture</string>
   <string name="app_name">Galerij</string>
   <string name="appwidget_empty_text">"Geen foto's."</string>
@@ -37,6 +39,10 @@
   <string name="auto_create_recent_album_confirm">"Na het uitzetten van deze optie, zal Galerij gecreëerde data verwijderen van favoriete albums. Door gebruiker ingestelde favoriete albums worden niet beïnvloed. Als alternatief kan dit handmatig ingesteld worden door lang te drukken op een album."</string>
   <string name="auto_create_recent_album_over_ten_times">Maak automatisch favoriet na het vaker dan 10 keer openen van een album</string>
   <string name="autofix">Auto-repareer</string>
+  <string name="autohomemain">Autohomemain</string>
+  <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
+  <string name="baidu_flyflow_downloads">Baidu Browser</string>
+  <string name="beautyphone">Beauty Phone</string>
   <string name="big_screen_alertdialog_title">Projector Apparaat</string>
   <string name="bigscrren_slide_exit">Verlaat diavoorstelling via TV</string>
   <string name="browse_category">Door foto\'s bladeren</string>
@@ -99,6 +105,9 @@
   <string name="crossprocess">Cross-process</string>
   <string name="cut">Bijsnijden</string>
   <string name="damaged_file">Bestand is corrupt</string>
+  <string name="dcim_100media">Taobao TMall</string>
+  <string name="dcim_opaipic">Opaipic</string>
+  <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">mobiel</string>
   <string name="delete">Wissen</string>
   <string name="delete_fail_too_many_items">Wissen mislukt, te veel items geselecteerd</string>
@@ -119,7 +128,7 @@
   <string name="doodle_tooltip">Teken op foto om doodle te maken</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Tijdsduur</string>
-  <string name="edit">Wijzig</string>
+  <string name="edit">Bewerken</string>
   <string name="edited_photo_bucket_name">Bewerkt</string>
   <string name="email_picker_title">E-mail deelgenoot toevoegen</string>
   <string name="empty_album">"O afbeeldingen/video's beschikbaar."</string>
@@ -175,6 +184,7 @@
   <string name="how_many_videos">"%d Video's"</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="image_quota_fulfiled">Kan afbeelding niet maken, afbeeldingen quota heeft limiet bereikt.</string>
+  <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Importeren voltooid</string>
   <string name="import_fail">Importeren mislukt</string>
   <string name="initial_cloud_button_text">Start met gebruiken van MiCloud </string>
@@ -214,6 +224,7 @@
   <string name="messagelist_sender_self">Ik</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk kleuren</string>
+  <string name="miliao_saved">MiChat</string>
   <string name="miliao_saved_folder_display_name">MiTalk opgeslagen</string>
   <string name="mimetype">MIME type</string>
   <string name="mishop_saved_folder_display_name">MiShop Saves</string>
@@ -223,9 +234,12 @@
   <string name="modify_disallow_hint">Nieuwe afbeeldingen toevoegen is niet toegestaan</string>
   <string name="more">Meer</string>
   <string name="move_to_cloud_album">Verplaats naar Cloud</string>
+  <string name="mtgif">MTGIF</string>
+  <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Raak een gezicht aan om te beginnen.</string>
   <string name="must_pick_file">Selecteer een afbeelding</string>
   <string name="negative">Negatief</string>
+  <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="no">Nee</string>
   <string name="no_albums_alert">Geen albums beschikbaar.</string>
   <string name="no_connectivity">"Sommige locaties kunnen niet worden geïdentificeerd door netwerk problemen."</string>
@@ -260,13 +274,17 @@
   <string name="photos">"Foto('s)"</string>
   <string name="pick_too_many_recipients">Te veel ontvangers</string>
   <string name="posterize">Posterize</string>
+  <string name="ppmm_gallery">PPMM</string>
   <string name="projection">Projectie</string>
+  <string name="qqbrowser_img">QQ Browser</string>
++  <string name="qsbk_save">QSBK</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="redeye">Rode ogen</string>
   <string name="redeye_tooltip">Raak aan om rode ogen te verwijderen</string>
   <string name="remove_hidden_album">Annuleren verborgen</string>
   <string name="remove_recent_album">Wis van favoriete afbeeldingen</string>
   <string name="rename_failed">Hernoemen mislukt</string>
+  <string name="renren_image">RenRen</string>
   <string name="request_qr_code">QR code verzoeken, een moment geduld...</string>
   <string name="request_qr_code_failed">QR code verzoek mislukt, klik om opnieuw te proberen</string>
   <string name="request_sms_url_failed">Verzoek url voor delen via SMS mislukt</string>
@@ -293,6 +311,7 @@
   <string name="select_all">Selecteer alles</string>
   <string name="select_image">Select foto</string>
   <string name="select_item">Selecteer item</string>
+  <string name="select_too_much_to_send_tips">De geselecteerde foto\'s zijn te groot om te delen. Het toegestane limiet is %d.</string> 
   <string name="select_video">Selecteer video</string>
   <string name="send">Delen</string>
   <string name="send_multiple_files_hint_format">Deel meerdere bestanden (%s)</string>
@@ -332,6 +351,7 @@
   <string name="show_images_only">Alleen afbeeldingen</string>
   <string name="show_on_map">Toon op kaart</string>
   <string name="show_videos_only">"Alleen video's"</string>
+  <string name="sina_weibo_save">Weibo</string>
   <string name="size_above">%1$s of hoger</string>
   <string name="size_below">%1$s of lager</string>
   <string name="size_between">%1$s tot %2$s</string>
@@ -360,6 +380,10 @@
   <string name="tab_wallpaper_text">Desktop</string>
   <string name="tags">Tags</string>
   <string name="temperature">Warmte</string>
+  <string name="tencent_mobile_qq_img_save">QQ2012</string>
+  <string name="tencent_qq_hd_pic">QQ HD</string>
+  <string name="tencent_qzonepic">Qzone</string>
+  <string name="tieba">Tie Ba</string>
   <string name="time">Tijd</string>
   <string name="times">Tijden</string>
   <string name="tint">Tint</string>
@@ -369,12 +393,14 @@
   <string name="try_to_send">Attempt send</string>
   <string name="turn_left">Roteer linksom</string>
   <string name="turn_right">Roteer rechtsom</string>
+  <string name="ucdownloads_screenshot">UC Browser</string>
   <string name="unit_mm">mm</string>
   <string name="untagged">Untagged</string>
   <string name="video_err">Kan video niet afspelen.</string>
   <string name="vignette">Vignette</string>
   <string name="wallpaper">Achtergrond</string>
   <string name="warn">Waarschuwing</string>
+  <string name="weikan_weikan">Weikan TV</string>
   <string name="white_balance">Witbalans</string>
   <string name="widget_type">Kies afbeeldingen</string>
   <string name="widget_type_album">Kies een album</string>

@@ -22,6 +22,7 @@ Stap even uit beeld</string>
   <string name="cannot_connect_camera_twice">"Kan geen verbinding maken met de camera, herstart uw telefoon"</string>
   <string name="clear_effects">Wis effecten</string>
   <string name="close">Sluiten</string>
+  <string name="cloud_album_details">Cloud album details:</string>
   <string name="confirm_change_mode_title">Modus wisselen</string>
   <string name="confirm_change_to_expert_mode_message">Meteen wisselen naar Professionele modus?</string>
   <string name="confirm_change_to_simple_mode_message">Meteen wisselen naar Simpele modus?</string> 
@@ -78,6 +79,7 @@ Stap even uit beeld</string>
   <string name="error_fail_to_start_audio_capture">Mislukt audio-opname te starten: De microfoon kan in gebruik zijn door een andere toepassing.</string>
   <string name="exposure_time">Sluitertijd</string>
   <string name="file_size">Bestandsgrootte</string>
+  <string name="find_cloud_album">Vind een cloud album QR code</string>
   <string name="find_market_qrcode">Vind markt QR code</string>
   <string name="find_mecard_qrcode">Vind bezoekkaart QR code</string>
   <string name="find_other_qrcode">Vind QR code</string>
@@ -477,6 +479,7 @@ Stap even uit beeld</string>
   <string name="video_reach_size_limit">Afmeting limiet bereikt.</string>
   <string name="video_snapshot_hint">Maak een foto tijdens de video-opname door het aanraken van het voorbeeldscherm.</string>
   <string name="videocamera_settings_label">Video Instellingen</string>
+  <string name="visit_cloud_album">Cloud album bekijken</string>
   <string name="wait">Even geduld aub...</string>
   <string name="web_url_apk_warning">De geselecteerde QR code bevat een app die een risico kan veroorzaken, zoek de app via de PlayStore</string>
   <string name="web_url_warning">De website QR code kan een risico veroorzaken, MIUI browser zal de QR code veilig voor uw scannen.</string>

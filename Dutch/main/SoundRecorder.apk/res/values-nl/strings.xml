@@ -49,8 +49,10 @@
   <string name="play_record">Afspelen</string> 
   <string name="preference_led_indicator">Opname indicator wanneer scherm is vergrendeld</string>
   <string name="preference_led_indicator_prompt">Toon LED en statusbalk indicators bij opnemen en scherm vergrendeld is</string>
+  <string name="preference_record_scenes_dialog_title">Selecteer een opname scene</string>
   <string name="preference_record_type_dialog_title">Selecteer een opname type</string>
   <string name="preference_record_type_title">Opname type</string> 
+  <string name="preference_scenes">Instellingen voor scenes</string>
   <string name="preference_silent_mode">Stille modus opname</string>
   <string name="preference_silent_mode_summary">Instellen om stille modus opname in te schakelen</string> 
   <string name="record_list">Opname lijst</string>

@@ -721,6 +721,7 @@ This setting affects all users on this phone."</string>
   <string name="dirac_mode_earbuds">"Xiaomi's Earbud oortjes"</string>
   <string name="dirac_mode_in_ear">"Xiaomi's In-Ear oortjes"</string> 
   <string name="dirac_mode_off">Dirac Uit</string>
+  <string name="dirac_mode_piston_100">Xiaomi piston oortjes</string>
   <string name="disableNetwork">Netwerk uitschakelen</string>
   <string name="disable_overlays">HW overlays uitschakelen</string>
   <string name="disable_overlays_summary">Gebruik altijd de GPU voor schermcompositie</string>
@@ -1400,6 +1401,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_optimize">Optimaliseren</string>
   <string name="perm">Machtigingen</string>
   <string name="perm_privacy_app_count">%1$d machtigingen</string>
+  <string name="perm_privacy_app_count_trust_summary">Vertrouw app</string> 
   <string name="perm_privacy_app_finish">Voltooien</string>
   <string name="perm_privacy_app_installed">Installatie succesvol!</string>
   <string name="perm_privacy_app_launch">Starten</string>
@@ -1920,6 +1922,7 @@ Pogingen Resterende :"</string>
   <string name="sync_plug" />
   <string name="sync_settings">Accounts &amp; synchronisatie</string>
   <string name="sync_wifi_label">Wi-Fi Synchronisatie instellingen</string>
+  <string name="sync_wifi_only">Alleen Wi-Fi</string>
   <string name="system_package">Systeemupdates kunnen niet worden geïnstalleerd op externe media.</string>
   <string name="system">Systeem</string>
   <string name="system_update_settings_list_item_summary" />
