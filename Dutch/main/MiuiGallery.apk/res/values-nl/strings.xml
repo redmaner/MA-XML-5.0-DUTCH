@@ -59,7 +59,7 @@
   <string name="cancel_hint">Operatie is geannuleerd</string>
   <string name="cannot_send_message">Kan bericht niet verzenden</string>
   <string name="cannot_send_message_reason">Uw bericht heeft geen geldige ontvangers.</string>
-  <string name="cant_delete_system_album">%s is een systeem album en kan niet worden verwijdert!</string>
+  <string name="cant_delete_system_album">%s is een systeem album en kan niet worden verwijderd!</string>
   <string name="cleaning_cache">Cache opruimen...</string>
   <string name="clear_thumbnail_cache">Thumbnail cache wissen</string>
   <string name="clear_thumbnail_cache_confirm">Thumbnail cache zal worden gewist. Galerij zal media bestanden opnieuw scannen en thumbnails opnieuw genereren.</string>
@@ -81,7 +81,7 @@
   <string name="cloudfolder_already_exists">Cloud map bestaat reeds</string>
   <string name="confirm_delete">Weet u zeker dat u deze %s geselecteerde items wilt verwijderen?</string> 
   <string name="confirm_delete_album" formatted="false">Weet u zeker dat u %s albums wil verwijderen (inclusief %s items)?</string>
-  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s foto(\'s) in %s album(s), weet u zeker dat u ze wilt wissen?</string>
+  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s foto(\'s) in %s album(s), weet u zeker dat u ze wilt verwijderen?</string>
   <string name="confirm_delete_folders_and_pictures">Weet u zeker dat u %s wil verwijderen?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s mappen (inclusief %s)</string>
   <string name="confirm_delete_including_null">0 items</string>
@@ -109,12 +109,12 @@
   <string name="dcim_opaipic">Opaipic</string>
   <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">mobiel</string>
-  <string name="delete">Wissen</string>
-  <string name="delete_fail_too_many_items">Wissen mislukt, te veel items geselecteerd</string>
+  <string name="delete">Verwijderen</string>
+  <string name="delete_fail_too_many_items">Verwijderen mislukt, te veel items geselecteerd</string>
   <string name="delete_file">Wilt u de %1$d geselecteerde bestanden verwijderen?</string>
   <string name="delete_files_and_folders">Wilt u de %1$d geselecteerde bestanden en %2$d geselecteerde mappen verwijderen?</string>
   <string name="delete_folder">Wilt u de %1$d geselecteerde mappen verwijderen?</string>
-  <string name="deleting_files">Bestanden wissen...</string>
+  <string name="deleting_files">Bestanden verwijderen...</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="description">Omschrijving</string>
   <string name="details">Details</string>
