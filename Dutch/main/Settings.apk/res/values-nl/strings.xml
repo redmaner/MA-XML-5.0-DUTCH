@@ -1090,7 +1090,7 @@ Bent u klaar om te starten? Raak 'Volgende' aan."</string>
   <string name="lockpassword_password_too_short">Wachtwoord moet ten minste %d tekens lang zijn</string>
   <string name="lockpassword_pattern_set_toast">Patroon is ingesteld</string>
   <string name="lockpassword_pin_contains_non_digits">Pincode mag alleen de cijfers 0-9 bevatten</string>
-  <string name="lockpassword_pin_recently_used">Apparaatbeheerder staat het gebruik van een recente pincode niet toe.</string>g>
+  <string name="lockpassword_pin_recently_used">Apparaatbeheerder staat het gebruik van een recente pincode niet toe.</string>
   <string name="lockpassword_pin_set_toast">Pincode is ingesteld</string>
   <string name="lockpassword_pin_too_long">Pincode moet korter zijn dan %d cijfers</string>
   <string name="lockpassword_pin_too_short">Pincode moet ten minste %d tekens lang zijn</string>
