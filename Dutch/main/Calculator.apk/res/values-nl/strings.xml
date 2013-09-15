@@ -62,6 +62,8 @@
   <string name="sqrt">√</string>
   <string name="sqrtDesc">worteltrekken</string>
   <string name="standard">standaard</string>
+  <string name="switch_to_scientific_pad">Wisselen naar wetenschappelijk</string>
+  <string name="switch_to_standard_pad">Wisselen naar standaard</string> 
   <string name="tan">tan</string>
   <string name="tanDesc">tangens</string>
   <string name="tan_mathematical_value">tan</string>

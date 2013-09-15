@@ -2,9 +2,23 @@
 <resources>
   <string name="Import">Importeren</string>
   <string name="access_sd_fail">Kan geen toegang krijgen tot USB opslag.</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Camera en video schakelen (%s momenteel actief)</string>
+  <string name="accessibility_camera_auto_flashmode">Auto-flits</string>
+  <string name="accessibility_camera_flash_closemode">Geen flits</string>
+  <string name="accessibility_camera_flashmode">Altijd flitsen</string> 
   <string name="accessibility_camera_picker">Voor- en achterkant camera schakelaar</string>
+  <string name="accessibility_camera_switch_back_state">Camera wisselen (achterkant momenteel actief)</string>
+  <string name="accessibility_camera_switch_front_state">Camera wisselen (voorkant momenteel actief)</string>
+  <string name="accessibility_close_more_ptions">Meer opties uitschakelen</string>
+  <string name="accessibility_more_ptions_closed">Meer opties uitgeschakeld</string>
+  <string name="accessibility_more_ptions_opened">Meer opties ingeschakeld</string>
+  <string name="accessibility_open_more_ptions">Meer opties inschakelen</string>
   <string name="accessibility_review_thumbnail">Meest recente foto</string>
   <string name="accessibility_shutter_button">Sluiterknop</string>
+  <string name="accessibility_skin_beautify_closed">Huidskleur verbeteraar uitgeschakeld</string>
+  <string name="accessibility_skin_beautify_opened">Huidskleur verbeteraar ingeschakeld</string>
+  <string name="accessibility_switch_to_back_view">Wisselen naar achter camera</string>
+  <string name="accessibility_switch_to_front_view">Wisselen naar voor camera</string> 
   <string name="accessibility_zoom_control">Zoomregeling</string>
   <string name="albums">Albums</string>
   <string name="aperture">Lensopening</string>
