@@ -237,7 +237,7 @@ vrienden."</string>
   <string name="invalid_recipient_message">"Correcte ontvanger(s) fouten of ze zullen het bericht niet ontvangen."</string>
   <string name="iso">ISO</string>
   <string name="kick_owner_user_positive_button_text">Verwijderen</string>
-+  <string name="kick_owner_user_title">Dit lid verwijderen?</string> 
+  <string name="kick_owner_user_title">Dit lid verwijderen?</string> 
   <string name="kick_sharer">Deelgenoot verwijderen</string>
   <string name="kick_sharer_failed">Deelgenoot verwijderen mislukt</string>
   <string name="kick_sharer_successfully">Deelgenoot verwijderen voltooid</string>
