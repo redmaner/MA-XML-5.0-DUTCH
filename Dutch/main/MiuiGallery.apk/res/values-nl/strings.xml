@@ -102,8 +102,8 @@ vrienden."</string>
   <string name="cloud_tab_all">Alles</string>
   <string name="cloud_tab_locations">Locaties</string>
   <string name="cloudfolder_already_exists">Cloud album bestaat al</string>
-  <string name="cloudfolder_cannot_start_with">Album naam mag niet beginnen met '%s'</string>
-  <string name="cloudfolder_contain_invalidate_char">Album naam mag geen '%s' bevatten</string>
+  <string name="cloudfolder_cannot_start_with">Album naam mag niet beginnen met %s</string>
+  <string name="cloudfolder_contain_invalidate_char">Album naam mag geen %s bevatten</string>
   <string name="cloudfolder_name_cannot_empty">Typ een album naam.</string>
   <string name="cloudfolder_name_reserved">Album naam is gereserveerd.</string>
   <string name="comfirm_delete_current_album">Huidige album verwijderen?</string>
