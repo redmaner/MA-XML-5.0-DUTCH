@@ -375,6 +375,7 @@ We zullen het binnen twee werkdagen voor u controleren"</string>
   <string name="update_contacts">Contacten bijwerken</string>
   <string name="update_contacts_description">Update uw telefoon contacten en andere informatie</string>
   <string name="updated_contacts">%s contacten bijgewerkt</string> 
+  <string name="updated_nothing">Niks bijgewerkt!</string>
   <string name="user_agreement_p1">"Door in te loggen, gaat u akkoord met  "</string>
   <string name="user_agreement_p2">Xiaomi Servicevoorwaarden</string>
   <string name="user_agreement_p3"> en </string>

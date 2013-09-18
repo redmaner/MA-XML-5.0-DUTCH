@@ -91,9 +91,11 @@
   <string name="snippet_image_stub">[Foto]</string>
   <string name="snippet_image_template">[%1$s]</string>
   <string name="success_sdcard_export">Export succesvol</string>
-  <string name="time_picker_dialog_title">Stel notificatie tijd in</string>
-  <string name="toast_message_add_image_fail">invoegen afbeelding milukt!</string>
-  <string name="toast_privacy_mode">Kan geen notitie bewerken in bewaakte modus</string> 
+  <string name="time_picker_dialog_title">Notificatie tijd instellen</string>
+  <string name="toast_folder_privacy_mode">Kan map niet aanpassen in bewakings modus</string>
+  <string name="toast_message_add_image_fail">afbeelding invoegen mislukt!</string>
+  <string name="toast_note_privacy_mode">Kan notitie niet aanpassen in bewakings modus</string> 
+  <string name="toast_privacy_mode">Kan geen notitie bewerken in bewakings modus</string> 
   <string name="toast_reach_text_limit_attachment">De inhoud van deze notitie is te lang om nieuwe bijlagen toe te voegen.</string>
   <string name="toast_reach_text_limit_truncate">"De inhoud van deze notitie is geknipt omdat deze te lang is."</string>
   <string name="widget_havenot_content">Geen bijbehorende notitie gevonden, klik om te bijbehorende notitie te maken</string>

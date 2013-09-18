@@ -2,6 +2,7 @@
 <resources>
   <string name="activity_not_found">Kan bijlage niet openen</string>
   <string name="activity_not_found_uri">Applicatie om de bijlage te openen niet gevonden</string>
+  <string name="addBlackList">Toevoegen aan Blacklist</string> 
   <string name="add_bookmark">Favorieten</string>
   <string name="add_contact">Contact</string>
   <string name="add_festival">Aanbevolen SMS</string>
@@ -29,6 +30,7 @@
   <string name="attach_take_photo">Foto nemen</string>
   <string name="attach_video">"Video's"</string>
   <string name="back_to_message_list">terug naar berichtenlijst</string>
+  <string name="batch_adding_progress_message">Toevoegen...</string>
   <string name="batch_delete_confirm_dialog_message">Wis geselecteerde %1$s berichten</string>
   <string name="batch_deleting_message_progress_message">Wis geselecteerde berichten</string>
   <string name="batch_deleting_progress_message">Wissen van geselecteerde conversaties</string>
@@ -50,6 +52,7 @@
   <string name="close">Sluit</string>
   <string name="compressing">Afbeelding te groot. Comprimeren...</string>
   <string name="confirm">Bevestigen</string>
+  <string name="confirm_add_blacklist_dialog_dspt">Nummer toevoegen aan blacklist?</string> 
   <string name="confirm_delete_SIM_message">Dit bericht op de simkaart wordt verwijderd.</string>
   <string name="confirm_delete_all_SIM_messages">Alle berichten op de simkaart worden verwijderd.</string>
   <string name="confirm_delete_all_conversations">Alle threads worden verwijderd.</string>
@@ -134,6 +137,7 @@
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Laden...</string>
   <string name="fetion_prefix">[Open]</string>
+  <string name="file_share_message_description">Ik wil graag bestanden met u delen</string>
   <string name="flatshow_page_no">Pagina %1$d</string>
   <string name="forward_prefix">"Fw: "</string>
   <string name="found_old_messages">Totaal van: %1$s zijn gevonden op oude telefoon accounts. Wilt u die upadloaden naar uw huidige %2$s account?</string>
@@ -152,24 +156,25 @@
   <string name="importing_progress_private_message">Berichten importeren naar privé Berichtenbox</string>
   <string name="in_sms">Bericht</string>
   <string name="insufficient_drm_rights">Onvoldoende DRM-rechten gedetecteerd.</string>
+  <string name="invalid_conversation">Ongdelige conversatie</string> 
   <string name="invalid_destination">Ongeldig adres van bestemming.</string>
   <string name="invalid_recipient_message">Corrigeer de ontvangers, anders ontvangen ze het bericht niet.</string>
   <string name="kilobyte">kB</string>
   <string name="layout_selector_title">"Lay-out van diavoorstelling "</string>
   <string name="loading_all_messages">Alle berichten laden...</string>
-  <string name="loading_conversations">Laad conversaties...</string>
+  <string name="loading_conversations">Conversaties laden...</string>
   <string name="loading_mms">MMS Laden…</string>
   <string name="me">Ik</string>
   <string name="menu_compose_new">Opstellen</string>
-  <string name="menu_delete_messages">Verwijder berichten</string>
+  <string name="menu_delete_messages">Berichten verwijderen</string>
   <string name="menu_edit">Bewerken</string>
   <string name="menu_forward">Doorsturen</string>
   <string name="menu_lock">Vergrendelen</string>
-  <string name="menu_new_manual">Voer nummer handmatig in</string>
-  <string name="menu_pick_from_contact">Selecteer van contacten</string>
+  <string name="menu_new_manual">Nummer handmatig invoeren</string>
+  <string name="menu_pick_from_contact">Selecteren van contacten</string>
   <string name="menu_preferences">Instellingen</string>
   <string name="menu_unlock">Ontgrendelen</string>
-  <string name="menu_view_contact">Bekijk contact</string>
+  <string name="menu_view_contact">Contact bekijken</string>
   <string name="message_class_label">"Berichtklasse: "</string>
   <string name="message_details_title">Berichtdetails</string>
   <string name="message_download_failed_title">Bericht niet gedownload</string>

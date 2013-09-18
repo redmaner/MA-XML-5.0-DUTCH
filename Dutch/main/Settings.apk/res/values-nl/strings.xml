@@ -21,7 +21,7 @@
   <string name="accessibility_enable">Toegankelijkheid inschakelen</string>
   <string name="accessibility_feature_state_off">Uit</string>
   <string name="accessibility_feature_state_on">Aan</string>
- <string name="accessibility_global_gesture_preference_description">"Wanneer deze functie is ingeschakeld, kunt u toegankelijkeids functies snel inschakelen in twee stappen:
+  <string name="accessibility_global_gesture_preference_description">"Wanneer deze functie is ingeschakeld, kunt u toegankelijkeids functies snel inschakelen in twee stappen:
 
 Stap 1: Druk en houdt de aan/uit knop in tot u een geluid hoort of een trilling voelt.
 
@@ -1637,14 +1637,18 @@ This setting affects all users on this phone."</string>
   <string name="scan_list_label">Scan resultaten:</string>
   <string name="screen_button_custom">Pas scherm-knop positie aan</string>
   <string name="screen_button_key">Virtuele scherm toetsen</string>
+  <string name="screen_color_temperature">Kleur temperatuur</string> 
   <string name="screen_color_temperature_adjust">Pas kleur temperatuur aan</string>
+  <string name="screen_color_temperature_and_saturation">Kleur temperatuur &amp; verzadiging</string>
   <string name="screen_compatibility_label">Scherm compatibiliteit</string>
   <string name="screen_compatibility_text">Deze app is mogelijk niet ontworpen voor uw scherm. U kunt hier bepalen hoe de app wordt aangepast aan uw scherm.</string>
   <string name="screen_key_long_press">Lang ingedrukt scherm toetsen</string>
   <string name="screen_key_long_press_action">Schakel functie</string>
   <string name="screen_key_long_press_timeout">Lang indrukken timeout</string>   
+  <string name="screen_never_timeout_title">Altijd aan</string> 
   <string name="screen_on_proximity_sensor_summary">Voorkom telefoon gebruik in broekzak (detecteren via nabijheidssensor).</string>
   <string name="screen_on_proximity_sensor_title">Voorkom misbruik</string>
+  <string name="screen_saturation">Kleur verzadiging</string> 
   <string name="screen_saturation_adjust">Pas verzadiging aan</string>
   <string name="screensaver_activate_on_dock_title">Ook starten indien gedockt</string>
   <string name="screensaver_component_title">Geselecteerde candy</string>
