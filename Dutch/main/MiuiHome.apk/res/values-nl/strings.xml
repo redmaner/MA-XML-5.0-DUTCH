@@ -220,7 +220,7 @@ Herstart de app om bronnen te vernieuwen."</string>
   <string name="status_bar_toggle_power_mid">Normaal</string>
   <string name="status_bar_toggle_power_mode">Power mode</string>
   <string name="status_bar_toggle_privacy_mode">Bewaking</string>
-  <string name="status_bar_toggle_quiet_mode">DND</string> 
+  <string name="status_bar_toggle_quiet_mode">Rustmodus</string> 
   <string name="status_bar_toggle_reboot">Herstarten</string>
   <string name="status_bar_toggle_ring">Geluid</string>
   <string name="status_bar_toggle_ringtone">Ringtone</string>
