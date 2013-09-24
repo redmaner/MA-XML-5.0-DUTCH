@@ -27,7 +27,7 @@
   <string name="backup_empty_info">Backup uw gegevens, instellingen en applicaties</string>
   <string name="backup_error">Backup Fout</string>
   <string name="backup_failed">Backup mislukt, probeer het nogmaals</string>
-  <string name="backup_file_error">Er is een probleem met de backup, de operatie was niet geldig</string>
+  <string name="backup_file_error">Er is een probleem met de backup, de handeling is ongeldig</string>
   <string name="backup_finished">Backup voltooid</string>
   <string name="backup_hint">Telefoon niet uitzetten, kan corruptie veroorzaken</string>
   <string name="backup_items_app_tailer">\u0020App Gegevens Bestanden</string>

@@ -284,7 +284,8 @@
   <string name="fm_record_smaple_prefix_miui">FMRecording</string>
   <string name="fools_day">1 April</string>
   <string name="force_exit_message">Successvol afgesloten \"%1$s\"</string>
-  <string name="forget_password_string">Wachtwoord vergeten</string>
+  <string name="forget_password_string">"Wachtwoord 
+vergeten"</string>
   <string name="format_time_in_12_hours">%1$s %2$s</string>
   <string name="global_action_privacy_mode_dialog_message">In beveiligingsmodus worden oproepen, notities, gallerij gegevens en berichten verborgen en de launcher zal niet in staat zijn in aanpasmodus  te komen. U kunt een wachtwoord instellen om beveiligsmodus te beschermen in Toegangs Beheer instelling</string>
   <string name="global_action_toggle_privacy_mode">Beveiliging</string>
@@ -397,10 +398,10 @@ Probeer het opnieuw over %d seconden."</string>
   <string name="perm_use_find_device">Localiseer toestel</string>
   <string name="permdesc_accessNote">Sta app toe notities te lezen en aan te passen die zijn opgeslagen op uw telefoon. Verdachte applicaties kunnen dit gebruiken om uw notities naar andere mensen te sturen of alle notities te verwijderen.</string>
   <string name="permlab_accessNote">Toegang verkrijgen tot notities</string>
-  <string name="pin_operation_failed">Pincode operatie mislukt.</string>
+  <string name="pin_operation_failed">Pincode operatie mislukt!</string>
   <string name="pincode_set_to_default_msg">Pincode is ingesteld naar 1234, herinstel pincode hier a.u.b.</string>
   <string name="private_num">Privé nummer</string>
-  <string name="puk_operation_failed">Pukcode operatie mislukt.</string>
+  <string name="puk_operation_failed">Pukcode operatie mislukt!</string>
   <string name="reboot_confirm">Telefoon zal herstart worden</string>
   <string name="reboot_confirm_title">Weet u zeker dat u uw telefoon wilt herstarten?</string> 
   <string name="reboot_progress">Herstarten...</string>
@@ -471,8 +472,8 @@ Probeer het opnieuw over %d seconden."</string>
   <string name="v5_edit_mode_title_empty">Items controleren</string>
   <string name="v5_icon_menu_bar_more_item_label">Meer</string>
   <string name="v5_select_all">Alles selecteren</string>
-  <string name="v5_time_picker_label_hour" />
-  <string name="v5_time_picker_label_minute" />
+  <string name="v5_time_picker_label_hour">Uur</string>
+  <string name="v5_time_picker_label_minute">Min</string> 
   <string name="valentines_day" />
   <string name="vernal_equinox" />
   <string name="volume_alarm">Alarm</string>

@@ -299,6 +299,7 @@
     <string name="custom_location_location_no_item_miui">"Klik 'Toevoegen' beneden om aangepaste attributie toe te voegen</string>
     <string name="custom_location_number_hint_miui">Netnummer zoals 010, groepsnummer zoals 68#####</string>
     <string name="cw_title_miui">Wisselgesprek</string>
+  <string name="data_connected_change">Kan netwerk niet veranderen als data service in gebruik is. Data service stoppen en een ander beschikbaar netwerk selecteren?</string> 
     <string name="data_enable_summary">Gegevenstoegang via mobiel netwerk inschakelen</string>
     <string name="data_enabled">Gegevenstoegang aan</string>
     <string name="deact_all_sub_not_supported">Deactivatie van beide abonnementen is niet ondersteund.</string>
@@ -375,6 +376,7 @@
     <string name="dtmf_tones_summary_miui">De lengte van de DTMF-tonen instellen</string>
     <string name="dtmf_tones_title">DTMF-tonen</string>
     <string name="dtmf_tones_title_miui">DTMF-Tonen</string>
+    <string name="duringcall">Handeling niet toegestaan tijdens oproep</string> 
     <string name="ecm_exit_dialog">EcmExitDialog</string>
     <string name="editContact">Bewerken</string>
     <string name="edit_custom_location_title_miui">wijzig regionale kenmerken en nummerkenmerken. Jokerteken # toegestaan </string>
@@ -455,7 +457,7 @@
     <string name="fdn_enable_puk2_requested_miui">Pincode2 is vergrendeld! Wijzig pincode2 en probeer opnieuw!</string>
     <string name="fdn_enabled">Vaste nummers zijn ingeschakeld</string>
     <string name="fdn_enabled_miui">Vaste kiesnummers zijn ingeschakeld</string>
-    <string name="fdn_failed">FDN operatie mislukt.</string>
+    <string name="fdn_failed">FDN handeling mislukt.</string>
     <string name="fdn_invalid_number">FDN niet bijgewerkt: nummer mag niet langer zijn dan 20 cijfers.</string>
     <string name="fdn_miui">vaste kiesnummers</string>
     <string name="fdn_summary_miui">De bovenstaande opties zijn allemaal uitgeschakeld wanneer vaste kiesnummers zijn ingeschakeld</string>
@@ -507,6 +509,7 @@ Toch overschakelen op de nieuwe provider?"</string>
     <string name="incall_screen_background_summary_miui">"Gebruik vergrendelscherm achtergrond wanneer er geen avatar is"</string>
     <string name="incall_screen_background_title_miui">In gesprek achtergrond</string> 
     <string name="incall_status_dialed_mmi">MMI-reeks starten...</string>
+    <string name="information">Informatie</string> 
     <string name="international_disable">Buitenlands nieuws uitgeschakeld</string>
     <string name="international_enable">Buitenlands nieuws ingeschakeld</string>
     <string name="internet_phone">Internetoproep</string>

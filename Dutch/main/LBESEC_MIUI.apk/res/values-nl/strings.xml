@@ -172,7 +172,7 @@
   <string name="Privacy_App_Manage">Details</string>
   <string name="Privacy_AppPerm_Count">%1$d machtigingen</string>
   <string name="Privacy_AppPerm_Count_Trust">%1$d machtigingen - &lt;font color=#478800>Trusted&lt;/font></string>
-  <string name="Privacy_App_TrustDialog_Content">MIUI zal geen bevestiging vragen voor enige veiligheids of privacy gerelateerde operaties van deze App.</string>
+  <string name="Privacy_App_TrustDialog_Content">MIUI zal geen bevestiging vragen voor enige veiligheids of privacy gerelateerde handelingen van deze App.</string>
   <string name="Privacy_App_TrustDialog_Title">Vertrouw deze app</string>
   <string name="Privacy_App_Trust">Ik vertrouw deze App</string>
   <string name="Privacy_App_Trust_Summary_Off">MIUI zal deze App niet controleren</string>

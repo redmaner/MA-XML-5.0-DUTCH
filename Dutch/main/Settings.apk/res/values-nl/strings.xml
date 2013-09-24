@@ -507,7 +507,7 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="checkbox_notification_same_as_incoming_call">Volume van inkomende oproepen gebruiken voor meldingen</string>
   <string name="choose_timezone">Een tijdzone kiezen</string>
   <string name="clear_activities">Standaardwaarden wissen</string>
-  <string name="clear_activities_summary">Dit programma inschakelen voor sommige standaard operaties</string>
+  <string name="clear_activities_summary">Dit programma inschakelen voor sommige standaard handelingen</string>
   <string name="clear_cache_btn_text">Cache wissen</string>
   <string name="clear_data_dlg_text">Alle gegevens van deze app worden permanent verwijderd. Dit omvat alle bestanden, instellingen, accounts, databases, enzovoort.</string>
   <string name="clear_data_dlg_title">Gegevens van app verwijderen?</string>
@@ -1437,7 +1437,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_privacy_app_launch">Starten</string>
   <string name="perm_privacy_app_log">Logs</string>
   <string name="perm_privacy_app_manage">Details</string>
-  <string name="perm_privacy_app_trust_dialog_content">MIUI zal uw bevestiging niet vragen voor veiligheid of privacy gerelateerde operaties van de deze App.</string>
+  <string name="perm_privacy_app_trust_dialog_content">MIUI zal uw bevestiging niet vragen voor veiligheid of privacy gerelateerde handelingen van de deze App.</string>
   <string name="perm_privacy_app_trust_dialog_title">Vertrouw deze App</string>
   <string name="perm_privacy_app_trust">Ik vertrouw deze app</string>
   <string name="perm_privacy_app_trust_summary_off">MIUI zal deze app controleren</string>
@@ -1996,7 +1996,7 @@ Pogingen Resterende :"</string>
   <string name="trusted_credentials_system_tab">Systeem</string>
   <string name="trusted_credentials_user_tab">Gebruiker</string>
   <string name="trusted_credentials">Vertrouwde id-gegevens</string>
-  <string name="trust_switch_dialog_msg">"MIUI zal uw bevestiging niet vragen voor enige veiligheid en privacy gerelateerde operaties van deze app. Vertrouw deze app?"</string>
+  <string name="trust_switch_dialog_msg">"MIUI zal uw bevestiging niet vragen voor enige veiligheid en privacy gerelateerde handelingen van deze app. Vertrouw deze app?"</string>
   <string name="try_again">Probeer het opnieuw.</string>
   <string name="tts_data_installed_summary">Stemmen die zijn vereist voor spraaksynthese, zijn al correct geïnstalleerd</string>
   <string name="tts_default_lang_summary">De taalspecifieke stem voor de gesproken tekst instellen</string>
@@ -2286,9 +2286,12 @@ Elke gebruiker kan bijgewerkte app machtigingen accepteren voor alle gebruikers.
   <string name="wfd_disconnect_diag_msg">Als uw Wi-Fi sessie onderbroken wordt zal uw verbinding met %1$s sluiten.</string>
   <string name="wfd_disconnect_diag_title">Wi-Fi sessie verbreken?</string>
   <string name="wfd_disconnect_multiple_diag_message">Als u uw Wi-Fi weergave sessie verbreekt, zal de verbinding met %1$s en %2$s andere apparaten worden verbroken.</string>
+  <string name="wfd_enable_wifi_diag_title">U kunt het Wi-Fi scherm alleen gebruiken als Wi-Fi is ingeschakeld. Nu inschakelen?</string>
+  <string name="wfd_enabler_title">Wi-Fi scherm inschakelen</string> 
   <string name="wfd_menu_searching">Zoeken...</string>
   <string name="wfd_menu_search">Zoek naar apparaten</string>
   <string name="wfd_menu_teardown">Verbreken</string>
+  <string name="wfd_settings_description">Met scherm verbinden via Wi-Fi</string> 
   <string name="wfd_settings_title">Wi-Fi Weergave Instellingen</string>
   <string name="wfd_wps_keypad">Knop druk</string>
   <string name="wfd_wps_pbc">Pincode invoeren</string>

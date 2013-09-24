@@ -317,7 +317,8 @@
   <string name="pref_autofill_enabled_summary">Webformulieren invullen met één aanraking</string>
   <string name="pref_autofill_profile_editor">Automatisch tekst aanvullen</string>
   <string name="pref_autofill_profile_editor_summary">Tekst instellen die automatisch in webformulieren kan worden ingevuld</string>
-  <string name="pref_autologin_progress">Aanmelden bij Google-sites met %s</string>
+  <string name="pref_autologin_progress">Aanmelden bij Google sites met %s</string>
+  <string name="pref_autologin_progress_in_background">Aanmelden bij Google-sites met %s in de achtergrond</string>
   <string name="pref_autologin_title">Automatische Google-aanmelding</string>
   <string name="pref_clear_cache_for_exit">Wis cache bij afsluiten</string>
   <string name="pref_clear_history_for_exit">Wis geschiedenis bij afsluiten</string>
@@ -466,12 +467,13 @@
   <string name="pref_video_preload_title">Video bufferen</string>
   <string name="pref_video_preload_value_never_summary">"Browser nooit toestaan video's voor te laden"</string> 
   <string name="pref_volume_key_enabled">Volume toetsen</string>
-  <string name="pref_volume_key_operation">Operatie voor volume toetsen</string>
+  <string name="pref_volume_key_operation">Handeling voor volume toetsen</string>
   <string name="pref_zoom_on_double_tap">Zoomen bij dubbeltikken</string>
   <string name="preview">Voorbeeld</string>
   <string name="progress_dialog_setting_wallpaper">Achtergrond instellen...</string>
   <string name="quicklinks_management">Snelle links</string> 
   <string name="readmode_already_add_to_bookshelf">Toegevoegd aan boekenplank</string>
+  <string name="readmode_battery">Batterij </string> 
   <string name="readmode_login">Account login</string>
   <string name="readmode_login_message">Volgende hoofdstukken vereisen inloggen voordat lezen kan worden ingeschakeld</string>
   <string name="readmode_page_load_error">Pagina laden mislukt, klik vernieuwen om het opnieuw te proberen</string>

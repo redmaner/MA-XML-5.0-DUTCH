@@ -3,17 +3,18 @@
   <string name="Import">Importeren</string>
   <string name="accept">Accepteren</string> 
   <string name="accept_or_deny">%1$s heeft het album %2$s met u gedeeld.</string> 
-  <string name="action_fail_unknown_error">Operatie mislukt door onbekende fout.</string>
+  <string name="action_fail_unknown_error">Handeling mislukt door onbekende fout.</string>
   <string name="activity_not_found">Geen app beschikbaar om deze actie te voltooien.</string>
   <string name="add_account">Account toevoegen</string>
   <string name="add_sharer">Deelgenoot toevoegen</string>
   <string name="add_to_cloud_album">Toevoegen aan Cloud</string>
   <string name="add_to_cloud_exceeded_the_size_message">Bestand is te groot voor MiCloud.</string> 
-  <string name="add_to_cloud_fail_too_many_items">Operatie mislukt, te veel items geselecteerd</string>
+  <string name="add_to_cloud_fail_too_many_items">Handeling mislukt, te veel items geselecteerd</string>
   <string name="add_to_cloud_failed_message_with_count">%s item(s) kunnen niet worden toegevoegd aan cloud albums</string>
   <string name="add_to_cloud_file_exist_message">Afbeelding bestaat al in het geselecteerde album.</string>
   <string name="add_to_cloud_file_not_exist_message">Bestand bestaat niet.</string>
   <string name="add_to_cloud_folder">Toevoegen aan Cloud album</string>
+  <string name="add_to_cloud_local_space_full_message">Opslag is vol of nog niet klaar.</string> 
   <string name="add_to_cloud_reasons"/>
   <string name="add_to_cloud_space_full_message">MiCloud album is vol.</string>
   <string name="add_to_cloud_successfully_message">Toegevoegd aan MiCloud album.</string>
@@ -69,7 +70,7 @@
   <string name="camera_view_none_message">Gemaakte fotos worden hier getoond.</string>
   <string name="can_modified">"Deelgenoot toestaan foto('s) toe te voegen</string>
   <string name="cancel">Annuleren</string>
-  <string name="cancel_hint">Operatie is geannuleerd</string>
+  <string name="cancel_hint">Handeling is geannuleerd</string>
   <string name="cannot_delete_sharer_photo">Kan %s item(s) niet verwijderen, geüpload door andere gebruikers.</string>
   <string name="cannot_remove_creator">Kan eigenaar niet verwijderen</string> 
   <string name="cannot_send_message">Kan bericht niet verzenden</string>
@@ -183,7 +184,7 @@ vrienden."</string>
   <string name="external_usb_device">USB apparaat</string>
   <string name="facelift">Gezichts Gloed</string>
   <string name="facetan">Gezichts Bruining</string>
-  <string name="fail_hint">Operatie mislukt.</string> 
+  <string name="fail_hint">Handeling mislukt.</string> 
   <string name="fail_init_gallery_db_helper">Applicatie gesloten, openen galerij database mislukt; schijf is vol.</string>
   <string name="fail_to_apply">Aansluiten bij album mislukt.</string> 
   <string name="fail_to_pick_email">Geen geldige E-mail geselecteerd</string>
@@ -205,6 +206,7 @@ vrienden."</string>
   <string name="frame_white">wit</string>
   <string name="gallery_cloud_provider_name">Galerij</string>
   <string name="gallery_setting">Galerij Instellingen</string> 
+  <string name="get_album_info_in_process">"Gedeelde album info verzoeken, een moment geduld..."</string> 
   <string name="global_setting">Instellingen</string>
   <string name="grain">Film Grain</string>
   <string name="grayscale">B&amp;W</string>
@@ -303,14 +305,14 @@ vrienden."</string>
   <string name="open_sync_title">Synchronisatie benodigd</string>
   <string name="operation_delete_confirm_message_folder">"Mappen en bestanden worden tegelijkertijd verwijderd.
 "</string> 
-  <string name="operation_failed">Operatie mislukt!</string>
+  <string name="operation_failed">Handeling mislukt!</string>
   <string name="operation_in_process">Verwerken...</string> 
   <string name="operation_refresh">Vernieuwen</string>
   <string name="operation_rename">Hernoemen</string>
   <string name="operation_set_as_screensaver">Instellen als Screensaver</string>
   <string name="operation_share">Delen</string>
   <string name="operation_successful">Succesvol gedeeld!</string>
-  <string name="operation_too_often">Operatie overschrijdt frequentie limiet, probeer het opnieuw over 1 minuut.</string> 
+  <string name="operation_too_often">Handeling overschrijdt frequentie limiet, probeer het opnieuw over 1 minuut.</string> 
   <string name="operation_unset_as_screensaver">Screensaver annuleren</string> 
   <string name="orientation">Oriëntatie</string>
   <string name="other_category">Andere instellingen</string>

@@ -205,7 +205,7 @@
   <string name="mx_activate_error_server">Server activatie mislukt om cloud berichten te activeren</string>
   <string name="mx_activate_error_sim_change">simkaart is gewijzigd, cloudberichten reactivatie vereist</string>
   <string name="mx_activate_error_title">Mislukt om cloudberichten te activeren</string>
-  <string name="mx_activate_hint_malformed_info">Operatie onderbroken, reactivatie van cloudberichten is benodigd. Nu activeren?</string>
+  <string name="mx_activate_hint_malformed_info">Handeling onderbroken, reactivatie van cloudberichten is benodigd. Nu activeren?</string>
   <string name="mx_activate_hint_server">Server activatie om cloudberichten te activeren is mislukt? Nu activeren?</string>
   <string name="mx_activate_hint_sim_change">simkaart is gewijzigd, reactivatie van cloudberichten is benodigd. Nu activeren?</string>
   <string name="mx_activate_int_hint_malformed_info">Verwerken verzoek mislukt. Een internationale SMS is vereist om Cloud Berichten te heractiveren. Wilt u het nu activeren?</string>
