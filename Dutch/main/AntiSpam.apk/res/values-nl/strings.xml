@@ -112,6 +112,7 @@
   <string name="st_sms_group">Berichten</string>
   <string name="tab_blacklist">Blacklist</string>
   <string name="tab_block_log">Firewall</string>
+  <string name="tab_block_log_unKnowNumber">Onbekend nummer</string> 
   <string name="tab_call">Oproeplog</string>
   <string name="tab_sms">Bericht log</string>
   <string name="tab_title">AntiSpam</string>

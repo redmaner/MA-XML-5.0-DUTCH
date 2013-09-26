@@ -414,6 +414,7 @@ CC: %4$s
   <string name="move_action">Verplaatsen</string>
   <string name="move_to_folder_dialog_title">Verplaatsen naar</string>
   <string name="multiple_new_message_notification_item">"%1$s  %2$s"</string>
+  <string name="newer_action">Nieuwer</string> 
   <string name="next_action">Volgende</string>
   <string name="notification_multiple_new_messages_fmt">%1$d nieuwe berichten</string>
   <string name="notification_to_account">naar %1$s</string>
@@ -423,6 +424,7 @@ CC: %4$s
   <string name="notify_uploads">Automatisch uploaden</string>
   <string name="ok">OK</string>
   <string name="okay_action">Ok</string>
+  <string name="older_action">Ouder</string> 
   <string name="password_expire_warning_content_title">Ww. schermvergr. bijna verlopen</string>
   <string name="password_expire_warning_dialog_content_fmt">U moet uw pincode of wachtwoord voor schermvergrendeling binnenkort wijzigen, anders worden de gegevens voor %s gewist. Nu wijzigen?</string>
   <string name="password_expire_warning_dialog_title">Wachtw. schermvergr. bijna verlopen</string>
