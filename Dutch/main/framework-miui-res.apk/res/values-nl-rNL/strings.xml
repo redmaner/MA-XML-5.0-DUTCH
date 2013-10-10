@@ -286,7 +286,6 @@
   <string name="force_exit_message">Successvol afgesloten \"%1$s\"</string>
   <string name="forget_password_string">"Wachtwoord 
 vergeten"</string>
-  <string name="format_time_in_12_hours">%1$s %2$s</string>
   <string name="global_action_privacy_mode_dialog_message">In beveiligingsmodus worden oproepen, notities, gallerij gegevens en berichten verborgen en de launcher zal niet in staat zijn in aanpasmodus  te komen. U kunt een wachtwoord instellen om beveiligsmodus te beschermen in Toegangs Beheer instelling</string>
   <string name="global_action_toggle_privacy_mode">Beveiliging</string>
   <string name="grain_buds" />
