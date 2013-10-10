@@ -213,7 +213,7 @@
     <string name="cb_sms_settings">Instellingen voor SMS infodienstberichten</string>
     <string name="cdma_activate_device">Activeer apparaat</string>
     <string name="cdma_conference_call_miui">Vergader oproep</string>
-    <string name="cdma_display_precise_call_state_message_miui">Als uw provider dit niet ondersteund, zal de oproepstatus incorrect zijn wanneer deze optie aanstaat. Wilt u verder gaan?</string>
+    <string name="cdma_display_precise_call_state_message_miui">Als uw provider dit niet ondersteund, zal de oproepstatus onjuist zijn wanneer deze optie aanstaat. Wilt u verder gaan?</string>
     <string name="cdma_display_precise_call_state_summary_miui">CDMA oproep timer is gelimiteerd door uw netwerk provider. Wanneer uw oproep status ondersteund wordt dit weergegeven.</string>
     <string name="cdma_display_precise_call_state_title_miui">Geef precieze oproepstatus weer</string>
     <string name="cdma_lte_data_service">Gegevensservice instellen</string>
@@ -286,8 +286,8 @@
     <string name="corporate_unlock_success">Simkaart Corporate ontgrendelings verzoek succesvol.</string>
     <string name="count_down">Seconden:</string>
     <string name="count_of_persons_in_conference_miui">Totaal van %d personen</string>
-    <string name="countrycode_alert_message_warning_miui">De landcode is mogelijk incorrect. Toch gebruiken?</string>
-    <string name="countrycode_alert_message_wrong_miui">De landcode is incorrect ingevoerd. Voer opnieuw in.</string>
+    <string name="countrycode_alert_message_warning_miui">De landcode is mogelijk onjuist. Toch gebruiken?</string>
+    <string name="countrycode_alert_message_wrong_miui">De landcode is onjuist ingevoerd. Voer opnieuw in.</string>
     <string name="countrycode_alert_title_miui">Waarschuwing</string>
     <string name="crystaltalk_summary_miui">Oproep audio configuratie optimalisatie</string>
     <string name="crystaltalk_title_miui">NICAM instelling</string>

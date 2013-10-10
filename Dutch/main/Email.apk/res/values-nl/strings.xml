@@ -96,8 +96,8 @@
   <string name="account_setup_failed_certificate_inaccessible">Certificaat is ongeldig of niet toegankelijk.</string>
   <string name="account_setup_failed_certificate_required">Clientcertificaat is vereist. Met clientcertificaat verbinding maken met de server?</string>
   <string name="account_setup_failed_check_credentials_message">De server heeft een fout geretourneerd. Controleer uw gebruikersnaam en wachtwoord en probeer het opnieuw.</string>
-  <string name="account_setup_failed_dlg_auth_message">Gebruikersnaam en wachtwoord incorrect</string>
-  <string name="account_setup_failed_dlg_auth_message_fmt">"Gebruikersnaam of wachtwoord incorrect.
+  <string name="account_setup_failed_dlg_auth_message">Gebruikersnaam en wachtwoord zijn onjuist</string>
+  <string name="account_setup_failed_dlg_auth_message_fmt">"Gebruikersnaam of wachtwoord zijn onjuist.
 (%s)"</string>
   <string name="account_setup_failed_dlg_certificate_message">Kan niet veilig verbinden met de server</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Kan niet veilig verbinden met de server.

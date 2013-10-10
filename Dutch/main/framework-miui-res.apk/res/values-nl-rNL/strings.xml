@@ -301,10 +301,10 @@ vergeten"</string>
   <string name="heavy_snow" />
   <string name="hoar_frost_falls" />
   <string name="hours">%d uren</string> 
-  <string name="incorrect_pincode">Incorrecte pincode</string>
-  <string name="incorrect_pincode_remaining_attempts">Incorrecte pincode, pogingen resterende %d</string>
-  <string name="incorrect_pukcode">Incorrecte pukcode</string>
-  <string name="incorrect_pukcode_remaining_attempts">Incorrecte pukcode, pogingen resterende %d</string>
+  <string name="incorrect_pincode">Onjuiste pincode</string>
+  <string name="incorrect_pincode_remaining_attempts">Onjuiste pincode, pogingen resterende %d</string>
+  <string name="incorrect_pukcode">Onjuiste pukcode</string>
+  <string name="incorrect_pukcode_remaining_attempts">Onjuiste pukcode, pogingen resterende %d</string>
   <string name="input_pin_code">Pincode invoeren</string>
   <string name="input_pin_code_to_unlock">Voer uw pincode in om uw toestel te ontgrendelen</string>
   <string name="input_puk_code">Pukcode invoeren</string>
@@ -320,12 +320,12 @@ vergeten"</string>
   <string name="lockscreen_access_pattern_detected">Patroon voltooid</string>
   <string name="lockscreen_access_pattern_start">Patroon gestart</string>
   <string name="lockscreen_emergency_call">Noodoproep</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"U heeft %d keer een incorrect wachtwoord ingevoerd. Na %d meer mislukte pogingen, wordt u gevraagd de telefoon te ontgrendelen met uw account gegevens.
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"U heeft %d keer een onjuist wachtwoord ingevoerd. Na %d meer mislukte pogingen, wordt u gevraagd de telefoon te ontgrendelen met uw account gegevens.
 
 Probeer het opnieuw over %d seconden."</string> 
   <string name="lockscreen_forgot_pattern_button_text">Patroon vergeten?</string>
   <string name="lockscreen_pattern_instructions">Teken patroon om te ontgrendelen</string>
-  <string name="lockscreen_pattern_wrong">Patroon incorrect! Probeer opnieuw</string>
+  <string name="lockscreen_pattern_wrong">Patroon onjuist! Probeer opnieuw</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Probeer opnieuw in %d seconden.</string>
   <string name="lockscreen_transport_next_description">Volgende nummer</string>
   <string name="lockscreen_transport_play_description">Afspeelknop</string>
@@ -362,7 +362,7 @@ Probeer het opnieuw over %d seconden."</string>
   <string name="miui_mibi_license_title">Mi Credit Gebruikersovereenkomst</string>
   <string name="miui_device_name">Android</string>
   <string name="miui_privacy_policy_title">Privacybeleid</string>
-  <string name="miui_unlockscreen_password_wrong">Incorrect wachtwoord! Probeer opnieuw</string>
+  <string name="miui_unlockscreen_password_wrong">Onjuist wachtwoord! Probeer opnieuw</string>
   <string name="miui_user_agreement_title">Gebruikersovereenkomst</string>
   <string name="miui_user_manual_title">Gebruikershandleiding</string>
   <string name="month_of_april">Apr</string>

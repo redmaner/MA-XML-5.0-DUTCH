@@ -66,9 +66,9 @@
         <item>Enorm</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Weinig</item>
-        <item>Normaal</item>
         <item>Sterk</item>
+        <item>Normaal</item>
+        <item>Weinig</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>HDCP-controle nooit gebruiken</item>
@@ -343,7 +343,7 @@
         <item>Animatieschaal 10x</item>
     </string-array>
     <string-array name="change_security_lock_picker">
-        <item>Face unlock</item>
+        <item>Gezichtsherkenning</item>
         <item>Patroon</item>
         <item>Pincode</item>
         <item>Gemixt</item>

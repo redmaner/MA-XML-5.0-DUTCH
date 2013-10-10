@@ -738,6 +738,7 @@ Pogingen Resterende :"</string>
     <string name="sipAddressTypeOther">Overig</string>
     <string name="keyguard_password_enter_pin_code">Pincode typen</string>
     <string name="keyguard_password_enter_puk_code">Geef de pukcode en de nieuwe pincode op</string>
+    <string name="keyguard_password_enter_pin_code_for_subscription">Typ pincode voor abonnement</string>
     <string name="keyguard_password_enter_puk_code_for_subscription">Geef de pukcode en nieuwe pincode op voor Abonnement</string>
     <string name="keyguard_password_enter_puk_prompt">Pukcode</string>
     <string name="keyguard_password_enter_pin_prompt">Nieuwe pincode</string>
@@ -745,6 +746,7 @@ Pogingen Resterende :"</string>
     <string name="keyguard_password_enter_password_code">Typ het wachtwoord om te ontgrendelen</string>
     <string name="keyguard_password_enter_pin_password_code">Typ pincode om te ontgrendelen</string>
     <string name="keyguard_password_wrong_pin_code">Onjuiste pincode.</string>
+    <string name="keyguard_password_wrong_puk_code">Onjuiste pukcode!</string>
     <string name="keyguard_password_pin_failed">Pincode operatie mislukt!</string>
     <string name="keyguard_password_puk_failed">Pukcode operatie mislukt!</string>
     <string name="keyguard_pin_accepted">Code Geaccepteerd!</string>

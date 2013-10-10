@@ -173,7 +173,7 @@ vrienden."</string>
   <string name="error_should_not_select_image">Waarschuwing: selecteer geen afbeelding.</string>
   <string name="error_should_not_select_video">Waarschuwing: selecteer geen video.</string>
   <string name="error_socket_timeout">Netwerk timeout, probeer het later opnieuw</string>
-  <string name="error_unknown_host">Hostname onbekend, controleer uw netwerk verbinding!</string> 
+  <string name="error_unknown_host">Hostnaam onbekend, controleer uw netwerk verbinding!</string> 
   <string name="exit">Afsluiten</string> 
   <string name="exit_share">Album afsluiten</string>
   <string name="exit_share_failed">Album %1$s afsluiten mislukt</string>

@@ -109,6 +109,7 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="android_beam_off_summary">Uit</string>
   <string name="android_beam_on_summary">Gereed om app-inhoud te verzenden via NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
+  <string name="android_beam_tips">Wees er zeker van dat de twee apparaten elkaar raken en selecteer dan de inhoud die u wilt beamen.</string>
   <string name="android_beam_witch_label">Android Beam inschakelen</string>
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
   <string name="antispam_quiet_mode_title">Rustmodus</string> 
@@ -504,6 +505,8 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="cdma_security_settings_summary">"'Mijn locatie' instellen, scherm ontgrendelen, opslag van referenties vergrendelen"</string>
   <string name="cell_broadcast_settings">Cell broadcasts</string>
   <string name="cell_broadcast_settings_summary">Selecteer de typen noodoproepen die moeten worden weergegeven.</string>
+  <string name="change_password">Wachtwoord wijzigen</string>
+  <string name="change_security_lock">Meer vergrendelschermen</string>
   <string name="checkbox_notification_same_as_incoming_call">Volume van inkomende oproepen gebruiken voor meldingen</string>
   <string name="choose_timezone">Een tijdzone kiezen</string>
   <string name="clear_activities">Standaardwaarden wissen</string>
@@ -967,7 +970,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="headset_calibrate_success">Instellingen toegepast</string>
   <string name="headset_calibrate_volume_down">Volume omlaag</string>
   <string name="headset_calibrate_volume_up">Volume omhoog</string>
-  <string name="headset_calibrate_wrong_key">Incorrecte knop, probeer het opnieuw</string>
+  <string name="headset_calibrate_wrong_key">Onjuiste knop, probeer het opnieuw</string>
   <string name="headset_function">Headset functies</string>
   <string name="headset_mode_music">Muziek afspelen - vorige/volgende</string>
   <string name="headset_mode_volume">Volume aanpassen - omhoog/omlaag</string>
@@ -1090,7 +1093,8 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
 
 Bent u klaar om te starten? Raak 'Volgende' aan."</string>
   <string name="lock_screen_unlock_show_summary">"Gebruik geen andere vergrendelscherm, gebruik de scherm ontgrendel interface"</string>
-  <string name="lock_screen_unlock_show">Toon scherm wachtwoord scherm directl</string>
+  <string name="lock_screen_unlock_show">Toon scherm wachtwoord scherm direct</string>
+  <string name="lock_settings_common_title">Vergrendel instellingen</string>
   <string name="lock_settings_picker_settings">Zet scherm slot</string>
   <string name="lock_settings_picker_title">Schermvergr. select.</string>
   <string name="lock_settings_title">Schermbeveiliging</string>
@@ -2541,7 +2545,7 @@ Telefoon setup kan significante netwerk activiteit vereisen."</string>
   <string name="wifi_wapi_cert_cancel_button">Annuleren</string>
   <string name="wifi_wapi_cert_create_subdir">Maak een directory</string>
   <string name="wifi_wapi_cert_delet_subdir">Selecteer een suit certificate</string>
-  <string name="wifi_wapi_certification_dont_exist">Het ingevoerde netwerk wachtwoord is incorrect. Probeer het nogmaals</string>
+  <string name="wifi_wapi_certification_dont_exist">Het ingevoerde netwerk wachtwoord is onjuist. Probeer het nogmaals</string>
   <string name="wifi_wapi_cert_install_button">Installeer</string>
   <string name="wifi_wapi_cert_install">Installeer WAPI Certificaat</string>
   <string name="wifi_wapi_cert_mgmt_as_dont_exist">De SD-kaart bevat geen WAPI AS certificaat, controleer dit en probeer het opnieuw</string>
