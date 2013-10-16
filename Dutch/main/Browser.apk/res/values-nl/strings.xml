@@ -88,6 +88,9 @@
   <string name="bookmarks_management">Bladwijzers</string>
   <string name="bookmarks_root_folder">Root map</string>
   <string name="bookmarks_search">Browser</string>
+  <string name="bottom_bar_tabs_long_click_down_tip_txt">Naar beneden vegen om af te sluiten</string>
+  <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Laatste tab</string>
+  <string name="bottom_bar_tabs_long_click_up_tip_txt">Naar boven vegen om af te sluiten</string> 
   <string name="browserFrameFileErrorLabel">Bestandsprobleem</string>
   <string name="browserFrameFormResubmitLabel" />
   <string name="browserFrameFormResubmitMessage">"De pagina die u probeert te openen, bevat gegevens die al verzonden zijn ('POSTDATA'). Als u de gegevens opnieuw verzendt, wordt elke actie herhaald die het formulier op de pagina heeft uitgevoerd (zoals een zoekopdracht of online aankoop)."</string>
@@ -100,6 +103,7 @@
   <string name="choosertitle_sharevia">Delen via</string>
   <string name="clear">Wissen</string>
   <string name="clear_history">Geschiedenis wissen</string>
+  <string name="clear_search_history">Geschiedenis wissen</string>
   <string name="clear_history_group">Alle %s geschiedenis wissen</string> 
   <string name="clip_dialog_title">Open gekopiëerde link?</string> 
   <string name="close_all_tab_alert_message">Wilt u alle tabs sluiten?</string>
@@ -208,6 +212,10 @@
   <string name="folder_name">Map naam</string>
   <string name="folder_name_too_long">Map naam is te lang</string>
   <string name="forward">Volgende</string>
+  <string name="general_set_default_browser_dialog_close_txt">Afsluiten</string>
+  <string name="general_set_default_browser_dialog_ok_txt">OK</string>
+  <string name="general_set_default_browser_dialog_summary">Gebruik MIUI-ingebouwde apps voor snellere en vloeiende prestaties</string>
+  <string name="general_set_default_browser_title">Als standaard browser instellen</string> 
   <string name="geolocation_permissions_prompt_dont_share">Weigeren</string>
   <string name="geolocation_permissions_prompt_message">%s wil weten wat uw locatie is</string>
   <string name="geolocation_permissions_prompt_remember">Voorkeur onthouden</string>

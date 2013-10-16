@@ -58,7 +58,11 @@
   <string name="delete_playlist_menu">Verwijderen</string>
   <string name="delete_song_desc">“%s” zal permanent worden gewist van de SD-kaart</string>
   <string name="deselect_all">Deselecteer alle</string>
-  <string name="download">Download</string>
+  <string name="dirac_mode_earbuds">Xiaomi oortjes</string>
+  <string name="dirac_mode_in_ear">Xiaomi in-ear oortjes</string>
+  <string name="dirac_mode_off">Dirac uit</string>
+  <string name="dirac_mode_piston_100">Xiaomi Piston oortjes</string> 
+  <string name="download">Downloaden</string>
   <string name="download_album_settings">Cover auto downloaden</string>
   <string name="download_album_summary">Album covers auto downloaden (hoog dataverbruik)</string>
   <string name="download_all_album">Download album art</string>
@@ -74,7 +78,27 @@
   <string name="empty_edit_hint">Song informatie niet beschikbaar</string>
   <string name="empty_track_list">Geen afspeellijst</string>
   <string name="emptyplaylist">Geselecteerde afspeellijst is leeg.</string>
-  <string name="enter_sleep_mode">Betreed Slaap Modus</string>
+  <string name="enter_sleep_mode">Slaap Moduse betreden</string>
+  <string name="eq_auto">Aangepast</string>
+  <string name="eq_blues">Blues</string>
+  <string name="eq_classical">Klassiek</string>
+  <string name="eq_country">Country</string>
+  <string name="eq_dance">Dance</string>
+  <string name="eq_delete">Remove</string>
+  <string name="eq_delete_success">Gereed.</string>
+  <string name="eq_electronic">Electronisch</string>
+  <string name="eq_flat">Flat</string>
+  <string name="eq_hiphop">Hip Hop</string>
+  <string name="eq_jazz">Jazz</string>
+  <string name="eq_metal">Metal</string>
+  <string name="eq_pop">Pop</string>
+  <string name="eq_preset_create">Aanmaken</string>
+  <string name="eq_preset_format">Gebruiker preset %d</string>
+  <string name="eq_preset_hint">Typ preset naam</string>
+  <string name="eq_preset_rename">Hernoemen</string>
+  <string name="eq_preset_select">Kies een preset</string>
+  <string name="eq_rb">R &amp; B</string>
+  <string name="eq_rock">Rock</string> 
   <string name="equalizer">Equalizer</string>
   <string name="equalizer_delete">Wissen</string>
   <string name="equalizer_delete_success">Equalizer profiel succesvol gewist</string>
@@ -101,6 +125,7 @@
   <string name="folder_title_format" formatted="false">%s(%d)</string>
   <string name="folders_title">Mappen</string>
   <string name="frequentlyplayed_title">Frequent afgespeeld</string>
+  <string name="headphone_settings">Koptelefoon instellingen</string> 
   <string name="hot_artists">Populaire Artiesten</string>
   <string name="id3_edit">Bewerk ID3 Informatie</string>
   <string name="id3_edit_failed">Bewerken van ID3 info mislukt</string>
@@ -138,6 +163,9 @@
   <string name="lyric_picker_not_found">Bestandsbeheer niet gevonden</string>
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Muziek</string>
+  <string name="mi_effect">MI Effecten</string>
+  <string name="mi_effect_summary">Altijd MiSound enhancer gebruiken bij speakers</string>
+  <string name="mi_effect_title">MiSound enhancer gebruiken</string> 
   <string name="min_interval">1</string>
   <string name="mobile_connect_settings">Mobiel netwerk</string>
   <string name="modify_id3_for_list">De songs worden gewijzigd met de huidige ID3 informatie </string>
@@ -148,6 +176,7 @@
   <string name="music_browser_label">Muziek</string>
   <string name="music_filter">Bestands filter</string>
   <string name="music_filter_helper">Om bestanden te verbergen die geen muziek zijn, is een grootte filter toegepast van 800K om deze bestanden niet te tonen. Dit filter kan aangepast worden in Instellingen - bestands filter.</string>
+  <string name="music_not_loaded">Geen audio bestanden gevonden!</string> 
   <string name="music_open_other_connect">Download muziek door middel van mobiele data connectie</string>
   <string name="music_picker_title">Nummer selecteren</string>
   <string name="music_settings">Instellingen</string>

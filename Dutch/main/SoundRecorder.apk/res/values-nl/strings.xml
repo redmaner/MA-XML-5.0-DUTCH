@@ -47,6 +47,8 @@
   <string name="overwrite_dialog_message" formatted="false">%s bestaat al. Wilt u het overschrijven?</string>
   <string name="pause">Pauzeren</string>
   <string name="play_record">Afspelen</string> 
+  <string name="preference_enable_earpiece_summary">Gebruik ontvanger voor extern afspelen</string>
+  <string name="preference_enable_earpiece_title">Gebruik ontvanger om audio af te spelen</string> 
   <string name="preference_led_indicator">Opname indicator wanneer scherm is vergrendeld</string>
   <string name="preference_led_indicator_prompt">Toon LED en statusbalk indicators bij opnemen en scherm vergrendeld is</string>
   <string name="preference_record_scenes_dialog_title">Selecteer een opname scene</string>

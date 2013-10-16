@@ -61,6 +61,7 @@
   <string name="menu_add_list">Lijst toevoegen</string>
   <string name="menu_delete">Verwijderen</string>
   <string name="menu_edit">Wijzigen</string>
+  <string name="menu_exit">Afsluiten</string>
   <string name="menu_new_station">Nieuw station</string>
   <string name="menu_play">Luisteren</string>
   <string name="menu_record_list">Opnamen Lijst</string>
@@ -69,6 +70,8 @@
   <string name="menu_rename_list">Hernoem Lijst</string>
   <string name="menu_reorder_list">Herorden Lijst</string>
   <string name="menu_save_station">Opslaan in lijst</string>
+  <string name="menu_save_station_list">Station opslaan in lijst</string>
+  <string name="menu_save_station_presets">Toevoegen aan station presets</string> 
   <string name="menu_scan_for_preset">Scan voor Voorisntellingen</string>
   <string name="menu_scan_start">Scannen</string>
   <string name="menu_scan_stop">Stop Zoeken</string>
@@ -84,8 +87,8 @@
   <string name="msg_scanning">Scannen naar alle FM Stations</string>
   <string name="msg_scanning_pty">Scannen naar %s</string>
   <string name="msg_search_title">FM - %1$s</string>
-  <string name="msg_searching">Zoeken naar stations om voorinstellingen lijst te maken</string>
-  <string name="msg_searching_title">Auto-Selecteer Voorinstellingen</string>
+  <string name="msg_searching">Zoeken naar stations om presets lijst te maken</string>
+  <string name="msg_searching_title">Auto-Selecteer presets</string>
   <string name="msg_seeking">Zoeken naar FM Station</string>
   <string name="msg_weak_searching">Zoeken naar frequenties om te zenden</string>
   <string name="new_frequency">Nieuwe frequentie</string> 
@@ -118,9 +121,10 @@
   <string name="spaceIsLow_content">Uw SD-kaart is bijna vol. Wijzig de kwaliteitsinstelling of verwijder afbeeldingen of andere bestanden.</string>
   <string name="stat_notif_frequency">: %1$s MHz</string>
   <string name="stat_notif_tx_frequency">FM Zend uit op: %1$s</string>
-  <string name="station_edit">Wijzig</string>
+  <string name="station_check_favorite">Toevoegen aan favorieten</string> 
+  <string name="station_edit">Wijzigen</string>
   <string name="station_freq_format">%sMHz</string>
-  <string name="station_move">Verplaats</string>
+  <string name="station_move">Verplaatsen</string>
   <string name="station_name_already_used">Station naam bestaat al</string>
   <string name="stations_list">Station lijst</string>
   <string name="stations_list_empty">Geen station, scan voor stations</string>
@@ -130,6 +134,7 @@
   <string name="test_prompt">Test kiezen</string>
   <string name="test_run">Test uitvoeren</string>
   <string name="title_select_station">Station selecteren - %s</string>
+  <string name="toast_added_to_list">Toegevoegd aan station lijst</string> 
   <string name="toast_added_to_presets">Toegevoegd aan presets</string>
   <string name="toast_channel_searched">%1$d stations gescand.</string> 
   <string name="toast_delete_station">%sMHz gewist</string>

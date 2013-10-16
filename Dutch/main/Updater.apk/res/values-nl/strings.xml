@@ -55,6 +55,9 @@
   <string name="file_not_found_error_message">Update bestand niet gevonden</string>
   <string name="finish">Afmaken</string>
   <string name="finish_download">Download compleet</string>
+  <string name="fourgrid_hint_text">Bedankt voor het gebruiken van de ontwikkelaars versie van MIUI. Vertel ons wat je denkt en help ons MIUI te verbeteren!</string>
+  <string name="fourgrid_no_notificaiont">Niet tonen in statusbalk</string>
+  <string name="fourgrid_notificaiont">Tonen in statusbalk</string> 
   <string name="get_update_error">Ophalen update informatie mislukt</string>
   <string name="install_email">Installeer E-mail software</string>
   <string name="install_file_explorer">installeer bestands beheer</string>

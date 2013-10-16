@@ -461,6 +461,7 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="bluetooth_visibility">Kan worden gevonden</string>
   <string name="bluetooth_visibility_timeout_summary">Instellen hoe lang het apparaat vindbaar is</string>
   <string name="bluetooth_visibility_timeout">Time-out voor zichtbaarheid</string>
+  <string name="breathing_light_color_menu_title">Licht kleur</string>
   <string name="breathing_light_color_summary">LED kleur voor ontvangst nieuwe notificatie</string>
   <string name="breathing_light_color_title">LED kleur</string>
   <string name="breathing_light_freq_summary">LED pauze tussen flash</string>
