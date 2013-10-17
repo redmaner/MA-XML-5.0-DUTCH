@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_smart_antispam_summary">Over Slimme Antispam onbekend nummer detector</string>
+  <string name="about_telephone_fraud">Over Telefoon Fraude</string> 
   <string name="agree">Accepteren</string>
   <string name="all_numbers">Alle nummers</string>
   <string name="app_label">Yellow Page</string>
@@ -36,7 +38,8 @@
   <string name="menu_about_yellow_page">Over deze pagina</string>
   <string name="menu_add_black_list">Aan zwartelijst toevoegen</string>
   <string name="menu_call_ip_number">IP oproep (bellen %s)</string>
-  <string name="menu_copy_text">Kopiëer naar klembord</string>
+  <string name="menu_copy_text">Kopiëren naar klembord</string>
+  <string name="menu_correct_yellow_page">Correctie</string> 
   <string name="menu_delete_call_log">Verwijder oproeplogs</string>
   <string name="menu_delete_one">Verwwijder item van oproeplog</string>
   <string name="menu_refresh">Vernieuwen</string>
@@ -73,6 +76,10 @@
   <string name="recharge_title">Opwaarderen</string>
   <string name="recharge_user_confirm_summary">"%1$s wordt in rekening gebracht voor RMB%2$s 
 Totaal bedrag: RMB%3$s"</string>
+  <string name="remind_another_time">Niet weergeven voor dit nummer</string>
+  <string name="remind_user_confirm">OK</string>
+  <string name="remind_user_suspect_number_message">Criminelen kunnen iemands indentiteit stelen voor fraude, bij twijfel terugbellen om de beller te achterhalen. Banken, e-commerce bedrijven en providers vragen nooit om uw wachtwoord of bank gegevens.</string>
+  <string name="remind_user_suspect_number_title">Kijk uit voor verdachte oproepen</string>
   <string name="recharge_user_confirm_title">Bevestigen</string>
   <string name="scan">Scannen</string> 
   <string name="selected_category_format">%1$s(%2$d mensen zijn gemarkeerd, klik om te accepteren)</string>

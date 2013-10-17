@@ -19,6 +19,7 @@
    <string name="read_write_all_voicemail_label">Toegang tot alle voicemails</string>
    <string name="send_sms">Bericht versturen</string>
    <string name="sharedUserLabel">Kernapps van Android</string>
+  <string name="third_party_delete_contact_info">\"%s\" is uw Xiaomi contacten aan het verwijderen, gebruik uw systeem Contacten voor een betere beveiliging van uw contacten.</string>
    <string name="upgrade_msg">Contactendatabase bijwerken.</string>
    <string name="upgrade_out_of_memory_notification_text">Selecteer om de upgrade te voltooien.</string>
    <string name="upgrade_out_of_memory_notification_ticker">Voor het bijwerken van contacten is meer geheugen nodig</string>

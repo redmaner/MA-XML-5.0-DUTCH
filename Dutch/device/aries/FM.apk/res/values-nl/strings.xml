@@ -139,12 +139,16 @@
   <string name="toast_channel_searched">%1$d stations gescand.</string> 
   <string name="toast_delete_station">%sMHz gewist</string>
   <string name="toast_edit_station">Veranderingen zijn opgeslagen</string>
+  <string name="toast_fm_not_stated">FM niet bekend</string>
+  <string name="toast_fm_recorder_internal_error">FM opname fout!</string>
+  <string name="toast_fm_recorder_storage_full">Geheugen vol, kan niet opnemen!</string> 
   <string name="toast_fm_seeking">Station zoeken, een moment geduld...</string>
   <string name="toast_fm_starting">FM app starten, een moment geduld...</string>
   <string name="toast_fm_stoping">FM app afsluiten, een moment geduld...</string>
   <string name="toast_removed_from_presets">Verwijderd van presets</string> 
   <string name="toast_save_station">%s MHz station opgeslagen</string>
   <string name="toast_sleep_mode">Stop FM in %s</string>
+  <string name="toast_sleep_mode_exit">Slaap modus geannuleerd.</string> 
   <string name="transmit_msg_string">Uitzenden op:</string>
   <string name="turn_off_fm">FM uitzetten</string>
   <string name="turn_off_speaker_phone">Telefoon speaker uitzetten</string>

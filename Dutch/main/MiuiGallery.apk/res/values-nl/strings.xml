@@ -58,6 +58,8 @@
   <string name="baidu_flyflow_downloads">Baidu Browser</string>
   <string name="beautyphone">Beauty Phone</string>
   <string name="big_screen_alertdialog_title">Projector Apparaat</string>
+  <string name="bigscreen_slide_exit">Diavoorstelling afsluiten</string>
+  <string name="bigscreen_slide_fail_cause_loading">Laad de diavoorstelling na het laden van de afbeelding.</string>
   <string name="bigscrren_slide_exit">Verlaat diavoorstelling via TV</string>
   <string name="browse_category">Door foto\'s bladeren</string>
   <string name="by_email">E-mail</string>
@@ -457,6 +459,7 @@ vrienden."</string>
   <string name="tencent_mobile_qq_img_save">QQ2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
+  <string name="there_is_no_image">Er is geen afbeelding.</string> 
   <string name="tieba">Tie Ba</string>
   <string name="time">Tijd</string>
   <string name="times">Tijden</string>

@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="accessibility_calllog_detail">Oproeplog details</string> 
   <string name="account_abnormal_state">Abnormale account informatie, probeer opnieuw in te loggen of probeer later opnieuw!</string>
   <string name="account_container_title">Van het volgende account</string>
   <string name="account_default">Telefoon</string>
@@ -22,6 +23,7 @@
   <string name="add_new_account">Nieuw account toevoegen</string>
   <string name="add_new_entry_for_section">Nieuw toevoegen</string>
   <string name="add_organization">Organisatie toevoegen</string>
+  <string name="add_slide_before">Dia toevoegen (voor)</string> 
   <string name="add_to_my_contacts">Toevoegen aan Mijn contacten</string>
   <string name="add_wait">Wacht toevoegen</string>
   <string name="add_xiaomi_account_dialog_btn">Gebruik Xiaomi account</string>
@@ -194,6 +196,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="contacts_unavailable_add_account">Aanmelden bij een account</string>
   <string name="contacts_unavailable_create_contact">Maak een nieuw contact</string>
   <string name="contacts_unavailable_import_contacts">Contacten importeren uit een bestand</string>
+  <string name="context_menu_add_to_browser_favorite">Toevoegen aan browser favorieten</string> 
   <string name="copy_text">Kopiëren naar klembord</string>
   <string name="createContactShortcutSuccessful">Contact widget toegevoegd aan Home-scherm.</string>
   <string name="create_group_dialog_title">Nieuwe groep maken</string>
@@ -374,6 +377,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="favoritesFrequentCalled">Vaak gebeld</string>
   <string name="favoritesFrequentContacted">Regelmatig contact</string>
   <string name="favorites_list_empty">Geen favorieten</string>
+  <string name="forward_from">Vooruit van:</string> 
   <string name="foundTooManyContacts" formatted="false">Meer dan %d gevonden.</string>
   <string name="frequency_none">Geen herinnering</string>
   <string name="frequency_three_days">Iedere 3 dagen checken</string>
@@ -668,6 +672,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="postal_postcode">Postcode</string>
   <string name="postal_region">Staat</string>
   <string name="postal_street">Straat</string>
+  <string name="pref_forward_title">Vooruit</string>
   <string name="pref_key_photo">Foto</string>
   <string name="pref_key_photo_word_summary">Selecteer automatisch een foto voor contacten zonder foto.</string>
   <string name="pref_key_photo_word_title">Selecteer automatisch een foto voor contacten</string>
@@ -675,7 +680,11 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="pref_key_rebuild_t9_index_title">Herbouw T9 index data</string>
   <string name="pref_summary_import_from_account">Importeer contacten uit Google en Exchange accounts naar mijn Xiaomi Account</string>
   <string name="pref_title_account_import">Importeer uit account</string>
+  <string name="pref_title_card_format">Kaart formaat voor delen</string>
+  <string name="pref_title_fwd_sender_info">Vooruit Verzender Info</string> 
   <string name="pref_title_import_from_account">Importeer naar Xiaomi account</string>
+  <string name="pref_title_miui_card">Verzenden via MIUI kaart</string>
+  <string name="pref_title_vcard">Verzenden via vKaart</string> 
   <string name="preference_auto_ip_summary_disable">Niet ingeschakeld</string>
   <string name="preference_auto_ip_summary_on">"Providers IP voorvoegsel: %s"</string>
   <string name="preference_auto_ip_title">Automatisch IP</string>
@@ -794,12 +803,16 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_title_select_ringtone">Selecteer ringtone</string>
   <string name="resource_update">Update</string>
   <string name="resource_waiting_download">Wachten op download...</string>
-  <string name="restore_nickname">Herstel</string>
+  <string name="restore_nickname">Herstellen</string>
+  <string name="restore_to_phone_memory_failed">Herstellen naar telefoon geheugen mislukt!</string>
+  <string name="restored_to_phone_memory">Hersteld naar telefoon geheugen</string> 
   <string name="ret_sign">" "</string>
   <string name="returnCall">Terugbellen</string>
   <string name="ringLabelsGroup">ring</string>
   <string name="save">Opslaan</string>
   <string name="save_photo_progress">Foto opslaan...</string>
+  <string name="save_to_sim_failed">Oplaan op simkaart mislukt! Hersteld naar telefoon geheugen</string>
+  <string name="saved_to_sim">Opgeslagen op simkaart!</string> 
   <string name="savingContact">Contact opslaan…</string>
   <string name="savingDisplayGroups">Weergaveopties opslaan...</string>
   <string name="scan">scan apparaat</string>
@@ -816,6 +829,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="searching_vcard_message">Zoeken naar vCard-gegevens in opslag...</string>
   <string name="select_all">Selecteer alles</string>
   <string name="select_device">Selecteer een apparaat om mee te verbinden</string>
+  <string name="select_groups">Selecteer groepen</string>
   <string name="select_new_photo_from_photo_package">Selecteer nieuwe foto van foto pakket</string>
   <string name="select_none">Niets geselecteerd, kan opdracht niet uitvoeren</string>
   <string name="select_photo_from_photo_package">Selecteer foto van foto pakket</string>
@@ -828,6 +842,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="service_provider">Service provider</string>
   <string name="set_default">Standaard instellen</string>
   <string name="set_photo_failed_msg">Avatar instellen mislukt</string> 
+  <string name="set_smsc_address_title_miui">SMS centrum nummer instellen</string> 
   <string name="share_error">Dit contact kan niet worden gedeeld.</string>
   <string name="share_via">Contact delen via</string>
   <string name="share_visible_contacts">Zichtbare contacten delen</string>
@@ -840,12 +855,24 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="simContacts_empty">Geen contacten gevonden op de simkaart.</string>
   <string name="simContacts_emptyLoading">Laden vanaf simkaart...</string>
   <string name="simContacts_title">Contacten op simkaart</string>
+  <string name="sim_capacity_content" formatted="false">Totale capaciteit %d, gebruikt %d</string>
+  <string name="sim_card1">Simkaart 1</string>
+  <string name="sim_card2">Simkaatt 2</string>
+  <string name="sim_card_cloud">%s (Cloud Bericht)</string> 
   <string name="sim_card_no_free_space_message">Uw simkaart is vol, niet mogelijk nieuwe contacten te importeren. Wis uw simkaart en probeer opnieuw</string>
   <string name="sim_card_no_free_space_title">simkaart vol</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Alles deselecteren</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Alles selecteren</string> 
   <string name="sim_contact_search_error">Fout bij zoeken van contacten op simkaart</string>
   <string name="sim_contacts">Simkaart Contacten</string>
+  <string name="sim_error_anr_full">Opslag voor nummer is vol!</string>
+  <string name="sim_error_email_full">Opslag voor E-mail is vol!</string>
+  <string name="sim_error_email_too_long">E-mail adres is te lang.</string>
+  <string name="sim_error_generic_failure">Generieke simkaart fout.</string>
+  <string name="sim_error_number_too_long">Simkaart nummer is te lang!</string>
+  <string name="sim_error_password_error">Simkaart wachtwoord fout.</string>
+  <string name="sim_error_storage_full">Simkaart opslag is vol!</string>
+  <string name="sim_error_text_too_long">Naam is te lang!</string> 
   <string name="sim_export_loading">Simkaart informatie wordt gelezen. Even geduld, dit kan een minuut duren.</string>
   <string name="sim_indexed_contact_not_exist">Positie %1$d op simkaart is niet correct, hoort tussen %2$d en %3$d</string>
   <string name="sim_no_contact">Geen contacten op simkaart</string>
@@ -918,6 +945,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="type_incoming">Inkomende oproep</string>
   <string name="type_missed">Oproep gemist</string>
   <string name="type_outgoing">Uitgaand gesprek</string>
+  <string name="type_vcard">vKaart</string> 
   <string name="type_voicemail">Voicemail</string>
   <string name="unknown">Onbekend</string>
   <string name="unknown_contact_name">Onbekend contact</string>

@@ -198,7 +198,7 @@
   <string name="error_console_header_text_minimized">Toon JavaScript console</string>
   <string name="exit_browser_warning">Browser afsluiten?</string>
   <string name="export_bookmark">Exporteer favorieten</string>
-  <string name="export_bookmark_failure">Epic Fout! Bladwijzer is niet geexporteerd naar de SD-kaart!</string>
+  <string name="export_bookmark_failure">Grote fout! Bladwijzer is niet geexporteerd naar de SD-kaart!</string>
   <string name="export_bookmark_sucess">Bladwijzer is succesvol geexporteerd naar de DS kaart!</string>
   <string name="exported_bookmark_file_name">Mijn Favorieten</string>
   <string name="file_dir">Map</string>
@@ -479,7 +479,12 @@
   <string name="pref_zoom_on_double_tap">Zoomen bij dubbeltikken</string>
   <string name="preview">Voorbeeld</string>
   <string name="progress_dialog_setting_wallpaper">Achtergrond instellen...</string>
+  <string name="quicklink_user_define_webpage_title">Naam</string>
+  <string name="quicklink_user_define_webpage_url">URL</string>
+  <string name="quicklinks_group_default_subtitle">Leeg</string> 
   <string name="quicklinks_management">Snelle links</string> 
+  <string name="quicklinks_most_visited">Meest bezochte websites toevoegen aan startpagina</string>
++  <string name="quicklinks_most_visited_subtitle">Meest bezochte websites weergeven in nieuwe tab</string> 
   <string name="readmode_already_add_to_bookshelf">Toegevoegd aan boekenplank</string>
   <string name="readmode_battery">Batterij </string> 
   <string name="readmode_login">Account login</string>
@@ -583,6 +588,8 @@
   <string name="uploads_disabled">Bestandsuploads zijn uitgeschakeld.</string>
   <string name="url_copy_done">URL gekopieërd</string>
   <string name="url_hint">Zoek of type URL</string>
+  <string name="user_defined_webpage">URL toevoegen</string>
+  <string name="user_defined_webpage_title">URL toevoegen aan startpagina</string> 
   <string name="username">Naam</string>
   <string name="view_certificate">Certificaat weergeven</string>
   <string name="warning">Waarschuwing</string>

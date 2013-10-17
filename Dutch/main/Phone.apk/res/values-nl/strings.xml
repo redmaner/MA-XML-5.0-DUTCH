@@ -1005,6 +1005,7 @@ Toch overschakelen op de nieuwe provider?"</string>
     <string name="sum_xdivert_disabled">X-Divert Uitgeschakeld</string>
     <string name="sum_xdivert_enabled">X-Divert ingeschakeld</string>
     <string name="summary_manage_subscriptions">Beheer Netwerkinstellingen van elk abonnement</string>
+    <string name="suspect_info">Oproep niet accepteren, mogelijke fraude poging!</string> 
     <string name="t9_indexing_method_pinyin">PinYin</string>
     <string name="t9_indexing_method_title_miui">T9 zoek instellingen</string>
     <string name="t9_indexing_method_zhuyin">ZhuYin</string>

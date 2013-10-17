@@ -59,6 +59,7 @@
   <string name="delete_song_desc">“%s” zal permanent worden gewist van de SD-kaart</string>
   <string name="deselect_all">Deselecteer alle</string>
   <string name="dirac_mode_earbuds">Xiaomi oortjes</string>
+  <string name="dirac_mode_general">Normale modus</string> 
   <string name="dirac_mode_in_ear">Xiaomi in-ear oortjes</string>
   <string name="dirac_mode_off">Dirac uit</string>
   <string name="dirac_mode_piston_100">Xiaomi Piston oortjes</string> 
