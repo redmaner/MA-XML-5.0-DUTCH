@@ -484,7 +484,7 @@
   <string name="quicklinks_group_default_subtitle">Leeg</string> 
   <string name="quicklinks_management">Snelle links</string> 
   <string name="quicklinks_most_visited">Meest bezochte websites toevoegen aan startpagina</string>
-+  <string name="quicklinks_most_visited_subtitle">Meest bezochte websites weergeven in nieuwe tab</string> 
+  <string name="quicklinks_most_visited_subtitle">Meest bezochte websites weergeven in nieuwe tab</string> 
   <string name="readmode_already_add_to_bookshelf">Toegevoegd aan boekenplank</string>
   <string name="readmode_battery">Batterij </string> 
   <string name="readmode_login">Account login</string>
