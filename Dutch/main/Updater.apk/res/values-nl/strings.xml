@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_device">Over de telefoon</string>
++ <string name="about_device">Over de telefoon</string>
   <string name="active_xiaomi_account">Activeren</string>
   <string name="active_xiaomi_account_msg">"Ga naar het MIUI forum om uw Xiaomi account te activeren:"</string>
   <string name="active_xiaomi_account_title">Activeer Xiaomi account</string>
