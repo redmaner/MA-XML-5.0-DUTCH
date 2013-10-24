@@ -30,6 +30,7 @@
   <string name="btn_wait_call_count">Wachten (%1$s)</string>
   <string name="btn_wait_confirm">Wachten...</string>
   <string name="btn_wait_confirm_count">Wachten (%1$s)</string> 
+  <string name="button_cancel">Annuleren</string> 
   <string name="check_phone_error_title">Inschakelen van de synchronisatie service is mislukt</string>
   <string name="check_phone_io_error">Netwerk fout</string>
   <string name="checking_account">"Account verifiëren..."</string>
