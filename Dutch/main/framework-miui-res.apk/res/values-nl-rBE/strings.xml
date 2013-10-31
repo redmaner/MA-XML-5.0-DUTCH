@@ -6,10 +6,13 @@
   <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="alwaysUsePrompt">Gebruik als standaard (Niet meer vragen)</string>
   <string name="android_lockscreen_glogin_instructions">Login met uw account om te openen</string>
+  <string name="anniversary_of_lifting_martial_law"/>
+  <string name="anti_aggression_day"/>
   <string name="app_no_notification">geen notificatie</string>
   <string name="app_notificaiton_on_notificationBar">Notificatiebalk</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Status- en notificatiebalk</string>
   <string name="arbor_day">Arbor Day</string>
+  <string name="armed_forces_day"/>
   <string name="autumn_begins">Herfst Begint</string>
   <string name="autumn_equinox">Herst Equinox</string>
   <string name="callNoAnswerTimeFormat">Ring %s keer</string>
@@ -404,6 +407,7 @@ Probeer het opnieuw over %d seconden."</string>
   <string name="reboot_confirm">Telefoon zal herstart worden</string>
   <string name="reboot_confirm_title">Weet u zeker dat u uw telefoon wilt herstarten?</string> 
   <string name="reboot_progress">Herstarten...</string>
+  <string name="retrocession_day"/>
   <string name="return_to_me_message">Geef terug aan eigenaar a.u.b.</string>
   <string name="reverse_all">Alles wissen</string>
   <string name="safetylegal_activity_unreachable">Uw telefoon is niet verbonden met een data service. Om deze informatie nu te bekijken, ga naar %s via een computer die is verbonden met het internet.</string>
@@ -452,6 +456,9 @@ Probeer het opnieuw over %d seconden."</string>
   <string name="the_spring_festival" />
   <string name="today">Vandaag</string>
   <string name="tomorrow">Morgen</string>
+  <string name="tw_childrens_day"/>
+  <string name="tw_youth_day"/>
+  <string name="united_nations_day"/>
   <string name="unknown">Onbekend nummer</string>
   <string name="unknown_caller">Onbekende beller</string>
   <string name="unlock_string">OK</string>
@@ -486,5 +493,10 @@ Probeer het opnieuw over %d seconden."</string>
   <string name="white_dews" />
   <string name="winter_begins" />
   <string name="winter_solstice" />
+  <string name="yellow_page_module_sms_sent">SMS verzonden.</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">Kan geen SMS verzenden in gast modus</string>
+  <string name="yellow_page_sms_send_failed">SMS verzenden mislukt!</string>
+  <string name="yellow_page_sms_sending">Verzenden...</string>
+  <string name="yellow_page_unable_send_sms">Kan SMS niet verzenden!</string>
   <string name="yesterday">Gisteren</string>
 </resources>

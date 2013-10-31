@@ -9,12 +9,48 @@
   <string name="account_hint_text">E-mail/Telefoon nummer</string>
   <string name="account_name">Account: %1$s</string>
   <string name="activate_phone_failed_notif_title">MiCloud service inschakelen mislukt</string>
+  <string name="activate_phone_failed_notif_title_msim">MiCloud starten mislukt voor simkaart %s</string>
   <string name="activate_phone_send_sms_fail">Activatie SMS verzenden mislukt, kan sync service niet openen</string>
   <string name="activate_phone_send_sms_failed_notif">Activatie SMS verzenden mislukt</string>
   <string name="activate_phone_server_error">Server fout, kan sync service niet openen</string>
   <string name="activate_phone_server_error_notif">Server fout</string> 
+  <string name="activate_status_desc_acquire_phone_number">Telefoonnummer verkrijgen van server</string>
+  <string name="activate_status_desc_acquire_phone_number_server_error">Server fout tijdens het verkrijgen van telefoonnummer.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_error_wait">Server fout tijdens het verkrijgen van telefoonnummer. Wachten om opnieuw te proberen...</string>
+  <string name="activate_status_desc_acquire_phone_number_server_io_error">Server I/O fout tijdens het verkrijgen van telefoonnummer.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Server I/O fout tijdens het verkrijgen van telefoonnummer. Wachten om opnieuw te proberen...</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info">Kan telefoonnummer niet verkrijgen.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info_wait">Kan telefoonnummer niet verkrijgen, wachten om opnieuw te proberen...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token">Veiligheids informatie verkrijgen van server...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_password_error">Kan veiligheids informatie niet verkrijgen door incorrect veiligheids token</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_error">Server fout tijdens het verkrijgen van veiligheids informatie</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_error_wait">Server fout tijdens het verkrijgen van veiligheids informatie, wachten om opnieuw te proberen...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_io_error">Server I/O fout tijdens het verkrijgen van veiligheids informatie</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_io_error_wait">Server I/O fout tijdens het verkrijgen van veiligheids informatie, wachten om opnieuw te proberen...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_no_info">Kan veiligheids informatie niet verkrijgen</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_no_info_wait">Kan veiligheids informatie niet verkrijgen, wachten om opnieuw te probren...</string>
+  <string name="activate_status_desc_acquire_sim_user_id">Registratie informatie verkrijgen van server</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_error">Server fout tijdens het verkrijgen van registratie informatie</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_error_wait">Server fout tijdens het verkrijgen van registratie informatie, wachten om opnieuw te probren...</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_io_error">Server I/O fout tijdens het verkrijgen van registratie informatie</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_io_error_wait">Server I/O fout tijdens het verkrijgen van registratie informatie, wachten om opnieuw te probren...</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_no_info">Kan registratie informatie niet verkrijgen</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_no_info_wait">Kan registratie informatie niet verkrijgen, wachten om opnieuw te probren...</string>
+  <string name="activate_status_desc_failed_getting_device_info">Apparaat informatie verkrijgen mislukt</string>
+  <string name="activate_status_desc_failed_getting_gateway">SMS poort verkrijgen mislukt</string>
+  <string name="activate_status_desc_failed_getting_sim_info">Simkaart informatie verkrijgen mislukt</string>
+  <string name="activate_status_desc_getting_device_info">Apparaat informatie verkrijgen</string>
+  <string name="activate_status_desc_getting_gateway">SMS poort verkrijgen</string>
+  <string name="activate_status_desc_getting_sim_info">Simkaart informatie verkrijgen</string>
+  <string name="activate_status_desc_prepare_sending_sms">SMS activatie verzenden naar poort voorbereiden</string>
+  <string name="activate_status_desc_sending_sms">Verzend SMS activatie naar poort</string>
+  <string name="activate_status_desc_sim_absent">Simkaart niet gevonden</string>
+  <string name="activate_status_desc_sms_sent">Activatie SMS succesvol verzonden</string>
+  <string name="activate_status_title_activating">Uw simkaart activeren, een moment geduld...</string>
+  <string name="activate_status_title_activating_msim">Uw simkaart %s activeren...</string>
   <string name="activating">Activeren...</string>
   <string name="add_weibo_account">Account toevoegen</string>
+  <string name="alert_notif_title_dspt">Herstel synchronisatie om gegevens veiligheid te waarborgen</string>
   <string name="alert_title_remove_account">Account verwijderen</string>
   <string name="app_name">Xiaomi Service Framework</string>
   <string name="available_functionality">Beschikbare functies</string>
@@ -31,9 +67,11 @@
   <string name="btn_wait_confirm">Wachten...</string>
   <string name="btn_wait_confirm_count">Wachten (%1$s)</string> 
   <string name="button_cancel">Annuleren</string> 
+  <string name="captcha">Captcha code</string>
   <string name="check_phone_error_title">Inschakelen van de synchronisatie service is mislukt</string>
   <string name="check_phone_io_error">Netwerk fout</string>
   <string name="checking_account">"Account verifiëren..."</string>
+  <string name="checking_input">Invoer controleren...</string>
   <string name="cloud_messaging">MiCloud berichten</string> 
   <string name="cmcc_data_sync_notice">Gebruik uw Xiaomi account om berichten, contacten en andere gegevens te synchroniseren. Geniet ondertussen van Xiaomi cloud services.</string>
   <string name="cmcc_micloud_dspt">Cloud services bevat mobiele synchronisatie, apparaat locatie en andere functies. U kunt ook online uw gegevens beheren wanneer u maar wilt!</string>
@@ -43,9 +81,13 @@
   <string name="data_keep_in_phone">Op mijn toestel behouden</string>
   <string name="data_sync_notice">Gebruik uw Xiaomi account om uw berichten, contacten en andere data te synchroniseren</string>
   <string name="data_wipe_from_phone">Van mijn toestel verwijderen</string>
+  <string name="dirty_contacts_count">%d contact(en)</string>
+  <string name="dirty_mms_count">%d bericht(en)</string>
+  <string name="dirty_note_count">%d notitie(s)</string>
   <string name="disable_find_device_error">%1$s, uitschakelen van lokalisering van het toestel is mislukt</string>
   <string name="disable_micloud">&lt;u&gt;MiCloud niet inschakelen&lt;/u&gt;</string>
   <string name="email_already_be_used">E-mail adres is al in gebruik</string>
+  <string name="enableAll">Alles Inschakelen</string>
   <string name="enable_find_device_error">%1$s, inschakelen van lokalisering van het toestel is mislukt</string>
   <string name="enable_micloud">Cloud services inschakelen</string>
   <string name="error_dup_phone">Telefoon is geregistreerd</string>
@@ -56,6 +98,7 @@
   <string name="error_server">Server fout</string>
   <string name="error_sim_not_ready">Simkaart is nog niet klaar</string>
   <string name="error_unknown">Onbekende fout: %1$s</string>
+  <string name="error_user_name">Ongeldige gebruikersnaam!</string>
   <string name="failed_to_send_activate_email">Het versturen van een activatie e-mail is mislukt.</string>
   <string name="find_device">Zoek het toestel</string>
   <string name="find_device_check_phone_error_title">Inschakelen lokalisering van het toestel is mislukt</string>
@@ -74,7 +117,10 @@
   <string name="get_back_pwd">Account wachtwoord herstellen</string>
   <string name="header_data_and_synchronization">Data &amp; synchronisatie</string>
   <string name="i_know">Ok</string>
-  <string name="input_password_hint">Voer wachtwoord in</string>
+  <string name="input_captcha_hint">Captcha invoeren</string>
+  <string name="input_password_hint">Typ wachtwoord</string>
+  <string name="input_vcode_hint">Typ vertificatie code</string>
+  <string name="input_vcode_prompt">Typ vertificatie code</string>
   <string name="int_phone_user_notice">Als u registreert met een telefoonnummer buiten China voer dan uw land code in, bijv. +31xxxxxxxxx</string> 
   <string name="internet_comm">Berichten services</string>
   <string name="internet_message">MiCloud berichten</string>
@@ -84,6 +130,10 @@
   <string name="login_failed">Aanmelden mislukt</string>
   <string name="login_instead_reg">Login met dit telefoonnummer</string>
   <string name="login_notice">Aanmelden...</string>
+  <string name="master_alert_notif_dspt" formatted="false">"U heeft %s contacten, %s SMS, %s foto's, %s van notities en andere gegevens niet gesynchroniseerd.
+
+Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze gegevens permanent verwijderd worden. Het is aanbevolen de synchronisatie te herstellen om de veiligheid van uw gegevens te waarborgen"</string>
+  <string name="master_alert_notif_title">De gegevens zijn al %s dagen niet gesynchroniseerd</string>
   <string name="memu_refresh">Vernieuwen</string> 
   <string name="mibi_license_message">Xiaomi MiCredit service. Door op Ok te klikken gaat u akkoord met %1$s.</string>
   <string name="mibi_license_message_span">MiCredit Gebruiker overeenkomst</string>
@@ -111,8 +161,10 @@
   <string name="micloud_dspt">Cloud services bevat MiCloud berichten, mobiele sync, lokaliseren apparaat en andere functies. U kunt ook uw mobiele data beheren wanneer u wilt!</string> 
   <string name="micloud_email">E-mail Adres</string>
   <string name="micloud_error_email">Ongeldige e-mail</string>
+  <string name="micloud_error_empty_captcha_code">Typ captcha code.</string>
   <string name="micloud_error_empty_pwd">Wachtwoord is leeg</string>
   <string name="micloud_error_empty_username">Gebruikersnaam is leeg</string>
+  <string name="micloud_error_empty_vcode">Typ verificatie code.</string>
   <string name="micloud_error_illegal_pwd">Ongeldige wachtwoord</string>
   <string name="micloud_input_password_prompt">Voer een wachtwoord in</string>
   <string name="micloud_intro_01_part_01">Bespaar SMS kosten</string>
@@ -158,6 +210,7 @@
   <string name="my_mili_record">Mijn MiCredit</string>
   <string name="my_xiaomi_account">Mijn huidige Xiaomi account</string>
   <string name="next">Volgende</string>
+  <string name="noRemind">"Niet herinneren"</string>
   <string name="nobind">Niet geautoriseerd</string>
   <string name="order_price">%1$s MiCredits</string>
   <string name="other_settings">Overige instellingen</string>
@@ -223,6 +276,7 @@ We zullen het binnen twee werkdagen voor u controleren"</string>
   1. Contacteer klantenservice op: %1$s 
   2. Geef serienummer: %2$s"</string>
   <string name="progress_warning_waiting">Account veranderingen worden nog steeds bijgewerkt. Probeer het later opnieuw.</string>
+  <string name="quick_login_step2_title">Login Bewaking</string>
   <string name="quick_login_title">Verificatie vereist, vul uw wachtwoord in</string>
   <string name="recharge_alipay_summary">Alipay opwaardering</string>
   <string name="recharge_alipay_title">Alipay</string>
@@ -260,6 +314,7 @@ We zullen het binnen twee werkdagen voor u controleren"</string>
   <string name="remove_confirm">Verwijderen</string>
   <string name="remove_unactivated_account_notice">Het Xiaomi account is niet geactiveerd, wilt u het verwijderen?</string>
   <string name="removing_account">Account verwijderen...</string>
+  <string name="restoreSync">Synchronisatie Herstellen</string>
   <string name="send_int_sms_for_sync_notice">"Een SMS zal worden verstuurd naar uw apparaat op uw provider's berichten tarief. Weet u zeker dat u wilt doorgaan?"</string> 
   <string name="send_sms_for_sync_notice">Een activatie SMS moet worden verstuurd, akkoord?</string>
   <string name="send_sms_for_sync_title">Synchronisatie service niet geactiveerd</string>
@@ -268,9 +323,14 @@ We zullen het binnen twee werkdagen voor u controleren"</string>
   <string name="sim_changed_notification_content">Simkaart niet geactiveerd. heractiveer a.u.b</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Login overslaan</string>
+  <string name="skip_login_u">&lt;u&gt;Login overslaan&lt;/u&gt;</string>
   <string name="skip_setup_account_msg">"Uw Xiaomi Account ondersteunt het maken van een backup en synchronisatie van SMS, contacten, foto's, notities, etc. Doorgaan en later configureren?"</string>
   <string name="skip_setup_account_title">Instellen van account overslaan</string>
-  <string name="start_micloud">Start</string>
+  <string name="start_micloud">Starten</string>
+  <string name="sub_alert_notif_dspt" formatted="false">"U heeft %s contacten, %s SMS, %s foto's, %s van notities en andere gegevens niet gesynchroniseerd.
+
+Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze gegevens permanent verwijderd worden. Het is aanbevolen de synchronisatie te herstellen om de veiligheid van uw gegevens te waarborgen"</string>
+  <string name="sub_alert_notif_title">Wachtwoord synchronisatie service is niet ingeschakeld</string>
   <string name="sync_dspt">Gebruik Xiaomi account om gegevens te synchroniseren</string>
   <string name="sync_off">Uit</string>
   <string name="sync_on">Aan</string>
@@ -285,7 +345,8 @@ We zullen het binnen twee werkdagen voor u controleren"</string>
   <string name="title_recharge">MiCredits opwaarderen</string>
   <string name="title_recharge_record">Opwaardeer geschiedenis</string>
   <string name="title_reg">Registreer Xiaomi account</string>
-  <string name="title_voucher">Top-up gebruikt MiCredit voucher</string>
+  <string name="title_voucher">Opwaarderen gebruikt MiCredit voucher</string>
+  <string name="trust_device">Apparaat vertrouwen</string>
   <string name="unactivated_user">Niet geactiveerd</string>
   <string name="unbind">De-autoriseer</string>
   <string name="update_contacts">Contacten bijwerken</string>
@@ -298,10 +359,18 @@ We zullen het binnen twee werkdagen voor u controleren"</string>
   <string name="user_agreement_p4">Privacybeleid</string>
   <string name="user_agreement_p5">"Door in te loggen, gaat u akkoord met  "</string>
   <string name="value">Hoeveelheid</string> 
+  <string name="vcode">Verificatie code</string>
+  <string name="vcode_notification_title">Uw login verificatie is niet compleet</string>
+  <string name="vcode_prompt_long">Typ vertificatie code die is gegenereerd via Xiaomi veiligheids token</string>
   <string name="voucher_edit_hint">Wachtwoord:</string>
   <string name="voucher_edit_limit">Aanpas limiet</string>
   <string name="voucher_error_code">Er heeft zich een fout voorgedaan met uw MiCredit voucher code</string>
   <string name="voucher_input_password_prompt">Wachtwoord invoeren</string>
+  <string name="wipe_data_dialog_msg">%s is niet gesynchroniseerd (deze gegevens zullen verloren gaan als u doorgaat).</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">"Sommige items zijn niet gesynchroniseerd."</string>
+  <string name="wrong_captcha">Ongeldige captcha code</string>
+  <string name="wrong_vcode">Ongeldige Vcode</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr" />
 </resources>

@@ -38,6 +38,7 @@
   <string name="add_xiaomi_account_warning">U moet eerst me uw Xiaomi account inloggen</string>
   <string name="added_to_bookmarks">Toegevoegd aan bladwijzers.</string>
   <string name="allow">Toestaan</string>
+  <string name="already_in_top_level">Bladwijzer is al op het hoogste niveau</string>
   <string name="app_new_version">U heeft al de laatste versie gedownload</string>
   <string name="app_update_install">Nieuwe versie gedownload en is klaar voor installatie</string> 
   <string name="application_name">Browser</string>
@@ -149,6 +150,8 @@
   <string name="delete_bookmark_warning">"Bladwijzer '%s' verwijderen?"</string>
   <string name="delete_folder">Map verwijderen</string>
   <string name="delete_multi_bookmarks_alert_title">Weet u zeker dat u deze %1$s items wilt wissen?</string>
+  <string name="dialog_geolocation_reject">Locatie verbergen</string>
+  <string name="dialog_geolocation_share">Locatie delen</string>
   <string name="disable_autofill">Automatisch aanvullen uitschakelen</string>
   <string name="disk_space_available">%1$s beschikbaar</string>
   <string name="disk_space_selected">%1$s geselecteerd</string>
@@ -593,6 +596,19 @@
   <string name="username">Naam</string>
   <string name="view_certificate">Certificaat weergeven</string>
   <string name="warning">Waarschuwing</string>
+  <string name="webapp_add_to_desktop">Toevoegen aan startscherm</string>
+  <string name="webapp_addtodeskpop_append">App toegevoegd aan startscherm</string>
+  <string name="webapp_app_name">MiMarket Webwinkel</string>
+  <string name="webapp_bottom_bar_addtodesk">Toevoegen aan startscherm</string>
+  <string name="webapp_bottom_bar_already_addtodesk">Al toegvoegd aan startscherm</string>
+  <string name="webapp_bottom_bar_exit">Afsluiten</string>
+  <string name="webapp_bottom_bar_hidebar">Navigatiebalk verbergen</string>
+  <string name="webapp_bottom_bar_openbrowser">Openen in Browser</string>
+  <string name="webapp_bottom_bar_showbar">Navigatiebalk weergeven</string>
+  <string name="webapp_dialog_title">App tovoegen aan startscherm</string>
+  <string name="webapp_splashview_loading">Laden, een moment geduld...</string>
+  <string name="webapp_web_forward">Vooruit</string>
+  <string name="webapp_web_goback">Terug</string>
   <string name="website_settings_clear_all">Alles wissen</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Annuleren</string>
   <string name="website_settings_clear_all_dialog_message">Alle websitegegevens en locatierechten verwijderen?</string>

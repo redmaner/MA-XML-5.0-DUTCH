@@ -86,6 +86,7 @@
     <string name="auto_ip_support_local_numbers">Ondersteun lokale nummers</string>
     <string name="auto_record_call_summary_miui">Start met opnemen terwijl er wordt verbonden en opslaan in map MIUI/sound_recorder/call_rec van de SD-kaart</string>
     <string name="auto_record_call_title_miui">Automatisch Opnemen</string>
+    <string name="auto_record_unknown_miui">Onbekende nummers</string>
     <string name="auto_record_scenario_enteries_always_miui">Auto opnemen voor alle nummers</string>
     <string name="auto_record_scenario_enteries_whitelist_miui">Auto opnemen voor gekozen nummers</string>
     <string name="auto_record_scenario_title_miui">Auto opnemen modus</string>
@@ -93,6 +94,7 @@
     <string name="auto_record_whitelist_no_item_miui">Raak de onderstaande knop om auto opnemen nummers toe te voegen</string>
     <string name="auto_record_whitelist_summary_for_one_miui">1</string>
     <string name="auto_record_whitelist_summary_miui">%d nummers</string>
+    <string name="auto_record_yellowpage_miui">Yellow pages</string>
     <string name="auto_redial_pref_summary_miui">Nummer automatisch herkiezen als de lijn bezet is</string>
     <string name="auto_redial_pref_title_miui">Automatisch herkiezen</string>
     <string name="auto_retry_mode_summary">Inschakelen Automatisch opnieuw proberen modus</string>
