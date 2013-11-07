@@ -454,6 +454,7 @@ Probeer het opnieuw over %d seconden."</string>
   <string name="the_mid_autumn_festival" />
   <string name="the_rains" />
   <string name="the_spring_festival" />
+  <string name="toast_lockscreen_glogin_empty_password">Wachtwoord is vereist.</string>
   <string name="today">Vandaag</string>
   <string name="tomorrow">Morgen</string>
   <string name="tw_childrens_day"/>

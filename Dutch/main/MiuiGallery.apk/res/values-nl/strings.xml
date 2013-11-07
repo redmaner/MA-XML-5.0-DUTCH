@@ -84,6 +84,7 @@
   <string name="clear_thumbnail_cache_confirm">Thumbnail cache zal worden gewist. Galerij zal media bestanden opnieuw scannen en thumbnails opnieuw genereren.</string>
   <string name="clear_thumbnail_cache_summary">Bladeren door Galerij zal thumbnails genereren. Cache wissen maakt ruimte vrij.</string>
   <string name="click_to_enter_camera">Open camera</string>
+  <string name="click_top_right">Klik op het icoon rechts boven</string>
   <string name="close">Sluiten</string>
   <string name="cloud_album_more_settings">Cloud album instellingen</string>
   <string name="cloud_album_set_create">Nieuw</string>

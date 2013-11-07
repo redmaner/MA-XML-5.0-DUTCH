@@ -50,6 +50,9 @@
   <string name="always_use_accessory">Standaard gebruiken voor dit USB-accessoire</string>
   <string name="always_use_device">Standaard gebruiken voor dit USB-apparaat</string>
   <string name="app_label">System UI</string>
+  <string name="audio_effect_custom">Audio configureren</string>
+  <string name="audio_effect_info">Audio optimalizeren</string>
+  <string name="audio_effect_settings">Selecteer koptelefoon type</string>
   <string name="battery_low_percent_format">%d%% resterend</string>
   <string name="battery_low_subtitle">De batterij raakt leeg.</string>
   <string name="battery_low_title">Sluit de oplader aan</string>

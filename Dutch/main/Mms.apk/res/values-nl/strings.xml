@@ -161,6 +161,7 @@
   <string name="insufficient_drm_rights">Onvoldoende DRM-rechten gedetecteerd.</string>
   <string name="invalid_conversation">Ongdelige conversatie</string> 
   <string name="invalid_destination">Ongeldig adres van bestemming.</string>
+  <string name="invalid_private_contact">Ongeldig privé contact</string>
   <string name="invalid_recipient_message">Corrigeer de ontvangers, anders ontvangen ze het bericht niet.</string>
   <string name="kilobyte">kB</string>
   <string name="layout_selector_title">"Lay-out van diavoorstelling "</string>

@@ -298,6 +298,15 @@
   <string name="move_to_up_folder">Ga naar bovenliggende map</string>
   <string name="multi_select_title">Geselecteerd %1$s item(s)</string>
   <string name="name">Label</string>
+  <string name="navigation_button_close">Sluiten</string>
+  <string name="navigation_button_newtab">Nieuw</string>
+  <string name="navigation_button_tab">Tab</string>
+  <string name="navigation_button_view">Bekijken</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">Wi-Fi verbinding gevonden, wilt u verbinden?</string>
+  <string name="network_show_wifi_setting_tip_dialog_notshow">Opslaan</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Wi-Fi netwerk beschikbaar</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_title">Als u mobiele data gebruikt om verbinding te maken met internet, dan zal MIUI uw melden als er een Wi-Fi verbinding beschikbaar is</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Lokale Wi-Fi verbinding beschikbaar</string>
   <string name="new_folder">Nieuwe map</string>
   <string name="new_incognito_tab">Nieuw incognitotabblad</string>
   <string name="new_tab">Nieuw tabblad</string>
@@ -454,7 +463,7 @@
   <string name="pref_reading_mode_enabled_title">Lees modus</string>
   <string name="pref_reading_mode_enabled_title_summary">JavaScript benodigd</string>
   <string name="pref_save_bandwidth_mode_summary">Wanneer ingeschakeld, browser zal mobiele netwerk niet gebruiken om pagina\'s of afbeeldingen automatisch te preloaden.</string>
- <string name="pref_save_bandwidth_mode_title">Mobiele data gebruik</string> 
+  <string name="pref_save_bandwidth_mode_title">Mobiele data gebruik</string> 
   <string name="pref_security_accept_cookies">Cookies accepteren</string>
   <string name="pref_security_accept_cookies_summary">Sites toestaan cookiegegevens op te slaan en te lezen</string>
   <string name="pref_security_passwords_title">Wachtwoorden</string>

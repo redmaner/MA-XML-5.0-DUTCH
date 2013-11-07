@@ -714,6 +714,7 @@ This setting affects all users on this phone."</string>
   <string name="device_memory">RAM:</string>
   <string name="device_miui_version">MIUI Versie:</string>
   <string name="device_name">Apparaat naam</string>
+  <string name="device_name_input_error">Apparaat naam opslaan mislukt, probeer het opnieuw</string>
   <string name="device_name_input_hint">Voer uw apparaat naam in</string>
   <string name="device_name_usage_point">Toestaan apparaat zichtbaar te maken voor andere Bluetooth apparaten voor bestandsoverdracht en andere functies.</string>
   <string name="device_picker">Bluetooth-apparaatkiezer</string>
@@ -1311,6 +1312,8 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="nsd_quick_toggle_title">Netwerkservicedetectie</string>
   <string name="oem_radio_info_label">OEM-specifieke gegevens/instellingen</string>
   <string name="onscreen_keyboard_settings_summary">Instellingen voor schermtoetsenbord</string>
+  <string name="open_wifi_connect_summary">Klik om te beheren</string>
+  <string name="open_wifi_connect_title">Verbinden om netwerk te openen %1$s</string>
   <string name="other_relative">Andere machtigingen</string>
   <string name="overlay_display_devices_title">Simuleer secudaire schermen</string>
   <string name="owner_info_settings_edit_text_hint">Typ tekst voor weergave op vergrendeld scherm</string>
