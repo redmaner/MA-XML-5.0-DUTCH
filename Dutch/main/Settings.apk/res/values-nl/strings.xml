@@ -1315,7 +1315,7 @@ Attentie: Dit kan niet ongedaan gemaakt worden</string>
   <string name="memory_size">Totale ruimte</string>
   <string name="memory_title">Available %1$s\u0009\u0009Total %2$s</string>
   <string name="menu_cancel">Weggooien</string>
-  <string name="menu_delete">APN verwijderen</string
+  <string name="menu_delete">APN verwijderen</string>
   <string name="menu_edit">Edit</string>
   <string name="menu_item_about_content">Security: %s</string>
   <string name="menu_item_about_title">About</string>
@@ -1415,7 +1415,6 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="opt_cancel_desc">Cancel</string>
   <string name="opt_clean_garbage">Cleared %d MB</string>
   <string name="opt_disabled_autorun">Disabled %d startup programs</string>
-  <string name="multi_touch_points_preference">Herstart voor activatie</string>
   <string name="opt_done_desc">Complete</string>
   <string name="opt_freed_ram">Free %dMBs of memory</string>
   <string name="opt_garbage_size">Garbage size：</string>
