@@ -2610,8 +2610,8 @@ Pogingen Resterende :"</string>
   <string name="virus_scanner_auto_update">Automatische update</string>
   <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
   <string name="virus_scanner_lib_already_latest">Virus database is actueel</string>
-  <string name="virus_scanner_lib_update_failed">Update failed.</string>
-  <string name="virus_scanner_lib_update_failed">Virus database bijwerken mislukt!</string>
+  <string name="virus_scanner_lib_update_failed">Bijwerken mislukt.</string>
+  <string name="virus_scanner_lib_update_success">Virus definities zijn automatisch bijgewerkt. ^_^</string>
   <string name="virus_scanner_lib_updating">Bijwerken database...</string>
   <string name="virus_scanner_manual_update">Handmatig bijwerken</string>
   <string name="virus_scanner_module">Tencent</string>
