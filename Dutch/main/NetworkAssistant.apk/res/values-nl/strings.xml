@@ -93,6 +93,11 @@
   <string name="mobile_traffic">2G/3G: %s</string>
   <string name="mobile_type">2G/3G</string>
   <string name="month_traffic_settings_title">Verbruik Instellingen</string>
+  <string name="network_control_service_notification_text">Open netwerk beheer</string>
+  <string name="network_control_service_notification_title_mutiple">%1$d apps zijn geweigerd voor %2$s verbinding</string>
+  <string name="network_control_service_notification_title_nettype_mobile">mobiel</string>
+  <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
+  <string name="network_control_service_notification_title_single">%1$s is geweigerd voor %2$s verbinding</string>
   <string name="notify_carrier_settings_title">U heeft uw provider nog niet geconfigureerd. Nu configureren?</string>
   <string name="notify_traffic_settings_cancel_hint">Notificaties en verbruik bewaking zullen worden uigeschakeld. Nu sluiten?</string>
   <string name="notify_traffic_settings_title">U heeft uw data-abonnement nog niet geconfigureerd. Nu configureren?</string>
@@ -108,6 +113,8 @@
   <string name="pref_connect_settings_enable_backgroung_hint">Automatisch verbinden met netwerk toestaan wanneer app draait in de achtergrond</string>
   <string name="pref_connect_settings_exceed_limit">Data uitschakelen</string>
   <string name="pref_connect_settings_exceed_limit_hint">Waarschuw en verbreek Internet wanneer maandelijks verbruikslimiet is overschreden</string>
+  <string name="pref_connect_settings_monitor_running_app">Netwerk geweigerd app weergeven</string>
+  <string name="pref_connect_settings_monitor_running_app_summary">Notificatie weergeven wanneer netwerk geweigerd app draait</string>
   <string name="pref_connect_settings_notify_in_statusbar">Weergeven in notificate balk</string>
   <string name="pref_connect_settings_title">Netwerk bewaking Instellingen</string>
   <string name="pref_network_speed_internal_title">Netwerk snelheid interval</string>
@@ -119,6 +126,7 @@
   <string name="pref_traffic_settings">Verbruik Instellingen</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="retry">Probeer opnieuw</string>
+  <string name="running_apps_activity_title">Draaiende Apps</string>
   <string name="save">Opslaan</string>
   <string name="settings_page_adjust_summary_no_carrier">Provider niet ingesteld, automatisch aanpassen uit</string>
   <string name="settings_page_traffic_summary">Beschikbaar: %1$s, Waarschuwing: %2$s, Facturering sinds %3$d</string>

@@ -73,4 +73,8 @@
    <string name="unknown_apps_dlg_title">De installatie is geblokkeerd</string>
    <string name="unknown">Onbekend</string>
    <string name="unknown_installer">Onbekende installer</string>
+   <string name="virus_scan_clear">Verwijderen</string>
+   <string name="virus_scan_install">" "&lt;u&gt;&amp;#32487;&amp;#32493;&amp;#23433;&amp;#35013;&lt;/u&gt;" "</string>
+   <string name="virus_scan_is_risk">Deze app bevat een risico!</string>
+   <string name="virus_scan_is_virus">Deze app bevat een virus, verwijder de app meteen!</string>
 </resources>

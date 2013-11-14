@@ -19,34 +19,10 @@
   <string name="access_control_recording_intro_header">Teken patroon om toegang te beperken tot wachtwoorden</string>
   <string name="access_control_reset_by_account">Login Xiaomi account to reset access control password</string>
   <string name="accessibility_enable">Toegankelijkheid inschakelen</string>
-  <string name="accessibility_feature_state_off">Uit</string>
-  <string name="accessibility_feature_state_on">Aan</string>
-  <string name="accessibility_global_gesture_preference_description">"Wanneer deze functie is ingeschakeld, kunt u toegankelijkeids functies snel inschakelen in twee stappen:
-
-Stap 1: Druk en houdt de aan/uit knop in tot u een geluid hoort of een trilling voelt.
-
-Stap 2: Druk en houdt twee vingers totdat u een audio bevestiging hoort.
-
-Als het toestel meerdere gebruikers heeft, het gebruik van deze snelkoppeling op de schermvergrendeling schakelt toegankelijkheid in totdat het toestel wordt ontgrendeld."</string>
-  <string name="accessibility_global_gesture_preference_summary_off">Uit</string>
-  <string name="accessibility_global_gesture_preference_summary_on">Aan</string>
-  <string name="accessibility_global_gesture_preference_title">Toegankelijkheids snelkoppeling</string>
   <string name="accessibility_long_press_timeout_preference_title">Vertraging voor blijven aanraken</string>
   <string name="accessibility_menu_item_settings">Instellingen</string>
   <string name="accessibility_no_services_installed">Geen services geïnstalleerd</string>
-  <string name="accessibility_power_button_ends_call_prerefence_title">Aan/uit-knop beëindigt oproep</string>
   <string name="accessibility_power_button_ends_call_title">Aan/uit-knop beëindigt oproep</string>
-  <string name="accessibility_screen_magnification_summary">"Wanneer deze functie is ingeschakeld, kunt u in- en uitzoomen door drie keer op het scherm te tikken.
-
-Als u ben ingezoomd, kunt u:
-While zoomed in, you can:
-"&lt;ul&gt;&lt;li&gt;"Pannen: Sleep twee of meer vingers over het scherm.
-"&lt;li&gt;Zoom niveau aanpassen: Knijp twee of meer vingers samen of spreidt ze uit.&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;"
-
-U kunt tijdelijk dingen onder uw vinger vergroten door drie keer te tikken en vast te houden. Als het vergroot is, kunt u uw vinger slepen om verschillende onderdelen van het scherm te onderzoeken. Laat het scherm los om terug te keren naar de normale status.
-
-Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbord en de navigatiebalk."</string>
-  <string name="accessibility_screen_magnification_title">Vergroot gebaren</string>
   <string name="accessibility_script_injection_allowed">Toegestaan</string>
   <string name="accessibility_script_injection_button_allow">Toestaan</string>
   <string name="accessibility_script_injection_button_disallow">Niet toestaan</string>
@@ -71,23 +47,42 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="accessibility_sync_error">Synchronisatiefout.</string>
   <string name="accessibility_system_title">Systeem</string>
   <string name="accessibility_toggle_large_text_preference_title">Grote tekst</string>
-  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Update scherm vergroting bij app overgangen</string>
-  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto update scherm vergroting</string>
-  <string name="accessibility_toggle_screen_magnification_preference_title">Scherm vergroten</string>
-  <string name="accessibility_toggle_script_injection_preference_title">Verbeter webtoegang</string>
-  <string name="accessibility_toggle_speak_password_preference_title">Spreek wachtwoorden</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Synchroniseren</string>
+  <string name="act_action_accept_accept">Toepassen</string>
+  <string name="act_action_accept_mute">Berichten dempen</string>
+  <string name="act_action_accept_reject">Divert messages</string>
+  <string name="act_action_mute_accept">Silence incoming calls</string>
+  <string name="act_action_mute_mute">Silence incoming calls and messages</string>
+  <string name="act_action_mute_reject">Silence incoming calls and divert messages</string>
+  <string name="act_action_reject_accept">Divert incoming calls</string>
+  <string name="act_action_reject_mute">Divert incoming calls and mute messages</string>
+  <string name="act_action_reject_reject">Divert incoming calls and messages</string>
+  <string name="act_call">Divert calls immediately</string>
+  <string name="act_del_ms">"Don't display"</string>
+  <string name="act_del_ms_summary">Rejected messages will not be displayed</string>
+  <string name="act_hangup_call">"Don't log diverted calls"</string>
+  <string name="act_hangup_call_summary">Diverted calls will not appear in your call log</string>
+  <string name="act_ignore_call">"Don't log unwanted calls"</string>
+  <string name="act_ignore_ms">Ignore notifications</string>
+  <string name="act_ms">Log messages</string>
+  <string name="act_mute_call">Mute unwanted calls</string>
+  <string name="act_mute_call_summary">Incoming calls from blocked numbers will not displayed but will still be logged</string>
+  <string name="act_mute_ms">Mute notifications</string>
+  <string name="act_mute_ms_summary">Notifications are disabled but messages will still be viewable</string>
+  <string name="action_settings">Settings</string>
   <string name="activating">Activeren...</string>
   <string name="active_device_admin_msg">Apparaatbeheerder</string>
   <string name="active_input_method_subtypes">Actieve invoermethoden</string>
-  <string name="activity_not_found">Applicatie is niet geïnstalleerd op uw telefoon.</string>
   <string name="activity_picker_label">Een activiteit kiezen</string>
   <string name="adb_warning_message">USB-foutopsporing is alleen bedoeld voor ontwikkeldoeleinden. Het kan worden gebruikt om gegevens te kopiëren tussen uw computer en uw apparaat, apps zonder melding op uw apparaat te installeren en loggegevens te lezen.</string>
   <string name="adb_warning_title">USB-foutopsporing toestaan?</string>
   <string name="add_account_label">Account toevoegen</string>
+  <string name="add_blacklist">Add to blocklist</string>
+  <string name="add_button">Add</string>
   <string name="add_device_admin">Activeren</string>
   <string name="add_device_admin_msg">Apparaatbeheerder activeren?</string>
+  <string name="add_whitelist">Add to exceptions</string>
   <string name="additional_system_update" />
   <string name="additional_system_update_menu" />
   <string name="additional_system_update_settings_list_item_title">Aanvullende systeemupdates</string>
@@ -96,7 +91,6 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="airplane_mode">Vliegmodus</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="all_volume_title">Volumes</string>
-  <string name="allow">Toestaan</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Nadat u de widget heeft gemaakt, heeft %1$s toegang tot alle gegevens die de widget weergeeft.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Widget maken en toegang toestaan?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s altijd toestaan widgets te maken en toegang tot de widgetgegevens geven</string>
@@ -112,7 +106,16 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="android_beam_tips">Wees er zeker van dat de twee apparaten elkaar raken en selecteer dan de inhoud die u wilt beamen.</string>
   <string name="android_beam_witch_label">Android Beam inschakelen</string>
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
-  <string name="antispam_quiet_mode_title">Rustmodus</string> 
+  <string name="anti_private_summary">Block private or withheld numbers</string>
+  <string name="anti_private_title">Block private numbers</string>
+  <string name="anti_spam">Blocklist</string>
+  <string name="anti_stranger_summary">Block calls from any number not listed in Contacts</string>
+  <string name="anti_stranger_title">Block calls from unknown numbers</string>
+  <string name="apk_status_damage">Corrupted</string>
+  <string name="apk_status_duplicate">Duplicate</string>
+  <string name="apk_status_install">Installed</string>
+  <string name="apk_status_installed_old">Old version</string>
+  <string name="apk_status_uninstalled">Not installed</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Verificatietype</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -153,13 +156,15 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="app_forward_locked">App is beveiligd tegen kopiëren.</string>
   <string name="app_install_location_summary">De voorkeursinstallatielocatie voor nieuwe apps wijzigen</string>
   <string name="app_install_location_title">Voorkeursinstallatielocatie</string>
+  <string name="app_log_tab_title">Permission log</string>
+  <string name="app_manage_tab_title">Applications</string>
+  <string name="app_name">Security</string>
   <string name="app_name_label">App</string>
   <string name="app_not_found_dlg_text">De app is niet gevonden in de lijst met geïnstalleerde apps.</string>
   <string name="app_not_found_dlg_title" />
   <string name="app_notifications_switch_label">Notificaties weergeven</string>
   <string name="app_process_limit_title">Achtergrondproceslimiet</string>
-  <string name="app_special_disable_dlg_text">Als u een systeem app uitschakeld, kunnen andere apps zich misdragen. Uw gegevens worden ook gewist.</string>
-  <string name="app_special_disable_dlg_title">Gegevens verwijderen en app uitschakelen?</string>
+  <string name="app_uninstall_residual">Clean up residual uninstall files?</string> 
   <string name="application_forbid_auto_startup">%s opstarten in achtergrond uitschakelen</string>  
   <string name="application_info_label">App-info</string>
   <string name="application_item_already_permission">Toegestaan</string>
@@ -173,7 +178,6 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="assisted_gps">Ondersteunde GPS gebruiken</string>
   <string name="assisted_gps_disabled">Server gebruiken ter ondersteuning van GPS (uitschakelen om GPS-prestaties te verbeteren)</string>
   <string name="assisted_gps_enabled">Server gebruiken ter ondersteuning van GPS (uitschakelen om het netwerkgebruik te beperken)</string>
-  <string name="audio_profile_settings_title">Audio profielen</string>
   <string name="audio_record_proc_title">Geluidsdemping</string>
   <string name="auto_caps">Automatisch hoofdlettergebruik</string>
   <string name="auto_caps_summary">Eerste letters in zinnen met hoofdletter</string>
@@ -186,7 +190,9 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="auto_replace">Automatisch vervangen</string>
   <string name="auto_replace_summary">Corrigeer verkeerd getypte woorden</string>
   <string name="auto_restore_summary">In een back-up opgeslagen instellingen of andere gegevens herstellen bij het opnieuw installeren van een app</string>
-  <string name="auto_restore_title">Automatisch terugzetten</string>
+  <string name="auto_restore_title">Automatisch herstellen</string>
+  <string name="auto_start_summary">%1$d apps enabled autorun</string>
+  <string name="auto_start_title">Autorun Managment</string>
   <string name="auto_startup_application_manage">App control</string>
   <string name="auto_startup_count">%d apps toestaan automatisch te starten</string>
   <string name="auto_startup_dialog_msg">"Miui zal de App toestaan automatisch te starten zonder te vragen. Wat kan leiden tot meer energie / data verbruik. Autostart toestaan?"</string>
@@ -224,9 +230,9 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="battery_desc_apps">Batterij gebruikt door app</string>
   <string name="battery_desc_bluetooth">Batterij gebruikt door Bluetooth</string>
   <string name="battery_desc_display">Batterij gebruikt door scherm en achtergrondverlichting</string>
+  <string name="battery_desc_other_apps">Total power used by other apps</string>
   <string name="battery_desc_radio">Batterij gebruikt door radio</string>
   <string name="battery_desc_standby">Batterij gebruikt wanneer telefoon inactief is</string>
-  <string name="battery_desc_users">Batterij gebruikt door gebruiker</string>
   <string name="battery_desc_voice">Batterij gebruikt door spraakoproepen</string>
   <string name="battery_desc_wifi">Batterij gebruikt door Wi-Fi</string>
   <string name="battery_history_days">%1$dd %2$du %3$dm %4$ds</string>
@@ -252,13 +258,11 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="battery_info_power_unknown">Onbekend</string>
   <string name="battery_info_power_unplugged">Niet aangesloten</string>
   <string name="battery_info_power_usb">USB</string>
-  <string name="battery_info_power_wireless">draadloos</string>
   <string name="battery_info_scale_label">Batterijschaal:</string>
   <string name="battery_info_screen_on">Tijd scherm AAN:</string>
   <string name="battery_info_status_charging">Opladen</string>
   <string name="battery_info_status_charging_ac">(AC)</string>
   <string name="battery_info_status_charging_usb">(USB)</string>
-  <string name="battery_info_status_charging_wireless">(draadloos)</string>
   <string name="battery_info_status_discharging">Ontladen</string>
   <string name="battery_info_status_full">Volledig</string>
   <string name="battery_info_status_label">Batterijstatus:</string>
@@ -297,6 +301,8 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="biometric_weak_improve_matching_title">Gezichtsvergelijking verbeteren</string>
   <string name="biometric_weak_liveliness_summary">Ogen knipperen vereist bij ontgrendelen</string>
   <string name="biometric_weak_liveliness_title">Liveness-controle</string>
+  <string name="black_white_list_tab_title">Filters</string>
+  <string name="blacklist_tab_title">Blocklist</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Verbonden met audio van medium</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Gebruiken voor audio van medium</string>
@@ -308,7 +314,8 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="bluetooth_ask_lasting_discovery">Een app op uw telefoon wil uw telefoon altijd vindbaar maken voor andere Bluetooth-apparaten. Wilt u dit toestaan?</string>
   <string name="bluetooth_auto_connect">Automatisch verbinding maken</string>
   <string name="bluetooth_confirm_passkey_msg">Koppelen met:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Zorg ervoor dat de volgende toegangscode wordt vermeld:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
-  <string name="bluetooth_connected">Verbonden</string>
+  <string name="bluetooth_connect_specific_profiles_title">Connect to…</string>
+  <string name="bluetooth_connected">Verbonden</strin
   <string name="bluetooth_connected_no_a2dp">Gekoppeld (geen media)</string>
   <string name="bluetooth_connected_no_headset">Gekoppeld (geen telefoon)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Gekoppeld (geen telefoon of media)</string>
@@ -317,7 +324,7 @@ Notitie: Drie keer tikken om te vergroten werkt overal behalve op het toetsenbor
   <string name="bluetooth_connection_dialog_text">"Wilt u verbinding maken met '%1$s'?"</string>
   <string name="bluetooth_connection_notif_message">"Raak aan om verbinding te maken met '%1$s'."</string>
   <string name="bluetooth_connection_permission_request">Bluetooth-verbindingsverzoek</string>
-  <string name="bluetooth_connect_specific_profiles_title">Verbinding maken met...</string>
+  <string name="bluetooth_device">Unnamed Bluetooth device</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Ink. bestandsoverdr. toestaan</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Verbinden met Bluetooth-apparaat</string>
   <string name="bluetooth_device_advanced_online_mode_title">Verbinden</string>
@@ -2564,6 +2571,7 @@ Telefoon setup kan significante netwerk activiteit vereisen."</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Voer de WAPI gebruikers certificaat naam in</string>
   <string name="wifi_wapi_cert_uninstall_button">Verwijder</string>
   <string name="wifi_wapi_cert_uninstall">Deïnstalleer WAPI Certificaat</string>
+  <string name="wifi_wapi_certification_dont_exist">The network password you entered is not correct. Please try again.</string>
   <string name="wifi_wapi_user_cert">WAPI gebruiker Certificaat</string>
   <string name="wifi_wps_available_first_item">Beveiligd netwerk beschikbaar</string>
   <string name="wifi_wps_available_second_item">" (beveiligd netwerk beschikbaar)"</string>
@@ -2584,10 +2592,13 @@ Telefoon setup kan significante netwerk activiteit vereisen."</string>
   <string name="wimax_settings_summary">&amp; instellen beheer 4G netwerk en modem</string>
   <string name="window_animation_scale_title">Venster animatie schaal</string>
   <string name="wireless_networks_settings_title">Draadloze &amp; netwerken</string>
+  <string name="work_done">Done</string>
   <string name="wps_category">WPS Beveiliging</string>
   <string name="wps_connect_summary">Wees er zeker van dat uw router WPS ondersteund</string>
   <string name="wps_connect_title">Verbind met WPS</string>
   <string name="xiaomi_account">Xiaomi Account</string>
+  <string name="xiaomi_cloud_service">MiCloud</string>
+  <string name="xiaomi_money_service">MiCredit center</string>
   <string name="yes">Ja</string>
   <string name="zone_auto">Automatische tijdzone</string>
   <string name="zone_auto_summaryOff">Netwerktijdzone gebruiken</string>

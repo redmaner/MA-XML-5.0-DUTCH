@@ -68,6 +68,7 @@
   <string name="internal_build">Interne versie</string>
   <string name="kernel_upgrade_link"/>
   <string name="kernel_upgrade_version"/>
+  <string name="later">Later herstarten</string>
   <string name="loading">Opvragen</string>
   <string name="md5_check_cancelled">MD5 controle geannuleerd</string>
   <string name="mione_update_fail_description">Update opnieuw</string>
@@ -96,6 +97,7 @@
   <string name="no_updates_warning">Er zijn geen updates gevonden voor uw telefoon</string>
   <string name="no_updates_warning2">De applicatie zal uw waarschuwen bij toekomstige updates</string>
   <string name="not_recommend">Niet aanbevelen</string>
+  <string name="now">Nu herstarten</string>
   <string name="paused_queued_for_network">Wachten op netwerk verbinding</string>
   <string name="paused_queued_for_wifi">Wachten op Wi-Fi verbinding</string>
   <string name="previous">Vorige</string>

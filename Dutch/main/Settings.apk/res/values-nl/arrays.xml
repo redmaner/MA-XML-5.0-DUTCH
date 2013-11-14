@@ -44,6 +44,13 @@
         <item>1 uur</item>
         <item>Geen time-out</item>
     </string-array>
+    <string-array name="screen_key_long_press_action">
+       <item>Geen</item>
+       <item>Open Recent paneel</item>
+       <item>Open Voice assist</item>
+       <item>Open Google now</item>
+       <item>Sluit huidige app</item>
+    </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nooit</item>
         <item>15 seconden</item>
