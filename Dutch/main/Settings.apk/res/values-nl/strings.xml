@@ -2111,10 +2111,8 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="security_passwords_title">Wachtwoorden</string>
   <string name="security_privacy_settings_title">Beveiliging &amp; privacy</string>
   <string name="security_relative">Veiligheid gerelateerd</string>
-  <string name="security_settings_billing_desc">Deze app kan kosten in rekening brengen:</string>
   <string name="security_settings_desc">Deze app heeft toegang tot de volgende opties van uw telefoon:</string>
   <string name="security_settings_desc_multi">Deze app heeft toegang tot het volgende op uw telefoon. Om de prestaties te verbeteren en geheugen gebruik te verlagen, heeft %1$s toegang tot dezelfde rechten omdat deze in hetzelfde proces draaien als %2$s:</string>
-  <string name="security_settings_premium_sms_desc">Verzend premium SMS</string>
   <string name="security_settings_summary">"Mijn locatie', schermontgrendeling, simkaart- en referentieopslagvergrendeling instellen"</string>
   <string name="security_settings_title">Beveiliging</string>
   <string name="sel_sub_summary">Selecteer het Abonnement voor SUB-1 en SUB-2</string>
@@ -2122,10 +2120,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="select_all">Alles selecteren</string>
   <string name="select_application">Selecteer applicatie</string>
   <string name="select_device_admin_msg">Apparaatbeheerders</string>
-  <string name="selinux_status">SELinux status</string>
-  <string name="selinux_status_disabled">Uitgeschakeld</string>
-  <string name="selinux_status_enforcing">Handhaving</string>
-  <string name="selinux_status_permissive">Toegeeflijk</string>
+  <string name="select_subscription">Select Subscription</string>
   <string name="service_background_processes">%1$s vrij</string>
   <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s gebruikt</string>
@@ -2155,22 +2150,19 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="settings_safetylegal_activity_unreachable">U heeft geen gegevensverbinding. Als u deze informatie nu wilt weergeven, gaat u op een computer met internetverbinding naar %s.</string>
   <string name="settings_safetylegal_title">Veiligheidsinformatie</string>
   <string name="settings_shortcut">Snelkoppeling voor instellingen</string>
+  <string name="seventy">70</string>
   <string name="show_all_anrs">"Alle ANR's weergeven"</string>
   <string name="show_all_anrs_summary">"'App reageert niet' weerg. voor apps op achtergr."</string>
   <string name="show_background_processes">Gecachte processen weerg.</string>
   <string name="show_cpu_usage">CPU-gebruik weergeven</string>
   <string name="show_cpu_usage_summary">Schermoverlay met huidig CPU-gebruik</string>
-  <string name="show_dev_already">Niet nodig, u bent al een ontwikkelaar.</string>
-  <string name="show_dev_on">U bent nu een ontwikkelaar!</string>
   <string name="show_fc">"Toon FC's"</string>
   <string name="show_fc_summary">Toon geforceerd-sluiten dialoog voor apps</string>
-  <string name="show_hw_layers_updates">Toon hardware lagen updates</string>
-  <string name="show_hw_layers_updates_summary">Flash hardware lagen groen als ze updaten</string>
-  <string name="show_hw_overdraw">Toon GPU overdrijven</string>
-  <string name="show_hw_overdraw_summary">Van beter naar slecht: blauw, groen, licht rood, rood</string>
+  <string name="show_firewall_notification">Show block notifications</string>
   <string name="show_hw_screen_updates">Toon GPU weergave updates</string>
   <string name="show_hw_screen_updates_summary">Flash weergaven in windows wanneer deze met de GPU getekend zijn</string>
   <string name="show_magnifier_when_input">Toon vergrootglas</string>
+  <string name="show_notification">Show notifications</string>
   <string name="show_owner_info_on_lockscreen_label">Eigenaarsgegevens weergeven op vergrendeld scherm</string>
   <string name="show_password">Wachtwoorden zichtbaar maken</string>
   <string name="show_password_summary"/>
@@ -2180,7 +2172,6 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="show_screen_updates_summary">Laat schermdelen knipperen als ze zijn bijgewerkt</string>
   <string name="show_touches">Aanraakbewerkingen weergeven</string>
   <string name="show_touches_summary">Visuele feedback voor aanraakbewerkingen weergeven</string>
-  <string name="show_user_info_on_lockscreen_label">Toon gebruikers info op vergrendelscherm</string>
   <string name="silent_mode_title">Stille modus</string>
   <string name="sim_absent">Geen sim/RUIM</string>
   <string name="sim_bad_pin">Onjuiste pincode</string>
@@ -2221,6 +2212,7 @@ Pogingen Resterende :"</string>
   <string name="skip_step">Sla deze stap over</string>
   <string name="slot_status_title">IMEI informatie</string>
   <string name="small_font">Klein</string>
+  <string name="smart_antispam">Identify unknown numbers</string>
   <string name="sms_delivered_sound_dialog_title">Kies SMS verzonden geluid</string>
   <string name="sms_delivered_sound_title">SMS verzonden geluid</string>
   <string name="sms_over_ims_off">Sms via IMS uitschakelen</string>
@@ -2243,6 +2235,12 @@ Pogingen Resterende :"</string>
   <string name="spellchecker_security_warning">Deze spellingcontrole verzamelt mogelijk alle tekst die u typt, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. De service is afkomstig uit de app %1$s. Wilt u deze spellingcontrole gebruiken?</string>
   <string name="spellcheckers_settings_title">Spellingcontrole</string>
   <string name="ssid_label">SSID:</string>
+  <string name="start_checking_memory">Checking memory condition...</string>
+  <string name="start_checking_protection">Checking realtime protection...</string>
+  <string name="start_checking_trash">Checking application cache...</string>
+  <string name="start_optimize_memory">Optimizing memory condition...</string>
+  <string name="start_optimize_protection">Optimizing realtime protection...</string>
+  <string name="start_optimize_trash">Optimizing application cache...</string>
   <string name="status_awake_time">Stand-bytijd</string>
   <string name="status_bar_settings">Statusbalk</string>
   <string name="status_bt_address">Bluetooth-adres</string>
@@ -2251,7 +2249,6 @@ Pogingen Resterende :"</string>
   <string name="status_icc_id">ICCID</string>
   <string name="status_imei">IMEI</string>
   <string name="status_imei_sv">IMEI SV</string>
-  <string name="status_latest_area_info">Provider info</string>
   <string name="status_meid_number">MEID</string>
   <string name="status_min_number">MIN</string>
   <string name="status_msid_number">MSID</string>
@@ -2272,10 +2269,11 @@ Pogingen Resterende :"</string>
   <string name="storage_low_summary">Sommige systeem functies, zoals synchroniseren, werken mogelijk niet correct. Probeer ruimte vrij te maken door apps, data of media te verwijderen.</string>
   <string name="storage_low_title">Opslagruimte is aan het opraken</string>
   <string name="storage_menu_usb">USB-computerverbinding</string>
-  <string name="storage_other_users">Andere gebruikers</string>
   <string name="storage_settings">Opslagruimte</string>
   <string name="storage_settings_summary">SD-kaart ontkoppelen, beschikbare opslagruimte weergeven</string>
   <string name="storage_settings_title">Instellingen voor opslag</string>
+  <string name="storage_size_content">%1$s Used | %2$s Available</string>
+  <string name="storage_size_title">Storage</string>
   <string name="storage_title_usb">USB-computerverbinding</string>
   <string name="storageuse_settings_summary">Gebruikte opslagruimte voor apps weergeven</string>
   <string name="storageuse_settings_title">Opslaggebruik</string>
@@ -2287,6 +2285,12 @@ Pogingen Resterende :"</string>
   <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Een mobiele provider kiezen</string>
   <string name="summary_font_size">%1$s</string>
+  <string name="summary_install_virus">Check apps for viruses before installation</string>
+  <string name="summary_mms">Filter unwanted messages (sales, ads, etc.)</string>
+  <string name="summary_permission">Protect my privacy from third-party apps</string>
+  <string name="summary_usb">Avoid viruses spreading via USB connection</string>
+  <string name="summary_virus">Found %2$d viruses</string>
+  <string name="summary_virus_update">Update virus definitions automatically when connected to Wi-Fi</string>
   <string name="supplicant_state_label">Supplicant State:</string>
   <string name="sync_active">Sync actief</string>
   <string name="sync_automatically">Appgegevens automatisch synchr.</string>
@@ -2310,6 +2314,7 @@ Pogingen Resterende :"</string>
   <string name="sync_wifi_label">Wi-Fi Synchronisatie instellingen</string>
   <string name="sync_wifi_only">Alleen Wi-Fi</string>
   <string name="system">Systeem</string>
+  <string name="system_cache_title">Systeem cache</string>
   <string name="system_package">Systeemupdates kunnen niet worden geïnstalleerd op externe media.</string>
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Systeemupdates</string>
@@ -2329,8 +2334,27 @@ Pogingen Resterende :"</string>
   <string name="time_picker_title">Tijd</string>
   <string name="time_zone_auto_stub">Selecteer Tijdzone</string>
   <string name="timezone_settings">TijdZone</string>
+  <string name="title_app_update_no">%d apps have updates</string>
+  <string name="title_app_update_yes">All apps up to date</string>
+  <string name="title_data_flow_no">Data usage monitor off</string>
+  <string name="title_data_flow_yes">Data usage monitor on</string>
   <string name="title_dolby_control">Dolby controle</string>
   <string name="title_font_size">Lettergrootte</string>
+  <string name="title_install_virus_no">Install monitor off</string>
+  <string name="title_install_virus_yes">Install monitor on</string>
+  <string name="title_miui_update_no">Found MIUI update: %s</string>
+  <string name="title_miui_update_yes">MIUI is up to date</string>
+  <string name="title_mms_no">Message filter disabled</string>
+  <string name="title_mms_yes">Message filter enabled</string>
+  <string name="title_permission_no">Permission monitor off</string>
+  <string name="title_permission_yes">Permission monitor on</string>
+  <string name="title_usb_no">USB debugging on</string>
+  <string name="title_usb_yes">USB debugging off</string>
+  <string name="title_virus_no">Virus detected</string>
+  <string name="title_virus_update_no">Auto-update for virus definitions off</string>
+  <string name="title_virus_update_yes">Auto-update for virus definitions on</string>
+  <string name="title_virus_yes">No viruses detected</string>
+  <string name="toast_qucik_scan_list_empty">Everything looks good, no need to clean!</string>
   <string name="total_size">%s (totaal)</string>
   <string name="total_size_label">Totaal</string>
   <string name="track_frame_time">Profiel GPU renderen</string>
@@ -2383,9 +2407,13 @@ Pogingen Resterende :"</string>
   <string name="tts_settings_changed_demo">Uw instellingen zijn gewijzigd. Dit is een voorbeeld van hoe ze klinken.</string>
   <string name="tts_settings_title">Uitvoer voor tekst-naar-spraak</string>
   <string name="turn_off_radio">Radio uitschakelen</string>
+  <string name="turn_off_security_lock">Disable screen lock</string>
   <string name="turn_on_radio">Radio inschakelen</string>
+  <string name="turn_on_smart_antispam_hint">Identify unwanted calls</string>
+  <string name="turn_on_smart_antispam_summary_off">Filter using local number database</string>
+  <string name="turn_on_smart_antispam_summary_on">Only available when connected to Wi-Fi or 3G network</string>
+  <string name="turn_on_smart_antispam_title">Identify unknown numbers</string>
   <string name="under_keyguard">Op vergrendelscherm</string>
-  <string name="uninstall_all_users_text">De-installeer voor alle gebruikers</string>
   <string name="uninstall_text">Verwijderen</string>
   <string name="unknown">Onbekend</string>
   <string name="unlock_backup_info_summary">Hoe wilt u ontgrendelen als Face Unlock niet mogelijk is?</string>
@@ -2464,24 +2492,9 @@ Pogingen Resterende :"</string>
   <string name="use_location_summary">Google toestaan uw locatie te gebruiken om zoekresultaten en andere services te verbeteren</string>
   <string name="use_location_title">Locatie en Google Zoeken</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systeemtaal gebruiken</string>
-  <string name="user_account_title">Account voor inhoud</string>
-  <string name="user_add_user_menu">Gebruiker toevoegen</string>
-  <string name="user_add_user_message_long">"U kunt dit apparaat delen met andere mensen door andere gebruikers te maken. Elke gebruiker heeft zijn eigen ruimte, deze kunnen ze zelf aanpassen met hun eigen apps, achtergrond enz. Gebruikers kunnen ook tablet instellingen aanpassen die van toepassing zijn op iedereen, zoals WI-FI.
-
-Nadat u een gebruiker heeft gemaakt, moet die persoon door een instellings proces.
-
-Elke gebruiker kan bijgewerkte app machtigingen accepteren voor alle gebruikers."</string>
-  <string name="user_add_user_message_short">"Nadat u een gebruiker heeft gemaakt, moet die persoon door een instellings proces.
-
-Elke gebruiker kan bijgewerkte app machtigingen accepteren voor alle gebruikers."</string>
-  <string name="user_add_user_title">Nieuwe gebruiker toevoegen</string>
-  <string name="user_adding_new_user">Nieuwe gebruiker toevoegen…</string>
-  <string name="user_cannot_manage_message">"Alleen de telefoon's eigenaar kan gebruikers beheren."</string>
+  <string name="user_add_user_menu">Add user</string>
   <string name="user_confirm_remove_message">"Deze gebruikers ruimte en gegevens zullen verdwijenen van deze telefoon. Deze actie kan niet ongedaan gemaakt worden."</string>
-  <string name="user_confirm_remove_self_message">"U zult u ruimte en gegevens verliezen op deze telefoon. Deze actie kan niet ongedaan gemaakt worden."</string>
-  <string name="user_confirm_remove_self_title">Uzelf verwijderen?</string>
   <string name="user_confirm_remove_title">Gebruiker verwijderen?</string>
-  <string name="user_delete_button">Verwijderen</string>
   <string name="user_details_title">Details bewerken</string>
   <string name="user_dict_multiple_settings_title">Persoonlijke woordenboeken</string>
   <string name="user_dict_settings_add_dialog_confirm">OK</string>
