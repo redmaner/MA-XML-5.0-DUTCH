@@ -1477,7 +1477,6 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_app">Apps</string>
   <string name="perm_app_name">Machtigingen</string>
   <string name="perm_app_header">Permission Manager</string>
-  <string name="perm_app_name">Permissions</string>
   <string name="perm_app_title">Manage App Permissions</string>
   <string name="perm_auto_start">Beheer App Autostart</string>
   <string name="perm_auto_start_desc">In-/uitschakelen app autostart feature</string>
