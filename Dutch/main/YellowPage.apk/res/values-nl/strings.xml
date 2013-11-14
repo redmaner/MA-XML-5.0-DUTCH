@@ -31,8 +31,11 @@
   <string name="express_inquiry">Opsporen</string>
   <string name="express_inquiry_button_text">Opsporen</string>
   <string name="express_inquiry_data_owner">Opspoor informatie verstrekt door %s</string>
+  <string name="express_inquiry_delivered">Bezorgd</string>
+  <string name="express_inquiry_history">Geschiedenis</string>
   <string name="express_inquiry_indication">Opspoor nummer</string>
   <string name="express_inquiry_logistics_indication">Koerier naam</string>
+  <string name="express_inquiry_no_history">Geen geschiedenis</string>
   <string name="express_inquiry_no_result">Geen resultaten.</string>
   <string name="express_inquiry_serial_number_indication">Tracking nummer</string>
   <string name="express_inquiry_serial_number_prefix">"Serienummer: "</string>
@@ -43,6 +46,7 @@
   <string name="mark_number_custom_dialog_maintitle">Accepteren of corrigeer de markering</string>
   <string name="mark_number_dialog_maintitle">Markeer als spam nummer en uploaden</string>
   <string name="mark_number_dialog_subtitle">Gezamenlijk ontwikkeld met Sogou</string>
+  <string name="mark_title_null_hint">Invoer mag niet leeg zijn</string>
   <string name="menu_about_yellow_page">Over deze pagina</string>
   <string name="menu_add_black_list">Aan zwartelijst toevoegen</string>
   <string name="menu_call_ip_number">IP oproep (bellen %s)</string>
@@ -74,7 +78,8 @@
   <string name="recharge_actual_price">Prijs：</string>
   <string name="recharge_charge_range">Prijs:¥%1$s-%2$s</string>
   <string name="recharge_charge_value">Prijs:¥%s</string>
-  <string name="recharge_history">Opwaarderings geschiedenis</string>
+  <string name="recharge_history">Opwaardeer geschiedenis</string>
+  <string name="recharge_history_empty">Geen opwaardeer geschiedenis</string>
   <string name="recharge_input_phone_title">Type telefoonnummer(China mobile, China Unicom, or China Telecom)</string>
   <string name="recharge_order_actual_price">¥%s</string>
   <string name="recharge_order_id">Bestellings ID：</string>

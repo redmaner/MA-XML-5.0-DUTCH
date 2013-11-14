@@ -264,6 +264,7 @@
   <string name="prefDefault_vibrate_false">nooit</string>
   <string name="prefDefault_vibrate_true">altijd</string>
   <string name="pref_advanced_settings_title">Geavanceerde instellingen</string>
+  <string name="pref_collapse_sp_messages_summary">Combineer service provider bericht in dezelfde ingang</string>
   <string name="pref_edit_smsc_address">Stel SMS berichtencentrum nummer in</string>
   <string name="pref_forward_title">Vooruit</string> 
   <string name="pref_messages_to_save">Aantal berichten instellen voor opslaan</string>
@@ -399,6 +400,10 @@
   <string name="sms_full_title">Sms-geheugen vol</string>
   <string name="sms_rejected_body">Een inkomend bericht is geweigerd wegens een onbekende reden.</string>
   <string name="sms_rejected_title">Sms geweigerd</string>
+  <string name="sp_conversation_title">Notificatie berichten</string>
+  <string name="sp_mark_as_read">Alle berichten markeren als gelezen?</string>
+  <string name="sp_mark_as_read_progress">Alle berichten markeren als gelezen..</string>
+  <string name="sp_mark_as_read_title">Alle berichten markeren als gelezen</string>
   <string name="status_failed">Mislukt</string>
   <string name="status_label">"Status: "</string>
   <string name="status_pending">In behandeling</string>
@@ -421,6 +426,7 @@
   <string name="timed_message_expired_title_2">Wilt u deze nu verzenden?</string>
   <string name="timed_message_in_total">... (%d in totaal)</string>
   <string name="timed_message_to">aan</string>
+  <string name="title_collapse_sp_messages">Combineer service provider berichten</string>
   <string name="title_date_type">Bericht tijdstempel</string>
   <string name="title_timed_message_dialog">Stel de tijd in voor dit vertraagde bericht</string>
   <string name="to_address_label">"Aan: "</string>

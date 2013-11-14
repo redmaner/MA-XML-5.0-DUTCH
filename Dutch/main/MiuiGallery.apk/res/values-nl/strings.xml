@@ -306,6 +306,7 @@ vrienden."</string>
   <string name="open_public_title">Publiekelijk delen</string>
   <string name="open_single_image_failure">Afbeelding openen mislukt!</string>
   <string name="open_sync_title">Synchronisatie benodigd</string>
+  <string name="operation_add_picture">Afbeeldingen toevoegen</string>
   <string name="operation_delete_confirm_message_folder">"Mappen en bestanden worden tegelijkertijd verwijderd.
 "</string> 
   <string name="operation_failed">Handeling mislukt!</string>
@@ -330,8 +331,14 @@ vrienden."</string>
   <string name="photoeditor_name">Foto studio</string>
   <string name="photos">"Foto('s)"</string>
   <string name="pick_too_many_recipients">Te veel ontvangers</string>
+  <string name="pick_too_much_tips">Kan niet zo veel selecteren (maximaal %d items)."</string>
+  <string name="picker_no_album_selected">Geen album geselecteerd</string>
+  <string name="picker_no_items_selected">Geen items geselecteerd</string>
+  <string name="picker_select_album_title_empty">Selecteer een album</string>
+  <string name="picker_tab_camera">Camera</string>
   <string name="posterize">Posterize</string>
   <string name="ppmm_gallery">PPMM</string>
+  <string name="preparing_data_to_delete">Afbeelings gegevens verwijderen voorbereiden.</string>
   <string name="projection">Projectie</string>
   <string name="public_url_descript">Iedereen kan toegang krijgen tot dit album met deze URL</string>
   <string name="publish_failed">Publiceren mislukt.</string>
@@ -478,7 +485,10 @@ vrienden."</string>
   <string name="unpublishing">Publiceren annuleren, een moment geduld...</string> 
   <string name="untagged">Untagged</string>
   <string name="user_alias_self">Zelf</string>
+  <string name="video_download_in_process">Video wordt gedownload, een moment geduld.</string>
+  <string name="video_download_start">Video download starten</string>
   <string name="video_err">Kan video niet afspelen.</string>
+  <string name="video_not_exist">Video bestaat niet!</string>
   <string name="view_sharers">Delers bekijken</string> 
   <string name="vignette">Vignette</string>
   <string name="wallpaper">Achtergrond</string>

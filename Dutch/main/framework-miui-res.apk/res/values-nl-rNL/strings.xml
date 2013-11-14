@@ -294,6 +294,8 @@ vergeten"</string>
   <string name="grain_buds" />
   <string name="grain_in_ear" />
   <string name="grain_rain" />
+  <string name="grant_permissions_account">Account toegang toestaan</string>
+  <string name="grant_permissions_apps">App toegang toestaan</string>
   <string name="great_cold" />
   <string name="great_heat" />
   <string name="group_name_contacts">Contacten</string>
