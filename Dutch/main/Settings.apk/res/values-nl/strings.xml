@@ -2835,7 +2835,6 @@ Pogingen Resterende :"</string>
   <string name="wifi_setup_cancel">Annuleren</string>
   <string name="wifi_setup_connect">Verbinden</string>
   <string name="wifi_setup_description_connected">Raak &lt;b&gt;Volgende&lt;/b&gt;" aan om door te gaan met de configuratie.Raak " &lt;b&gt;Terug&lt;/b&gt;aan om verbinding te maken met een ander Wi-Fi-netwerk.</string>
-
   <string name="wifi_setup_description_connecting">Verbinding maken kan enkele minuten duren...</string>
   <string name="wifi_setup_detail">Netwerkdetails</string>
   <string name="wifi_setup_eap_not_supported">"U kunt een wifi-verbinding van het type EAP niet configureren tijdens het instellen. U kunt dit na het instellen doen via 'Instellingen' &gt; 'Draadloos en netwerken'."</string>
