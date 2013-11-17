@@ -1268,9 +1268,9 @@ Attentie: Dit kan niet ongedaan gemaakt worden"</string>
   <string name="master_clear_button_text">Telefoon opnieuw instellen</string>
   <string name="master_clear_confirm_title">Opnieuw instellen?</string>
   <string name="master_clear_desc">Hiermee worden alle gegevens van uw telefoon gewist</string>
-  <string name="master_clear_desc_also_erases_external">&lt;li&gt;Muziek&lt;/li&gt;"
-"&lt;li&gt;Foto's&lt;/li&gt;"
-"&lt;li&gt;Andere gebruikersgegevens&lt;/li&gt;</string>
+  <string name="master_clear_desc_also_erases_external">"
+-Foto's
+-Andere gebruikersgegevens"</string>
   <string name="master_clear_desc_erase_external_storage">"
 
 Als u muziek, foto's en andere gebruikersgegevens wilt wissen, moet de "</string>
