@@ -1806,7 +1806,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="power_usage_history">Batterijgebruik</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
   <string name="power_usage_not_available">"Batterijgebruik gegevens zijn niet beschikbaar."</string>
-  <string name="power_usage_sort_desc">Sorteer programma's op batterijverbruik</string>
+  <string name="power_usage_sort_desc">Sorteer programma\'s op batterijverbruik</string>
   <string name="power_usage_sort_title">Bekijk batterijgebruik</string>
   <string name="power_usage_summary">Wat heeft batterij gebruikt</string>
   <string name="power_usage_summary_title">Batterij</string>
