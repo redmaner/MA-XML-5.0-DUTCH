@@ -212,6 +212,7 @@
   <string name="mx_activate_hint_malformed_info">Handeling onderbroken, reactivatie van cloudberichten is benodigd. Nu activeren?</string>
   <string name="mx_activate_hint_server">Server activatie om cloudberichten te activeren is mislukt? Nu activeren?</string>
   <string name="mx_activate_hint_sim_change">simkaart is gewijzigd, reactivatie van cloudberichten is benodigd. Nu activeren?</string>
+  <string name="mx_activate_int_popup_msg">MiBerichten staat MIUI gebruikers toe berichten te versturen naar elkaar zonder het gebruik van mobiele data.</string>
   <string name="mx_activate_int_hint_malformed_info">Verwerken verzoek mislukt. Een internationale SMS is vereist om Cloud Berichten te heractiveren. Wilt u het nu activeren?</string>
   <string name="mx_activate_int_hint_server">Activatie met server mislukt voor Cloud Berichten, een internationale SMS is vereist om Cloud Berichten te heractiveren. Wilt u het nu activeren?</string>
   <string name="mx_activate_int_hint_sim_change">Simkaart status gewijzigd. Een internationale SMS is vereist om Cloud Berichten te heractiveren. Wilt u het nu activeren?</string>
@@ -221,6 +222,7 @@
   <string name="mx_auto_resend_sms">Verzend als SMS</string>
   <string name="mx_auto_resend_sms_summary">Verzend als SMS als Cloud Berichten niet beschikbaar is. Provider berichten tarief van toepassing</string>
   <string name="mx_btn_enable">Inschakelen</string>
+  <string name="mx_btn_enable_now">MiBerichten inschakelen</string>
   <string name="mx_count_dspt">Sinds de activatie, heeft MIUI %1$d cloud bericht(en) verzonden voor u (%2$s)</string>
   <string name="mx_current_status">Huidige status: Online</string>
   <string name="mx_dspt">Verzend berichten via internet tussen MIUI, Send messages via Internet between MIUI, gebruik Provider berichten als het mislukt</string>

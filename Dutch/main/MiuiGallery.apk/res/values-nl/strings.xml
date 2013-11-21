@@ -14,6 +14,7 @@
   <string name="add_to_cloud_file_exist_message">Afbeelding bestaat al in het geselecteerde album.</string>
   <string name="add_to_cloud_file_not_exist_message">Bestand bestaat niet.</string>
   <string name="add_to_cloud_folder">Toevoegen aan Cloud album</string>
+  <string name="add_to_cloud_image_limit_exceeded_message">Afbeeldings quota overschreden.</string>
   <string name="add_to_cloud_local_space_full_message">Opslag is vol of nog niet klaar.</string>
   <string name="add_to_cloud_reasons"/>
   <string name="add_to_cloud_space_full_message">MiCloud album is vol.</string>
@@ -256,6 +257,7 @@ vrienden."</string>
   <string name="lomoish">Lomo</string>
   <string name="maker">Maker</string>
   <string name="manual">Handmatig</string>
+  <string name="marked_by_others">%d mensen hebben dit gemarkeerd</string>
   <string name="me">ik</string>
   <string name="menu_item_sort">Sorteer</string>
   <string name="menu_item_sort_date_asc">Datum oplopend</string>

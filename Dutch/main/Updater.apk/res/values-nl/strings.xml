@@ -42,7 +42,7 @@
   <string name="dialog_ok">OK</string>
   <string name="dialog_yes">Ja</string>
   <string name="download_current_rom">Download laatste volledige ROM</string>
-  <string name="download_ota_rom">Download de OTA update (%s)</string>
+  <string name="download_ota_rom">Download OTA update (%s)</string>
   <string name="download_whole_rom">Download volledige ROM (%s)</string>
   <string name="downloading_description">Downloaden...</string>
   <string name="edit_comment">Reactie toevoegen</string>
@@ -158,6 +158,7 @@
   <string name="update_success">Gefeliciteerd, update succesvol toegepast!</string>
   <string name="update_success_body">Systeem is succesvol bijgewerkt naar %s</string>
   <string name="update_success_title">Gefeliciteerd, update volooid</string>
+  <string name="updater_finish_download">ROM download voltooid</string>
   <string name="upgrade_close">Sluiten</string>
   <string name="upgrade_kernel">Huidige kernel vereist update</string>
   <string name="upgrade_kernel_msg">"Huidige kernel-versie komt niet overeen met MIUI ROM. U moet de kernel handmatig bijwerken. Update handleiding:"</string>

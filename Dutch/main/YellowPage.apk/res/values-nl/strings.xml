@@ -31,6 +31,8 @@
   <string name="express_inquiry">Opsporen</string>
   <string name="express_inquiry_button_text">Opsporen</string>
   <string name="express_inquiry_data_owner">Opspoor informatie verstrekt door %s</string>
+  <string name="express_inquiry_delete_warning_multiple">%d geselecteerde geschiedenis items verwijderen?</string>
+  <string name="express_inquiry_delete_warning_single">Geselecteerde item verwijderen?</string>
   <string name="express_inquiry_delivered">Bezorgd</string>
   <string name="express_inquiry_history">Geschiedenis</string>
   <string name="express_inquiry_indication">Opspoor nummer</string>

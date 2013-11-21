@@ -7,6 +7,7 @@
   <string name="account_phone">Alleen voor telefoon, niet gesynchroniseerd</string>
   <string name="account_sim">Sim-only, niet gesynchroniseerd</string>
   <string name="account_type_format">%1$s contact</string>
+  <string name="account_unactivated">Account niet geactiveerd.</string>
   <string name="actionIncomingCall">Inkomende oproepen</string>
   <string name="action_menu_overflow_description">Meer opties</string>
   <string name="activity_not_found_uri">Geen ondersteunde applicatie gevonden!</string>
@@ -588,11 +589,8 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">U heeft geen contacten om weer te geven. Als u zojuist een account heeft toegevoegd, kan het enkele minuten duren voordat de contacten zijn gesynchroniseerd.</string>
   <string name="noContactsNoSimHelpText">"U heeft geen contacten om weer te geven. 
 
-
-
 Voor het toevoegen van contacten raakt u "</string>
   <string name="noContactsNoSimHelpTextWithSync">"U heeft geen contacten om weer te geven. (Als u net een account heeft toegevoegd, kan het enkele minuten duren voordat de contacten zijn gesynchroniseerd.) 
-  
   
 Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="noContactsWithPhoneNumbers">Geen contacten met telefoonnummers.</string>
@@ -766,6 +764,13 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="removePhoto">Foto verwijderen</string>
   <string name="remove_blacklist">Verwijderen van blacklist</string>
   <string name="remove_duplicate">"MIUI zal u helpen met vinden en samenvoegen van dubbele contacten, contacten zullen niet automatisch samengevoegd worden. Om contacten samen te voegen dient u dit handmatig te doen"</string>
+  <string name="resource_account_abnormal_state">Account fout, probeer het later opnieuw.</string>
+  <string name="resource_account_current">Account: %1$s</string>
+  <string name="resource_account_fail_to_add">Failed to add account!</string>
+  <string name="resource_account_login">Log in</string>
+  <string name="resource_account_login_before_action">Please login to your Xiaomi account.</string>
+  <string name="resource_account_login_title">Login</string>
+  <string name="resource_account_switch">Switch account</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Resource Browser</string>
   <string name="resource_apply">Toepassen</string>
@@ -791,11 +796,13 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_comment_footer">Lege reacties zijn niet weergegeven.</string>
   <string name="resource_comment_good_comments">Positieve reacties</string>
   <string name="resource_comment_invalid">Tik op sterren om te beoordelen</string>
+  <string name="resource_comment_loading_list">Reacties laden...</string>
   <string name="resource_comment_name_default">Gebruiker %1$s</string>
   <string name="resource_comment_no_average_score">Geen score</string>
   <string name="resource_comment_no_comment">Geen reacties</string>
   <string name="resource_comment_publish">Verzenden</string>
   <string name="resource_comment_rate">Beoordeling:</string>
+  <string name="resource_comment_score_count">%1$s gebruikers</string>
   <string name="resource_comment_sending">Reactie toevoegen...</string>
   <string name="resource_comment_title">Reacties: %1$s</string>
   <string name="resource_comment_upload_data_invalid">Reactie ongeldig!</string>
@@ -823,16 +830,36 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_download">Downloaden</string>
   <string name="resource_downloaded_title">Hulpbronnen gedownload...</string>
   <string name="resource_downloading">Downloaden...</string>
+  <string name="resource_exchange">Inwisselen</string>
+  <string name="resource_exchange_confirm">Bevestigen</string>
+  <string name="resource_exchange_empty_format">Type een code!</string>
+  <string name="resource_exchange_has_bought">"U heeft dit thema al gekocht."</string>
+  <string name="resource_exchange_has_expired">Deze code is verlopen.</string>
+  <string name="resource_exchange_has_used">Deze code is al gebruikt.</string>
+  <string name="resource_exchange_hint">Type uw code</string>
+  <string name="resource_exchange_purchase_unkown_error">Er is een onbekende fout opgetreden. Login op http://market.xiaomi.com om uw betalings status te bekijken.</string>
+  <string name="resource_exchange_share_code_content">U heeft een code ontvangen voor %1$s van de MIUI thema winkel. Uw MiCredit code is: %2$s. Tik %3$s om het nu te gebruiken.</string>
+  <string name="resource_exchange_share_code_dlg_content">Code succesvol gekocht voor %1$s is: %2$s. U kunt dit nu delen met vrienden.</string>
+  <string name="resource_exchange_share_code_dlg_title">Code verzenden</string>
+  <string name="resource_exchange_success">Transactie voltooid</string>
+  <string name="resource_exchange_unavailable">De code die u heeft ingevoerd is niet geldig voor dit thema</string>
+  <string name="resource_exchange_universal_finish">Gebruik deze code om een thema te downloaden van de MIUI thema winkel.</string>
+  <string name="resource_exchange_universal_goon">Deze code kan gebruikt worden om elk thema in de MIUI thema winkel te downloaden.</string>
+  <string name="resource_exchange_window_title">Code inwisselen</string>
+  <string name="resource_exchange_wrong_format_by_local">Ongeldige code ingevoerd</string>
+  <string name="resource_exchange_wrong_format_by_server">Code kan niet worden gevalideerd. Controleer uw code en probeer het opnieuw.</string>
   <string name="resource_expand_full_text">Vergroten</string>
   <string name="resource_get_auth_checking">Autorisatie controleren...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Thema kan niet toegepast worden op het appraat met uw account. Probeer een ander Xiaomi account a.u.b.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Geautoriseerd limiet bereikt!</string>
   <string name="resource_get_auth_missing">Thema niet gedownload van officiële thema markt, download via de officiële markt a.u.b.</string>
   <string name="resource_get_auth_retrieving">Autorisatie verkrijgen...</string>
+  <string name="resource_hint">Waarschuwing</string>
   <string name="resource_import_successful">Download succesvol.</string>
   <string name="resource_importing">Importeren</string>
   <string name="resource_list_title">Laatst geselecteerde</string>
   <string name="resource_local">Lokaal %1$s</string>
+  <string name="resource_menu_refresh">Vernieuwe</string>
   <string name="resource_mute">Geen</string>
   <string name="resource_my">Lokaal</string>
   <string name="resource_no_result">Geen resultaat</string>
@@ -842,16 +869,23 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_pack_discount_info">%1$s Opgeslagen!</string>
   <string name="resource_pack_price_info">%1$s Origineel</string>
   <string name="resource_pack_warning">Waarschuwing! u heeft al %1$d items gekocht, huidige prijs is niet meer geldig voor overige items, koop ze individueel .</string>
+  <string name="resource_present">Cadeau</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Vrij</string>
   <string name="resource_price_unit">MI Credits</string>
+  <string name="resource_purchase_getting_order">Bestellings info verkrijgen...</string>
+  <string name="resource_purchase_verifying_payment">Betalings info verifiëren</string>
+  <string name="resource_purchase_waiting_payment">Wachten op betalings info...</string>
   <string name="resource_ranking">Populair</string>
   <string name="resource_ranking_free">Gratis</string>
   <string name="resource_ranking_purchase">Betaald</string>
   <string name="resource_ringtone_default">Ringtones</string>
+  <string name="resource_ringtone_volume_mute">Beltoon volume is gedempt</string>
+  <string name="resource_save_to_note">Save to notes</string>
   <string name="resource_see_more">Bekijk meer</string>
   <string name="resource_select">Selecteren</string>
   <string name="resource_selected">Uitgelicht</string>
+  <string name="resource_send">Verzenden</string>
   <string name="resource_server_alert_dialog_title">Service is momenteel niet beschikbaar</string>
   <string name="resource_server_out_of_service">Server niet beschikbaar, probeer het later opnieuw.</string>
   <string name="resource_share_subject">Thema delen: %1$s</string>
@@ -862,7 +896,11 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_tip_select_ringtone">Geen ringtone geselecteerd</string>
   <string name="resource_title">Hulpbron Detail</string>
   <string name="resource_title_select_ringtone">Selecteer ringtone</string>
-  <string name="resource_update">Update</string>
+   <string name="resource_unable_to_access">"We're sorry
+the content you're looking for is not currently available in your region.”</string>
+  <string name="resource_unknow_error">Unknown error occurred.</string>
+  <string name="resource_update">Bijwerken</string>
+  <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Wachten op download...</string>
   <string name="restore_nickname">Herstellen</string>
   <string name="restore_to_phone_memory_failed">Herstellen naar telefoon geheugen mislukt!</string>
@@ -899,7 +937,6 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="select_photo_from_photo_package">Selecteer foto van foto pakket</string>
   <string name="select_show_contacts">Toon contact</string>
   <string name="select_vcard_title">vCard-bestand kiezen</string>
-  <string name="selected_resource_file_invalid">Geselecteerd bestand is ongeldig.</string>
   <string name="send_contact_shortcut_todesktop_success">Snelkoppeling voor contact succesvol geplaatst</string>
   <string name="send_to_voicemail_checkbox">Verbind oproepen direct door naar voicemail</string>
   <string name="separatorJoinAggregateAll">Alle contacten</string>
@@ -996,6 +1033,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="titleJoinContactDataWith">Contacten samenvoegen</string>
   <string name="title_other_devices">Andere beschikbare apparaten</string>
   <string name="title_paired_devices">Gekoppelde Apparaten</string>
+  <string name="to_activate_the_account">Activeer uw Xiaomi account</string>
   <string name="toast_call_detail_error">Kan geen gegevens over het gevraagde gesprek vinden.</string>
   <string name="toast_copy_done">Kopiëren succesvol voltooid</string>
   <string name="toast_copying">Kopiëren, een moment geduld...</string>
