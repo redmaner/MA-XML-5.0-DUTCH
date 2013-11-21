@@ -896,9 +896,9 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_tip_select_ringtone">Geen ringtone geselecteerd</string>
   <string name="resource_title">Hulpbron Detail</string>
   <string name="resource_title_select_ringtone">Selecteer ringtone</string>
-   <string name="resource_unable_to_access">"We're sorry
-the content you're looking for is not currently available in your region.”</string>
-  <string name="resource_unknow_error">Unknown error occurred.</string>
+   <string name="resource_unable_to_access">"Het spijt ons
+de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
+  <string name="resource_unknow_error">Onbekende fout.</string>
   <string name="resource_update">Bijwerken</string>
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Wachten op download...</string>
