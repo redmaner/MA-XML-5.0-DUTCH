@@ -194,7 +194,7 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">Met elke SMS opwaardering, provider kosten van 0.1 RMB</string>
   <string name="msg_picker_hint_3_1">3.</string>
-  <string name="msg_picker_hint_3_2">Maximale maandelijkse betaling van 300 RMB</string>
+  <string name="msg_picker_hint_3_2">Maximale maandelijkse betaling van %1$s RMB</string>
   <string name="msg_send_no_net_error">Bericht verzenden mislukt: Kon niet verbinden met netwerk provider.</string>
   <string name="msg_send_no_sim_error">Bericht verzenden mislukt: probeer uw simkaart opnieuw te plaatsen.</string>
   <string name="msg_send_send_fail_error">Bericht verzenden mislukt</string>
