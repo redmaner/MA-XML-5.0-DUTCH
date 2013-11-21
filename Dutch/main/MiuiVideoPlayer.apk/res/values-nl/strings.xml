@@ -10,12 +10,12 @@
   <string name="adjust_position_prev_media_notice">Vorige</string>
   <string name="airkan_control_device_des">U kunt het afspelen regelen met de knop onderin</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
-  <string name="airkan_video_playing" />
+  <string name="airkan_video_playing"/>
   <string name="airkan_video_playing_in">Video speelt af...</string>
   <string name="app_name">MiVideo</string>
   <string name="buffering">Bufferen...</string>
   <string name="buffering_video_netplay_label_v5">Bufferen...</string>
-  <string name="episode_prefix">Aflevering</string> 
+  <string name="episode_prefix">Aflevering</string>
   <string name="loading_video_netplay_label">Bezig met laden, een moment geduld...</string>
   <string name="loading_video_netplay_label_v5">Bezig met laden van stream, een moment geduld...</string>
   <string name="menu_item_about_label">Over</string>
@@ -35,7 +35,7 @@
   <string name="nowifi_alert_dialog_continue">Doorgaan</string>
   <string name="nowifi_alert_dialog_exit">Afsluiten</string>
   <string name="nowifi_alert_dialog_message">Gebruik mobiele netwerk om video te streamen, wilt u doorgaan?</string>
-  <string name="nowifi_alert_dialog_title">Verbruiks waarschuwing</string> 
+  <string name="nowifi_alert_dialog_title">Verbruiks waarschuwing</string>
   <string name="temp_play_history_button_label">Toon player geschiedenis</string>
   <string name="to_be_play_label_v5">Afspelen starten</string>
   <string name="toast_back_key_pressed_notice">Druk op terug om te sluiten.</string>

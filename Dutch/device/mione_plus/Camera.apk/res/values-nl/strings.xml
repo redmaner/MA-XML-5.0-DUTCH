@@ -25,7 +25,7 @@ Stap even uit beeld</string>
   <string name="close">Sluiten</string>
   <string name="confirm_change_mode_title">Modus wisselen</string>
   <string name="confirm_change_to_expert_mode_message">Meteen wisselen naar Professionele modus?</string>
-  <string name="confirm_change_to_simple_mode_message">Meteen wisselen naar Simpele modus?</string> 
+  <string name="confirm_change_to_simple_mode_message">Meteen wisselen naar Simpele modus?</string>
   <string name="confirm_location_message">Camera kan uw locatie-informatie opnemen, wilt u locatiediensten openen?</string>
   <string name="confirm_restore_message">Herstel Camera standaardinstellingen?</string>
   <string name="confirm_restore_title">Standaardwaarden herstellen</string>
@@ -42,7 +42,7 @@ Stap even uit beeld</string>
   <string name="contact_title">Titel</string>
   <string name="contact_web">Web</string>
   <string name="copy_text">Tekst kopiëren</string>
-  <string name="copy_text_success">Tekst succesvol gekopiëerd</string> 
+  <string name="copy_text_success">Tekst succesvol gekopiëerd</string>
   <string name="crop_saved">Bijgesneden afbeelding opgeslagen als %s.</string>
   <string name="delete">Verwijder</string>
   <string name="deleted">Verwijderd</string>
@@ -53,8 +53,8 @@ Stap even uit beeld</string>
   <string name="details_title">%1$d van %2$d items:</string>
   <string name="dialog_ok">OK</string>
   <string name="disable_video_snapshot_hint">Video Snapshot wordt uitgeschakeld wanneer speciale effecten zijn ingeschakeld.</string>
-  <string name="download_by_browser">Download met browser</string> 
-  <string name="download_qq">Download QQ</string> 
+  <string name="download_by_browser">Download met browser</string>
+  <string name="download_qq">Download QQ</string>
   <string name="download_wechat">Download WeChat</string>
   <string name="duration">Duur</string>
   <string name="edit">Bewerk</string>
@@ -82,11 +82,11 @@ Stap even uit beeld</string>
   <string name="find_market_qrcode">Vind markt QR code</string>
   <string name="find_mecard_qrcode">Vind bezoekkaart QR code</string>
   <string name="find_other_qrcode">Vind QR code</string>
-  <string name="find_qq_qrcode">Vind een QQ QR code</string> 
+  <string name="find_qq_qrcode">Vind een QQ QR code</string>
   <string name="find_web_qrcode">Vind website QR code</string>
   <string name="find_wechat_qrcode">Vind een WeChat QR code</string>
-  <string name="find_weixin_qrcode">Vind weixin QR code</string> 
-  <string name="find_wifi_qrcode">Vind een Wi-Fi QR code</string> 
+  <string name="find_weixin_qrcode">Vind weixin QR code</string>
+  <string name="find_wifi_qrcode">Vind een Wi-Fi QR code</string>
   <string name="flash">Flits</string>
   <string name="flash_off">Geen flits</string>
   <string name="flash_on">Flits ging af</string>
@@ -105,7 +105,7 @@ Stap even uit beeld</string>
   <string name="height">Hoogte</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="import_complete">Importeren voltooid</string>
-  <string name="import_contact">Importeer contact</string> 
+  <string name="import_contact">Importeer contact</string>
   <string name="import_fail">Importeren mislukt!</string>
   <string name="iso">ISO</string>
   <string name="launch_market">Open PlayStore</string>
@@ -119,7 +119,7 @@ Stap even uit beeld</string>
   <string name="manual">Handleiding</string>
   <string name="mimetype">MIME-type</string>
   <string name="model">Model</string>
-  <string name="no_save">Niet opslaan</string> 
+  <string name="no_save">Niet opslaan</string>
   <string name="no_storage">Plaats een SD-kaart voordat u de camera gebruikt.</string>
   <string name="no_thumbnail">Geen miniatuurafbeelding</string>
   <string name="not_enough_space">Uw interne geheugen is vol.</string>
@@ -232,7 +232,7 @@ Stap even uit beeld</string>
   <string name="pref_camera_jpegquality_title">Beeldkwaliteit</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Focus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Burst Shoot</string>
-  <string name="pref_camera_long_pressing_burst_shooting_title">Ontspanknop actie</string> 
+  <string name="pref_camera_long_pressing_burst_shooting_title">Ontspanknop actie</string>
   <string name="pref_camera_movie_solid_default">on</string>
   <string name="pref_camera_movie_solid_entry_off">Uit</string>
   <string name="pref_camera_movie_solid_entry_on">Aan</string>
@@ -348,7 +348,7 @@ Stap even uit beeld</string>
   <string name="pref_camera_watermark_default">Off</string>
   <string name="pref_camera_watermark_entry_off">Uit</string>
   <string name="pref_camera_watermark_entry_on">Aan</string>
-  <string name="pref_camera_watermark_title">Tijd watermerk</string> 
+  <string name="pref_camera_watermark_title">Tijd watermerk</string>
   <string name="pref_camera_whitebalance_default">auto</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Bewolkt</string>
@@ -396,9 +396,9 @@ Stap even uit beeld</string>
   <string name="pref_video_time_lapse_frame_interval_entry_4">4x</string>
   <string name="pref_video_time_lapse_frame_interval_entry_50">50x</string>
   <string name="pref_video_time_lapse_frame_interval_title">Tijdsperiode</string>
-  <string name="preparing_sd">Interne opslag voorbereiden...</string> 
-  <string name="qq_details">QQ details:</string> 
-  <string name="qr_code_details">"QR code details: "</string> 
+  <string name="preparing_sd">Interne opslag voorbereiden...</string>
+  <string name="qq_details">QQ details:</string>
+  <string name="qr_code_details">"QR code details: "</string>
   <string name="record_back_pressed_hint">Druk nogmaals om de opname te stoppen</string>
   <string name="resume_playing_message">Hervat weergave vanaf %s ?</string>
   <string name="resume_playing_restart">Herstart</string>
@@ -411,7 +411,7 @@ Stap even uit beeld</string>
   <string name="scan_qrcode">Scan QR code</string>
   <string name="secure_access_web_url">Veilige webtoegang</string>
   <string name="see_app_details">Bekijk app details</string>
-  <string name="see_qrcode_detals">Bekijk QR code details</string> 
+  <string name="see_qrcode_detals">Bekijk QR code details</string>
   <string name="select_all">Selecteer alles</string>
   <string name="select_group">Selecteer groep</string>
   <string name="select_image">Selecteer foto</string>
@@ -438,9 +438,9 @@ Stap even uit beeld</string>
   <string name="snapshot_qcif_and_d1">Video Snapshot grootte ondersteund voor deze resolutie.</string>
   <string name="snapshotsize_low_powermode">Ondersteuning van de beeldresolutie in Lage Vermogen Modus niet ondersteund. Video formaat snapshot zal worden gebruikt. Selecteer Hoog vermogen-modus voor de beeldgrootte.</string>
   <string name="spaceIsLow_content">Uw USB opslag is bijna vol. Wijzig de kwaliteits-instelling of verwijder enkele afbeeldingen of andere bestanden.</string>
-  <string name="success_message_import_from_account">Importeren succesvol</string> 
+  <string name="success_message_import_from_account">Importeren succesvol</string>
   <string name="tags">Tags</string>
-  <string name="tap_to_exposure">Aanraken om te wisselen naar handmatige belichting.</string> 
+  <string name="tap_to_exposure">Aanraken om te wisselen naar handmatige belichting.</string>
   <string name="tap_to_focus">Raak aan om scherp te stellen.</string>
   <string name="time">Tijd</string>
   <string name="time_lapse_error">Ongeldige video-formaat voor time-lapse-opname.</string>
@@ -464,8 +464,8 @@ Stap even uit beeld</string>
   <string name="web_url_apk_warning">De geselecteerde QR code bevat een app die een risico kan veroorzaken, zoek de app via de PlayStore</string>
   <string name="web_url_warning">De website QR code kan een risico veroorzaken, MIUI browser zal de QR code veilig voor uw scannen.</string>
   <string name="website_details">"Website details: "</string>
-  <string name="wechat_details">WeChat details:</string> 
-  <string name="weixin_details">"Weixin details: "</string> 
+  <string name="wechat_details">WeChat details:</string>
+  <string name="weixin_details">"Weixin details: "</string>
   <string name="white_balance">Witbalans</string>
   <string name="width">Breedte</string>
   <string name="wifi_connect_fail">Verbinding timeout of mislukt met Wi-Fi netwerk</string>
@@ -476,5 +476,5 @@ Stap even uit beeld</string>
   <string name="wifi_pwd">Wachtwoord:</string>
   <string name="wifi_security">Veiligheid:</string>
   <string name="wifi_ssid">SSID:</string>
-  <string name="wifi_warning">Controleer de veiligheid voor het verbinden met dit Wi-Fi netwerk</string> 
+  <string name="wifi_warning">Controleer de veiligheid voor het verbinden met dit Wi-Fi netwerk</string>
 </resources>

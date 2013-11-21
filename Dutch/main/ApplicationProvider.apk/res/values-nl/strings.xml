@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Zoek Applicaties Provider</string>
-    <string name="search_label">Apps</string>
-    <string name="application_desc">Applicatie</string>
-    <string name="settings_description">Namen van geïnstalleerde applicaties</string>
+  <string name="app_label">Zoek Applicaties Provider</string>
+  <string name="application_desc">Applicatie</string>
+  <string name="search_label">Apps</string>
+  <string name="settings_description">Namen van geïnstalleerde applicaties</string>
 </resources>

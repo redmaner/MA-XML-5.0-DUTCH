@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Inhoud Aanpasbare Achtergrondverlichting Instellingen</string>
-    <string name="cabl_settings_title">Inhoud Aanpasbare Achtergrondverlichting Instellingen</string>
-    <string name="cabl_enable_title">Inhoud Aanpasbare Achtergrondverlichting inschakelen</string>
-    <string name="cabl_enable_summary_on">De achtergrondverlichting wordt aangepast op basis van scherminhoud</string>
-    <string name="cabl_enable_summary_off">De achtergrondverlichting wordt niet geregeld op basis van scherminhoud</string>
-    <string name="cabl_levels_title">"Vermogensniveau's"</string>
-    <string name="cabl_levels_summary">Een lager niveau betekent dat er meer energie wordt bespaard, maar kan ervoor zorgen dat het scherm donkerder wordt dan verwacht</string>
-    <string name="cabl_level_default">2</string>
-    <string name="cabl_info_default">Onbekend</string>
-    <string name="cabl_version_title">CABL Versie</string>
+  <string name="app_name">Inhoud Aanpasbare Achtergrondverlichting Instellingen</string>
+  <string name="cabl_enable_summary_off">De achtergrondverlichting wordt niet geregeld op basis van scherminhoud</string>
+  <string name="cabl_enable_summary_on">De achtergrondverlichting wordt aangepast op basis van scherminhoud</string>
+  <string name="cabl_enable_title">Inhoud Aanpasbare Achtergrondverlichting inschakelen</string>
+  <string name="cabl_info_default">Onbekend</string>
+  <string name="cabl_level_default">2</string>
+  <string name="cabl_levels_summary">Een lager niveau betekent dat er meer energie wordt bespaard, maar kan ervoor zorgen dat het scherm donkerder wordt dan verwacht</string>
+  <string name="cabl_levels_title">"Vermogensniveau's"</string>
+  <string name="cabl_settings_title">Inhoud Aanpasbare Achtergrondverlichting Instellingen</string>
+  <string name="cabl_version_title">CABL Versie</string>
 </resources>

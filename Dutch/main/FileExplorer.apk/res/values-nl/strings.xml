@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_bind_prompt">"Verhuizen van gebruikersgegevens, uw account wordt tijdelijk vergrendeld, a.u.b. een moment geduld..."</string>
   <string name="add_task">Taak toevoegen</string>
   <string name="adding_upload_tasks">Uploadtaken toevoegen.</string>
-  <string name="already_signin_description">U bent al ingelogd</string> 
+  <string name="already_signin_description">U bent al ingelogd</string>
   <string name="app_cache_cleanup_indication">%s cache</string>
   <string name="app_cache_title">App cache</string>
   <string name="app_garbage_cleanup_indication">%s app afval</string>
   <string name="app_garbage_path">Locatie:</string>
-  <string name="app_garbage_title">App afval</string> 
+  <string name="app_garbage_title">App afval</string>
   <string name="app_name">Bestandsbeheer</string>
-  <string name="application_size_label">App</string> 
+  <string name="application_size_label">App</string>
   <string name="background">Download op de achtergrond</string>
   <string name="big5_summary">De standaard encoding van de traditionele Chinese Windows systeem versie</string>
-  <string name="big5_title">BIG5</string> 
+  <string name="big5_title">BIG5</string>
   <string name="bind_account">Koppel aan MiDrive account</string>
   <string name="bind_account_summary">Indien u al een KuaiPan account heeft kunt u het toevoegen om persoonlijke data op te halen</string>
   <string name="binded_accout_description">Accounts zijn samengevoegd, gebruik uw Xiaomi account of KuaiPan account om in te loggen, beiden kunnen uw data lezen</string>
   <string name="binded_accout_title">KuaiPan account</string>
   <string name="cancel">Annuleren</string>
-  <string name="cancel_app_garbage_cleanup">App opschonen annuleren</string> 
-  <string name="cancel_with_count_down">(%d) annuleren</string> 
+  <string name="cancel_app_garbage_cleanup">App opschonen annuleren</string>
+  <string name="cancel_with_count_down">(%d) annuleren</string>
   <string name="category_all">Alles</string>
   <string name="category_apk">"Apk's"</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -42,23 +42,23 @@
   <string name="clean_trash_box">Prullenbak leegmaken</string>
   <string name="cleaned">Opschonen voltooid</string>
   <string name="cleaning">Opschonen...</string>
-  <string name="cleanup_complete">Voltooien</string> 
-  <string name="cleanup_stopped">Opschonen geannuleerd</string> 
+  <string name="cleanup_complete">Voltooien</string>
+  <string name="cleanup_stopped">Opschonen geannuleerd</string>
   <string name="close">Sluiten</string>
-  <string name="compress_fail">Comprimeren mislukt, bestemming bestaat al</string> 
+  <string name="compress_fail">Comprimeren mislukt, bestemming bestaat al</string>
   <string name="compress_message">Comprimeer naar:</string>
   <string name="compress_title">Comprimeer</string>
   <string name="confirm">Bevestigen</string>
   <string name="confirm_know">Bevestigen</string>
   <string name="copy_failed">Kopiëren mislukt</string>
-  <string name="count_down_time">Start na %d seconden</string> 
-  <string name="create_kuaipan_shortcut_pref">Maak een snelkoppeling op de homescreen</string> 
+  <string name="count_down_time">Start na %d seconden</string>
+  <string name="create_kuaipan_shortcut_pref">Maak een snelkoppeling op de homescreen</string>
   <string name="create_new_folder_failed">Niet gelukt om de map %1$s te maken</string>
   <string name="create_new_folder_succeeded">De map %1$s is succesvol aangemaakt</string>
   <string name="create_share_link_description">Maken te delen link…</string>
   <string name="cution">Tips</string>
   <string name="data_capacity">Gegevens %1$s</string>
-  <string name="data_size_label">Gegevens</string> 
+  <string name="data_size_label">Gegevens</string>
   <string name="decompress_cancel">Annuleren</string>
   <string name="decompress_confirm">Decomprimeren?</string>
   <string name="decompress_fail">Decomprimeren mislukt!</string>
@@ -77,25 +77,25 @@
   <string name="dialog_type_image">Afbeelding</string>
   <string name="dialog_type_text">Tekst</string>
   <string name="dialog_type_video">Video</string>
-  <string name="directory_info_divider">"  |  "</string> 
+  <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Lege map</string>
-  <string name="dlg_error_unmount_text">"Kon USB opslag niet ontkoppelen, probeer het later opnieuw."</string> 
+  <string name="dlg_error_unmount_text">"Kon USB opslag niet ontkoppelen, probeer het later opnieuw."</string>
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Downloaden mislukt!</string>
   <string name="download_link_completed">Ik heb %1$s gedeelt via MiDrive. Klik op de onderstaande link om te bekijken: </string>
   <string name="download_successful">Download succesvol</string>
   <string name="downloading">Downloaden…</string>
   <string name="enable_sd_card">SD-kaart is niet beschikbaar, gelieve één aan te sluiten</string>
-  <string name="error_filename_too_long">Bestandsnaam is te lang</string> 
+  <string name="error_filename_too_long">Bestandsnaam is te lang</string>
   <string name="error_info_cant_send_folder">Kan de map niet versturen</string>
-  <string name="error_open_file_failed_no_app_found">Geen app gevonden om bestand te openen</string> 
+  <string name="error_open_file_failed_no_app_found">Geen app gevonden om bestand te openen</string>
   <string name="fail_to_create_folder">Dit doel bevat al een map met dezelfde naam, gelieve kiest u een andere naam</string>
   <string name="fail_to_create_folder_unknown">Kan niet maken: onbekende fout.</string>
   <string name="fail_to_rename">Dit doel bevat al een map met de gekozen naam, gelieve een andere naam te kiezen</string>
   <string name="favorite_photo">Foto</string>
   <string name="favorite_ringtone">Beltoon</string>
   <string name="favorite_screen_cap">MIUI Schermafdruk</string>
-  <string name="file_cleanup">Bestand opschoning</string> 
+  <string name="file_cleanup">Bestand opschoning</string>
   <string name="file_info_canread">Leesbaar:</string>
   <string name="file_info_canwrite">Schrijfbaar:</string>
   <string name="file_info_ishidden">Verborgen:</string>
@@ -105,7 +105,7 @@
   <string name="file_loading">Laden...</string>
   <string name="file_too_large">Bestand is te groot en kan niet worden geupload</string>
   <string name="finished">Klaar</string>
-  <string name="folder_exist">De map bestaat al</string> 
+  <string name="folder_exist">De map bestaat al</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Klik hier&lt;/a&gt;om cloud prullenbank te openen</string>
   <string name="ftp_account_req_notice">Gebruikersnaam en wachtwoord, 4~16 karakters, bevat getallen, letters, hoofdlettergevoelig</string>
   <string name="ftp_anonymous_login">Anonieme FTP</string>
@@ -117,20 +117,20 @@
   <string name="ftp_username_and_passworld">Gebruikersnaam en wachtwoord</string>
   <string name="ftp_username_hint">Gebruikersnaam</string>
   <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
-  <string name="garbage_item_path_format" formatted="false">%s %s</string> 
+  <string name="garbage_item_path_format" formatted="false">%s %s</string>
   <string name="garbage_size_metric">"%s
-Rommel"</string> 
+Rommel"</string>
   <string name="gbk_summary">Wanneer u GBK codering gebruikt, zoals Windows Explorer, kies deze codering om onleesbare Chinese tekst te voorkomen</string>
   <string name="gbk_title">GBK</string>
   <string name="give_up_cleaning">Opschonen annuleren</string>
   <string name="header_text_cleaned">Afval gewist</string>
   <string name="header_text_cleaning">Opschonen overgebleven afval</string>
   <string name="header_text_scanned">Bestanden gevonden om te wissen</string>
-  <string name="header_text_scanning">Scannen afval bestanden…</string> 
+  <string name="header_text_scanning">Scannen afval bestanden…</string>
   <string name="instruction">Voer het volgende adres in uw FTP-client:</string>
   <string name="instruction_pre">Druk op de knop om de FTP server in te schakelen</string>
-  <string name="item_name">Geen naam</string> 
-  <string name="kuaipan_label">Kuaipan</string> 
+  <string name="item_name">Geen naam</string>
+  <string name="kuaipan_label">Kuaipan</string>
   <string name="kuaipan_over_space">Uw MiDrive heeft geen vrije ruimte meer beschikbaar.</string>
   <string name="kuaipan_prompt">MiDrive Help</string>
   <string name="kuaipan_prompt_message">"De server is momenteel onbereikbaar, probeer het later nogmaals"</string>
@@ -159,15 +159,15 @@ Rommel"</string>
   <string name="no">Nee</string>
   <string name="no_app_cache_indication">Geen applicatie cache</string>
   <string name="no_app_garbage_indication">Geen applicatie afval</string>
-  <string name="no_empty_dir_indication">Geen lege directories</string> 
+  <string name="no_empty_dir_indication">Geen lege directories</string>
   <string name="no_enough_space">Niet genoeg ruimte</string>
   <string name="no_enough_storage_indication">Niet genoeg ruimte beschikbaar, plakken mislukt. Verwijder onnodige bestanden en probeer het opnieuw, of gebruik Bestand Opschonen voor meer ruimte.</string>
-  <string name="no_enough_storage_title">Niet genoeg ruimte beschikbaar</string> 
+  <string name="no_enough_storage_title">Niet genoeg ruimte beschikbaar</string>
   <string name="no_file">Geen bestanden</string>
   <string name="no_more_space">Geen vrije ruimte</string>
   <string name="no_tasks">Geen taken</string>
   <string name="no_temp_file_indication">Geen tijdelijke bestanden</string>
-  <string name="no_thumbnail_indication">Geen thumbnail bestanden</string> 
+  <string name="no_thumbnail_indication">Geen thumbnail bestanden</string>
   <string name="no_wifi">Geen Wi-Fi-netwerk</string>
   <string name="no_wifi_hint">"Geen Wi-Fi-netwerk gevonden, controleer uw intstellingen"</string>
   <string name="notif_server_starting">FTP-server gestart</string>
@@ -175,7 +175,7 @@ Rommel"</string>
   <string name="open_changed_file_message">"Het bestand dat u probeert te openen is gewijzigd, u kunt:
 1. Download (update het lokale bestand)
 2. Upload (update het bestand op afstand)"</string>
-  <string name="open_changed_file_title">Bestand gewijzigd</string> 
+  <string name="open_changed_file_title">Bestand gewijzigd</string>
   <string name="operating">Draaien…</string>
   <string name="operation_cancel">Annuleren</string>
   <string name="operation_compress">Comprimeren</string>
@@ -212,13 +212,13 @@ Rommel"</string>
   <string name="operation_unfavorite">Verwijderen uit Favorieten</string>
   <string name="pan_settting">MiDrive settings</string>
   <string name="paused">Gepauzeerd</string>
-  <string name="pull_to_signin">Sleep naar beneden om in te loggen en krijg gratis opslag</string> 
+  <string name="pull_to_signin">Sleep naar beneden om in te loggen en krijg gratis opslag</string>
   <string name="query_bind_state">Berekenen bind status, moment geduld...</string>
-  <string name="release_to_signin">Loslaten om in te loggen</string> 
+  <string name="release_to_signin">Loslaten om in te loggen</string>
   <string name="rename_description">Hernoemen, even geduld a.u.b.…</string>
   <string name="rename_failed">Hernoemen van bestand %1$s is mislukt</string>
-  <string name="restart_cleaning">Herstarten</string> 
-  <string name="scanned">Scan voltooid</string> 
+  <string name="restart_cleaning">Herstarten</string>
+  <string name="scanned">Scan voltooid</string>
   <string name="scanning" formatted="false">Scannen %d app ... (totaal %d apps)</string>
   <string name="scanning_on_going">Scannen...</string>
   <string name="sd_card_available">Ruimte beschikbaar:%1$s</string>
@@ -237,7 +237,7 @@ Rommel"</string>
   <string name="sign_description">Inloggen...</string>
   <string name="signin_error">Newerk momenteel onbereikbaar, probeer het opnieuw</string>
   <string name="signin_success">"Inloggen succesvol!
-Krijg gratis opslag %1$s"</string> 
+Krijg gratis opslag %1$s"</string>
   <string name="space_info">MiDrive ruimte: %1$ beschikbaar, %2$s in totaal</string>
   <string name="space_usage">Ruimte gebruikt</string>
   <string name="start_cleanup">Start opschonen</string>
@@ -251,34 +251,34 @@ Krijg gratis opslag %1$s"</string>
   <string name="storage_usb">USB opslag</string>
   <string name="storage_warning">Externe opslag is niet beschikbaar of kan niet worden gelezen</string>
   <string name="sys_size">Totale opslag %1$s</string>
-  <string name="sys_size_title">Totale opslag</string> 
+  <string name="sys_size_title">Totale opslag</string>
   <string name="tab_category">Bladeren</string>
   <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_phone">Telefoon</string>
   <string name="temp_file_cleanup_indication">%s tijdelijke bestanden</string>
   <string name="temp_file_title">Tijdelijke bestanden</string>
   <string name="thumbnail_cleanup_indication">%s thumbnails</string>
-  <string name="thumbnail_title">Thumbnail bestanden</string> 
+  <string name="thumbnail_title">Thumbnail bestanden</string>
   <string name="toast_file_not_can_read">Het bestand is onleesbaar.</string>
   <string name="trans_task">Netwerk overdracht</string>
   <string name="trans_task_delete_confirm_message">Weet u zeker dat u de %1$d geselecteerde taken wilt verwijderen?</string>
   <string name="transing">Overdragen…</string>
   <string name="trash_box_capacity">Prullenbak %1$s</string>
-  <string name="trash_box_link">To clean up Recycle Bin, please visit <b>pan.xiaomi.com</b>" "</string>
+  <string name="trash_box_link">To clean up Recycle Bin, please visit &lt;b&gt;pan.xiaomi.com&lt;/b&gt;" "</string>
   <string name="trash_box_message1">U kunt onnodige bestanden verwijderen om ruimte vrij te maken</string>
   <string name="trash_box_message2">U kunt onnodige bestanden verwijderen of de Prullenbak leegmaken om ruimte vrij te maken</string>
   <string name="ui_bar_txt_download_progress">Downloaden...</string>
   <string name="ui_bar_txt_upload_progress">Uploaden...</string>
   <string name="ui_filechange_btn_download">Download bestanden</string>
-  <string name="ui_filechange_btn_upload">Upload bestanden</string> 
-  <string name="ui_main_menu_option_sign_in">Inloggen</string> 
+  <string name="ui_filechange_btn_upload">Upload bestanden</string>
+  <string name="ui_main_menu_option_sign_in">Inloggen</string>
   <string name="ui_main_menu_option_task_manage">Overdracht Management</string>
   <string name="ui_main_progress_txt_open_file">Downloaden...</string>
   <string name="ui_main_toast_favorite_removed">Favoriet(en) verwijdert</string>
   <string name="ui_main_toast_operation_failed">Verwijderen favoriet %1$s mislukt.</string>
   <string name="uninstall_app_data">Verwijder App en gegevens</string>
-  <string name="unmount_inform_text">USB opslag wordt ontkoppeld.</string> 
-  <string name="upload_failed">Upload mislukt!</string>  
+  <string name="unmount_inform_text">USB opslag wordt ontkoppeld.</string>
+  <string name="upload_failed">Upload mislukt!</string>
   <string name="upload_file_toolarge_message">%1$d bestanden groter dan 300 MB kunnen niet worden geupload. Bekijk Overdracht Management voor details.</string>
   <string name="upload_successful">Upload succesvol</string>
   <string name="uploading">Uploaden…</string>
@@ -291,13 +291,13 @@ Krijg gratis opslag %1$s"</string>
   <string name="user_guide_upload_to_kuaipan">"Bestanden kopiëren en plakken naar Midrive"</string>
   <string name="utf8_summary">Standaard encoding type</string>
   <string name="utf8_title">UTF-8</string>
-  <string name="version_text">versie %1$s</string> 
+  <string name="version_text">versie %1$s</string>
   <string name="wait_net">Wachten op netwerk</string>
   <string name="wait_sdcard">Wachten op koppelen SD-kaart</string>
   <string name="wait_wifi">Wachten op Wi-Fi verbinding</string>
   <string name="waiting">Wachten...</string>
-  <string name="waiting_for_cleaning">Wachten op opschonen</string> 
-  <string name="waiting_for_scanning">Wachten op scannen</string> 
+  <string name="waiting_for_cleaning">Wachten op opschonen</string>
+  <string name="waiting_for_scanning">Wachten op scannen</string>
   <string name="wangpan_root_path">Mijn Schijf</string>
   <string name="wifi_state">Wi-Fi Status</string>
   <string name="xiaomi_account">Xiaomi account</string>

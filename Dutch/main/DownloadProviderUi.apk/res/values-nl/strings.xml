@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="all_downloads">Alle downloads</string>
-  <string name="app_downloads">%s downloads</string> 
+  <string name="app_downloads">%s downloads</string>
   <string name="app_label">Downloads</string>
   <string name="button_sort_by_date">Sorteren op datum</string>
   <string name="button_sort_by_size">Sorteren op grootte</string>
@@ -50,7 +50,7 @@
   <string name="menu_enter_edit_mode">Bewerken</string>
   <string name="menu_preferences">Instellingen</string>
   <string name="might_lead_to_mobile_charge">"Na annuleren komt er geen melding van het netwerk. Dit kan kosten voor dataverkeer geven"</string>
-  <string name="missing_title">&lt;Onbekend></string>
+  <string name="missing_title">&lt;Onbekend&gt;</string>
   <string name="no_downloads">Geen downloads.</string>
   <string name="open_download">Open</string>
   <string name="pause_download">Pauzeer</string>
@@ -63,7 +63,7 @@
   <string name="prefDefault_max_bytes_limit">1048576</string>
   <string name="pref_dialog_title_max_bytes_limit">Bestand limiet</string>
   <string name="pref_download_settings_title">Data gebruik melding</string>
-  <string name="pref_summary_any_bytes_popup">Altijd in wachtrij bij gebruik van Wi-Fi netwerk</string> 
+  <string name="pref_summary_any_bytes_popup">Altijd in wachtrij bij gebruik van Wi-Fi netwerk</string>
   <string name="pref_summary_enable_max_bytes_popup">"Bij gebruik van data netwerk, wordt een melding getoond als het bestand groter is dan het limiet"</string>
   <string name="pref_summary_max_bytes_limit_format">Melding als het bestands groter is dan %s</string>
   <string name="pref_summary_no_limit_popup">Downloadlimiet is onbegrensd</string>

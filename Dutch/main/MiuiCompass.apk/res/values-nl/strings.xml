@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="altitude">%.1f</string>
   <string name="altitude_title">Hoogte</string>
@@ -15,7 +15,7 @@
   <string name="direction_south">Z</string>
   <string name="direction_west">W</string>
   <string name="getting_location">Locatie verkrijgen...</string>
-  <string name="guide_toast">"Er kan een magnetisch veld zijn die stoort, kalibreer het kompas door gebruik te maken van het volgende gebaar."</string> 
+  <string name="guide_toast">"Er kan een magnetisch veld zijn die stoort, kalibreer het kompas door gebruik te maken van het volgende gebaar."</string>
   <string name="latitude">LAT</string>
   <string name="location_east">O</string>
   <string name="location_north">N</string>

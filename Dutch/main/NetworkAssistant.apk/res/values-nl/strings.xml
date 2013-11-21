@@ -49,7 +49,7 @@
   <string name="custom_adjust_recevier_same_with_sender">Hetzelfde met verzend nummer</string>
   <string name="custom_adjust_sender">Verzend nummer</string>
   <string name="custom_adjust_sender_hint">Nummer provider gebruikt om wachtrij details van gebruikt te ontvangen</string>
-  <string name="custom_adjust_title">Aangepaste instellingen aanpassen</string> 
+  <string name="custom_adjust_title">Aangepaste instellingen aanpassen</string>
   <string name="daily_limit_dialog_disconnect_hint">Internet verbreken wanneer het verbruik het ingestelde limiet overschrijdt</string>
   <string name="daily_limit_dialog_hint">Dagelijks verbruik limiet (Vacature of 0 betekent geen ingesteld limiet)</string>
   <string name="daily_limit_result">Herinner me en verbreek internet wanneer dagelijks verbruik %dMB overschrijdt</string>
@@ -62,7 +62,7 @@
   <string name="edit_frame_free_traffic_title">Bewerken maximum verbruik</string>
   <string name="edit_frame_month_start_title">Start datum facturering</string>
   <string name="edit_frame_warning_title">Waarschuwings Drempel</string>
-  <string name="empty" />
+  <string name="empty"/>
   <string name="finish_traffic_settings_hint">Instellingen opgeslagen!</string>
   <string name="finish_traffic_settings_message">"Verbruikte data is %s. Zijn de gegevens correct? Zo niet dan kunt u het aanpassen."</string>
   <string name="finish_traffic_settings_title">Aanpassen data verbruik</string>
@@ -143,10 +143,10 @@
   <string name="sync_traffic_fail_title">Sync mislukt</string>
   <string name="sync_traffic_ing">Syncen van provider, even wachten a.u.b...</string>
   <string name="sync_traffic_no_cmd_detail">"Bevestig uw Stad, Provincie en ICC's merk en provider bij deze draad op de forums: http://www.miui.com/forum-172-1.html. Dankuwel."</string>
-  <string name="sync_traffic_no_cmd_detail_custom_config">"U kunt: 1.Instellingen &gt;&gt; Data verbruik aanpassen &gt;&gt; Instellingen aanpassen, of op hoofd Verbruik Aanpassen pagina &gt;&gt; Aangepaste instellingen aanpassen; 2. Stad, provincie en ICC's merk en provider bevestigen op het volgende forum: http://www.miui.com/forum-172-1.html"</string> 
+  <string name="sync_traffic_no_cmd_detail_custom_config">"U kunt: 1.Instellingen &gt;&gt; Data verbruik aanpassen &gt;&gt; Instellingen aanpassen, of op hoofd Verbruik Aanpassen pagina &gt;&gt; Aangepaste instellingen aanpassen; 2. Stad, provincie en ICC's merk en provider bevestigen op het volgende forum: http://www.miui.com/forum-172-1.html"</string>
   <string name="sync_traffic_no_cmd_title">Geen SMS template</string>
   <string name="sync_traffic_success">"Provider's data gesynchroniseerd, verbruik succesvol aangepast"</string>
-  <string name="text_day" />
+  <string name="text_day"/>
   <string name="text_done">Klaar</string>
   <string name="text_save">Opslaan</string>
   <string name="traffic_none">N/A</string>

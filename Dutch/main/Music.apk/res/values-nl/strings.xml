@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_and_synchronization">Account &amp; Sync</string>
   <string name="account_setting">Account instellingen</string>
@@ -63,10 +63,10 @@
   <string name="delete_song_desc">“%s” zal permanent worden gewist van de SD-kaart</string>
   <string name="deselect_all">Deselecteer alle</string>
   <string name="dirac_mode_earbuds">Xiaomi oortjes</string>
-  <string name="dirac_mode_general">Normale modus</string> 
+  <string name="dirac_mode_general">Normale modus</string>
   <string name="dirac_mode_in_ear">Xiaomi in-ear oortjes</string>
   <string name="dirac_mode_off">Dirac uit</string>
-  <string name="dirac_mode_piston_100">Xiaomi Piston oortjes</string> 
+  <string name="dirac_mode_piston_100">Xiaomi Piston oortjes</string>
   <string name="download">Downloaden</string>
   <string name="download_album_settings">Cover auto downloaden</string>
   <string name="download_album_summary">Album covers auto downloaden (hoog dataverbruik)</string>
@@ -103,7 +103,7 @@
   <string name="eq_preset_rename">Hernoemen</string>
   <string name="eq_preset_select">Kies een preset</string>
   <string name="eq_rb">R &amp; B</string>
-  <string name="eq_rock">Rock</string> 
+  <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
   <string name="equalizer_delete">Wissen</string>
   <string name="equalizer_delete_success">Equalizer profiel succesvol gewist</string>
@@ -116,7 +116,7 @@
   <string name="filter_by_duration_format">%2$dmin%5$2dsec</string>
   <string name="filter_by_duration_max">5 min</string>
   <string name="filter_by_duration_min">0 sec</string>
-  <string name="filter_by_duration_prefix">"Minimale lengte: "</string> 
+  <string name="filter_by_duration_prefix">"Minimale lengte: "</string>
   <string name="filter_by_duration_summary">Filter lengte is te klein voor audio bestanden</string>
   <string name="filter_by_folder">Filter op map</string>
   <string name="filter_by_folder_summary_off">Niet open, klik op de map, filter dan op map</string>
@@ -130,7 +130,7 @@
   <string name="folder_title_format" formatted="false">%s(%d)</string>
   <string name="folders_title">Mappen</string>
   <string name="frequentlyplayed_title">Frequent afgespeeld</string>
-  <string name="headphone_settings">Koptelefoon instellingen</string> 
+  <string name="headphone_settings">Koptelefoon instellingen</string>
   <string name="hot_artists">Populaire Artiesten</string>
   <string name="id3_edit">Bewerk ID3 Informatie</string>
   <string name="id3_edit_failed">Bewerken van ID3 info mislukt</string>
@@ -170,7 +170,7 @@
   <string name="mediaplaybacklabel">Muziek</string>
   <string name="mi_effect">MI Effecten</string>
   <string name="mi_effect_summary">Altijd MiSound enhancer gebruiken bij speakers</string>
-  <string name="mi_effect_title">MiSound enhancer gebruiken</string> 
+  <string name="mi_effect_title">MiSound enhancer gebruiken</string>
   <string name="min_interval">1</string>
   <string name="mobile_connect_settings">Mobiel netwerk</string>
   <string name="modify_id3_for_list">De songs worden gewijzigd met de huidige ID3 informatie </string>
@@ -181,7 +181,7 @@
   <string name="music_browser_label">Muziek</string>
   <string name="music_filter">Bestands filter</string>
   <string name="music_filter_helper">Om bestanden te verbergen die geen muziek zijn, is een grootte filter toegepast van 800K om deze bestanden niet te tonen. Dit filter kan aangepast worden in Instellingen - bestands filter.</string>
-  <string name="music_not_loaded">Geen audio bestanden gevonden!</string> 
+  <string name="music_not_loaded">Geen audio bestanden gevonden!</string>
   <string name="music_open_other_connect">Download muziek door middel van mobiele data connectie</string>
   <string name="music_picker_title">Nummer selecteren</string>
   <string name="music_settings">Instellingen</string>
@@ -218,7 +218,7 @@
   <string name="playlists_title">Afspeellijsten</string>
   <string name="powered_by">Ondersteuning door</string>
   <string name="project_device">Xiaomi MiBox</string>
-  <string name="project_device_mobile">Mobiel apparaat</string> 
+  <string name="project_device_mobile">Mobiel apparaat</string>
   <string name="queue">Huidige afspeellijst</string>
   <string name="quit_player">Afsluiten</string>
   <string name="quit_warining">Speler zal stoppen na %d minuut(en)</string>
@@ -236,7 +236,7 @@
   <string name="rename_playlist_menu">Naam wijzigen</string>
   <string name="retry">Opnieuw proberen</string>
   <string name="ringtone_menu">Gebruiken als toon</string>
-  <string name="ringtone_not_support">Ringtone type niet ondersteund</string> 
+  <string name="ringtone_not_support">Ringtone type niet ondersteund</string>
   <string name="ringtone_set">"'%s' is ingesteld als beltoon."</string>
   <string name="save">Opslaan</string>
   <string name="scanning">Scannen van SD-kaart...</string>

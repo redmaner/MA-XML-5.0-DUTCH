@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_abnormal_state">Fout in account informatie, probeer opnieuw in te loggen.</string>
   <string name="all_resources">Alle</string>
@@ -32,7 +32,7 @@
   <string name="description_summary">Verslag:</string>
   <string name="description_uploadtime">Update:</string>
   <string name="description_version">Versie:</string>
-  <string name="description_version_szie">Versie: %1$s Grootte: %2$s</string> 
+  <string name="description_version_szie">Versie: %1$s Grootte: %2$s</string>
   <string name="desktop_wallpaper">Achtergrond</string>
   <string name="download_failed">Download mislukt!</string>
   <string name="download_preview_failed">Voorbeelden laden mislukt</string>
@@ -68,7 +68,7 @@
   <string name="resource_comment_average_score">Gemiddeld</string>
   <string name="resource_comment_bad_comments">Negatief</string>
   <string name="resource_comment_count">%1$s heeft een beoordeling van %2$s en commentaar (%3$s versie)</string>
-  <string name="resource_comment_current_version">Huidige versie</string> 
+  <string name="resource_comment_current_version">Huidige versie</string>
   <string name="resource_comment_description">%1$s reageer op %2$s:%3$s:%4$s</string>
   <string name="resource_comment_edit_comment">Reacties toevoegen</string>
   <string name="resource_comment_edit_comment_waiting">Gebruikersgeschiedenis controleren...</string>
@@ -91,14 +91,14 @@
   <string name="resource_comment_upload_hint">Reacties worden weergegeven na controle.</string>
   <string name="resource_comment_upload_not_bought">Gebruik dit thema eerst voordat u reageert.</string>
   <string name="resource_comment_upload_not_logined">Eerst inloggen</string>
-  <string name="resource_comment_upload_success">Reactie verzonden! Uw reactie wordt weergegeven na een standaard controle.</string> 
+  <string name="resource_comment_upload_success">Reactie verzonden! Uw reactie wordt weergegeven na een standaard controle.</string>
   <string name="resource_comment_version_name">(%1$s versie)</string>
   <string name="resource_default_name">Bron</string>
   <string name="resource_delete_all">%1$d geselecteerde bronnen verwijderen?</string>
   <string name="resource_delete_confirm">Weet u zeker dat u deze bronnen wilt verwijderen?</string>
-  <string name="resource_delta_update_failed">Patch update mislukt, volledige bron wordt gedownload</string> 
+  <string name="resource_delta_update_failed">Patch update mislukt, volledige bron wordt gedownload</string>
   <string name="resource_delta_update_successful">Patch update succesvol，opslaan %1$s.</string>
-  <string name="resource_delta_update_total">%1$d patch updates. Totaal opgeslagen %2$s</string> 
+  <string name="resource_delta_update_total">%1$d patch updates. Totaal opgeslagen %2$s</string>
   <string name="resource_detail">Details</string>
   <string name="resource_detail_comment_title">Reacties</string>
   <string name="resource_detail_jump_to_online_title">Online</string>
@@ -107,7 +107,7 @@
   <string name="resource_detail_recommend_desiner_themes">%1$s thema\'s</string>
   <string name="resource_detail_recommend_other_themes">Gebruikers vonden ook leuk</string>
   <string name="resource_detail_update_log_title">Updates</string>
-  <string name="resource_detail_window_title">%1$s details</string> 
+  <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Download</string>
   <string name="resource_downloaded_title">Gedownloade bronnen</string>
   <string name="resource_downloading">Downloaden...</string>
@@ -117,12 +117,12 @@
   <string name="resource_get_auth_exceed_max_limit_title">Autorisatie limiet bereikt!</string>
   <string name="resource_get_auth_missing">Thema is niet gedownload van de officiële thema markt, download via de officiële markt</string>
   <string name="resource_get_auth_retrieving">Autorisatie verkrijgen...</string>
-  <string name="resource_import_successful">Download succesvol.</string> 
+  <string name="resource_import_successful">Download succesvol.</string>
   <string name="resource_importing">Importeren</string>
   <string name="resource_list_title">Laatst geselecteerde</string>
   <string name="resource_local">Lokaal %1$s</string>
   <string name="resource_mute">Geen</string>
-  <string name="resource_my">Lokaal</string> 
+  <string name="resource_my">Lokaal</string>
   <string name="resource_no_result">Geen resultaat</string>
   <string name="resource_notification_default">Notificaties</string>
   <string name="resource_online">Online %1$s</string>
@@ -136,16 +136,16 @@
   <string name="resource_price_unit">MI Credits</string>
   <string name="resource_ranking">Populair</string>
   <string name="resource_ranking_free">Gratis</string>
-  <string name="resource_ranking_purchase">Betaald</string> 
+  <string name="resource_ranking_purchase">Betaald</string>
   <string name="resource_ringtone_default">Beltonen</string>
   <string name="resource_see_more">Bekijk meer</string>
   <string name="resource_select">Selecteren</string>
   <string name="resource_selected">Uitgelicht</string>
-  <string name="resource_server_alert_dialog_title">Service is momenteel niet beschikbaar</string> 
+  <string name="resource_server_alert_dialog_title">Service is momenteel niet beschikbaar</string>
   <string name="resource_server_out_of_service">Server niet beschikbaar, probeer het later opnieuw.</string>
   <string name="resource_share_subject">Thema delen: %1$s</string>
   <string name="resource_share_text">Hier is een thema die je misschien leuk vindt: %1$s! Link: %2$s</string>
-  <string name="resource_share_title">Delen</string> 
+  <string name="resource_share_title">Delen</string>
   <string name="resource_switch_account">Wisselen</string>
   <string name="resource_system_title">Systeem bronnen</string>
   <string name="resource_tip_select_ringtone">Geen beltoon geselecteerd</string>
@@ -153,12 +153,12 @@
   <string name="resource_title_select_ringtone">Selecteer beltoon</string>
   <string name="resource_update">Bijwerken</string>
   <string name="restore_default_theme_alert">U bent mogelijk het slachtoffer van thema namaak, blader door de thema markt om te kopen of om opnieuw te downloaden.</string>
-  <string name="ringtone_volume_mute">Beltoon is momenteel in stille modus.</string> 
+  <string name="ringtone_volume_mute">Beltoon is momenteel in stille modus.</string>
   <string name="sdcard_not_mounted_dialog_message">"SD-kaart niet beschikbaar, plaats een SD-kaart."</string>
-  <string name="sdcard_not_mounted_dialog_title">SD-kaart niet gevonden</string> 
+  <string name="sdcard_not_mounted_dialog_title">SD-kaart niet gevonden</string>
   <string name="sdcard_status_changed_dialog_message">"App wordt afgesloten.
 Herstart de app om bronnen te vernieuwen."</string>
-  <string name="sdcard_status_changed_dialog_title">SD-kaart status is veranderd</string> 
+  <string name="sdcard_status_changed_dialog_title">SD-kaart status is veranderd</string>
   <string name="short_ringtone_resource">Kort</string>
   <string name="theme_another_import_running">Importeren draait reeds, even geduld a.u.b. en probeer het opnieuw</string>
   <string name="theme_batch_has_update_text">Er zijn voor %1$d thema\'s nieuwe versies beschikbaar</string>
@@ -166,7 +166,7 @@ Herstart de app om bronnen te vernieuwen."</string>
   <string name="theme_batch_update_dlg_content">Wilt u nu bijwerken?</string>
   <string name="theme_batch_update_dlg_content_single">Nu bijwerken?</string>
   <string name="theme_batch_update_dlg_title">Bijwerken</string>
-  <string name="theme_batch_updating_text">%1$d thema\'s worden bijgewerkt</string> 
+  <string name="theme_batch_updating_text">%1$d thema\'s worden bijgewerkt</string>
   <string name="theme_changed_failed_message">Thema toepassen is mislukt</string>
   <string name="theme_changed_message">Thema toegepast</string>
   <string name="theme_changing_dialog_title">Configureren</string>

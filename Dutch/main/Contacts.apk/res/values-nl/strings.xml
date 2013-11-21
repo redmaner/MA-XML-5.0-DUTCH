@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_calllog_detail">Oproeplog details</string> 
+  <string name="accessibility_calllog_detail">Oproeplog details</string>
   <string name="account_abnormal_state">Abnormale account informatie, probeer opnieuw in te loggen of probeer later opnieuw!</string>
   <string name="account_container_title">Van het volgende account</string>
   <string name="account_default">Telefoon</string>
@@ -9,7 +9,7 @@
   <string name="account_type_format">%1$s contact</string>
   <string name="actionIncomingCall">Inkomende oproepen</string>
   <string name="action_menu_overflow_description">Meer opties</string>
-  <string name="activity_not_found_uri">Geen ondersteunde applicatie gevonden!</string> 
+  <string name="activity_not_found_uri">Geen ondersteunde applicatie gevonden!</string>
   <string name="activity_title_confirm_add_detail">Voeg toe aan contact</string>
   <string name="activity_title_contacts_filter">Zichtbare contacten</string>
   <string name="activity_title_settings">Instellingen</string>
@@ -23,7 +23,7 @@
   <string name="add_new_account">Nieuw account toevoegen</string>
   <string name="add_new_entry_for_section">Nieuw toevoegen</string>
   <string name="add_organization">Organisatie toevoegen</string>
-  <string name="add_slide_before">Dia toevoegen (voor)</string> 
+  <string name="add_slide_before">Dia toevoegen (voor)</string>
   <string name="add_to_my_contacts">Toevoegen aan Mijn contacten</string>
   <string name="add_wait">Wacht toevoegen</string>
   <string name="add_xiaomi_account_dialog_btn">Gebruik Xiaomi account</string>
@@ -35,7 +35,7 @@
   <string name="all_list_empty">Geen contacten</string>
   <string name="all_resources">Alle</string>
   <string name="antispam_mark_my_contribution">Mijn contributie aan de database</string>
-  <string name="antispam_provider_format">Dit gemarkeerde nummer is toegevoegd door %s</string> 
+  <string name="antispam_provider_format">Dit gemarkeerde nummer is toegevoegd door %s</string>
   <string name="attach_photo_dialog_title">Contactfoto</string>
   <string name="audio_chat">Voicechat</string>
   <string name="auto_nickname">Auto</string>
@@ -101,15 +101,15 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="callrecordview_item_op_time_short_outgoing">Uitgaande\u0020</string>
   <string name="callrecordview_menu_add_call_note">Oproep notitie toevoegen</string>
   <string name="callrecordview_menu_delete">Wis oproep</string>
-  <string name="callrecordview_menu_delete_new">Wis oproepen log van nieuwe contacten</string>
   <string name="callrecordview_menu_delete_accepted">Wis inkomende oproepen</string>
   <string name="callrecordview_menu_delete_all">Wis gesprekslog</string>
   <string name="callrecordview_menu_delete_called">Wis uitgaande oproepen</string>
   <string name="callrecordview_menu_delete_confirm" formatted="false">Wis alle gespreklogs?</string>
   <string name="callrecordview_menu_delete_missed">Wis gemiste oproepen</string>
+  <string name="callrecordview_menu_delete_new">Wis oproepen log van nieuwe contacten</string>
   <string name="callrecordview_menu_delete_one">Verwijder uit oproeplog</string>
   <string name="callrecordview_menu_delete_stranger">Wis gesprekslog van onbekende nummers</string>
-  <string name="callrecordview_menu_edit_call_note">Oproep notitie aanpassen</string> 
+  <string name="callrecordview_menu_edit_call_note">Oproep notitie aanpassen</string>
   <string name="callrecordview_menu_paste">Plakken</string>
   <string name="callrecordview_menu_settings">Instellingen</string>
   <string name="callrecordview_menu_show">Weergave filter</string>
@@ -144,7 +144,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="clearFrequentsConfirmation_title">Wis regelmatig getacteerden?</string>
   <string name="clearFrequentsProgress_title">Wissen van regelmatig gecontacteerden...</string>
   <string name="clear_default">Standaardwaarden wissen</string>
-  <string name="clear_digits">telefoonnummer wissen</string> 
+  <string name="clear_digits">telefoonnummer wissen</string>
   <string name="click_close">Klik om te sluiten</string>
   <string name="close_dial_pad">dial pad sluiten</string>
   <string name="cloud_antispam_mark">Spam</string>
@@ -153,16 +153,16 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="composer_has_no_exportable_contact">Er zijn geen exporteerbare contacten. Als u wel contacten op uw telefoon heeft opgeslagen, staat uw gegevensprovider het exporteren van contacten van de telefoon mogelijk niet toe.</string>
   <string name="composer_not_initialized">De vCard-editor is niet correct gestart.</string>
   <string name="config_export_dir">/sdcard/MIUI/contacten</string>
-  <string name="config_export_extensions_to_consider" />
+  <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix" />
-  <string name="config_export_file_suffix" />
+  <string name="config_export_file_prefix"/>
+  <string name="config_export_file_suffix"/>
   <string name="config_export_vcard_type">standaard</string>
   <string name="config_import_vcard_type">standaard</string>
-  <string name="config_prohibited_phone_number_regexp" />
+  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Weet u zeker dat u de telefoonlogs van %s wil verwijderen?</string>
   <string name="confirm_delete_selected_all_call_logs">"Weet u zeker dat u telefoonlogs van dit contact wil verwijderen"?</string>
-  <string name="confirm_delete_sim_entry_miui">%d geselecteerde contacten van de simkaart verwijderen?</string> 
+  <string name="confirm_delete_sim_entry_miui">%d geselecteerde contacten van de simkaart verwijderen?</string>
   <string name="confirm_export_message" formatted="false">Uw lijst met contacten wordt geëxporteerd naar het bestand: %s.</string>
   <string name="confirm_export_title">Contacten export.?</string>
   <string name="connections">Verbindingen</string>
@@ -198,7 +198,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="contacts_unavailable_add_account">Aanmelden bij een account</string>
   <string name="contacts_unavailable_create_contact">Maak een nieuw contact</string>
   <string name="contacts_unavailable_import_contacts">Contacten importeren uit een bestand</string>
-  <string name="context_menu_add_to_browser_favorite">Toevoegen aan browser favorieten</string> 
+  <string name="context_menu_add_to_browser_favorite">Toevoegen aan browser favorieten</string>
   <string name="copy_text">Kopiëren naar klembord</string>
   <string name="createContactShortcutSuccessful">Contact widget toegevoegd aan Home-scherm.</string>
   <string name="create_group_dialog_title">Nieuwe groep maken</string>
@@ -215,17 +215,17 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="deleteConfirmation_title">Contact verwijderen?</string>
   <string name="delete_call_log_title">Deze oproep selecteren?</string>
   <string name="delete_contact_calllog_title">"Bevestig het verwijderen van de oproep log van dit contact?"</string>
-  <string name="delete_dial_input">verwijderen</string> 
+  <string name="delete_dial_input">verwijderen</string>
   <string name="delete_duplicate">Samenvoegen</string>
   <string name="delete_duplicate_message">"Samenvoegen ... "</string>
   <string name="delete_group_dialog_message" formatted="false">"De groep '%1$s' verwijderen? (De contacten zelf worden niet verwijderd.)"</string>
   <string name="delete_group_dialog_title">Groep verwijderen</string>
   <string name="delete_selected_sim_entry_miui">Verwijder geselecteerde contacten?</string>
   <string name="delete_sim_entries_finish">Geselcteerde simkaart contacten succesvol verwijderd</string>
-  <string name="delete_sim_entry_miui">Verwijder simkaart contacten</string> 
+  <string name="delete_sim_entry_miui">Verwijder simkaart contacten</string>
   <string name="delete_unknown_contact_calllog_title">"Bevestig het verwijderen van de oproep log van dit onbekende contact?"</string>
-  <string name="deleting">Verwijderen...</string> 
-  <string name="deleting_sim_entry_miui">Contacten van simkaart verwijderen</string> 
+  <string name="deleting">Verwijderen...</string>
+  <string name="deleting_sim_entry_miui">Contacten van simkaart verwijderen</string>
   <string name="description_add_contact">Contact toevoegen</string>
   <string name="description_author">Auteur:</string>
   <string name="description_call">%1$s bellen</string>
@@ -246,7 +246,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="description_image_button_five">vijf</string>
   <string name="description_image_button_four">vier</string>
   <string name="description_image_button_nine">negen</string>
-  <string name="description_image_button_one">&#195;&#169;&#195;&#169;n</string>
+  <string name="description_image_button_one">Ã©Ã©n</string>
   <string name="description_image_button_pound">hekje</string>
   <string name="description_image_button_seven">zeven</string>
   <string name="description_image_button_six">zes</string>
@@ -265,7 +265,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="description_summary">Overzicht:</string>
   <string name="description_uploadtime">Bijgewerkt:</string>
   <string name="description_version">Versie:</string>
-  <string name="description_version_szie">Versie: %1$s Grootte: %2$s</string> 
+  <string name="description_version_szie">Versie: %1$s Grootte: %2$s</string>
   <string name="description_view_contact" formatted="false">Contact %1$s bekijken</string>
   <string name="description_view_contact_detail">Contact weergeven</string>
   <string name="description_voicemail_button">voicemail</string>
@@ -293,7 +293,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="device_version_header_bluetooth">open bluetooth op uw telefoon</string>
   <string name="device_version_header_no_bluetooth">Contacen importeren van simkaart</string>
   <string name="device_version_title">selecteer mobiele telefoon versie</string>
-  <string name="dial">bellen</string> 
+  <string name="dial">bellen</string>
   <string name="dialerDialpadHintText">Oproep toevoegen</string>
   <string name="dialerIconLabel">Recent</string>
   <string name="dialerKeyboardHintText">Gebruik toetsen om te kiezen</string>
@@ -316,7 +316,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="dirty_contacts_notification_message">(Zet geen herinnering bij contacten instelling)</string>
   <string name="dirty_contacts_notification_title">sync contacten?</string>
   <string name="display_all_contacts">Alle contacten</string>
-  <string name="display_more_groups">Meer groepen&#226;&#8364;&#166;</string>
+  <string name="display_more_groups">Meer groepenâ€¦</string>
   <string name="display_only_phones">Toon alleen contacten met een telefoonnummer</string>
   <string name="display_options_sort_by_family_name">Achternaam</string>
   <string name="display_options_sort_by_given_name">Roepnaam</string>
@@ -328,7 +328,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="display_ungrouped">Alle andere contacten</string>
   <string name="display_warn_remove_ungrouped" formatted="false">"Als u '%s' verwijdert uit de synchronisatie, worden ook contacten die niet bij een groep horen uit de synchronisatie verwijderd."</string>
   <string name="dlg_add_blacklist">Geselecteerd nummer toevoegen aan blacklist?</string>
-  <string name="dlg_remove_blacklist">Geselecteerd nummer verwijderen van blacklist?</string> 
+  <string name="dlg_remove_blacklist">Geselecteerd nummer verwijderen van blacklist?</string>
   <string name="download_failed">Download mislukt!</string>
   <string name="download_preview_failed">Laden preview mislukt</string>
   <string name="duplicate_group_name">Groepnaam bestaat al</string>
@@ -350,7 +350,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Export naar simkaart voltooid</string>
   <string name="export_sim_contact_finish_failure">Simkaart opslag is vol, voltooid: %1$d resterende: %2$d</string>
-  <string name="export_sim_contact_finish_success">%d contact(s) gekopiëerd van simkaart</string> 
+  <string name="export_sim_contact_finish_success">%d contact(s) gekopiëerd van simkaart</string>
   <string name="export_sim_contacts_dialog_message">Uw simkaart kan %d contacten bevatten, weet u zeker dat u wilt doorgaan?</string>
   <string name="export_to_sdcard">Exporteren naar opslag</string>
   <string name="export_to_sim">Exporteer naar simkaart</string>
@@ -377,11 +377,11 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="fail_reason_too_many_vcard">Er staan te veel vCard-bestanden in de opslag.</string>
   <string name="fail_reason_unknown">Onbekende fout.</string>
   <string name="fail_reason_vcard_parse_error">Om onbekende redenen kon de vCard niet ingelezen worden.</string>
-  <string name="fail_to_add_account">Contact toevoegen mislukt!</string> 
+  <string name="fail_to_add_account">Contact toevoegen mislukt!</string>
   <string name="favoritesFrequentCalled">Vaak gebeld</string>
   <string name="favoritesFrequentContacted">Regelmatig contact</string>
   <string name="favorites_list_empty">Geen favorieten</string>
-  <string name="forward_from">Vooruit van:</string> 
+  <string name="forward_from">Vooruit van:</string>
   <string name="foundTooManyContacts" formatted="false">Meer dan %d gevonden.</string>
   <string name="frequency_none">Geen herinnering</string>
   <string name="frequency_three_days">Iedere 3 dagen checken</string>
@@ -416,7 +416,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="hint_findContacts">Contacten vinden</string>
   <string name="hint_more_contact">gebruik contacten samenvoegen bij dubbele contacten</string>
   <string name="hint_search_contacts">%d contacten</string>
-  <string name="hint_search_emails">%d E-mails</string> 
+  <string name="hint_search_emails">%d E-mails</string>
   <string name="hint_search_phone_numbers">%d contact telefoonnummers</string>
   <string name="ic_menu_back">Vorige</string>
   <string name="ic_menu_done">Voltooid</string>
@@ -431,11 +431,11 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="import_from_sim">Importeren van simkaart</string>
   <string name="import_multiple_vcard_string">Meerdere vCard-bestanden importeren</string>
   <string name="import_name">naam</string>
-  <string name="import_one_vcard_string">E&#195;&#169;n vCard-bestand importeren</string>
+  <string name="import_one_vcard_string">EÃ©n vCard-bestand importeren</string>
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Importeer geselecteerde contacten</string>
   <string name="import_sim_entries_finish">Importeren simkaart contacten succesvol voltooid</string>
-  <string name="import_sim_entry_miui">Importeer van simkaart</string> 
+  <string name="import_sim_entry_miui">Importeer van simkaart</string>
   <string name="import_to_xiaomi_account_confirm">Importeer</string>
   <string name="import_to_xiaomi_account_progress_finish">Importeren voltooid</string>
   <string name="import_to_xiaomi_account_progress_message">Importeren...</string>
@@ -447,13 +447,13 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="import_weibo_error_no_network">Contacten bijwerken voltooid: netwerk problemen</string>
   <string name="import_weibo_error_no_xiaomi_phone">Contacten bijwerken voltooid: geen telefoonnummers gevonden onder Xiaomi account</string>
   <string name="import_weibo_error_unknown">Contacten bijwerken voltooid: onbekende fout</string>
-  <string name="import_weibo_error_user_cancel">Contacten bijwerken voltooid: door gebruiker gestopt</string> 
+  <string name="import_weibo_error_user_cancel">Contacten bijwerken voltooid: door gebruiker gestopt</string>
   <string name="import_weibo_fetch_followers">Sina Weibo volgers verkrijgen...</string>
   <string name="import_weibo_notification_title">Sina weibo contacten importeren...</string>
   <string name="import_weibo_notification_title_done">Importeren voltooid</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
-  <string name="importing_sim_contacts_miui">Importeren simkaart contacten...</string> 
+  <string name="importing_sim_contacts_miui">Importeren simkaart contacten...</string>
   <string name="importing_vcard_canceled_title" formatted="false">Importeren van %s geannuleerd</string>
   <string name="importing_vcard_description" formatted="false">%s importeren</string>
   <string name="importing_vcard_finished_title" formatted="false">Importeren van vCard %s voltooid</string>
@@ -486,7 +486,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="loading_group_members">Groepsleden laden...</string>
   <string name="loading_groups">Groepen laden...</string>
   <string name="loading_recent">Recente contacten laden...</string>
-  <string name="loading_resource_detail_fail">Hulpbron laden mislukt!</string> 
+  <string name="loading_resource_detail_fail">Hulpbron laden mislukt!</string>
   <string name="loading_resource_detail_info">Hulpbron info laden...</string>
   <string name="local_invisible_directory">Overig</string>
   <string name="local_profile_title">Mijn lokale profiel</string>
@@ -534,7 +534,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="menu_new_group_action_bar">Nieuw</string>
   <string name="menu_not_redirect_calls_to_vm">Oproepen die niet naar voicemail zijn verbonden</string>
   <string name="menu_redirect_calls_to_vm">Alle oproepen naar voicemail</string>
-  <string name="menu_refresh">Vernieuwen</string> 
+  <string name="menu_refresh">Vernieuwen</string>
   <string name="menu_removeStar">Uit favorieten verwijderen</string>
   <string name="menu_search">Zoeken</string>
   <string name="menu_select_all">Selecteer alles</string>
@@ -686,10 +686,10 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="pref_summary_import_from_account">Importeer contacten uit Google en Exchange accounts naar mijn Xiaomi Account</string>
   <string name="pref_title_account_import">Importeer uit account</string>
   <string name="pref_title_card_format">Kaart formaat voor delen</string>
-  <string name="pref_title_fwd_sender_info">Vooruit Verzender Info</string> 
+  <string name="pref_title_fwd_sender_info">Vooruit Verzender Info</string>
   <string name="pref_title_import_from_account">Importeer naar Xiaomi account</string>
   <string name="pref_title_miui_card">Verzenden via MIUI kaart</string>
-  <string name="pref_title_vcard">Verzenden via vKaart</string> 
+  <string name="pref_title_vcard">Verzenden via vKaart</string>
   <string name="preference_auto_ip_summary_disable">Niet ingeschakeld</string>
   <string name="preference_auto_ip_summary_on">"Providers IP voorvoegsel: %s"</string>
   <string name="preference_auto_ip_title">Automatisch IP</string>
@@ -734,14 +734,14 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="processing">Verwerken...</string>
   <string name="profile_display_name">Mijn profiel instellen</string>
   <string name="profile_name">Mijn profiel</string>
-  <string name="profile_name_photo">I</string> 
+  <string name="profile_name_photo">I</string>
   <string name="progress_notifier_message" formatted="false">Importeren %s/%s: %s</string>
   <string name="quickcontact_missing_app">Er is geen app gevonden om deze actie uit te voeren.</string>
   <string name="quit_dialog_confirm_title">Contact samenvoegen afsluiten?</string>
   <string name="readOnlyContactDeleteConfirmation">Dit contact bevat gegevens uit meerdere accounts. Gegevens uit alleen-lezen accounts worden verborgen in uw contactenlijst, maar niet verwijderd.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" bevat informatie uit meerdere accounts. Informatie uit alleen-lezen accounts zal worden verborgen in uw contactlijst maar niet worden verwijdert.</string>
   <string name="readOnlyContactWarning">U kunt contacten niet verwijderen uit alleen-lezen-accounts, maar u kunt ze verbergen in uw contactenlijst.</string>
-  <string name="readingSimContacts">Simkaart informatie lezen, een moment geduld...</string> 
+  <string name="readingSimContacts">Simkaart informatie lezen, een moment geduld...</string>
   <string name="reading_vcard_canceled_title">Lezen vCard-data geannuleerd</string>
   <string name="reading_vcard_failed_title">Kan vCard-gegevens niet lezen</string>
   <string name="rebuild_t9_index_dialog_message">T9 index data opnieuw opbouwen…</string>
@@ -759,12 +759,12 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="recent_number">Recent</string>
   <string name="recent_updates">Recente updates</string>
   <string name="redirect_calls_to_vm_confirm_message">Als u de provider nog niet op de hoogte hebt gebracht van dit werk, zet het dit niet aan. Anders kunt u misschien geen oproepen ontvangen van dit contact.</string>
-  <string name="redirect_calls_to_vm_confirm_text">Aanzetten</string> 
+  <string name="redirect_calls_to_vm_confirm_text">Aanzetten</string>
   <string name="relationLabelsGroup">Relatie</string>
   <string name="remind_btn_ignore">Negeren</string>
   <string name="remind_btn_sync_now">Nu</string>
   <string name="removePhoto">Foto verwijderen</string>
-  <string name="remove_blacklist">Verwijderen van blacklist</string> 
+  <string name="remove_blacklist">Verwijderen van blacklist</string>
   <string name="remove_duplicate">"MIUI zal u helpen met vinden en samenvoegen van dubbele contacten, contacten zullen niet automatisch samengevoegd worden. Om contacten samen te voegen dient u dit handmatig te doen"</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Resource Browser</string>
@@ -803,13 +803,13 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_comment_upload_hint">Reacties worden weergegeven na controle.</string>
   <string name="resource_comment_upload_not_bought">Gebruik dit thema eerst voordat u reageert.</string>
   <string name="resource_comment_upload_not_logined">Eerst inloggen</string>
-  <string name="resource_comment_upload_success">Reactie verzonden! Uw reactie wordt weergegeven na een standaard controle.</string> 
+  <string name="resource_comment_upload_success">Reactie verzonden! Uw reactie wordt weergegeven na een standaard controle.</string>
   <string name="resource_default">Standaard ringtone</string>
   <string name="resource_default_name">Hulpbron</string>
   <string name="resource_delete_all">Weet u zeker dat u %1$d geselecteerde hulpbron wilt verwijderen?</string>
   <string name="resource_delete_confirm">Weet u zeker dat u deze hulpbronnen wilt verwijderen?</string>
   <string name="resource_delta_update_failed">Patch update mislukt! De complete hulpbron wordt nu gedownload!</string>
-  <string name="resource_delta_update_successful">Patch update succesvol，opslaan %1$s.</string> 
+  <string name="resource_delta_update_successful">Patch update succesvol，opslaan %1$s.</string>
   <string name="resource_delta_update_total">%1$d patch updates. Totaal opgeslagen %2$s</string>
   <string name="resource_detail">Details</string>
   <string name="resource_detail_comment_title">Reacties</string>
@@ -819,11 +819,11 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_detail_recommend_desiner_themes">%1$s thema\'s</string>
   <string name="resource_detail_recommend_other_themes">Gebruikers vonden ook leuk</string>
   <string name="resource_detail_update_log_title">Updates</string>
-  <string name="resource_detail_window_title">%1$s details</string> 
+  <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Downloaden</string>
   <string name="resource_downloaded_title">Hulpbronnen gedownload...</string>
   <string name="resource_downloading">Downloaden...</string>
-  <string name="resource_expand_full_text">Vergroten</string> 
+  <string name="resource_expand_full_text">Vergroten</string>
   <string name="resource_get_auth_checking">Autorisatie controleren...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Thema kan niet toegepast worden op het appraat met uw account. Probeer een ander Xiaomi account a.u.b.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Geautoriseerd limiet bereikt!</string>
@@ -834,7 +834,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_list_title">Laatst geselecteerde</string>
   <string name="resource_local">Lokaal %1$s</string>
   <string name="resource_mute">Geen</string>
-  <string name="resource_my">Lokaal</string> 
+  <string name="resource_my">Lokaal</string>
   <string name="resource_no_result">Geen resultaat</string>
   <string name="resource_notification_default">Notificaties</string>
   <string name="resource_online">Online %1$s</string>
@@ -847,16 +847,16 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_price_unit">MI Credits</string>
   <string name="resource_ranking">Populair</string>
   <string name="resource_ranking_free">Gratis</string>
-  <string name="resource_ranking_purchase">Betaald</string> 
+  <string name="resource_ranking_purchase">Betaald</string>
   <string name="resource_ringtone_default">Ringtones</string>
   <string name="resource_see_more">Bekijk meer</string>
   <string name="resource_select">Selecteren</string>
   <string name="resource_selected">Uitgelicht</string>
-  <string name="resource_server_alert_dialog_title">Service is momenteel niet beschikbaar</string> 
+  <string name="resource_server_alert_dialog_title">Service is momenteel niet beschikbaar</string>
   <string name="resource_server_out_of_service">Server niet beschikbaar, probeer het later opnieuw.</string>
   <string name="resource_share_subject">Thema delen: %1$s</string>
   <string name="resource_share_text">Hier is een thema die je misschien leuk vindt: %1$s! Link: %2$s</string>
-  <string name="resource_share_title">Delen</string> 
+  <string name="resource_share_title">Delen</string>
   <string name="resource_switch_account">Wisselen</string>
   <string name="resource_system_title">Systeem hulpbronnen</string>
   <string name="resource_tip_select_ringtone">Geen ringtone geselecteerd</string>
@@ -866,15 +866,15 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="resource_waiting_download">Wachten op download...</string>
   <string name="restore_nickname">Herstellen</string>
   <string name="restore_to_phone_memory_failed">Herstellen naar telefoon geheugen mislukt!</string>
-  <string name="restored_to_phone_memory">Hersteld naar telefoon geheugen</string> 
+  <string name="restored_to_phone_memory">Hersteld naar telefoon geheugen</string>
   <string name="ret_sign">" "</string>
   <string name="returnCall">Terugbellen</string>
   <string name="ringLabelsGroup">ring</string>
-  <string name="ringtone_volume_mute">Beltoon is momenteel in stille modus.</string> 
+  <string name="ringtone_volume_mute">Beltoon is momenteel in stille modus.</string>
   <string name="save">Opslaan</string>
   <string name="save_photo_progress">Foto opslaan...</string>
   <string name="save_to_sim_failed">Oplaan op simkaart mislukt! Hersteld naar telefoon geheugen</string>
-  <string name="saved_to_sim">Opgeslagen op simkaart!</string> 
+  <string name="saved_to_sim">Opgeslagen op simkaart!</string>
   <string name="savingContact">Contact opslaan…</string>
   <string name="savingDisplayGroups">Weergaveopties opslaan...</string>
   <string name="scan">scan apparaat</string>
@@ -884,10 +884,9 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="scanning_sdcard_failed_message" formatted="false">"De opslag kan niet worden gescand. (Reden: '%s')"</string>
   <string name="scanning_sdcard_failed_title">Kan opslag niet scannen</string>
   <string name="sdcard_not_mounted_dialog_message">"SD-kaart niet beschikbaar, plaats een SD-kaart."</string>
-  <string name="sdcard_not_mounted_dialog_title">SD-kaart niet gevonden</string> 
+  <string name="sdcard_not_mounted_dialog_title">SD-kaart niet gevonden</string>
   <string name="sdcard_status_changed_dialog_message">"Deze app wordt afgesloten. Heropen de app om hulpronnen te vernieuwen."</string>
   <string name="sdcard_status_changed_dialog_title">SD-kaart status veranderd</string>
-  <string name="selected_resource_file_invalid">Geselecteerd bestand is ongeldig.</string> 
   <string name="searchHint">Contacten zoeken</string>
   <string name="search_results_searching">Zoeken...</string>
   <string name="search_settings_description">Namen van uw contacten</string>
@@ -900,14 +899,15 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="select_photo_from_photo_package">Selecteer foto van foto pakket</string>
   <string name="select_show_contacts">Toon contact</string>
   <string name="select_vcard_title">vCard-bestand kiezen</string>
+  <string name="selected_resource_file_invalid">Geselecteerd bestand is ongeldig.</string>
   <string name="send_contact_shortcut_todesktop_success">Snelkoppeling voor contact succesvol geplaatst</string>
   <string name="send_to_voicemail_checkbox">Verbind oproepen direct door naar voicemail</string>
   <string name="separatorJoinAggregateAll">Alle contacten</string>
   <string name="separatorJoinAggregateSuggestions">Mogelijke contacten</string>
   <string name="service_provider">Service provider</string>
   <string name="set_default">Standaard instellen</string>
-  <string name="set_photo_failed_msg">Avatar instellen mislukt</string> 
-  <string name="set_smsc_address_title_miui">SMS centrum nummer instellen</string> 
+  <string name="set_photo_failed_msg">Avatar instellen mislukt</string>
+  <string name="set_smsc_address_title_miui">SMS centrum nummer instellen</string>
   <string name="share_error">Dit contact kan niet worden gedeeld.</string>
   <string name="share_via">Contact delen via</string>
   <string name="share_visible_contacts">Zichtbare contacten delen</string>
@@ -923,11 +923,11 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="sim_capacity_content" formatted="false">Totale capaciteit %d, gebruikt %d</string>
   <string name="sim_card1">Simkaart 1</string>
   <string name="sim_card2">Simkaatt 2</string>
-  <string name="sim_card_cloud">%s (Cloud Bericht)</string> 
+  <string name="sim_card_cloud">%s (Cloud Bericht)</string>
   <string name="sim_card_no_free_space_message">Uw simkaart is vol, niet mogelijk nieuwe contacten te importeren. Wis uw simkaart en probeer opnieuw</string>
   <string name="sim_card_no_free_space_title">simkaart vol</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Alles deselecteren</string>
-  <string name="sim_contact_dropdown_menu_select_all_miui">Alles selecteren</string> 
+  <string name="sim_contact_dropdown_menu_select_all_miui">Alles selecteren</string>
   <string name="sim_contact_search_error">Fout bij zoeken van contacten op simkaart</string>
   <string name="sim_contacts">Simkaart Contacten</string>
   <string name="sim_error_anr_full">Opslag voor nummer is vol!</string>
@@ -937,11 +937,11 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="sim_error_number_too_long">Simkaart nummer is te lang!</string>
   <string name="sim_error_password_error">Simkaart wachtwoord fout.</string>
   <string name="sim_error_storage_full">Simkaart opslag is vol!</string>
-  <string name="sim_error_text_too_long">Naam is te lang!</string> 
+  <string name="sim_error_text_too_long">Naam is te lang!</string>
   <string name="sim_export_loading">Simkaart informatie wordt gelezen. Even geduld, dit kan een minuut duren.</string>
   <string name="sim_indexed_contact_not_exist">Positie %1$d op simkaart is niet correct, hoort tussen %2$d en %3$d</string>
   <string name="sim_no_contact">Geen contacten op simkaart</string>
-  <string name="sina_weibo">Sina Weibo</string> 
+  <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Geen groepsleden</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s</string>
   <string name="smart_group_company_label">Op bedrijf</string>
@@ -1010,7 +1010,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="type_incoming">Inkomende oproep</string>
   <string name="type_missed">Oproep gemist</string>
   <string name="type_outgoing">Uitgaand gesprek</string>
-  <string name="type_vcard">vKaart</string> 
+  <string name="type_vcard">vKaart</string>
   <string name="type_voicemail">Voicemail</string>
   <string name="unknown">Onbekend</string>
   <string name="unknown_contact_name">Onbekend contact</string>
@@ -1033,8 +1033,8 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="viewContactTitle">Details van contact</string>
   <string name="view_updates_from_group">Updates bekijken</string>
   <string name="voicemail">Voicemail</string>
-  <string name="voicemail_buffering">In buffer opslaan&#226;&#8364;&#166;</string>
-  <string name="voicemail_fetching_content">Voicemail ophalen&#226;&#8364;&#166;</string>
+  <string name="voicemail_buffering">In buffer opslaanâ€¦</string>
+  <string name="voicemail_fetching_content">Voicemail ophalenâ€¦</string>
   <string name="voicemail_fetching_timout">Kan voicemail niet ophalen.</string>
   <string name="voicemail_playback_error">Kan voicemail niet afspelen.</string>
   <string name="voicemail_speed_faster">Hoge snelheid</string>

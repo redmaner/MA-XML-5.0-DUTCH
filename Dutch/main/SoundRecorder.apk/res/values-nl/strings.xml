@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">Verwijder geselecteerde opname?</string>
   <string name="app_name">Geluidsrecorder</string>
@@ -21,7 +21,7 @@
   <string name="dialog_warning">Waarschuwing</string>
   <string name="duration_format_hour">%sh</string>
   <string name="duration_format_minute">%sm</string>
-  <string name="duration_format_second">%ss</string> 
+  <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Interne toepassingsfout</string>
   <string name="error_app_internal_title">Geluidsrecorder fout</string>
   <string name="error_mediadb_new_record">Kan opgenomen audio niet opslaan</string>
@@ -46,17 +46,17 @@
   <string name="open_file_explorer">Open Bestanden</string>
   <string name="overwrite_dialog_message" formatted="false">%s bestaat al. Wilt u het overschrijven?</string>
   <string name="pause">Pauzeren</string>
-  <string name="play_record">Afspelen</string> 
+  <string name="play_record">Afspelen</string>
   <string name="preference_enable_earpiece_summary">Gebruik ontvanger voor extern afspelen</string>
-  <string name="preference_enable_earpiece_title">Gebruik ontvanger om audio af te spelen</string> 
+  <string name="preference_enable_earpiece_title">Gebruik ontvanger om audio af te spelen</string>
   <string name="preference_led_indicator">Opname indicator wanneer scherm is vergrendeld</string>
   <string name="preference_led_indicator_prompt">Toon LED en statusbalk indicators bij opnemen en scherm vergrendeld is</string>
   <string name="preference_record_scenes_dialog_title">Selecteer een opname scene</string>
   <string name="preference_record_type_dialog_title">Selecteer een opname type</string>
-  <string name="preference_record_type_title">Opname type</string> 
+  <string name="preference_record_type_title">Opname type</string>
   <string name="preference_scenes">Instellingen voor scenes</string>
   <string name="preference_silent_mode">Stille modus opname</string>
-  <string name="preference_silent_mode_summary">Instellen om stille modus opname in te schakelen</string> 
+  <string name="preference_silent_mode_summary">Instellen om stille modus opname in te schakelen</string>
   <string name="record_list">Opname lijst</string>
   <string name="record_loading">Opname laden, moment geduld.</string>
   <string name="record_name_hour">.</string>
@@ -69,20 +69,20 @@
   <string name="rename_duplicate">Dubbele opname naam, opnieuw invoeren a.u.b.:</string>
   <string name="rename_illegal">Illegale opname naam, opnieuw invoeren a.u.b.:</string>
   <string name="sd_card_not_available">SD-kaart niet beschikbaar</string>
-  <string name="search_for_recordings_in_folders">In mappen zoeken naar opnames</string> 
+  <string name="search_for_recordings_in_folders">In mappen zoeken naar opnames</string>
   <string name="second" formatted="false">%d seconden</string>
   <string name="send_to">verzend naar</string>
   <string name="sound_recorder_settings">Opname Instellingen</string>
-  <string name="start_recording">Opname starten</string> 
+  <string name="start_recording">Opname starten</string>
   <string name="status_bar_anti_disturb">Telefoon staat op stil, pas volume aan om te hervatten.</string>
   <string name="status_bar_back">Klik om terug te keren naar Recorder</string>
   <string name="status_bar_recording">Opnemen...</string>
   <string name="status_bar_recording_pause">"Opname is gepauzeerd. "</string>
-  <string name="stop_recording">Opname stoppen</string> 
+  <string name="stop_recording">Opname stoppen</string>
   <string name="storage_is_full">Opslag is vol</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="toast_max_record_time">App: %1$s maximale ondersteunde opname tijd %2$s</string> 
+  <string name="toast_max_record_time">App: %1$s maximale ondersteunde opname tijd %2$s</string>
   <string name="toast_uninstall_fileexplorer">Bestandsbeheer is niet geïnstalleerd!</string>
   <string name="unknown_caller">Onbekende beller</string>
-  <string name="view_list_of_recordings">Opnames bekijken</string> 
+  <string name="view_list_of_recordings">Opnames bekijken</string>
 </resources>

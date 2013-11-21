@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_account_desc">Notities kunnen gesynchroniseerd worden met uw Xiaomi account. Nu inloggen en synchroniseren?</string>
   <string name="alert_action_edit_anyway">Doorgaan met aanpassen</string>
@@ -9,10 +9,10 @@
   <string name="alert_message_delete_note">Wissen bevestigen?</string>
   <string name="alert_message_delete_notes">Bevestig wissen van de geselecteerde %d notities?</string>
   <string name="alert_message_discard_changes">Alle veranderingen weggooien?</string>
-  <string name="alert_message_edit_anyway">Deze notitie bevat inhoud die niet wordt ondersteund, aanpassen kan resulteren in gegevensverlies.</string> 
+  <string name="alert_message_edit_anyway">Deze notitie bevat inhoud die niet wordt ondersteund, aanpassen kan resulteren in gegevensverlies.</string>
   <string name="alert_title_delete">Verwijder geselecteerde notitie</string>
   <string name="alert_title_discard">Veranderingen weggooien?</string>
-  <string name="alert_title_edit_anyway">Bevestig aanpassen notitie, dit kan dataverlies veroorzaken, weet u het zeker?</string> 
+  <string name="alert_title_edit_anyway">Bevestig aanpassen notitie, dit kan dataverlies veroorzaken, weet u het zeker?</string>
   <string name="app_name">Notities</string>
   <string name="app_widget">Notities</string>
   <string name="attachment_camera">Camera</string>
@@ -26,13 +26,13 @@
   <string name="dlg_title_confirm_alarm_silent">Wilt u alarmen dempen in stille modus?</string>
   <string name="enable_sync">Sync</string>
   <string name="enable_sync_desc">Notities kunnen gesynchroniseerd worden met uw Xiaomi account %1$s, nu synchroniseren?</string>
-  <string name="error_contact_not_exist">Het contact bestaat niet</string> 
+  <string name="error_contact_not_exist">Het contact bestaat niet</string>
   <string name="error_note_empty_for_clock">Sorry, kan de klok niet instellen op een lege notitie</string>
   <string name="error_note_empty_for_send_to_desktop">Sorry, kan geen lege notitie verzenden naar homescreen</string>
   <string name="error_note_not_exist">De notitie bestaat niet</string>
   <string name="error_sdcard_export">Exporteren mislukt, controleer SD-kaart</string>
   <string name="error_sdcard_unmounted">SD-kaart bezig, niet beschikbaar</string>
-  <string name="error_unsupport_content">Deze notitie bevat inhoud die niet wordt ondersteund, klik om het systeem te upgraden</string> 
+  <string name="error_unsupport_content">Deze notitie bevat inhoud die niet wordt ondersteund, klik om het systeem te upgraden</string>
   <string name="error_widget_exist_for_send_to_desktop">Deze notitie bestaat al op de desktop</string>
   <string name="failed_sdcard_export">Exporteren mislukt</string>
   <string name="file_name_txt_format">notities_%s.txt</string>
@@ -72,12 +72,12 @@
   <string name="notelist_string_info">...</string>
   <string name="notify_alarm_action_mute">Dempen</string>
   <string name="notify_alarm_action_view">Bekijken</string>
-  <string name="notify_alarm_title">Alarm herinnering</string> 
-  <string name="pref_desc_alarm_when_silent">Alarmen zullen klinken in stille modus</string> 
+  <string name="notify_alarm_title">Alarm herinnering</string>
+  <string name="pref_desc_alarm_when_silent">Alarmen zullen klinken in stille modus</string>
   <string name="pref_desc_mode_grid">Rooster</string>
   <string name="pref_desc_mode_list">Lijst</string>
   <string name="pref_title_alarm_when_silent">Alarm in stille modus</string>
-  <string name="pref_title_common">Normale instellingen</string> 
+  <string name="pref_title_common">Normale instellingen</string>
   <string name="pref_title_data_export">Gegevens export</string>
   <string name="pref_title_data_export_to_sdcard">Exporteer notitie naar SD-kaart</string>
   <string name="pref_title_font_size">Lettertype grootte</string>
@@ -95,8 +95,8 @@
   <string name="time_picker_dialog_title">Notificatie tijd instellen</string>
   <string name="toast_folder_privacy_mode">Kan map niet aanpassen in bewakings modus</string>
   <string name="toast_message_add_image_fail">afbeelding invoegen mislukt!</string>
-  <string name="toast_note_privacy_mode">Kan notitie niet aanpassen in bewakings modus</string> 
-  <string name="toast_privacy_mode">Kan geen notitie bewerken in bewakings modus</string> 
+  <string name="toast_note_privacy_mode">Kan notitie niet aanpassen in bewakings modus</string>
+  <string name="toast_privacy_mode">Kan geen notitie bewerken in bewakings modus</string>
   <string name="toast_reach_text_limit_attachment">De inhoud van deze notitie is te lang om nieuwe bijlagen toe te voegen.</string>
   <string name="toast_reach_text_limit_truncate">"De inhoud van deze notitie is geknipt omdat deze te lang is."</string>
   <string name="widget_havenot_content">Geen bijbehorende notitie gevonden, klik om te bijbehorende notitie te maken</string>

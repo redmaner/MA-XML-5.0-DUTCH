@@ -1,28 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-   <string name="app_label">Opslag contacten</string>
-   <string name="call_log_provider_label">Bel log</string>
-   <string name="create_contact">Nieuw contact aanmaken</string>
-   <string name="debug_dump_database_message">U staat op het punt om 1) een kopie te maken van uw database met alle contact gerelateerde informatie en oproeplogs op het interne geheugen, en 2) de database e-mailen. Onthoud om de kopie te verwijderen zodra u het succesvol hebt gekopiëerd van het apparaat of de email is ontvangen.</string>
-   <string name="debug_dump_delete_button">Nu verwijderen</string>
-   <string name="debug_dump_email_body">Mijn contacten database met al mijn contacten informatie is bijgevoegd. Gebruik het met zorg.</string>
-   <string name="debug_dump_email_sender_picker">Kies een programma om uw bestand te verzenden</string>
-   <string name="debug_dump_email_subject">Contacten DB bijgevoegd</string>
-   <string name="debug_dump_start_button">Start</string>
-   <string name="debug_dump_title">Contacten database kopiëren</string>
-   <string name="default_directory">Contacten</string>
-   <string name="edit_contact">Contact bewerken</string>
-   <string name="local_invisible_directory">Overig</string>
-   <string name="pound_search_tip">Voer een nummer in om te zoeken</string>
-   <string name="provider_label">Contacten</string>
-   <string name="read_write_all_voicemail_description">Hiermee kan de app alle voicemails opslaan en ophalen waartoe dit apparaat toegang heeft.</string>
-   <string name="read_write_all_voicemail_label">Toegang tot alle voicemails</string>
-   <string name="send_sms">Bericht versturen</string>
-   <string name="sharedUserLabel">Kernapps van Android</string>
+  <string name="app_label">Opslag contacten</string>
+  <string name="call_log_provider_label">Bel log</string>
+  <string name="create_contact">Nieuw contact aanmaken</string>
+  <string name="debug_dump_database_message">U staat op het punt om 1) een kopie te maken van uw database met alle contact gerelateerde informatie en oproeplogs op het interne geheugen, en 2) de database e-mailen. Onthoud om de kopie te verwijderen zodra u het succesvol hebt gekopiëerd van het apparaat of de email is ontvangen.</string>
+  <string name="debug_dump_delete_button">Nu verwijderen</string>
+  <string name="debug_dump_email_body">Mijn contacten database met al mijn contacten informatie is bijgevoegd. Gebruik het met zorg.</string>
+  <string name="debug_dump_email_sender_picker">Kies een programma om uw bestand te verzenden</string>
+  <string name="debug_dump_email_subject">Contacten DB bijgevoegd</string>
+  <string name="debug_dump_start_button">Start</string>
+  <string name="debug_dump_title">Contacten database kopiëren</string>
+  <string name="default_directory">Contacten</string>
+  <string name="edit_contact">Contact bewerken</string>
+  <string name="local_invisible_directory">Overig</string>
+  <string name="pound_search_tip">Voer een nummer in om te zoeken</string>
+  <string name="provider_label">Contacten</string>
+  <string name="read_write_all_voicemail_description">Hiermee kan de app alle voicemails opslaan en ophalen waartoe dit apparaat toegang heeft.</string>
+  <string name="read_write_all_voicemail_label">Toegang tot alle voicemails</string>
+  <string name="send_sms">Bericht versturen</string>
+  <string name="sharedUserLabel">Kernapps van Android</string>
   <string name="third_party_delete_contact_info">\"%s\" is uw Xiaomi contacten aan het verwijderen, gebruik uw systeem Contacten voor een betere beveiliging van uw contacten.</string>
-   <string name="upgrade_msg">Contactendatabase bijwerken.</string>
-   <string name="upgrade_out_of_memory_notification_text">Selecteer om de upgrade te voltooien.</string>
-   <string name="upgrade_out_of_memory_notification_ticker">Voor het bijwerken van contacten is meer geheugen nodig</string>
-   <string name="upgrade_out_of_memory_notification_title">Contactopslag bijwerken</string>
-   <string name="voicemail_from_column">"Voicemail van "</string>
+  <string name="upgrade_msg">Contactendatabase bijwerken.</string>
+  <string name="upgrade_out_of_memory_notification_text">Selecteer om de upgrade te voltooien.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Voor het bijwerken van contacten is meer geheugen nodig</string>
+  <string name="upgrade_out_of_memory_notification_title">Contactopslag bijwerken</string>
+  <string name="voicemail_from_column">"Voicemail van "</string>
 </resources>

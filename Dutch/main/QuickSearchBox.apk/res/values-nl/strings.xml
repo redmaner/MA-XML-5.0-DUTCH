@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Zoek</string>
-  <string name="apps_search_activity" />
+  <string name="apps_search_activity"/>
   <string name="clear_shortcuts">Wis snelkoppelingen</string>
   <string name="clear_shortcuts_agree">Wis snelkoppelingen</string>
   <string name="clear_shortcuts_disagree">"Niet wissen"</string>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_contact_backup_info">Gegevens (Backup Xiaomi en Gmail info)</string>
   <string name="account_login">Log in</string>
@@ -38,10 +38,10 @@
   <string name="backup_report">Backup rapport</string>
   <string name="backup_update">Update</string>
   <string name="batch_delete_backup_confirm">\nWeet u zeker dat u de geselecteerde backup wilt verwijderen?</string>
-  <string name="button_abandon">Onderbreken</string> 
+  <string name="button_abandon">Onderbreken</string>
   <string name="button_backup">Backup</string>
   <string name="button_cancel">Annuleren</string>
-  <string name="button_delete">Verwijderen</string> 
+  <string name="button_delete">Verwijderen</string>
   <string name="button_finish">Voltooien</string>
   <string name="button_next">Volgende</string>
   <string name="button_ok">OK</string>
@@ -66,7 +66,7 @@
   <string name="cloud_app_function_summary">Wanneer u een backup maakt van uw gegevens in de cloud, kunt u het snel herstellen op elk apparaat.</string>
   <string name="cloud_app_invalid_op">"U kunt geen cloud gegevens bekijken tijdens een backup of herstel."</string>
   <string name="cloud_app_just_show_in_current_device">Alleen apps weergeven op dit apparaat</string>
-  <string name="cloud_app_mine">Gedownloade apps</string> 
+  <string name="cloud_app_mine">Gedownloade apps</string>
   <string name="cloud_app_name">Cloud Backup</string>
   <string name="cloud_app_no_data">Geen gegevens.</string>
   <string name="cloud_app_other_devices">Andere apparaten</string>
@@ -87,7 +87,7 @@
   <string name="cloud_app_restore_summary">Restore previously installed apps and associated user data</string>
   <string name="cloud_app_restore_wifi_prompt">Verbinden met Wi-Fi om apps en gebruikersgegevens te herstellen.</string>
   <string name="cloud_app_total_size">Totale MiCloud backup grootte: %1$s</string>
-  <string name="cloud_app_version_size">Versie: %1$s, Grootte: %2$s</string> 
+  <string name="cloud_app_version_size">Versie: %1$s, Grootte: %2$s</string>
   <string name="cloud_backup_hint">Log in om uw backups veilig op te slaan en te herstellen</string>
   <string name="cloud_backup_login">Log in met Xiaomi account</string>
   <string name="cloud_backup_window_title">Cloud backup</string>
@@ -105,7 +105,7 @@
   <string name="current_account">Ingelogd als: %s</string>
   <string name="current_sim">Huidige simkaart</string>
   <string name="customization">&lt;u&gt;Aanpassen&lt;/u&gt;</string>
-  <string name="customization_under_wifi_prompt">Alleen ondersteund via Wi-Fi</string> 
+  <string name="customization_under_wifi_prompt">Alleen ondersteund via Wi-Fi</string>
   <string name="data_no_enough_space">Niet genoeg interne opslag ruimte vrij, maak ruimte vrij en probeer het opnieuw</string>
   <string name="data_no_enough_space_message">Herstellen kan mislukken,  maak wat interne ruimte vrij en probeer het opnieuw</string>
   <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
@@ -128,10 +128,10 @@
   <string name="findlost_contact_online">Herstel verwijderde contacten van cloud</string>
   <string name="guarded_mode_dialog_message">Kan niet backup/herstel in bewaakte modus</string>
   <string name="guarded_mode_dialog_title">Bewaakte modus</string>
-  <string name="import_from_xiaomi_account_hint_title">Gebruik MiTalk voor backup van contacten op andere telefoons, niet MI-ONE</string>
   <string name="import_from_xiaomi_account_hint1">1.\u0009Open contacten\n 2.\u0009Installeer MiTalk en log in.\n \u0009http://www.miliao.com\n 3.\u0009Onder MiTalk\n instellingen: kies ”Back-up contacten naar Xiaomi account”</string>
   <string name="import_from_xiaomi_account_hint2">Opmerking: Ga naar volgende stap als backup al bestaat</string>
-  <string name="just_support_op_with_wifi_connected">Alleen ondersteund via Wi-Fi</string> 
+  <string name="import_from_xiaomi_account_hint_title">Gebruik MiTalk voor backup van contacten op andere telefoons, niet MI-ONE</string>
+  <string name="just_support_op_with_wifi_connected">Alleen ondersteund via Wi-Fi</string>
   <string name="local_app_name">Backup</string>
   <string name="local_backup_window_title">Lokale backup gegevens</string>
   <string name="local_home_title">Lokale Backup</string>
@@ -145,7 +145,7 @@
   <string name="miliao_account_login">Login bij MiTalk</string>
   <string name="mms_title">Multimedia Berichten</string>
   <string name="multi_select_title">%1$s items geselecteerd</string>
-  <string name="my_phone">Mijn apparaat</string> 
+  <string name="my_phone">Mijn apparaat</string>
   <string name="no_encrypt_password">Geen wachtwoord codering</string>
   <string name="no_network">Netwerk fout\n Controleer de verbinding en probeer opnieuw</string>
   <string name="note_title">Notities</string>

@@ -879,7 +879,7 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="enable_anti_spam_summary">Berichten filter ingeschakeld</string>
   <string name="enable_anti_spam_title">Filter ongewenste berichten</string>
   <string name="enable_app_permission_summary">23 apps worden bewaakt</string>
-  <string name="enable_app_permission_title">Machtigingen monitor ingeschakeld</string>  
+  <string name="enable_app_permission_title">Machtigingen monitor ingeschakeld</string>
   <string name="enable_compatibility">App schalen</string>
   <string name="enable_drive_mode">Auto modus inschakelen</string>
   <string name="enable_firewall">Blokkeer ongewenste oproepen</string>
@@ -1476,8 +1476,8 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="percentage">%d%%</string>
   <string name="perm">Machtigingen</string>
   <string name="perm_app">Apps</string>
-  <string name="perm_app_name">Machtigingen</string>
   <string name="perm_app_header">Machtigingen Beheer</string>
+  <string name="perm_app_name">Machtigingen</string>
   <string name="perm_app_title">Beheer App Machtigingen</string>
   <string name="perm_auto_start">Beheer App Autostart</string>
   <string name="perm_auto_start_desc">In-/uitschakelen app autostart functie</string>
@@ -1968,7 +1968,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="recognizer_settings_title">Spraakgestuurd zoeken</string>
   <string name="recognizer_title">Spraakherkenning</string>
   <string name="recompute_size">Grootte opnieuw berekenen...</string>
-  <string name="remove">Verwijderen</string> 
+  <string name="remove">Verwijderen</string>
   <string name="remove_account_failed">"Dit account is vereist voor sommige apps. U kunt het account alleen verwijderen door de telefoon te herstellen naar de fabrieksinstellingen (al uw persoonlijke gegevens worden gewist). U kunt dit doen via 'Instellingen' &gt; 'Back-up en herstel'."</string>
   <string name="remove_account_label">Account verwijderen</string>
   <string name="remove_all_keywords">Alle trefwoorden verwijderen?</string>

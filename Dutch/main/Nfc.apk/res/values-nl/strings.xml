@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">NFC-service</string>
-    <string name="nfcUserLabel">NFC</string>
-    <string name="inbound_me_profile_title">Contact ontvangen via NFC</string>
-    <string name="inbound_me_profile_text">Tik om deze persoon toe te voegen als contact.</string>
-    <string name="outbound_me_profile_title">NFC-interactie voltooid</string>
-    <string name="outbound_me_profile_text">Tik om deze persoon uw contactgegevens te geven.</string>
-    <string name="accessibility_nfc_enabled">NFC ingeschakeld.</string>
-    <string name="touch">Tik om uit te zenden</string>
-    <string name="beam_progress">Inkomende beam…</string>
-    <string name="beam_complete">Beam voltooid</string>
-    <string name="beam_failed">Beam mislukt</string>
-    <string name="beam_canceled">Beam geannuleerd</string>
-    <string name="cancel">Annuleren</string>
-    <string name="beam_touch_to_view">Tik om te bekijken</string>
-    <string name="beam_handover_not_supported">Het apparaat van de ontvanger ondersteunt de overdracht van grote bestanden via Beam niet.</string>
-    <string name="connecting_headset">Verbinding maken</string>
-    <string name="connected_headset">Verbonden</string>
-    <string name="connect_headset_failed">Kan geen verbinding maken</string>
-    <string name="disconnecting_headset">Loskoppelen</string>
-    <string name="disconnected_headset">Losgekoppeld</string>
-    <string name="pairing_headset">Koppelen</string>
-    <string name="pairing_headset_failed">Kan niet koppelen</string>
-    <string name="failed_to_enable_bt">Kan bluetooth niet inschakelen</string>
-    <string name="confirm_pairing">Weet u zeker dat u het bluetoothapparaat %1$s wilt koppelen?</string>
-    <string name="pair_yes">Ja</string>
-    <string name="pair_no">Nee</string>
+  <string name="accessibility_nfc_enabled">NFC ingeschakeld.</string>
+  <string name="app_name">NFC-service</string>
+  <string name="beam_canceled">Beam geannuleerd</string>
+  <string name="beam_complete">Beam voltooid</string>
+  <string name="beam_failed">Beam mislukt</string>
+  <string name="beam_handover_not_supported">Het apparaat van de ontvanger ondersteunt de overdracht van grote bestanden via Beam niet.</string>
+  <string name="beam_progress">Inkomende beam…</string>
+  <string name="beam_touch_to_view">Tik om te bekijken</string>
+  <string name="cancel">Annuleren</string>
+  <string name="confirm_pairing">Weet u zeker dat u het bluetoothapparaat %1$s wilt koppelen?</string>
+  <string name="connect_headset_failed">Kan geen verbinding maken</string>
+  <string name="connected_headset">Verbonden</string>
+  <string name="connecting_headset">Verbinding maken</string>
+  <string name="disconnected_headset">Losgekoppeld</string>
+  <string name="disconnecting_headset">Loskoppelen</string>
+  <string name="failed_to_enable_bt">Kan bluetooth niet inschakelen</string>
+  <string name="inbound_me_profile_text">Tik om deze persoon toe te voegen als contact.</string>
+  <string name="inbound_me_profile_title">Contact ontvangen via NFC</string>
+  <string name="nfcUserLabel">NFC</string>
+  <string name="outbound_me_profile_text">Tik om deze persoon uw contactgegevens te geven.</string>
+  <string name="outbound_me_profile_title">NFC-interactie voltooid</string>
+  <string name="pair_no">Nee</string>
+  <string name="pair_yes">Ja</string>
+  <string name="pairing_headset">Koppelen</string>
+  <string name="pairing_headset_failed">Kan niet koppelen</string>
+  <string name="touch">Tik om uit te zenden</string>
 </resources>

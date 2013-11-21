@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="FMRecording_reach_storage_threshold">Opname is gestopt. De vrije schijfruimte op uw SD-kaart is beperkt.</string>
   <string name="access_sd_fail">Kon SD-kaart niet benaderen</string>
   <string name="alert_dialog_cancel">Annuleren</string>
   <string name="alert_dialog_ok">OK</string>
-  <string name="alert_invalid_frequency">Ongeldige frequentie!</string> 
+  <string name="alert_invalid_frequency">Ongeldige frequentie!</string>
   <string name="alert_message_delete_station">Station verwijderen?</string>
   <string name="alert_title_delete">Verwijderen</string>
   <string name="alert_title_new_station">Nieuw station</string>
@@ -24,7 +24,7 @@
   <string name="context_menu_item_edit">Aanpassen</string>
   <string name="context_menu_item_favorite">Toevoegen aan presets</string>
   <string name="context_menu_item_unfavorite">Verwijderen van presets</string>
-  <string name="context_menu_title">%s MHz</string> 
+  <string name="context_menu_title">%s MHz</string>
   <string name="default_audio">Stereo</string>
   <string name="default_band">Verenigde Staten</string>
   <string name="default_blank"/>
@@ -53,9 +53,9 @@
   <string name="frequency_should_not_null">Radio frequentie niet gevuld</string>
   <string name="frequency_string"/>
   <string name="hint_frequency">Frequentie: %1$s ~ %2$s</string>
-  <string name="hint_label">Label</string> 
+  <string name="hint_label">Label</string>
   <string name="hint_station_name">Station naam</string>
-  <string name="increase_af">Frequentie verhogen</string> 
+  <string name="increase_af">Frequentie verhogen</string>
   <string name="input_station">Geef radio frequentie (MHz)</string>
   <string name="label_recording">Opnemen: %s</string>
   <string name="menu_add_list">Lijst toevoegen</string>
@@ -71,7 +71,7 @@
   <string name="menu_reorder_list">Herorden Lijst</string>
   <string name="menu_save_station">Opslaan in lijst</string>
   <string name="menu_save_station_list">Station opslaan in lijst</string>
-  <string name="menu_save_station_presets">Toevoegen aan station presets</string> 
+  <string name="menu_save_station_presets">Toevoegen aan station presets</string>
   <string name="menu_scan_for_preset">Scan voor Voorisntellingen</string>
   <string name="menu_scan_start">Scannen</string>
   <string name="menu_scan_stop">Stop Zoeken</string>
@@ -81,7 +81,7 @@
   <string name="menu_sleep_cancel">Slapen annuleren</string>
   <string name="menu_stats">FM RF Stats</string>
   <string name="msg_callactive">FM Tx is niet ondersteund tijdens een oproep</string>
-  <string name="msg_do_not_support_fm">FM is niet ondersteund op dit apparaat.</string> 
+  <string name="msg_do_not_support_fm">FM is niet ondersteund op dit apparaat.</string>
   <string name="msg_headsetpluggedin">Ontkoppel alle headsets voor het gebruik van FM Tx</string>
   <string name="msg_noantenna_message">Sluit een hoofdtelefoon aan voor gebruik.</string>
   <string name="msg_scanning">Scannen naar alle FM Stations</string>
@@ -91,23 +91,23 @@
   <string name="msg_searching_title">Auto-Selecteer presets</string>
   <string name="msg_seeking">Zoeken naar FM Station</string>
   <string name="msg_weak_searching">Zoeken naar frequenties om te zenden</string>
-  <string name="new_frequency">Nieuwe frequentie</string> 
-  <string name="next_station">Volgende station</string> 
+  <string name="new_frequency">Nieuwe frequentie</string>
+  <string name="next_station">Volgende station</string>
   <string name="no_storage">Koppel SD-kaart voordat opname begint.</string>
-  <string name="pre_station">Vorige station</string> 
+  <string name="pre_station">Vorige station</string>
   <string name="preparing_sd">SD-kaart voorbereiden</string>
   <string name="preset_delete">Verwijderen</string>
   <string name="preset_replace">Vervangen</string>
   <string name="preset_tune">Afstemmen</string>
   <string name="presetlist_autoselect_title">Bevestig Auto-Select</string>
   <string name="radio_text_string">Dit is het lange Radio Tekst String Bericht dat moet scrollen</string>
-  <string name="record_error_file_removed">Opname gestopt. Opgenomen bestand is verwijderd.</string> 
+  <string name="record_error_file_removed">Opname gestopt. Opgenomen bestand is verwijderd.</string>
   <string name="record_error_unknown">Opname gestopt. Onbekende fout tijdens opname.</string>
   <string name="record_fail">Opname mislukt</string>
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Klik om bestand te bekijken %s</string>
   <string name="record_sucess">Opname succesvol</string>
-  <string name="reduce_af">Frequentie verlagen</string> 
+  <string name="reduce_af">Frequentie verlagen</string>
   <string name="regional_band">Regionale Band zal alle opgeslagen stations wissen</string>
   <string name="search_dialog_title">Stations scannen</string>
   <string name="sel_audio_output">Audio Uitvoer selecteren</string>
@@ -121,7 +121,7 @@
   <string name="spaceIsLow_content">Uw SD-kaart is bijna vol. Wijzig de kwaliteitsinstelling of verwijder afbeeldingen of andere bestanden.</string>
   <string name="stat_notif_frequency">: %1$s MHz</string>
   <string name="stat_notif_tx_frequency">FM Zend uit op: %1$s</string>
-  <string name="station_check_favorite">Toevoegen aan favorieten</string> 
+  <string name="station_check_favorite">Toevoegen aan favorieten</string>
   <string name="station_edit">Wijzigen</string>
   <string name="station_freq_format">%sMHz</string>
   <string name="station_move">Verplaatsen</string>
@@ -134,26 +134,26 @@
   <string name="test_prompt">Test kiezen</string>
   <string name="test_run">Test uitvoeren</string>
   <string name="title_select_station">Station selecteren - %s</string>
-  <string name="toast_added_to_list">Toegevoegd aan station lijst</string> 
+  <string name="toast_added_to_list">Toegevoegd aan station lijst</string>
   <string name="toast_added_to_presets">Toegevoegd aan presets</string>
-  <string name="toast_channel_searched">%1$d stations gescand.</string> 
+  <string name="toast_channel_searched">%1$d stations gescand.</string>
   <string name="toast_delete_station">%sMHz gewist</string>
   <string name="toast_edit_station">Veranderingen zijn opgeslagen</string>
   <string name="toast_fm_not_stated">FM niet bekend</string>
   <string name="toast_fm_recorder_internal_error">FM opname fout!</string>
-  <string name="toast_fm_recorder_storage_full">Geheugen vol, kan niet opnemen!</string> 
+  <string name="toast_fm_recorder_storage_full">Geheugen vol, kan niet opnemen!</string>
   <string name="toast_fm_seeking">Station zoeken, een moment geduld...</string>
   <string name="toast_fm_starting">FM app starten, een moment geduld...</string>
   <string name="toast_fm_stoping">FM app afsluiten, een moment geduld...</string>
-  <string name="toast_removed_from_presets">Verwijderd van presets</string> 
+  <string name="toast_removed_from_presets">Verwijderd van presets</string>
   <string name="toast_save_station">%s MHz station opgeslagen</string>
   <string name="toast_sleep_mode">Stop FM in %s</string>
-  <string name="toast_sleep_mode_exit">Slaap modus geannuleerd.</string> 
+  <string name="toast_sleep_mode_exit">Slaap modus geannuleerd.</string>
   <string name="transmit_msg_string">Uitzenden op:</string>
   <string name="turn_off_fm">FM uitzetten</string>
   <string name="turn_off_speaker_phone">Telefoon speaker uitzetten</string>
   <string name="turn_on_fm">FM aanzetten</string>
-  <string name="turn_on_speaker_phone">Telefoon speaker aanzetten</string> 
+  <string name="turn_on_speaker_phone">Telefoon speaker aanzetten</string>
   <string name="type_rd"/>
-  <string name="view_stations_list">Station lijst bekijken</string> 
+  <string name="view_stations_list">Station lijst bekijken</string>
 </resources>

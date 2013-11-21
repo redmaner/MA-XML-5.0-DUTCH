@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_denied">Toegang geweigerd</string>
   <string name="access_token_expired_warning">Weibo account is verlopen</string>
-  <string name="access_token_invalid_warning">Weibo account is ongeldig</string> 
+  <string name="access_token_invalid_warning">Weibo account is ongeldig</string>
   <string name="account">Account</string>
-  <string name="account_detail">Xiaomi account: %1$s</string> 
+  <string name="account_detail">Xiaomi account: %1$s</string>
   <string name="account_dspt">"Xiaomi Account kan uw berichten, contacten, foto's, etc. synchroniseren"</string>
   <string name="account_hint_text">E-mail/Telefoon nummer</string>
   <string name="account_name">Account: %1$s</string>
@@ -13,7 +13,7 @@
   <string name="activate_phone_send_sms_fail">Activatie SMS verzenden mislukt, kan sync service niet openen</string>
   <string name="activate_phone_send_sms_failed_notif">Activatie SMS verzenden mislukt</string>
   <string name="activate_phone_server_error">Server fout, kan sync service niet openen</string>
-  <string name="activate_phone_server_error_notif">Server fout</string> 
+  <string name="activate_phone_server_error_notif">Server fout</string>
   <string name="activate_status_desc_acquire_phone_number">Telefoonnummer verkrijgen van server</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Server fout tijdens het verkrijgen van telefoonnummer.</string>
   <string name="activate_status_desc_acquire_phone_number_server_error_wait">Server fout tijdens het verkrijgen van telefoonnummer. Wachten om opnieuw te proberen...</string>
@@ -65,14 +65,14 @@
   <string name="btn_wait_call">Wachten</string>
   <string name="btn_wait_call_count">Wachten (%1$s)</string>
   <string name="btn_wait_confirm">Wachten...</string>
-  <string name="btn_wait_confirm_count">Wachten (%1$s)</string> 
-  <string name="button_cancel">Annuleren</string> 
+  <string name="btn_wait_confirm_count">Wachten (%1$s)</string>
+  <string name="button_cancel">Annuleren</string>
   <string name="captcha">Captcha code</string>
   <string name="check_phone_error_title">Inschakelen van de synchronisatie service is mislukt</string>
   <string name="check_phone_io_error">Netwerk fout</string>
   <string name="checking_account">"Account verifiëren..."</string>
   <string name="checking_input">Invoer controleren...</string>
-  <string name="cloud_messaging">MiCloud berichten</string> 
+  <string name="cloud_messaging">MiCloud berichten</string>
   <string name="cmcc_data_sync_notice">Gebruik uw Xiaomi account om berichten, contacten en andere gegevens te synchroniseren. Geniet ondertussen van Xiaomi cloud services.</string>
   <string name="cmcc_micloud_dspt">Cloud services bevat mobiele synchronisatie, apparaat locatie en andere functies. U kunt ook online uw gegevens beheren wanneer u maar wilt!</string>
   <string name="completed">Voltooien</string>
@@ -113,7 +113,7 @@
   <string name="find_device_notice_p3">Zoek, blokkeer of wis de data op het toestel</string>
   <string name="find_device_success_title">Lokaliseren van het toestel is geactiveerd</string>
   <string name="find_password_on_web_msg">Bezoek account.xiaomi.com om uw wachtwoord te herstellen</string>
-  <string name="forget_password">" "<u>Wachtwoord vergeten</u>" "</string>
+  <string name="forget_password">" "&lt;u&gt;Wachtwoord vergeten&lt;/u&gt;" "</string>
   <string name="get_back_pwd">Account wachtwoord herstellen</string>
   <string name="header_data_and_synchronization">Data &amp; synchronisatie</string>
   <string name="i_know">Ok</string>
@@ -121,7 +121,7 @@
   <string name="input_password_hint">Typ wachtwoord</string>
   <string name="input_vcode_hint">Typ vertificatie code</string>
   <string name="input_vcode_prompt">Typ vertificatie code</string>
-  <string name="int_phone_user_notice">Als u registreert met een telefoonnummer buiten China voer dan uw land code in, bijv. +31xxxxxxxxx</string> 
+  <string name="int_phone_user_notice">Als u registreert met een telefoonnummer buiten China voer dan uw land code in, bijv. +31xxxxxxxxx</string>
   <string name="internet_comm">Berichten services</string>
   <string name="internet_message">MiCloud berichten</string>
   <string name="label_order_name">Productnaam:</string>
@@ -134,7 +134,7 @@
 
 Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze gegevens permanent verwijderd worden. Het is aanbevolen de synchronisatie te herstellen om de veiligheid van uw gegevens te waarborgen"</string>
   <string name="master_alert_notif_title">De gegevens zijn al %s dagen niet gesynchroniseerd</string>
-  <string name="memu_refresh">Vernieuwen</string> 
+  <string name="memu_refresh">Vernieuwen</string>
   <string name="mibi_license_message">Xiaomi MiCredit service. Door op Ok te klikken gaat u akkoord met %1$s.</string>
   <string name="mibi_license_message_span">MiCredit Gebruiker overeenkomst</string>
   <string name="mibi_license_title">MiCredit Gebruiker overeenkomst</string>
@@ -150,7 +150,7 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="micloud_activating_account_notify_title">Uw Xiaomi account activeren...</string>
   <string name="micloud_active_alert_title">Activeer uw account</string>
   <string name="micloud_active_email_sent_1">We hebben een activatie link gestuurd naar:</string>
-  <string name="micloud_active_email_sent_2" />
+  <string name="micloud_active_email_sent_2"/>
   <string name="micloud_active_email_visit">Bezoek %d</string>
   <string name="micloud_activing_account">Activeer uw accout</string>
   <string name="micloud_activing_account_delayed">"Het duurt ongeveer 30 seconden om de activatie te voltooien. U kunt iets anders doen..."</string>
@@ -158,7 +158,7 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="micloud_click_email">Klik op de link om uw Xiaomi Account te activeren</string>
   <string name="micloud_click_email_to_valid">Klik op de activatie link in de e-mail</string>
   <string name="micloud_delete_account">Herroep account</string>
-  <string name="micloud_dspt">Cloud services bevat MiCloud berichten, mobiele sync, lokaliseren apparaat en andere functies. U kunt ook uw mobiele data beheren wanneer u wilt!</string> 
+  <string name="micloud_dspt">Cloud services bevat MiCloud berichten, mobiele sync, lokaliseren apparaat en andere functies. U kunt ook uw mobiele data beheren wanneer u wilt!</string>
   <string name="micloud_email">E-mail Adres</string>
   <string name="micloud_error_email">Ongeldige e-mail</string>
   <string name="micloud_error_empty_captcha_code">Typ captcha code.</string>
@@ -184,7 +184,7 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="micloud_summary">Login met Xiaomi account om contacten en Galarij Albums te synchroniseren en voor andere functies.</string>
   <string name="micloud_use_existing">Bestaand</string>
   <string name="micloud_via_int_sms_alert">"Een SMS zal worden verstuurd naar uw apparaat op uw provider's berichten tarief. Weet u zeker dat u wilt doorgaan?"</string>
-  <string name="micloud_via_sms_alert">Een SMS zal worden verstuurd om uw telefoon nummer te valideren. Weet u zeker dat u wilt doorgaan?</string> 
+  <string name="micloud_via_sms_alert">Een SMS zal worden verstuurd om uw telefoon nummer te valideren. Weet u zeker dat u wilt doorgaan?</string>
   <string name="micloud_welcome_skip_login">Sla registratie over</string>
   <string name="mili_center">Mi Credit</string>
   <string name="msg_denomination_type">Mi Credit</string>
@@ -206,7 +206,7 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="msg_telecom_picker_hint_1_2">automatischuw service provider benaderen.</string>
   <string name="msg_telecom_picker_hint_2_1">Uw network provider is benaderd!</string>
   <string name="msg_telecom_picker_hint_2_2">U ontvangt binnenkort een bevestigings bericht.</string>
-  <string name="msg_telecom_sending">Uw netwerk provider benaderen...</string> 
+  <string name="msg_telecom_sending">Uw netwerk provider benaderen...</string>
   <string name="my_mili_record">Mijn MiCredit</string>
   <string name="my_xiaomi_account">Mijn huidige Xiaomi account</string>
   <string name="next">Volgende</string>
@@ -247,7 +247,7 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="prepaid_picker_title_default">Selecteer top-up bedrag</string>
   <string name="prepaid_picker_title_selected">Top-up bedrag</string>
   <string name="prev">Vorige</string>
-  <string name="process_result">Resultaat:</string> 
+  <string name="process_result">Resultaat:</string>
   <string name="progress_bankcall_card_creating">Bestelling genereren...</string>
   <string name="progress_bankcall_card_querying">Bankrekening type verkrijgen, een moment geduld...</string>
   <string name="progress_connecting">Verbinden...</string>
@@ -293,7 +293,7 @@ We zullen het binnen twee werkdagen voor u controleren"</string>
   <string name="recharge_notification">Opwaarderen van %1$s MiCredit</string>
   <string name="recharge_other">Selecteer andere betalingswijze</string>
   <string name="recharge_pcpay_summary">Betaling via de computer ondersteund andere methoden en limieten</string>
-  <string name="recharge_pcpay_title">Opwaarderen via computer</string> 
+  <string name="recharge_pcpay_title">Opwaarderen via computer</string>
   <string name="recharge_prepaid_summary">China Mobile, China Unicom en China Telecom opwaardeer kaarten ondersteund</string>
   <string name="recharge_prepaid_title">Prepaid opwaardeerkaarten</string>
   <string name="recharge_record">Opwaardeer Geschiedenis</string>
@@ -308,14 +308,14 @@ We zullen het binnen twee werkdagen voor u controleren"</string>
   <string name="reg_success_summary">Uw telefoonnummer %1$s is al in gebruik door MiLock waar u uw telefoonnummer kunt gebruiken om in te loggen en uw wachtwoord kunt herstellen.</string>
   <string name="reg_type_email">Registreer via e-mail</string>
   <string name="reg_type_phone">Registreer via telefoon nummer (aanbevolen)</string>
-  <string name="reging">Registreren, moment geduld...</string> 
+  <string name="reging">Registreren, moment geduld...</string>
   <string name="relogin">Login</string>
   <string name="remove_account_notice">Wat wilt u doen met eerder gesynchroniseerde berichten, contacten, oproepenlog en notities op uw apparaat?</string>
   <string name="remove_confirm">Verwijderen</string>
   <string name="remove_unactivated_account_notice">Het Xiaomi account is niet geactiveerd, wilt u het verwijderen?</string>
   <string name="removing_account">Account verwijderen...</string>
   <string name="restoreSync">Synchronisatie Herstellen</string>
-  <string name="send_int_sms_for_sync_notice">"Een SMS zal worden verstuurd naar uw apparaat op uw provider's berichten tarief. Weet u zeker dat u wilt doorgaan?"</string> 
+  <string name="send_int_sms_for_sync_notice">"Een SMS zal worden verstuurd naar uw apparaat op uw provider's berichten tarief. Weet u zeker dat u wilt doorgaan?"</string>
   <string name="send_sms_for_sync_notice">Een activatie SMS moet worden verstuurd, akkoord?</string>
   <string name="send_sms_for_sync_title">Synchronisatie service niet geactiveerd</string>
   <string name="service_error">Service fout</string>
@@ -336,7 +336,7 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="sync_on">Aan</string>
   <string name="sync_sub_dspt">Er zal een SMS verzonden worden om de service te activeren</string>
   <string name="sync_sub_int_dspt">Er wordt een internationale SMS verzonden om de service te activeren</string>
-  <string name="title">titel</string> 
+  <string name="title">titel</string>
   <string name="title_mili_center">MiCredit centrum</string>
   <string name="title_pay">Afrekenen met MiCredits</string>
   <string name="title_pay_record">%1$s betaal geschiedenis items</string>
@@ -351,14 +351,14 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="unbind">De-autoriseer</string>
   <string name="update_contacts">Contacten bijwerken</string>
   <string name="update_contacts_description">Update uw telefoon contacten en andere informatie</string>
-  <string name="updated_contacts">%s contacten bijgewerkt</string> 
+  <string name="updated_contacts">%s contacten bijgewerkt</string>
   <string name="updated_nothing">Niks bijgewerkt!</string>
   <string name="user_agreement_p1">"Door in te loggen, gaat u akkoord met  "</string>
   <string name="user_agreement_p2">Xiaomi Servicevoorwaarden</string>
   <string name="user_agreement_p3"> en </string>
   <string name="user_agreement_p4">Privacybeleid</string>
   <string name="user_agreement_p5">"Door in te loggen, gaat u akkoord met  "</string>
-  <string name="value">Hoeveelheid</string> 
+  <string name="value">Hoeveelheid</string>
   <string name="vcode">Verificatie code</string>
   <string name="vcode_notification_title">Uw login verificatie is niet compleet</string>
   <string name="vcode_prompt_long">Typ vertificatie code die is gegenereerd via Xiaomi veiligheids token</string>
@@ -372,5 +372,5 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="wrong_captcha">Ongeldige captcha code</string>
   <string name="wrong_vcode">Ongeldige Vcode</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
-  <string name="xmpp_server_addr" />
+  <string name="xmpp_server_addr"/>
 </resources>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account">Account</string>
   <string name="account_delete_dlg_instructions_fmt">Account \"%s\" wordt gewist van de E-mail</string>
@@ -196,7 +196,7 @@
   <string name="attachment_info_malware">U kunt dit bericht niet opslaan of openen omdat dit type bijlage schadelijke software kan bevatten.</string>
   <string name="attachment_info_no_intent">Er is geen app geïnstalleerd die de bijlage kan openen. Download een geschikte app van Android Market.</string>
   <string name="attachment_info_policy">Deze bijlage kan niet worden opgeslagen of geopend als gevolg van het beveiligingsbeleid van dit account.</string>
-  <string name="attachment_info_sideload_disabled">"Deze bijlage is een app. U moet 'Onbekende bronnen' aanvinken in 'Instellingen' > 'Apps' voordat u de app kunt installeren."</string>
+  <string name="attachment_info_sideload_disabled">"Deze bijlage is een app. U moet 'Onbekende bronnen' aanvinken in 'Instellingen' &gt; 'Apps' voordat u de app kunt installeren."</string>
   <string name="attachment_info_unknown">Kan bijlage niet openen.</string>
   <string name="attachment_info_wifi_only">Deze bijlage is te groot om te downloaden via een mobiel netwerk. U kunt de bijlage downloaden wanneer u weer verbinding maakt met een Wi-Fi-netwerk.</string>
   <string name="attachment_info_wifi_settings">Wi-Fi-instellingen</string>
@@ -361,7 +361,7 @@ CC: %4$s
   <string name="message_compose_subject_hint">Onderwerp</string>
   <string name="message_compose_to_hint">Aan</string>
   <string name="message_decode_error">Er is een fout opgetreden tijdens het decoderen van het bericht.</string>
-  <string name="message_delete_dialog_title" />
+  <string name="message_delete_dialog_title"/>
   <string name="message_discarded_toast">Bericht gewist</string>
   <string name="message_is_empty_description">Geen onderwerp</string>
   <string name="message_list_load_more_messages_action">Laad meer berichten</string>
@@ -414,7 +414,7 @@ CC: %4$s
   <string name="move_action">Verplaatsen</string>
   <string name="move_to_folder_dialog_title">Verplaatsen naar</string>
   <string name="multiple_new_message_notification_item">"%1$s  %2$s"</string>
-  <string name="newer_action">Nieuwer</string> 
+  <string name="newer_action">Nieuwer</string>
   <string name="next_action">Volgende</string>
   <string name="notification_multiple_new_messages_fmt">%1$d nieuwe berichten</string>
   <string name="notification_to_account">naar %1$s</string>
@@ -424,7 +424,7 @@ CC: %4$s
   <string name="notify_uploads">Automatisch uploaden</string>
   <string name="ok">OK</string>
   <string name="okay_action">Ok</string>
-  <string name="older_action">Ouder</string> 
+  <string name="older_action">Ouder</string>
   <string name="password_expire_warning_content_title">Ww. schermvergr. bijna verlopen</string>
   <string name="password_expire_warning_dialog_content_fmt">U moet uw pincode of wachtwoord voor schermvergrendeling binnenkort wijzigen, anders worden de gegevens voor %s gewist. Nu wijzigen?</string>
   <string name="password_expire_warning_dialog_title">Wachtw. schermvergr. bijna verlopen</string>
@@ -557,12 +557,12 @@ CC: %4$s
   <string name="upload">Uploaden</string>
   <string name="upload_state_completed">Voltooid</string>
   <string name="upload_state_failed">Mislukt</string>
-  <string name="upload_state_queued" />
+  <string name="upload_state_queued"/>
   <string name="upload_state_uploading">Uploaden</string>
   <string name="upload_state_waiting_retry">Wachten op nieuwe poging</string>
   <string name="upload_state_waiting_wifi">Wachten op Wi-Fi</string>
-  <string name="uploading_for">" voor "<b>%s</b></string>
-  <string name="uploading_to">Uploaden naar <b>%s</b></string>
+  <string name="uploading_for">" voor "&lt;b&gt;%s&lt;/b&gt;</string>
+  <string name="uploading_to">Uploaden naar &lt;b&gt;%s&lt;/b&gt;</string>
   <string name="waitinf_for_sync_message_1">Wachten op synchronisatie</string>
   <string name="waitinf_for_sync_message_2">Uw e-mail wordt over enkele ogenblikken weergegeven.</string>
   <string name="widget_all_mail">Gecombineerde Inbox</string>

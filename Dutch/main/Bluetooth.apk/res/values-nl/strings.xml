@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ErrorTooManyRequests">Er worden te veel verzoeken verwerkt. Probeer het later nogmaals</string>
   <string name="ack_record">ACK-record</string>
@@ -21,7 +21,7 @@
   <string name="bt_enable_line1">Bluetooth inschakelen om Bluetooth-services te gebruiken</string>
   <string name="bt_enable_line2">Bluetooth inschakelen?</string>
   <string name="bt_enable_ok">Inschakelen</string>
-  <string name="bt_enable_title" />
+  <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
   <string name="bt_sm_2_1">Kan bestand van %s niet opslaan. Onvoldoende geheugen op SD-kaart</string>
@@ -45,7 +45,7 @@
   <string name="download_line1">Van: %s</string>
   <string name="download_line2">Bestand: %s</string>
   <string name="download_line3">Bestandsgrootte: %s</string>
-  <string name="download_line4" />
+  <string name="download_line4"/>
   <string name="download_line5">Bestand ontvangen...</string>
   <string name="download_ok">Verbergen</string>
   <string name="download_succ_line5">Bestand ontvangen</string>
@@ -116,9 +116,9 @@
   <string name="permlab_bluetoothShareManager">Controleer alleen op DRM-inhoud</string>
   <string name="permlab_bluetoothWhitelist">Whitelist bluetooth apparaat toegang.</string>
   <string name="permlab_handoverStatus">Ontvang BT overdracht verzending uitzendingen.</string>
-  <string name="process" />
+  <string name="process"/>
   <string name="share_prepare">Voorbereiden Bluetooth Delen</string>
-  <string name="sharedUserId" />
+  <string name="sharedUserId"/>
   <string name="start_server">TCP-server starten</string>
   <string name="status_bpp_aborted_by_printer">Afdrukken mislukt, afgebroken door de printer</string>
   <string name="status_bpp_canceled_by_user">Afdrukken geannuleerd door gebruiker</string>

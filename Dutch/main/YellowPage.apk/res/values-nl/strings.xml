@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_smart_antispam_summary">Over Slimme Antispam onbekend nummer detector</string>
-  <string name="about_telephone_fraud">Over Telefoon Fraude</string> 
+  <string name="about_telephone_fraud">Over Telefoon Fraude</string>
   <string name="agree">Accepteren</string>
   <string name="all_numbers">Alle nummers</string>
   <string name="app_label">Yellow Page</string>
@@ -20,10 +20,10 @@
   <string name="confirm_delete_all_call_log_title">Verwijderen van alle oproeplogs bevestigen?</string>
   <string name="confirm_delete_call_log_title">Oproeplog verwijderen?</string>
   <string name="confirm_to_add_blacklist">Geselecteerd nummer toevoegen aan Blacklist?</string>
-  <string name="confirm_to_remove_blacklist">Geselecteerd nummer verwijderen van blacklist?</string> 
+  <string name="confirm_to_remove_blacklist">Geselecteerd nummer verwijderen van blacklist?</string>
   <string name="contact_detail_calllog_call_note_tips">Oproep notities</string>
   <string name="contact_detail_calllog_call_record_tips">Oproeplog</string>
-  <string name="correction">Correctie</string> 
+  <string name="correction">Correctie</string>
   <string name="custom_mark_category">Aangepast</string>
   <string name="data_error">Sorry, huidige service is niet beschikbaar, probeer het later opnieuw</string>
   <string name="delete">Verwijderen</string>
@@ -42,7 +42,7 @@
   <string name="expresss_inquiry_all_logistics">Alle</string>
   <string name="expresss_inquiry_frequently_used_logistics">Veel gebruikt</string>
   <string name="login_before_recharging">U moet inloggen alvorens u kunt opwaarderen.</string>
-  <string name="login_ok">Inloggen</string> 
+  <string name="login_ok">Inloggen</string>
   <string name="mark_number_custom_dialog_maintitle">Accepteren of corrigeer de markering</string>
   <string name="mark_number_dialog_maintitle">Markeer als spam nummer en uploaden</string>
   <string name="mark_number_dialog_subtitle">Gezamenlijk ontwikkeld met Sogou</string>
@@ -51,13 +51,13 @@
   <string name="menu_add_black_list">Aan zwartelijst toevoegen</string>
   <string name="menu_call_ip_number">IP oproep (bellen %s)</string>
   <string name="menu_copy_text">Kopiëren naar klembord</string>
-  <string name="menu_correct_yellow_page">Correctie</string> 
+  <string name="menu_correct_yellow_page">Correctie</string>
   <string name="menu_delete_call_log">Verwijder oproeplogs</string>
   <string name="menu_delete_one">Verwwijder item van oproeplog</string>
   <string name="menu_refresh">Vernieuwen</string>
   <string name="menu_remove_black_list">Verwijderen van blacklist</string>
   <string name="mishop_web_payment_title">MiStore afrekenen</string>
-  <string name="module_sms_sent">Tekstbericht bezorgd</string> 
+  <string name="module_sms_sent">Tekstbericht bezorgd</string>
   <string name="network_unavaliable">Netwerk is niet beschikbaar, controleer netwerk instellingen</string>
   <string name="packages_no_package">No suitable traffic package available</string>
   <string name="packages_pay">Kopen</string>
@@ -72,7 +72,7 @@
   <string name="payment_back">Terug</string>
   <string name="payment_failed_common_problems">Een probleem heeft zich voorgedaan tijdens het betalen.</string>
   <string name="payment_unknown_status_summary">Controleer uw netwerk verbinding en probeer het opnieuw.</string>
-  <string name="payment_unknown_status_title">"Betaal status fout"</string> 
+  <string name="payment_unknown_status_title">"Betaal status fout"</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="provider_tag">Data source</string>
   <string name="recharge_actual_price">Prijs：</string>
@@ -99,19 +99,19 @@
   <string name="recharge_title">Opwaarderen</string>
   <string name="recharge_user_confirm_summary">"%1$s wordt in rekening gebracht voor RMB%2$s 
 Totaal bedrag: RMB%3$s"</string>
+  <string name="recharge_user_confirm_title">Bevestigen</string>
   <string name="remind_another_time">Niet weergeven voor dit nummer</string>
   <string name="remind_user_confirm">OK</string>
   <string name="remind_user_suspect_number_message">Criminelen kunnen iemands indentiteit stelen voor fraude, bij twijfel terugbellen om de beller te achterhalen. Banken, e-commerce bedrijven en providers vragen nooit om uw wachtwoord of bank gegevens.</string>
   <string name="remind_user_suspect_number_title">Kijk uit voor verdachte oproepen</string>
-  <string name="recharge_user_confirm_title">Bevestigen</string>
-  <string name="scan">Scannen</string> 
+  <string name="scan">Scannen</string>
   <string name="select_package_before_buy">Selecteer het pakket dat u wilt kopen</string>
   <string name="selected_category_format">%1$s(%2$d mensen zijn gemarkeerd, klik om te accepteren)</string>
   <string name="service_unavailiable">Uw huidige netwerk is niet goed, probeer het later opnieuw</string>
   <string name="smart_antispam">Identificeer onbekend nummer automatisch</string>
   <string name="sms_disabled_in_privacy_mode">Kan bericht niet verzenden in bewakings modus.</string>
   <string name="sms_send_failed">SMS verzenden mislukt!</string>
-  <string name="sms_sending">Verzenden...</string> 
+  <string name="sms_sending">Verzenden...</string>
   <string name="title_about_yellow_page">Over</string>
   <string name="toast_finish_delete_call_log">Oproeplog is verwijderd</string>
   <string name="toast_text_copied">Tekst gekopiëerd</string>
@@ -120,7 +120,7 @@ Totaal bedrag: RMB%3$s"</string>
   <string name="turn_on_smart_antispam_summary_off">Alleen de locale aanwezige nummers opvragen</string>
   <string name="turn_on_smart_antispam_summary_on">Identificeer onbekende nummers en upload uw spam nummers</string>
   <string name="turn_on_smart_antispam_title">Identificeer onbekende nummers</string>
-  <string name="unable_send_sms">Kan SMS niet verzenden.</string> 
+  <string name="unable_send_sms">Kan SMS niet verzenden.</string>
   <string name="user_notice_identify_summary_format">Identificeren van onbekende nummers is een online service，lees %1$s en %2$s voordat u het gaat gebruiken.</string>
   <string name="user_notice_yp_detail_summary_format">De gedeeltelijke info van deze yellow page moet online worden bijgewerkt, lees %1$s en %2$s, klik \"Accepteren\" betekent dat u akkoord gaat met bovenstaande inhoud en u de overeenkomst gehoorzaamd, klik \"Annuleren\" om alleen de gecachte informatie te bekijken.</string>
   <string name="voicemail">Voicemail</string>

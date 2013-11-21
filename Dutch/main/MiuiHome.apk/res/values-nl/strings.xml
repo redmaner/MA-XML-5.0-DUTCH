@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_abnormal_state">Abnormale account informatie, probeer opnieuw in te loggen of probeer het later opnieuw!</string> 
+  <string name="account_abnormal_state">Abnormale account informatie, probeer opnieuw in te loggen of probeer het later opnieuw!</string>
   <string name="activity_not_found">Applicatie is niet geïnstalleerd op uw telefoon.</string>
-  <string name="all_resources">Alle</string> 
+  <string name="all_resources">Alle</string>
   <string name="application_name">MiuiHome</string>
   <string name="aqi_quality_index_dangerous">Gevaarlijk</string>
   <string name="aqi_quality_index_good">Goed</string>
@@ -23,7 +23,7 @@
   <string name="default_folder_title_security">Security Centre</string>
   <string name="default_folder_title_tools">Tools</string>
   <string name="default_name">Standaard</string>
-  <string name="default_shortcut_title_10086">google.com</string> 
+  <string name="default_shortcut_title_10086">google.com</string>
   <string name="deleting">Verwijderen...</string>
   <string name="description_author">Auteur:</string>
   <string name="description_designer">Designer:</string>
@@ -33,7 +33,7 @@
   <string name="description_uploadtime">Update:</string>
   <string name="description_version">Versie:</string>
   <string name="download_failed">Importeren mislukt</string>
-  <string name="download_preview_failed">Voorbeeld laden mislukt</string> 
+  <string name="download_preview_failed">Voorbeeld laden mislukt</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -93,19 +93,19 @@
   <string name="home_indicator">bottom_point</string>
   <string name="install">Installeer</string>
   <string name="invalid_contact_shortcut">Ongeldig contact</string>
-  <string name="loading">Laden...</string> 
+  <string name="loading">Laden...</string>
   <string name="loading_desktop">Launcher laden...</string>
   <string name="loading_resource_detail_fail">Bron laden mislukt!</string>
   <string name="loading_resource_detail_info">Laden ...</string>
   <string name="maml_component_customization_title">Onderdeel Instellingen</string>
   <string name="menu_add">Toevoegen</string>
   <string name="menu_back_desktop">Terug naar startscherm</string>
-  <string name="menu_customize">Instellingen Aanpassen</string> 
+  <string name="menu_customize">Instellingen Aanpassen</string>
   <string name="menu_edit">Widgets toevoegen</string>
   <string name="menu_exit_scene">MiSpace afsluiten</string>
   <string name="menu_item_add_item">Toevoegen aan startscherm</string>
   <string name="menu_launcher_setting">Launcher instellingen</string>
-  <string name="menu_picktheme">Selecteer thema</string> 
+  <string name="menu_picktheme">Selecteer thema</string>
   <string name="menu_reset_scene">Reset naar standaard scene</string>
   <string name="menu_search">Zoeken</string>
   <string name="menu_settings">Instellingen</string>
@@ -113,7 +113,7 @@
   <string name="menu_wallpaper">Achtergrond</string>
   <string name="menu_workspace_preview">Voorbeeld</string>
   <string name="online_no_network">Verbinden met netwerk mislukt</string>
-  <string name="online_search_hint">Zoeken naar online bron</string> 
+  <string name="online_search_hint">Zoeken naar online bron</string>
   <string name="out_of_space">Er is geen ruimte meer op dit startscherm.</string>
   <string name="permdesc_install_shortcut">Een app toestaan snelkoppelingen toe te voegen zonder tussenkomst van de gebruiker.</string>
   <string name="permdesc_install_widget">Staat een applicatie toe widgets toe te voegen zonder de gebruiker.</string>
@@ -143,7 +143,7 @@
   <string name="pref_wallpaper_scroll_type_title">Achtergrond scroll optie</string>
   <string name="preferences_general_title">Standaard instellingen</string>
   <string name="preferences_title">Launcher instellingen</string>
-  <string name="process" />
+  <string name="process"/>
   <string name="reset_scene_prompt">De scene wordt gereset naar de standaard layout</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Resource Browser</string>
@@ -154,7 +154,7 @@
   <string name="resource_default_name">Bron</string>
   <string name="resource_delete_all">%1$d geselecteerde bronnen verwijderen?</string>
   <string name="resource_delete_confirm">Weet u zeker dat u deze bronnen wilt verwijderen?</string>
-  <string name="resource_delta_update_failed">Delta update mislukt, volledige bron wordt gedownload</string> 
+  <string name="resource_delta_update_failed">Delta update mislukt, volledige bron wordt gedownload</string>
   <string name="resource_delta_update_successful">Delta update succesvol，opslaan %1$s.</string>
   <string name="resource_detail">Details</string>
   <string name="resource_download">Download</string>
@@ -165,7 +165,7 @@
   <string name="resource_get_auth_exceed_max_limit_title">Autorisatie limiet bereikt!</string>
   <string name="resource_get_auth_missing">Thema is niet gedownload van de officiële thema markt, download via de officiële markt</string>
   <string name="resource_get_auth_retrieving">Autorisatie verkrijgen...</string>
-  <string name="resource_import_successful">Download succesvol.</string> 
+  <string name="resource_import_successful">Download succesvol.</string>
   <string name="resource_importing">Importeren</string>
   <string name="resource_list_title">Laatst geselecteerde</string>
   <string name="resource_local">Lokaal %1$s</string>
@@ -187,17 +187,17 @@
   <string name="resource_title">Bron Detail</string>
   <string name="resource_title_select_ringtone">Selecteer beltoon</string>
   <string name="resource_update">Bijwerken</string>
-  <string name="resource_waiting_download">Wachten...</string> 
+  <string name="resource_waiting_download">Wachten...</string>
   <string name="screen_button_disabled_message">Knoppen op het lagere scherm zijn uitgeschakeld. U kunt ze inschakelen door op \"Home\" en \"Aan/uit\" te drukken.</string>
   <string name="screen_button_enabled_message">Knoppen op het lagere scherm zijn ingeschakeld</string>
   <string name="screen_rotation_freeze_message">Scherm rotatie is vergrendeld op landschap modus</string>
-  <string name="scroll_tip_format_when_announce_accessibility">Pagina %1$d, %2$d apps</string> 
+  <string name="scroll_tip_format_when_announce_accessibility">Pagina %1$d, %2$d apps</string>
   <string name="sdcard_status_changed_dialog_message">"App wordt afgesloten.
 Herstart de app om bronnen te vernieuwen."</string>
-  <string name="sdcard_status_changed_dialog_title">SD-kaart status is veranderd</string> 
+  <string name="sdcard_status_changed_dialog_title">SD-kaart status is veranderd</string>
   <string name="select_frame">Frame</string>
   <string name="select_photo">Foto</string>
-  <string name="sharedUserId" />
+  <string name="sharedUserId"/>
   <string name="sort_by_abc">Sorteer op naam</string>
   <string name="sort_by_frequency">Sorteer op gebruik</string>
   <string name="sort_by_not_defined">Sorteer standaard</string>
@@ -220,7 +220,7 @@ Herstart de app om bronnen te vernieuwen."</string>
   <string name="status_bar_toggle_power_mid">Normaal</string>
   <string name="status_bar_toggle_power_mode">Power mode</string>
   <string name="status_bar_toggle_privacy_mode">Bewaking</string>
-  <string name="status_bar_toggle_quiet_mode">Rustmodus</string> 
+  <string name="status_bar_toggle_quiet_mode">Rustmodus</string>
   <string name="status_bar_toggle_reboot">Herstarten</string>
   <string name="status_bar_toggle_ring">Geluid</string>
   <string name="status_bar_toggle_ringtone">Ringtone</string>
@@ -235,7 +235,7 @@ Herstart de app om bronnen te vernieuwen."</string>
   <string name="status_bar_toggle_torch">Zaklamp</string>
   <string name="status_bar_toggle_vibrate">Trillen</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
-  <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string> 
+  <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
   <string name="title_select_live_folder">Selecteer map</string>
   <string name="title_select_shortcut">Snelkoppeling selecteren</string>
   <string name="toggle_select_title">Selecteer schakelaar</string>
