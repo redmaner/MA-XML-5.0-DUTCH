@@ -98,7 +98,6 @@
   <string name="resource_comment_no_comment">Geen reacties</string>
   <string name="resource_comment_publish">Verzenden</string>
   <string name="resource_comment_rate">Beoordeling:</string>
-  <string name="resource_comment_sending">Reactie toevoegen...</string>
   <string name="resource_comment_sending">Reactie versturen...</string>
   <string name="resource_comment_title">Reacties: %1$s</string>
   <string name="resource_comment_upload_data_invalid">Reactie ongeldig!</string>
