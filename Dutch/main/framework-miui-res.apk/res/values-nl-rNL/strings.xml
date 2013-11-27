@@ -329,8 +329,8 @@ vergeten"</string>
 Probeer het opnieuw over %d seconden."</string>
   <string name="lockscreen_forgot_pattern_button_text">Patroon vergeten?</string>
   <string name="lockscreen_pattern_instructions">Teken patroon om te ontgrendelen</string>
-  <string name="lockscreen_pattern_wrong">Patroon onjuist! Probeer opnieuw</string>
-  <string name="lockscreen_too_many_failed_attempts_countdown">Probeer opnieuw in %d seconden.</string>
+  <string name="lockscreen_pattern_wrong">Patroon onjuist! Probeer het opnieuw</string>
+  <string name="lockscreen_too_many_failed_attempts_countdown">Probeer het opnieuw in %d seconden.</string>
   <string name="lockscreen_transport_next_description">Volgende nummer</string>
   <string name="lockscreen_transport_play_description">Afspeelknop</string>
   <string name="lockscreen_transport_prev_description">Vorige nummer</string>
@@ -366,7 +366,7 @@ Probeer het opnieuw over %d seconden."</string>
   <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Mi Credit Gebruikersovereenkomst</string>
   <string name="miui_privacy_policy_title">Privacybeleid</string>
-  <string name="miui_unlockscreen_password_wrong">Onjuist wachtwoord! Probeer opnieuw</string>
+  <string name="miui_unlockscreen_password_wrong">Onjuist wachtwoord! Probeer het opnieuw</string>
   <string name="miui_user_agreement_title">Gebruikersovereenkomst</string>
   <string name="miui_user_manual_title">Gebruikershandleiding</string>
   <string name="month_of_april">Apr</string>
