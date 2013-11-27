@@ -320,7 +320,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">Providers berekenen ￥0.1 servicekosten per opwaardering</string>
   <string name="msg_picker_hint_3_1">3.</string>
-  <string name="msg_picker_hint_3_2">Maximale maandelijkse opwaardering: ￥300</string>
+  <string name="msg_picker_hint_3_2">Maximale maandelijkse opwaardering: ￥%1$s</string>
   <string name="msg_send_no_net_error">Bericht verzenden mislukt: kon geen verbinding maken met netwerk provider.</string>
   <string name="msg_send_no_sim_error">Bericht verzenden mislukt: probeer uw simkaart opnieuw te plaatsen.</string>
   <string name="msg_send_send_fail_error">Bericht verzenden mislukt</string>
