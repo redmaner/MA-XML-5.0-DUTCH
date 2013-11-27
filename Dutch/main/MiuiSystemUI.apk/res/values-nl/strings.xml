@@ -273,6 +273,8 @@
   <string name="toast_rotation_locked">Scherm vergrendeld op landschapmodus</string>
   <string name="torch_activity_hint">Open zaklamp door [icon] in te houden op vergrendelscherm</string>
   <string name="torch_activity_name">Zaklamp</string>
+  <string name="torch_closed">Zaklamp uit</string>
+  <string name="torch_opened">Zaklamp aan</string>
   <string name="usb_accessory_confirm_prompt">Open %1$s wanneer de USB accessoire is aangesloten?</string>
   <string name="usb_accessory_permission_prompt">Sta app %1$s toe toegang te verkrijgen tot USB accessoire?</string>
   <string name="usb_accessory_uri_prompt">Geen geïnstalleerde app die werkt met USB accessoire. Leer meer hierover op %1$s</string>

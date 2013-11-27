@@ -44,6 +44,7 @@
   <string name="expresss_inquiry_all_logistics">Alle</string>
   <string name="expresss_inquiry_frequently_used_logistics">Veel gebruikt</string>
   <string name="login_before_recharging">U moet inloggen alvorens u kunt opwaarderen.</string>
+  <string name="login_before_use">Inloggen voor gebruik.</string>
   <string name="login_ok">Inloggen</string>
   <string name="mark_number_custom_dialog_maintitle">Accepteren of corrigeer de markering</string>
   <string name="mark_number_dialog_maintitle">Markeer als spam nummer en uploaden</string>

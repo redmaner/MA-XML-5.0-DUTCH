@@ -71,6 +71,7 @@
   <string name="act_mute_ms">Notificaties dempen</string>
   <string name="act_mute_ms_summary">Notificaties zijn uitgeschakeld maar berichten zijn wel zichtbaar</string>
   <string name="action_settings">Instellingen</string>
+  <string name="activate_miui_screensaver">Screensaver Inschakelen</string>
   <string name="activating">Activeren...</string>
   <string name="active_device_admin_msg">Apparaatbeheerder</string>
   <string name="active_input_method_subtypes">Actieve invoermethoden</string>
@@ -90,6 +91,8 @@
   <string name="advanced_settings_summary">Meer opties voor instellingen inschakelen</string>
   <string name="airplane_mode">Vliegmodus</string>
   <string name="alarm_volume_title">Alarm</string>
+  <string name="alert_show_screensaver_when_not_charging_msg">Energieverbruik zal toenemen bij het weergeven van screensaver zonder oplader. Wilt u deze optie uitschakelen?</string>
+  <string name="alert_show_screensaver_when_not_charging_title">Screensaver zonder oplader</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Nadat u de widget heeft gemaakt, heeft %1$s toegang tot alle gegevens die de widget weergeeft.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Widget maken en toegang toestaan?</string>
@@ -1331,6 +1334,12 @@ Attentie: Dit kan niet ongedaan gemaakt worden</string>
   <string name="misc_files">Diverse bestanden</string>
   <string name="misc_files_selected_count">%1$d van %2$d geselecteerd</string>
   <string name="misc_files_selected_count_bytes">%1$s van %2$s</string>
+  <string name="miui_screensaver_show_time">Lengte</string>
+  <string name="miui_screensaver_show_time_select_title">Lengte instellen</string>
+  <string name="miui_screensaver_state_off">Uit</string>
+  <string name="miui_screensaver_state_on">Aan</string>
+  <string name="miui_screensaver_title">Screensaver</string>
+  <string name="miui_screensaver_usage">Eenmaal geactiveerd, worden afbeeldingen uit het screensaver album herhaaldelijk weergegeven, 5 seconden na het scherm is uitgeschakeld.</string>
   <string name="mms_log_tab_title">Berichten log</string>
   <string name="mms_vibrate_abbreviation">Berichten</string>
   <string name="model_number">Modelnummer</string>
@@ -1409,6 +1418,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="nsd_quick_toggle_title">Netwerkservicedetectie</string>
   <string name="number_add_hint">Typ nummer</string>
   <string name="oem_radio_info_label">OEM-specifieke gegevens/instellingen</string>
+  <string name="only_when_charging">Alleen tijdens opladen</string>
   <string name="onscreen_keyboard_settings_summary">Instellingen voor schermtoetsenbord</string>
   <string name="open_wifi_connect_summary">Klik om te beheren</string>
   <string name="open_wifi_connect_title">Verbinden om netwerk te openen %1$s</string>
@@ -1650,6 +1660,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="pico_not_installed">Niet geïnstalleerd</string>
   <string name="pico_voice_summary_female">Vrouw</string>
   <string name="pico_voice_summary_male">Man</string>
+  <string name="picture_source">Afbeeldings bron</string>
   <string name="ping_test_label">Pingtest uitvoeren</string>
   <string name="please_select_phase2">Phase 2-verificatie</string>
   <string name="please_type_passphrase">Voer Wi-Fi wachtwoord in</string>

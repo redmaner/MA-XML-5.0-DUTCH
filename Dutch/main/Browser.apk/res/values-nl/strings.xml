@@ -32,6 +32,7 @@
   <string name="add_bookmark_short">Toevoegen</string>
   <string name="add_folder">Map toevoegen</string>
   <string name="add_new_bookmark">Bladwijzer toevoegen</string>
+  <string name="add_quicklink_to_popular">Aan startpagina toevoegen</string>
   <string name="add_to_bookmarks_menu_option">Bladwijzers</string>
   <string name="add_to_homescreen_menu_option">Startscherm</string>
   <string name="add_to_other_folder_menu_option">Andere map</string>
@@ -492,12 +493,14 @@
   <string name="pref_zoom_on_double_tap">Zoomen bij dubbeltikken</string>
   <string name="preview">Voorbeeld</string>
   <string name="progress_dialog_setting_wallpaper">Achtergrond instellen...</string>
+  <string name="quicklink_saved_before">Site toegevoegd aan startpagina</string>
   <string name="quicklink_user_define_webpage_title">Naam</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
   <string name="quicklinks_group_default_subtitle">Leeg</string>
   <string name="quicklinks_management">Snelle links</string>
   <string name="quicklinks_most_visited">Meest bezochte websites toevoegen aan startpagina</string>
   <string name="quicklinks_most_visited_subtitle">Meest bezochte websites weergeven in nieuwe tab</string>
+  <string name="quicklinks_most_visited_title">Toevoegen aan startpagina</string>
   <string name="readmode_already_add_to_bookshelf">Toegevoegd aan boekenplank</string>
   <string name="readmode_battery">Batterij </string>
   <string name="readmode_login">Account login</string>
@@ -558,6 +561,7 @@
   <string name="selection_all">Selecteer alles</string>
   <string name="send_bookmark_to_home_screen">Stuur naar home scherm</string>
   <string name="send_to_desktop">Verzenden naar desktop</string>
+  <string name="send_to_popular">populair</string>
   <string name="set_as_homepage">Instellen als startpagina</string>
   <string name="share_link">Deel link</string>
   <string name="share_page">Pagina delen</string>
