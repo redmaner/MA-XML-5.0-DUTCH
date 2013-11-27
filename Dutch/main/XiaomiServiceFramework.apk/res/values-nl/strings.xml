@@ -186,11 +186,11 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="micloud_via_int_sms_alert">"Een SMS zal worden verstuurd naar uw apparaat op uw provider's berichten tarief. Weet u zeker dat u wilt doorgaan?"</string>
   <string name="micloud_via_sms_alert">Een SMS zal worden verstuurd om uw telefoon nummer te valideren. Weet u zeker dat u wilt doorgaan?</string>
   <string name="micloud_welcome_skip_login">Sla registratie over</string>
-  <string name="mili_center">Mi Credit</string>
-  <string name="msg_denomination_type">Mi Credit</string>
+  <string name="mili_center">MiCredit</string>
+  <string name="msg_denomination_type">MiCredit</string>
   <string name="msg_error">SMS Opwaarderen mislukt</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">SMS opwaarderen kost: 2 RMB = 1 Mi Credit</string>
+  <string name="msg_picker_hint_1_2">SMS opwaarderen kost: 2 RMB = 1 MiCredit</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">Met elke SMS opwaardering, provider kosten van 0.1 RMB</string>
   <string name="msg_picker_hint_3_1">3.</string>
@@ -285,7 +285,7 @@ We zullen het binnen twee werkdagen voor u controleren"</string>
   <string name="recharge_grid_edit_hint">Hoeveelheid (RMB)</string>
   <string name="recharge_grid_edit_limit">%1$s~%2$s RMB</string>
   <string name="recharge_grid_error_denomination">Correcte hoeveelheid invoeren tussen %1$d~%2$d RMB</string>
-  <string name="recharge_grid_picker_hint">Selecteer de Mi Credit hoeveelheid</string>
+  <string name="recharge_grid_picker_hint">Selecteer de MiCredit hoeveelheid</string>
   <string name="recharge_group_favorite">Gebruikte opwaardeer methoden</string>
   <string name="recharge_group_others">Andere opwaardeer methoden</string>
   <string name="recharge_hint">1 RMB is gelijk aan 1 MiCredit</string>
