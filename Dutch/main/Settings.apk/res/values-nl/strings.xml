@@ -538,6 +538,7 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="choose_timezone">Een tijdzone kiezen</string>
   <string name="clean_confirm_title">Geslecteerde bestanden verwijderen?</string>
   <string name="cleaner">Opschonen</string>
+  <string name="cleaner_support_hints">Ondersteuning door Clean Master</string>
   <string name="clear_activities">Standaardwaarden wissen</string>
   <string name="clear_activities_summary">Dit programma inschakelen voor sommige standaard handelingen</string>
   <string name="clear_all_calllog">Oproep log verwijderen</string>

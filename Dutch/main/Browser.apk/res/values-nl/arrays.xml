@@ -11,8 +11,7 @@
         <item>Uit</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Startpagina</item>
-        <item>Meest bezochte sites</item>
+        <item>Browser zal openen op deze pagina</item>
         <item>Aangepast</item>
     </string-array>
     <string-array name="pref_text_size_choices">
