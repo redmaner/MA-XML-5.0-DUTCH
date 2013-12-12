@@ -1848,6 +1848,15 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="pref_volume_wake_summary">Druk op volume toetsen opent de telefoon. Voor telefoons waar de aan/uit toets moeilijk bereikbaar is</string>
   <string name="pref_volume_wake_title">Volume rocker open</string>
   <string name="preference_change_password_title">Wachtwoord wijzigen</string>
+  <string name="preferred_app_settings">Standaard app instellingen</string>
+  <string name="preferred_app_settings_default">Standaard</string>
+  <string name="preferred_app_settings_reset">Standaard instellingen herstellen</string>
+  <string name="preferred_app_settings_reset_message">Weet u zeker dat u de standaard applicatie instellingen wilt herstellen?</string>
+  <string name="preferred_application_title">Voorkeur %s</string>
+  <string name="preferred_application_warning_message">Het vervangen van uw standaard %1$s kan het energieverbruik verhogen, snelheid verminderen en kan gegevens schaden. Aanbevolen om %2$s als standaard te gebruiken.</string>
+  <string name="preferred_application_warning_replace">Vervangen</string>
+  <string name="preferred_application_warning_title">Standaard %s vervangen</string>
+  <string name="preferred_application_warning_use_system">Standaard %s gebruiken</string>
   <string name="preferred_launcher_title">Bevoorkeurde Launcher</string>
   <string name="preferred_launcher_warning_message">Het vervangen van de standaard launcher kan meer hulpbronnen verbruiken dan de standaard launcher. Weet u zeker dat u wilt doorgaan?</string>
   <string name="preferred_launcher_warning_replace">Vervang Launcher</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about">Over</string>
+  <string name="adjust_module_miss">Data gebruik module bestaat niet</string>
   <string name="adjust_traffic_auto_adjust_hint">Systeem informeert en past de data van providers regelmatig aan. Instellen van provider informatie nodig.</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Automatisch aanpassen is ingeschakeld en zal het dataverbruik regelmatig aanpassen.</string>
   <string name="adjust_traffic_auto_adjust_title">Automatisch aanpassen verbruik</string>

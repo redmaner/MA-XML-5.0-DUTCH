@@ -41,6 +41,7 @@
   <string name="button_abandon">Onderbreken</string>
   <string name="button_backup">Backup</string>
   <string name="button_cancel">Annuleren</string>
+  <string name="button_continue">Doorgaan</string>
   <string name="button_delete">Verwijderen</string>
   <string name="button_finish">Voltooien</string>
   <string name="button_next">Volgende</string>
@@ -51,11 +52,18 @@
   <string name="cancel">Annuleren</string>
   <string name="cancel_backup">Backup Annuleren</string>
   <string name="cancel_restore">Herstel Annuleren</string>
+  <string name="cloud_app_backup_cancel">Backup Annuleren</string>
+  <string name="cloud_app_backup_cancel_prompt_message">"Backup onvoltooid, druk 
+Ok om de backup te annuleren"</string>
+  <string name="cloud_app_backup_cancel_prompt_title">Backup annuleren</string>
   <string name="cloud_app_backup_date">"Backup gemaakt op "</string>
   <string name="cloud_app_backup_pending">In afwachting...</string>
   <string name="cloud_app_backup_progress">Backup maken...</string>
   <string name="cloud_app_backup_summary">Automatisch een backup maken van apps en gebruikersgegevens als de telefoon wordt opgeladen en is verbonden met Wi-Fi</string>
   <string name="cloud_app_backup_title">Backup in MiCloud</string>
+  <string name="cloud_app_check_data">Gegevens berekenen van MiCloud...</string>
+  <string name="cloud_app_check_data_fail">Gegevens berekenen van MiCloud mislukt</string>
+  <string name="cloud_app_check_data_timeout">Timeout voor gegevens berekenen van MiCloud</string>
   <string name="cloud_app_current_device">Huidig apparaat</string>
   <string name="cloud_app_data_in_other_devices">Geen MiCloud backup op dit apparaat.</string>
   <string name="cloud_app_delete_data">Backup verwijderen</string>
@@ -65,17 +73,32 @@
   <string name="cloud_app_find_backup_prompt_2">De lokale gegevens worden overschreden als u uw gegevens herstelt.</string>
   <string name="cloud_app_function_summary">Wanneer u een backup maakt van uw gegevens in de cloud, kunt u het snel herstellen op elk apparaat.</string>
   <string name="cloud_app_invalid_op">"U kunt geen cloud gegevens bekijken tijdens een backup of herstel."</string>
+  <string name="cloud_app_invalid_op_when_removing">"U kunt MiCloud gegevens niet bekijken terwijl ze worden verwijderd!"</string>
   <string name="cloud_app_just_show_in_current_device">Alleen apps weergeven op dit apparaat</string>
+  <string name="cloud_app_load_data">Backup gegevens lijst berekenen...</string>
+  <string name="cloud_app_load_data_timeout">Timeout berekenen gegevens van MiCloud</string>
+  <string name="cloud_app_loading_with_mobile_network_prompt">"Mobiele data wordt gebruikt om door te gaan. Wilt u doorgaan?"</string>
   <string name="cloud_app_mine">Gedownloade apps</string>
   <string name="cloud_app_name">Cloud Backup</string>
   <string name="cloud_app_no_data">Geen gegevens.</string>
+  <string name="cloud_app_no_network">Netwerk onbeschikbaar</string>
+  <string name="cloud_app_no_wifi">Wi-Fi onbeschikbaar</string>
+  <string name="cloud_app_no_wifi_connect">Geen Wi-Fi verbinding beschikbaar</string>
   <string name="cloud_app_other_devices">Andere apparaten</string>
+  <string name="cloud_app_remove_cancel">Verwijderen annuleren</string>
+  <string name="cloud_app_remove_cancel_prompt_message">"Onvoltooide backup verwijderen, druk OK
+om te annuleren"</string>
+  <string name="cloud_app_remove_cancel_prompt_title">Verwijderen stoppen</string>
   <string name="cloud_app_remove_error">Verwijderen mislukt!</string>
   <string name="cloud_app_remove_pending">Wachten op verwijderen...</string>
   <string name="cloud_app_remove_progress">Verwijderen...</string>
   <string name="cloud_app_remove_prompt">%1$s van gegevens wordt verwijderd. Wilt u doorgaan?</string>
   <string name="cloud_app_restore_action_bar_title">%1$s van gegevens is een backup gemaakt</string>
   <string name="cloud_app_restore_app_and_data">Apps en gegevens herstellen</string>
+  <string name="cloud_app_restore_cancel">Herstel annuleren</string>
+  <string name="cloud_app_restore_cancel_prompt_message">"Herstel onvoltooid, druk OK
+om herstel te annuleren"</string>
+  <string name="cloud_app_restore_cancel_prompt_title">Herstel annuleren</string>
   <string name="cloud_app_restore_data">Vorige geïnstalleerde apps herstellen</string>
   <string name="cloud_app_restore_data_title">Gebruikersgegevens herstellen</string>
   <string name="cloud_app_restore_error">Herstellen mislukt!</string>
@@ -88,6 +111,7 @@
   <string name="cloud_app_restore_wifi_prompt">Verbinden met Wi-Fi om apps en gebruikersgegevens te herstellen.</string>
   <string name="cloud_app_total_size">Totale MiCloud backup grootte: %1$s</string>
   <string name="cloud_app_version_size">Versie: %1$s, Grootte: %2$s</string>
+  <string name="cloud_app_wait_wifi">Wachten op Wi-Fi verbinding</string>
   <string name="cloud_backup_hint">Log in om uw backups veilig op te slaan en te herstellen</string>
   <string name="cloud_backup_login">Log in met Xiaomi account</string>
   <string name="cloud_backup_window_title">Cloud backup</string>

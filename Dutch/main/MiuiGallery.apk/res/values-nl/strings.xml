@@ -123,6 +123,7 @@ vrienden."</string>
   <string name="confirm_delete_pictures">"%s foto's"</string>
   <string name="confirm_delete_system_album">%s is een systeem album, weet u zeker dat u deze wil verwijderen?</string>
   <string name="confirm_delete_videos">"%s video's"</string>
+  <string name="confirm_download">"Het is aanbevolen om %s te download. Deze tip wordt niet meer weergegeven."</string>
   <string name="contact_photo">Contact foto</string>
   <string name="context_menu_add_contact">Toevoegen aan contacten</string>
   <string name="context_menu_copy">Kopiëren</string>
@@ -148,6 +149,7 @@ vrienden."</string>
   <string name="delete_file">Wilt u de %1$d geselecteerde bestanden verwijderen?</string>
   <string name="delete_files_and_folders">Wilt u de %1$d geselecteerde bestanden en %2$d geselecteerde mappen verwijderen?</string>
   <string name="delete_folder">Wilt u de %1$d geselecteerde mappen verwijderen?</string>
+  <string name="delete_smb_file_fail">smb bestand verwijderen mislukt</string>
   <string name="deleting_files">Bestanden verwijderen...</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="deny">Afwijzen</string>
@@ -162,6 +164,9 @@ vrienden."</string>
   <string name="done">Klaar</string>
   <string name="doodle">Doodle</string>
   <string name="doodle_tooltip">Teken op foto om doodle te maken</string>
+  <string name="download">Downloaden</string>
+  <string name="download_fail">Download mislukt!</string>
+  <string name="download_fail_confirm_continue">%s downloaden mislukt. Doorgaan?</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Tijdsduur</string>
   <string name="edit">Bewerken</string>
@@ -193,6 +198,7 @@ vrienden."</string>
   <string name="fail_to_apply">Aansluiten bij album mislukt.</string>
   <string name="fail_to_pick_email">Geen geldige E-mail geselecteerd</string>
   <string name="fail_to_sync_album">Album synchroniseren naar server mislukt. Controleer uw netwerk verbinding!</string>
+  <string name="file_not_exist_message">Bestand bestaat niet.</string>
   <string name="file_size">Bestandsgrootte</string>
   <string name="filllight">Licht opvullen</string>
   <string name="fisheye">Visoog</string>
@@ -255,6 +261,7 @@ vrienden."</string>
   <string name="location">Locatie</string>
   <string name="locations">Locaties</string>
   <string name="lomoish">Lomo</string>
+  <string name="make_download_dir_fail">Map maken mislukt!</string>
   <string name="maker">Maker</string>
   <string name="manual">Handmatig</string>
   <string name="marked_by_others">%d mensen hebben dit gemarkeerd</string>
@@ -290,6 +297,7 @@ vrienden."</string>
   <string name="must_pick_file">Selecteer een afbeelding</string>
   <string name="negative">Negatief</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
+ <string name="new_device_tips">Nieuw apparaat gevonden. Klik om te bekijken.</string>
   <string name="no">Nee</string>
   <string name="no_albums_alert">Geen albums beschikbaar.</string>
   <string name="no_connectivity">"Sommige locaties kunnen niet worden geïdentificeerd door netwerk problemen."</string>
