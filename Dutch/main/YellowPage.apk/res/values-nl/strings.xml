@@ -31,6 +31,8 @@
   <string name="express_inquiry">Opsporen</string>
   <string name="express_inquiry_button_text">Opsporen</string>
   <string name="express_inquiry_data_owner">Opspoor informatie verstrekt door %s</string>
+  <string name="express_inquiry_data_owner_prefix">Opspoor informatie door</string>
+  <string name="express_inquiry_data_owner_suffix"/>
   <string name="express_inquiry_delete_warning_multiple">%d geselecteerde geschiedenis items verwijderen?</string>
   <string name="express_inquiry_delete_warning_single">Geselecteerde item verwijderen?</string>
   <string name="express_inquiry_delivered">Bezorgd</string>
@@ -61,8 +63,19 @@
   <string name="menu_remove_black_list">Verwijderen van blacklist</string>
   <string name="mishop_web_payment_title">MiStore afrekenen</string>
   <string name="module_sms_sent">Tekstbericht bezorgd</string>
+  <string name="navigation_search_all_cities">Alle steden</string>
+  <string name="navigation_search_automatically_positioned_city">Huidige stad</string>
+  <string name="navigation_search_hot_cities">Populair</string>
+  <string name="navigation_search_no_city_list">Geen stadgegevens gevonden!</string>
+  <string name="navigation_search_positioning">Locatie zoeken...</string>
+  <string name="navigation_search_positioning_failed">Locatie zoeken mislukt</string>
   <string name="network_unavaliable">Netwerk is niet beschikbaar, controleer netwerk instellingen</string>
-  <string name="packages_no_package">No suitable traffic package available</string>
+  <string name="order_empty_hint">Geen bestellingen</string>
+  <string name="order_id">Bestelling info: %s</string>
+  <string name="order_merchant_title">Mijn bestellingen - %s</string>
+  <string name="order_price">%s</string>
+  <string name="order_status">%s</string>
+  <string name="packages_no_package">Geen toepassend verkeerspakket beschikbaar</string>
   <string name="packages_pay">Kopen</string>
   <string name="packages_pay_confirm">Betaling bevestigen</string>
   <string name="packages_pay_hint">Verzend gratis SMS</string>
@@ -77,6 +90,7 @@
   <string name="payment_unknown_status_summary">Controleer uw netwerk verbinding en probeer het opnieuw.</string>
   <string name="payment_unknown_status_title">"Betaal status fout"</string>
   <string name="phone_info_divider">" ｜ "</string>
+  <string name="provider">Geidentificeerd door %s</string>
   <string name="provider_tag">Data source</string>
   <string name="recharge_actual_price">Prijs：</string>
   <string name="recharge_charge_range">Prijs:¥%1$s-%2$s</string>

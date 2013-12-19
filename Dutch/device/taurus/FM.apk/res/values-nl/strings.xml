@@ -101,6 +101,7 @@
   <string name="preset_tune">Afstemmen</string>
   <string name="presetlist_autoselect_title">Bevestig Auto-Select</string>
   <string name="radio_text_string">Dit is het lange Radio Tekst String Bericht dat moet scrollen</string>
+  <string name="record_completed">Opname compleet</string>
   <string name="record_error_file_removed">Opname gestopt. Opgenomen bestand is verwijderd.</string>
   <string name="record_error_unknown">Opname gestopt. Onbekende fout tijdens opname.</string>
   <string name="record_fail">Opname mislukt</string>

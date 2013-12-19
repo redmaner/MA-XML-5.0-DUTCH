@@ -493,6 +493,8 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="local_profile_title">Mijn lokale profiel</string>
   <string name="local_search_label">Alle contacten</string>
   <string name="locale_change_in_progress">Lijst met contacten wordt bijgewerkt om de gewijzigde taal te weerspiegelen.</string>
+  <string name="login_before_recharging">U dient eerst in te loggen om op te kunnen waarderen.</string>
+  <string name="login_ok">Inloggen</string>
   <string name="lunarBirthdayLabelsGroup">Verjaardag</string>
   <string name="make_primary">Deze keuze onthouden</string>
   <string name="map_custom">%s adres weergeven</string>
@@ -535,6 +537,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="menu_new_group_action_bar">Nieuw</string>
   <string name="menu_not_redirect_calls_to_vm">Oproepen die niet naar voicemail zijn verbonden</string>
   <string name="menu_redirect_calls_to_vm">Alle oproepen naar voicemail</string>
+  <string name="refresh">Vernieuwen</string>
   <string name="menu_refresh">Vernieuwen</string>
   <string name="menu_removeStar">Uit favorieten verwijderen</string>
   <string name="menu_search">Zoeken</string>
@@ -1027,7 +1030,9 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="strequentList">Favorieten</string>
   <string name="success_message_import_from_account">Import succesvol</string>
   <string name="summary_kind_title">Basis informatie</string>
-  <string name="t9_search_guide">Toets nummer, of zoek conctacten via T9</string>
+  <string name="t9_search_guide">Typ 7 en 5 om te zoeken naar bijv. Steve Jobs</string>
+  <string name="t9_search_guide_pinyin">Typ 7 en 5 om te zoeken naar bijv. Steve Jobs</string>
+  <string name="t9_search_guide_zhuyin">Typ 7 en 5 om te zoeken naar bijv. Steve Jobs</string>
   <string name="take_new_photo">Nieuwe foto nemen</string>
   <string name="take_photo">Foto maken</string>
   <string name="titleJoinContactDataWith">Contacten samenvoegen</string>
@@ -1088,6 +1093,13 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="voicemail_status_voicemail_not_available">Kan geen verbinding maken met de voicemailserver.</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic" formatted="false">%1$s (%2$s)</string>
-  <string name="wipe_data">Wis</string>
+  <string name="wipe_data">Verwijderen</string>
+  <string name="yellowPageNavigationIconLabel">Map</string>
+  <string name="yellowPageNavigationLabel">Map</string>
+  <string name="yellowpage_navigation_no_content">Geen zoekresultaten</string>
+  <string name="yellowpage_navigation_search_city_name_hint">Zoek via stad</string>
+  <string name="yellowpage_navigation_search_hint">Zoeken</string>
+  <string name="yellowpage_navigation_search_offline_hint">Netwerk niet beschikbaar</string>
+  <string name="yellowpage_navigation_search_select_city">Selecteer een stad</string>
   <string name="zero_items_selected">Geen items geselecteerd</string>
 </resources>

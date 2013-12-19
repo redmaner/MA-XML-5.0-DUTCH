@@ -122,6 +122,8 @@ vrienden."</string>
   <string name="confirm_delete_items">%s items</string>
   <string name="confirm_delete_pictures">"%s foto's"</string>
   <string name="confirm_delete_system_album">%s is een systeem album, weet u zeker dat u deze wil verwijderen?</string>
+  <string name="confirm_delete_this_picture">Wilt u de geselecteerde afbeelding verwijderen?</string>
+  <string name="confirm_delete_this_video">Wilt u de geselecteerde video verwijderen?</string>
   <string name="confirm_delete_videos">"%s video's"</string>
   <string name="confirm_download">"Het is aanbevolen om %s te download. Deze tip wordt niet meer weergegeven."</string>
   <string name="contact_photo">Contact foto</string>
@@ -256,7 +258,8 @@ vrienden."</string>
   <string name="landscape_mode">Landschapmodus inschakelen</string>
   <string name="loading">Laden...</string>
   <string name="loading_failure">Foto kan niet worden geladen</string>
-  <string name="loading_thumbnail">Laden thumbnail...</string>
+  <string name="loading_members">Deelgenoten laden...</string>
+  <string name="loading_thumbnail">Thumbnail laden...</string>
   <string name="local_albums">Lokale afbeeldingen</string>
   <string name="location">Locatie</string>
   <string name="locations">Locaties</string>

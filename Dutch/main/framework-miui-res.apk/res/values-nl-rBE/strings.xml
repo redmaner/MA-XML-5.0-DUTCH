@@ -477,6 +477,7 @@ Probeer het opnieuw over %d seconden."</string>
   <string name="v5_date_picker_label_day"/>
   <string name="v5_date_picker_label_month"/>
   <string name="v5_date_picker_label_year"/>
+  <string name="v5_date_time_picker_dialog_title">Herinnering instellen</string>
   <string name="v5_deselect_all">Alles deselecteren</string>
   <string name="v5_edit_mode_title_empty">Items controleren</string>
   <string name="v5_icon_menu_bar_more_item_label">Meer</string>

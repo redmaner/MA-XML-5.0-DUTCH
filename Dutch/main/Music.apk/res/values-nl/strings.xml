@@ -40,6 +40,8 @@
   <string name="channel">FM</string>
   <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
   <string name="channel_postfix">MHZ</string>
+  <string name="choose_download_quality">Kies download kwaliteit</string>
+  <string name="choose_stream_quality">Kies stream kwaliteit</string>
   <string name="click_to_shuffle">Klik voor shuffle</string>
   <string name="complete">Compleet</string>
   <string name="confirm">Bevestig</string>
@@ -67,6 +69,7 @@
   <string name="dirac_mode_in_ear">Xiaomi in-ear oortjes</string>
   <string name="dirac_mode_off">Dirac uit</string>
   <string name="dirac_mode_piston_100">Xiaomi Piston oortjes</string>
+  <string name="disconnect">Verbinding verbreken</string>
   <string name="download">Downloaden</string>
   <string name="download_album_settings">Cover auto downloaden</string>
   <string name="download_album_summary">Album covers auto downloaden (hoog dataverbruik)</string>
@@ -74,6 +77,7 @@
   <string name="download_all_avatar">Download Artiest Avatar(s)</string>
   <string name="download_all_track">Download Alle Tracks</string>
   <string name="download_batch_start">Downloaden starten</string>
+  <string name="download_completed">Gedownload</string>
   <string name="download_lyric_settings">Songteksten auto downloaden</string>
   <string name="download_lyric_summary">Songteksten ophalen zorgt voor hoog dataverbruik, zet setting uit om dataverbruik laag te houden</string>
   <string name="download_processing">Downloaden</string>
@@ -127,11 +131,14 @@
   <string name="filter_by_size_prefix">"Minimum grootte:"</string>
   <string name="filter_by_size_summary">Filter is te klein voor audio bestanden</string>
   <string name="filter_notification">Het bestand is uitgefilterd, instellingen wijzigen om te spelen!</string>
+  <string name="find_ktv">Ontdek KTV</string>
   <string name="folder_title_format" formatted="false">%s(%d)</string>
   <string name="folders_title">Mappen</string>
   <string name="frequentlyplayed_title">Frequent afgespeeld</string>
   <string name="headphone_settings">Koptelefoon instellingen</string>
+  <string name="high_quality">Hoge kwaliteit</string>
   <string name="hot_artists">Populaire Artiesten</string>
+  <string name="i_know">OK</string>
   <string name="id3_edit">Bewerk ID3 Informatie</string>
   <string name="id3_edit_failed">Bewerken van ID3 info mislukt</string>
   <string name="id3_modify_confirm_check">Bevestig ID3 wijziging(en)?</string>
@@ -140,6 +147,15 @@
   <string name="impunity_declaration_title">Declaratie</string>
   <string name="keep_quit_position_settings">Laatste positie opslaan</string>
   <string name="keep_quit_position_summary">Laatste positie opslaan voor continuering bij herstart van de app</string>
+  <string name="ktv_alert_message">"Tik op "Telefoon gebruiken om nummers toe te voegen" op de startpagina van de KTV console om de bijbehorende QR code te bekijken"</string>
+  <string name="ktv_alert_title">Alleen ondersteunde apparaten kunnen nummers toevoegen</string>
+  <string name="ktv_and_room">%1$s %2$s</string>
+  <string name="ktv_connected_alert_message">De nummers die u heeft geselecteerd worden toegevoegd aan de afspeellijst met de naam My KTV</string>
+  <string name="ktv_connected_alert_titel">Verbinden maken met %1$s</string>
+  <string name="ktv_disconnect_alert_titel">Verbinding verbreken met %1$s?</string>
+  <string name="ktv_song_vod_fail">%1$s toevoegen mislukt</string>
+  <string name="ktv_song_vod_success">%1$s toegevoegd</string>
+  <string name="ktv_unbind_message">"Verbinden met KTV console mislukt. Controleer uw QR code."</string>
   <string name="listen_to_music_online_settings">Online muziek luisteren</string>
   <string name="listen_to_online_summary">(hoog dataverbruik)</string>
   <string name="load_album_artist_failed">Album en artiest lijst laden mislukt. probeer het opnieuw.</string>
@@ -155,6 +171,8 @@
   <string name="load_channel_failed">Laden kanaal lijst mislukt, probeer het nogmaals</string>
   <string name="load_channel_in_process">Laad kanaal lijst</string>
   <string name="loading">Laden</string>
+  <string name="login">Inloggen</string>
+  <string name="login_first">U moet eerst inloggen met uw Xiaomi account</string>
   <string name="lrc_progress_modify">Pas songtekst scrollsnelheid aan</string>
   <string name="lrc_progress_modify_helper">Pas de songtekst scrollsnelheid aan door naar boven of benden te slepen</string>
   <string name="lrc_search_failed">Songteksten niet gevonden!</string>
@@ -192,6 +210,7 @@
   <string name="new_playlist_name_template">Afspeellijst %d</string>
   <string name="no_effect">Vlak</string>
   <string name="no_song_downloaded">Nummer kan niet worden gedownload</string>
+  <string name="normal_quality">Normale kwaliteit</string>
   <string name="not_login">Inloggen</string>
   <string name="not_selected">Selecteer een nummer a.u.b.</string>
   <string name="notification_artist_album">"%2$s %1$s"</string>
@@ -199,6 +218,10 @@
   <string name="online_title">Online</string>
   <string name="other_settings">Overig</string>
   <string name="overwrite_confirm">Overschrijven</string>
+  <string name="pay_service_guide_dowload">Download kwaliteit</string>
+  <string name="pay_service_guide_listen">Stream kwaliteit</string>
+  <string name="payment_fail">Betaling mislukt!</string>
+  <string name="payment_success">Betaling voltooid!</string>
   <string name="play_all">Alles Afspelen</string>
   <string name="play_and_download">Afspelen en Downloaden</string>
   <string name="play_and_download_summary">Automatisch het online afgespeelde nummer downloaden</string>
@@ -212,6 +235,7 @@
   <string name="playlist_deleted_message">Afspeellijst verwijderd.</string>
   <string name="playlist_favorite">Favorieten</string>
   <string name="playlist_frequently_played">Frequent gespeeld</string>
+  <string name="playlist_my_ktv">My KTV</string>
   <string name="playlist_recently_added">Recentelijk toegevoegd</string>
   <string name="playlist_recently_played">Recentelijk afgespeeld</string>
   <string name="playlist_renamed_message">"Naam van afspeellijst gewijzigd in '%s'."</string>
@@ -234,14 +258,17 @@
   <string name="rename_album_menu">Hernoem album</string>
   <string name="rename_artist_menu">Hernoem artiest</string>
   <string name="rename_playlist_menu">Naam wijzigen</string>
+  <string name="request_fail">Verzoek mislukt!</string>
+  <string name="requesting">Verzoeken...</string>
   <string name="retry">Opnieuw proberen</string>
   <string name="ringtone_menu">Gebruiken als toon</string>
   <string name="ringtone_not_support">Ringtone type niet ondersteund</string>
   <string name="ringtone_set">"'%s' is ingesteld als beltoon."</string>
   <string name="save">Opslaan</string>
-  <string name="scanning">Scannen van SD-kaart...</string>
-  <string name="scanning_nosdcard">Scan USB opslag…</string>
-  <string name="screen_bright_wake">Laat scherm aan</string>
+  <string name="scan_barcode_to_connect">"Plaats de KTV console's QR code in het frame om te scannen"</string>
+  <string name="scanning">SD-kaart scannen...</string>
+  <string name="scanning_nosdcard">USB-opslag scannen...</string>
+  <string name="screen_bright_wake">Scherm aanlaten</string>
   <string name="screen_bright_wake_summary">Laat scherm aan wanneer u zich in de muziek applicatie bevind</string>
   <string name="sdcard_busy_message">"Sorry, uw SD-kaart is bezig. Controleer status van SD-kaart"</string>
   <string name="sdcard_busy_message_nosdcard">Sorry, uw USB opslag is bezig.</string>
@@ -258,6 +285,7 @@
   <string name="select_quit_time">Selecteer tijd om applicatie te stoppen</string>
   <string name="send_to">Verzenden</string>
   <string name="send_to_application">Verzenden naar andere applicatie</string>
+  <string name="server_error">Server fout!</string>
   <string name="shake_and_skip">Schudden om over te slaan</string>
   <string name="shake_degree_desc">Shud gevoeligheid</string>
   <string name="shake_degree_high">Hoog</string>
@@ -273,15 +301,28 @@
   <string name="start_to_download_album">Album art aan het downloaden voor uw nummer(s) bibliotheek</string>
   <string name="start_to_download_avatar">Artiest avatar aan het downloaden voor uw muziek bibliotheek</string>
   <string name="streamloadingtext">Verbinden met %s</string>
+  <string name="synchronize_guide_toast">Om sync in te schakelen, ga naar instellingen &gt; Sync afspeelijsten</string>
   <string name="synchronize_playlist_setting">Afspeellijsten Synchroniseren</string>
   <string name="synchronize_playlist_summary">Afspeellijsten synchroniseren met MiCloud.</string>
+  <string name="synchronize_to_baidu_cloud">Backup online nummers in uw afspeellijsten met Baidu Cloud</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
+  <string name="track_bit_rate_hd">Hoog</string>
+  <string name="track_bit_rate_standard">Normaal</string>
+  <string name="track_bit_rate_uhd">Hoger</string>
   <string name="track_edit">Nummer</string>
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">Alle Nummers</string>
+  <string name="ultra_high_quality">Hoogste kwaliteit</string>
   <string name="unknown_album_name">Onbekend album</string>
   <string name="unknown_artist_name">Onbekende artiest</string>
   <string name="use_local_album">Gebruik opgeslagen album art</string>
   <string name="use_local_lyric">Gebruik opgeslagen songteksten</string>
+  <string name="vip_recommend_buy">Kopen (RMB 5 voor 1 maand)</string>
+  <string name="vip_recommend_exchange">Gebruik cadeaukaart</string>
+  <string name="vip_recommend_main_title">Ongelimiteerde CD kwaliteit (320 kbps)</string>
+  <string name="vip_recommend_sub_title">Alleen 5 RMB per maand</string>
+  <string name="vip_recommend_summary">Stream of download al uw favoriete artiesten met Baidu Music op 320 kbps.</string>
+  <string name="vip_recommend_title">Hogere kwaliteit muziek</string>
+  <string name="where_is_barcode">"Waar is de QR code?"</string>
   <string name="xiaomi_account_setting">Xiaomi account</string>
 </resources>
