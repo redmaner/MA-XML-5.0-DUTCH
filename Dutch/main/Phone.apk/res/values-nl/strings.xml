@@ -104,7 +104,7 @@
   <string name="auto_retry_mode_title_miui">Automatisch opnieuw proberen</string>
   <string name="autoip_miui">Automatisch IP bellen</string>
   <string name="autoip_sum_miui">Toevoegen IP-prefix aan een buitenlands nummer. Vul huidige landcode hieronder in.</string>
-  <string name="back_miui">Back</string>
+  <string name="back_miui">Terug</string>
   <string name="badPin">De ingevoerde oude pincode is niet correct. Probeer het opnieuw.</string>
   <string name="badPin2">De ingevoerde oude pincode2 is niet correct. Probeer het opnieuw.</string>
   <string name="badPuk2">De pukcode2 die u invoerde is niet correct. Probeer het opnieuw.</string>
