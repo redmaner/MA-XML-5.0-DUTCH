@@ -729,11 +729,11 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="deep_clean_tips_large_file">iconOpschonen vindt alleen grote bestaden (groter dan 10MB) die zijn opgeslagen op uw apparaat. U beslist of u ze nog nodig hebt.</string>
   <string name="deep_clean_tips_large_file_content">Grote bestanden (10MB+) die ruimte innemen op uw apparaat.</string>
 
-+  <string name="deep_clean_tips_large_file_title">Grote bestanden</string>
+  <string name="deep_clean_tips_large_file_title">Grote bestanden</string>
   <string name="deep_clean_tips_residual">"iconRest bestanden zijn bestanden (video's, achtergronden, muziek etc.) die zijn gedownload naar uw SD-kaart door apps die zijn geïnstalleerd. Wees voorzichtig met het opschonen van deze bestanden omdat ze nog nuttig kunnen zijn."</string>
   <string name="deep_clean_tips_residual_content">"Rest bestanden zijn gedownload door apps die niet meer geïnstalleerd zijn."</string>
 
-+  <string name="deep_clean_tips_residual_title">Residual files</string>
+  <string name="deep_clean_tips_residual_title">Residual files</string>
   <string name="deep_clean_title_cache">Cache</string>
   <string name="deep_clean_title_large_file">Grote bestanden</string>
   <string name="deep_clean_title_residual">Rest bestanden</string>
