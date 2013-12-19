@@ -491,6 +491,7 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="button_text_delete">Verwijderen</string>
   <string name="button_text_done">Voltooid</string>
   <string name="button_text_fix">Repareren</string>
+  <string name="button_text_quick_scan">Scan starten</string>
   <string name="button_text_security">Beveiliging</string>
   <string name="button_text_view">Bekijken</string>
   <string name="cache_garbage">Cache bestanden</string>
@@ -722,8 +723,17 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="debug_log">Foutopsporings log</string>
   <string name="debug_monitoring_category">Controle</string>
   <string name="deep_clean_tips_cache">"iconSommige apps gebruiken cache bestanden om extra bronnen te downloaden (bijv. songteksten, muziek, afbeeldingen etc.). Wees voorzichtig met het opschonen van deze bestanden."</string>
+  <string name="deep_clean_tips_cache_content">"Sommige apps gebruiken cache bestanden om extra hulpbronnen te downloaden. Wees voorzichtig bij het verwijderen van deze bestanden."</string>
+
+  <string name="deep_clean_tips_cache_title">Gecachte bestanden</string>
   <string name="deep_clean_tips_large_file">iconOpschonen vindt alleen grote bestaden (groter dan 10MB) die zijn opgeslagen op uw apparaat. U beslist of u ze nog nodig hebt.</string>
+  <string name="deep_clean_tips_large_file_content">Grote bestanden (10MB+) die ruimte innemen op uw apparaat.</string>
+
++  <string name="deep_clean_tips_large_file_title">Grote bestanden</string>
   <string name="deep_clean_tips_residual">"iconRest bestanden zijn bestanden (video's, achtergronden, muziek etc.) die zijn gedownload naar uw SD-kaart door apps die zijn geïnstalleerd. Wees voorzichtig met het opschonen van deze bestanden omdat ze nog nuttig kunnen zijn."</string>
+  <string name="deep_clean_tips_residual_content">"Rest bestanden zijn gedownload door apps die niet meer geïnstalleerd zijn."</string>
+
++  <string name="deep_clean_tips_residual_title">Residual files</string>
   <string name="deep_clean_title_cache">Cache</string>
   <string name="deep_clean_title_large_file">Grote bestanden</string>
   <string name="deep_clean_title_residual">Rest bestanden</string>
@@ -1467,9 +1477,21 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="optimize_residual_header_left">Overblijfselen: %d</string>
   <string name="optimize_residual_list_empty_content">Geen overblijfselen gevonden.</string>
   <string name="optimize_tips_ad">iconReclame bestanden zijn afbeeldingen, tekst en andere reclame gerelateerde gegevens die apps van derden opslaan op uw telefoon.</string>
+  <string name="optimize_tips_ad_content">Afbeeldingen, text en ander bestanden van derde partijen opgeslagen op uw telefoon.</string>
+
+  <string name="optimize_tips_ad_title">Reclame bestanden</string>
   <string name="optimize_tips_apk">"iconInstallatie pakketen worden gebruikt bij de installatie van apps, na de installatie worden ze niet meer gebruikt."</string>
+  <string name="optimize_tips_apk_content">Bestanden die worden gebruikt om apps te installeren, maar daarna niet meer worden gebruikt</string>
+
+  <string name="optimize_tips_apk_title">Apps</string>
   <string name="optimize_tips_cache">iconCache bestanden zijn bestanden voor tijdelijke ondersteuning van bepaalde processen (zoals thumbnails).</string>
+  <string name="optimize_tips_cache_content">Tijdelijke bestanden die zijn gemaakt door apps en processen (bijv. thumbnails).</string>
+
+  <string name="optimize_tips_cache_title">Cache</string>
   <string name="optimize_tips_residual">"iconOverblijfselen zijn bestanden (zoals video's, achtergronden, muziek etc.) die zijn gedownload door apps die nu niet meer zijn geïnstalleerd. Omdat deze bestanden nog wel nuttig kunnen zijn is het aangeraden deze bestanden te verwijderen via de geavanceerde functie."</string>
+  <string name="optimize_tips_residual_content">Rest bestanden die zijn gemaakt door apps die niet meer geïnstaleerd zijn. Sommige bestanden zijn echter nog steeds vereist, er wordt aanbevolen de geavanceerde functie te gebruiken om deze bestanden te verwijderen.</string>
+
+  <string name="optimize_tips_residual_title">Rest bestanden</string>
   <string name="optimize_tips_title">Help</string>
   <string name="optimize_title_ad">Reclame bestanden</string>
   <string name="optimize_title_apk">Paketten</string>
@@ -1488,6 +1510,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm">Machtigingen</string>
   <string name="perm_app">Apps</string>
   <string name="perm_app_header">Machtigingen Beheer</string>
+  <string name="perm_app_manage_empty">Geen gevolgde apps</string>
   <string name="perm_app_name">Machtigingen</string>
   <string name="perm_app_title">Beheer App Machtigingen</string>
   <string name="perm_auto_start">Beheer App Autostart</string>
@@ -1614,6 +1637,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_privacy_app_trust_summary_on">MIUI zal deze app vertrouwen</string>
   <string name="perm_privacy_app_uninstall">De-installeren</string>
   <string name="perm_privacy_count">Toegestaan: %1$d Afgewezen: %2$d</string>
+  <string name="perm_root_manage_empty">Geen apps met ROOT Toegang</string>
   <string name="perm_service_disabled">Service is uitgeschakeld</string>
   <string name="perm_service_enabled">Service is actief</string>
   <string name="perm_shortcut">Contextual menu</string>
@@ -1922,6 +1946,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="quick_scan_apk_list_item_version_hit">Versie: %s</string>
   <string name="quick_scan_cleaning_title">Opschonen...</string>
   <string name="quick_scan_doing_title">Scannen...</string>
+  <string name="quick_scan_done_title">Scan voltooid!</string>
   <string name="quick_scan_list_loading_hits">Scannen...</string>
   <string name="quick_scan_result_summary">Opschonen zal starten over %d seconden</string>
   <string name="quick_scan_result_title">%s items gevonden</string>

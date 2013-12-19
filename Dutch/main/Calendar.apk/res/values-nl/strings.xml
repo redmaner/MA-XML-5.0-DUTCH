@@ -23,6 +23,8 @@
   <string name="acessibility_cal_notification">Agenda Notificatie</string>
   <string name="acessibility_selected_marker_description">Geselecteerde afspraak</string>
   <string name="acessibility_snooze_notification">Snooze Notificatie</string>
+  <string name="activity_summary">10 yuan lotterij</string>
+  <string name="activity_title">MIUI Nieuwjaar cadeau\'s</string>
   <string name="add_account">Account toevoegen</string>
   <string name="agenda_today">VANDAAG, %1$s</string>
   <string name="agenda_tomorrow">MORGEN, %1$s</string>

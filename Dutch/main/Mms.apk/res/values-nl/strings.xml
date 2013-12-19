@@ -135,6 +135,8 @@
   <string name="failed_to_add_media">U kunt deze %1$s niet toevoegen aan uw bericht.</string>
   <string name="failed_to_resize_image">Formaat van foto is niet aangepast.</string>
   <string name="fdn_check_failure">U kunt alleen berichten verzenden naar uw vaste nummers.</string>
+  <string name="feedback_description_hint">Typ uw feedback hier</string>
+  <string name="feedback_submit">Verzenden</string>
   <string name="festival">Aanbevolen</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Laden...</string>
@@ -269,6 +271,7 @@
   <string name="pref_collapse_sp_messages_summary">Combineer service provider bericht in dezelfde ingang</string>
   <string name="pref_edit_smsc_address">Stel SMS berichtencentrum nummer in</string>
   <string name="pref_forward_title">Vooruit</string>
+  <string name="pref_key_mx_feedback">Feedback verzenden</string>
   <string name="pref_messages_to_save">Aantal berichten instellen voor opslaan</string>
   <string name="pref_mms_settings_title">Multimediaberichten (MMS)</string>
   <string name="pref_notification_settings_title">Meldingen</string>
@@ -282,6 +285,8 @@
   <string name="pref_summary_mms_auto_retrieval">Berichten automatisch ophalen</string>
   <string name="pref_summary_mms_read_reports">Verzoek een leesbevestiging voor elk verzonden bericht</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Berichten automatisch ophalen tijdens roaming</string>
+  <string name="pref_summary_mx_feedback">"Help MIUI te verbeteren!
+Rapporteer bugs en stuur feedback naar Xiaomi.”</string>
   <string name="pref_summary_new_message_popup">Geef een pop up bij nieuwe berichten</string>
   <string name="pref_summary_new_message_popup_when_secure">Pop ups zijn uitgeschakeld wanneer SMS applicatie is beveiligt met wachtwoord</string>
   <string name="pref_summary_notification_body_enabled">Voorbeeld berichten op vergrendelscherm en statusbalk</string>
@@ -435,6 +440,10 @@
   <string name="to_count">%d contacten</string>
   <string name="to_label">"Aan "</string>
   <string name="to_send_wrapper">Wordt verzonden op %s</string>
+  <string name="toast_description_required">Feedback is vereist om te verzenden</string>
+  <string name="toast_feedback_finish">Uw feedback wordt automatisch als u verbonden bent met Wi-Fi</string>
+  <string name="toast_feedback_max">U mag maar 3 keer per dag feedback geven</string>
+  <string name="toast_feedback_start">Feedback verzenden...</string>
   <string name="too_many_attachments">Er is een limiet van %1$s bijlagen. Alleen de eerste %2$s worden toegevoegd.</string>
   <string name="too_many_recipients">Bericht bevat te veel ontvangers (%1$s). De limiet is %2$s ontvangers.</string>
   <string name="too_many_unsent_mms">"Kan bericht nu niet verzenden. Er zijn teveel onverzonden multimedia berichten."</string>
