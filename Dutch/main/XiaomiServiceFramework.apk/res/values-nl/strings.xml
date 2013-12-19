@@ -113,7 +113,7 @@
   <string name="find_device_notice_p3">Zoek, blokkeer of wis de data op het toestel</string>
   <string name="find_device_success_title">Lokaliseren van het toestel is geactiveerd</string>
   <string name="find_password_on_web_msg">Bezoek account.xiaomi.com om uw wachtwoord te herstellen</string>
-  <string name="forget_password">" "&lt;u&gt;Wachtwoord vergeten&lt;/u&gt;" "</string>
+  <string name="forget_password">" "&lt;u&gt;Wachtwoord \nvergeten&lt;/u&gt;" "</string>
   <string name="get_back_pwd">Account wachtwoord herstellen</string>
   <string name="header_data_and_synchronization">Data &amp; synchronisatie</string>
   <string name="i_know">Ok</string>
