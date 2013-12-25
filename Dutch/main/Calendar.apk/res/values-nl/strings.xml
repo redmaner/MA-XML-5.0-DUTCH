@@ -194,6 +194,7 @@
   <string name="select_synced_calendars_title">"Agenda's om te synchroniseren"</string>
   <string name="select_visible_calendars_title">"Agenda's om weer te geven"</string>
   <string name="show_all_lunar">Maan weergeven</string>
+  <string name="show_almanac">Almanac weergeven</string>
   <string name="show_controls">Bediening weergeven</string>
   <string name="show_day_view">Geef dag weer</string>
   <string name="show_newer_events">Raak aan om gebeurtenissen na %1$s weer te geven</string>

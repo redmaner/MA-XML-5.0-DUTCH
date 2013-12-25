@@ -2586,7 +2586,7 @@ Pogingen Resterende :"</string>
   <string name="virus_button_clear">Opschonen</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Scan voortzetten</string>
-  <string name="virus_scan_app_find_risk">%d is een bedrijging, het is aangeraden deze direct te verwijderen.</string>
+  <string name="virus_scan_app_find_risk">%d risico\'s gevonden. Verwijder ze meteen!</string>
   <string name="virus_scan_app_finish">Sluiten</string>
   <string name="virus_scan_app_force_stop">Scan is gestopt!</string>
   <string name="virus_scan_app_is_stop_scan">Wilt u de virus scan stoppen?</string>

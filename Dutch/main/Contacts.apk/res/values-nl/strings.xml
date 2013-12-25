@@ -1052,6 +1052,7 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="today">Vandaag</string>
   <string name="type_incoming">Inkomende oproep</string>
   <string name="type_missed">Oproep gemist</string>
+  <string name="type_mx_msg">Cloud berichten</string>
   <string name="type_outgoing">Uitgaand gesprek</string>
   <string name="type_vcard">vKaart</string>
   <string name="type_voicemail">Voicemail</string>
@@ -1100,6 +1101,10 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="yellowpage_navigation_search_city_name_hint">Zoek via stad</string>
   <string name="yellowpage_navigation_search_hint">Zoeken</string>
   <string name="yellowpage_navigation_search_offline_hint">Netwerk niet beschikbaar</string>
+  <string name="yellowpage_navigation_search_result_network_error">Kon niet verbinden met netwerk</string>
+  <string name="yellowpage_navigation_search_result_no_more">Geen resultaten meer</string>
+  <string name="yellowpage_navigation_search_result_service_error">Service momenteel niet beschikbaar</string>
+  <string name="yellowpage_navigation_search_result_unknown_error">Onbekende fout!</string>
   <string name="yellowpage_navigation_search_select_city">Selecteer een stad</string>
   <string name="zero_items_selected">Geen items geselecteerd</string>
 </resources>

@@ -220,6 +220,7 @@
   <string name="overwrite_confirm">Overschrijven</string>
   <string name="pay_service_guide_dowload">Download kwaliteit</string>
   <string name="pay_service_guide_listen">Stream kwaliteit</string>
+  <string name="pay_service_guide_new">Hogere kwaliteit muziek is nu beschikbaar</string>
   <string name="payment_fail">Betaling mislukt!</string>
   <string name="payment_success">Betaling voltooid!</string>
   <string name="play_all">Alles Afspelen</string>

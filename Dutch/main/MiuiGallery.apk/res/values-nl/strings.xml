@@ -210,6 +210,7 @@ vrienden."</string>
   <string name="flip">Omdraaien</string>
   <string name="flip_tooltip">Sleeop foto om te draaien</string>
   <string name="focal_length">Focaal lengte</string>
+  <string name="folder_holder_file">Bestand placeholder</string>
   <string name="frame_black">Zwart</string>
   <string name="frame_button">Frame</string>
   <string name="frame_classic">Klassiek</string>
@@ -483,6 +484,7 @@ vrienden."</string>
   <string name="there_is_no_image">Er is geen afbeelding.</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Tijd</string>
+  <string name="time_line_view">Timeline_View</string>
   <string name="times">Tijden</string>
   <string name="tint">Tint</string>
   <string name="title">Titel</string>
