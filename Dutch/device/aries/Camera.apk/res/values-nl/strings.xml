@@ -58,7 +58,7 @@ Stap even uit beeld</string>
   <string name="copy_text">Tekst kopiëren</string>
   <string name="copy_text_success">Tekst succesvol gekopiëerd</string>
   <string name="crop_saved">Bijgesneden afbeelding opgeslagen als %s.</string>
-  <string name="delete">Verwijder</string>
+  <string name="delete">Verwijderen</string>
   <string name="deleted">Verwijderd</string>
   <string name="description">Omschrijving</string>
   <string name="details">Details</string>
@@ -447,8 +447,8 @@ Stap even uit beeld</string>
   <string name="select_group">Selecteer groep</string>
   <string name="select_image">Selecteer foto</string>
   <string name="select_item">Selecteer optie</string>
-  <string name="send">Verzenden</string>
-  <string name="send_multiple_files_hint_format">Verzend meerdere bestanden (%s)</string>
+  <string name="send">Delen</string>
+  <string name="send_multiple_files_hint_format">Deel meerdere bestanden (%s)</string>
   <string name="set_as">Instellen als</string>
   <string name="set_image">Stel foto in als</string>
   <string name="set_label_all_albums">Alle albums</string>
