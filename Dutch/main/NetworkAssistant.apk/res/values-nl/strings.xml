@@ -150,6 +150,7 @@
   <string name="text_day"/>
   <string name="text_done">Klaar</string>
   <string name="text_save">Opslaan</string>
+  <string name="traffic_bought">Verkeer gekocht</string>
   <string name="traffic_none">N/A</string>
   <string name="traffic_remain">Resterende</string>
   <string name="traffic_settings_error">Er is een fout in uw maandelijkse gratis verbruik. Volgens uw instellingen en provider SMS, bedraagt uw maandelijkse gratis verbruik: %1$s en is uw resterende verbruik: %2$s.</string>

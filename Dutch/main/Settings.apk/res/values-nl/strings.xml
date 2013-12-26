@@ -779,6 +779,7 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="dialog_title_font_size">Lettergrootte</string>
   <string name="dirac_control">Dirac Beheer</string>
   <string name="dirac_mode_earbuds">"Xiaomi's Earbud oortjes"</string>
+  <string name="dirac_mode_general">Algemeen</string>
   <string name="dirac_mode_in_ear">"Xiaomi's In-Ear oortjes"</string>
   <string name="dirac_mode_off">Dirac Uit</string>
   <string name="dirac_mode_piston_100">Xiaomi piston oortjes</string>

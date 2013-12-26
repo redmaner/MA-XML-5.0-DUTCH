@@ -296,6 +296,10 @@
   <string name="menu_share_url">Delen</string>
   <string name="menu_theme_setting">Thema Instellingen</string>
   <string name="menu_view_download">Downloads</string>
+  <string name="miui_quicksearch_enable_pref_summary">Snel zoeken inschakelen</string>
+  <string name="miui_quicksearch_enable_pref_title">Snel zoeken notificaties</string>
+  <string name="miui_search_notification_message">Snel zoeken openen</string>
+  <string name="miui_search_notification_title">Snel zoeken</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">USB is vereist om aan te passen.</string>
   <string name="move_to_up_folder">Ga naar bovenliggende map</string>
   <string name="multi_select_title">Geselecteerd %1$s item(s)</string>
@@ -348,6 +352,7 @@
   <string name="pref_content_auto_light_mode">Automatische helderheid</string>
   <string name="pref_content_autofit">"Pagina's passend maken"</string>
   <string name="pref_content_autofit_summary">"Webpagina's zo indelen dat deze op het scherm passen"</string>
+  <string name="pref_content_block_float_popups">Blokkeer zwevende pop-ups</string>
   <string name="pref_content_block_popups">Pop-ups blokkeren</string>
   <string name="pref_content_fontsize_setting">Lettertype instellingen</string>
   <string name="pref_content_homepage">Startpagina instellen</string>

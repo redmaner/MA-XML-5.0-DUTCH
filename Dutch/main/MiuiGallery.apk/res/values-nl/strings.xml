@@ -10,7 +10,7 @@
   <string name="add_to_cloud_album">Toevoegen aan Cloud</string>
   <string name="add_to_cloud_exceeded_the_size_message">Bestand is te groot voor MiCloud.</string>
   <string name="add_to_cloud_fail_too_many_items">Handeling mislukt, te veel items geselecteerd</string>
-  <string name="add_to_cloud_failed_message_with_count">%s item(s) kunnen niet worden toegevoegd aan cloud albums</string>
+  <string name="add_to_cloud_failed_message_with_count">%2$s item(s) kunnen niet worden toegevoegd aan cloud album: %1$s.</string>
   <string name="add_to_cloud_file_exist_message">Afbeelding bestaat al in het geselecteerde album.</string>
   <string name="add_to_cloud_file_not_exist_message">Bestand bestaat niet.</string>
   <string name="add_to_cloud_folder">Toevoegen aan Cloud album</string>
@@ -125,7 +125,9 @@ vrienden."</string>
   <string name="confirm_delete_this_picture">Wilt u de geselecteerde afbeelding verwijderen?</string>
   <string name="confirm_delete_this_video">Wilt u de geselecteerde video verwijderen?</string>
   <string name="confirm_delete_videos">"%s video's"</string>
-  <string name="confirm_download">"Het is aanbevolen om %s te download. Deze tip wordt niet meer weergegeven."</string>
+  <string name="confirm_download">"Het is aanbevolen om %s te downloaden. Deze tip wordt niet meer weergegeven."</string>
+  <string name="confirm_download_video_message">Video vereist download! Download wordt hervat als er een Wi-Fi verbinding beschikbaar is.</string>
+  <string name="confirm_download_video_title">Download video</string>
   <string name="contact_photo">Contact foto</string>
   <string name="context_menu_add_contact">Toevoegen aan contacten</string>
   <string name="context_menu_copy">Kopiëren</string>
@@ -237,6 +239,7 @@ vrienden."</string>
   <string name="how_many_sub_folders">%d Mappen</string>
   <string name="how_many_videos">"%d Video's"</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
+  <string name="image_download_item_title">Download afbeelding (%s)</string>
   <string name="image_quota_fulfiled">Kan afbeelding niet maken, afbeeldingen quota heeft limiet bereikt.</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Importeren voltooid</string>
@@ -259,8 +262,11 @@ vrienden."</string>
   <string name="landscape_mode">Landschapmodus inschakelen</string>
   <string name="loading">Laden...</string>
   <string name="loading_failure">Foto kan niet worden geladen</string>
+  <string name="loading_image">Afbeelding downloaden...</string>
   <string name="loading_members">Deelgenoten laden...</string>
+  <string name="loading_suspend">Download gepauzeerd: Wordt hervat als er een Wi-Fi verbinding beschikbaar is</string>
   <string name="loading_thumbnail">Thumbnail laden...</string>
+  <string name="loading_video">Video downloaden...</string>
   <string name="local_albums">Lokale afbeeldingen</string>
   <string name="location">Locatie</string>
   <string name="locations">Locaties</string>
