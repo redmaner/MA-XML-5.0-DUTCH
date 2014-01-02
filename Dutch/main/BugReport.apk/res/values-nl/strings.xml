@@ -42,6 +42,6 @@
   <string name="user_feedback">Gebruikers Feedback</string>
   <string name="wlan_unavailable_dialog_button_ok">OK</string>
   <string name="wlan_unavailable_dialog_button_sent">Verzend nu</string>
-  <string name="wlan_unavailable_dialog_content">%s is vereist voor 2G/3G data, klik OK om alleen met WI-FI te verzenden</string>
+  <string name="wlan_unavailable_dialog_content">%s is vereist voor 2G/3G gegevens, klik OK om alleen met WI-FI te verzenden</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi niet beschikbaar</string>
 </resources>

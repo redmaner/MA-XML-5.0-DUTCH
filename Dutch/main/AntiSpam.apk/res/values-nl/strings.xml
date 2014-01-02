@@ -73,7 +73,7 @@
   <string name="qm_repeated_call_summary_3min">Een tweede oproep van dezelfde persoon binnen drie minuten wordt niet gedempt</string>
   <string name="qm_repeated_call_summary_none">Maak geen uitzondering voor herhaalde oproepen</string>
   <string name="qm_special_call_setting_group">Uitzonderingen</string>
-  <string name="qm_summary">Tijdens rustmodus worden inkomende oproepen en berichten gedempt en de telefoon zal niet ontwaken door notificaties</string>
+  <string name="qm_summary">Tijdens rustmodus worden inkomende oproepen en berichten gedempt en de telefoon zal niet ontwaken door meldingen</string>
   <string name="qm_vip_call_button_title">Oproepen toestaan van whitelist</string>
   <string name="qm_vip_call_setting_title">Whitelist inkomende oproep instellingen</string>
   <string name="qm_vip_call_summary_contact">Alle contacten</string>
@@ -108,7 +108,7 @@
   <string name="st_mute_title">Rustmodus</string>
   <string name="st_other_setting_group">Andere Instellingen</string>
   <string name="st_settings_name">Instellingen</string>
-  <string name="st_show_block_notification">Toon geblokkeerde notificatie</string>
+  <string name="st_show_block_notification">Geblokkeerde melding weergeven</string>
   <string name="st_sms_group">Berichten</string>
   <string name="tab_blacklist">Blacklist</string>
   <string name="tab_block_log">Firewall</string>

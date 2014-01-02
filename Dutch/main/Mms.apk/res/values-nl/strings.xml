@@ -85,7 +85,7 @@
   <string name="context_menu_view_mms">Bekijk MMS</string>
   <string name="conversation">Berichten</string>
   <string name="conversation_style">bubble</string>
-  <string name="converting_to_picture_message">Converteren naar MMS-bericht...</string>
+  <string name="converting_to_picture_message">Converteren naar MMS-bericht, hieraan zijn kosten verbonden...</string>
   <string name="converting_to_text_message">Converteren naar sms...</string>
   <string name="copy_message_text">Tekst kopiëren</string>
   <string name="copy_message_text_success">Bericht succesvol gekopiëerd!</string>
@@ -464,8 +464,8 @@ Rapporteer bugs en stuur feedback naar Xiaomi.”</string>
   <string name="unstick_conversation">Vastprikken huidige conversatie ongedaan maken</string>
   <string name="unsticked_conversation">Al ongedaan gemaakt</string>
   <string name="unsupported_media_format">Niet ondersteund %1$s formaat</string>
-  <string name="view">Bekijk</string>
-  <string name="view_bookmark">Bekijk origineel bericht</string>
+  <string name="view">Weergeven</string>
+  <string name="view_bookmark">Origineel bericht weergeven</string>
   <string name="view_message_details">Details weergeven</string>
   <string name="wap_push_title">[WAP Push]\u0020</string>
   <string name="yes">OK</string>

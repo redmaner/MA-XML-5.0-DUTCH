@@ -11,11 +11,11 @@
   <string name="actionIncomingCall">Inkomende oproepen</string>
   <string name="action_menu_overflow_description">Meer opties</string>
   <string name="activity_not_found_uri">Geen ondersteunde applicatie gevonden!</string>
-  <string name="activity_title_confirm_add_detail">Voeg toe aan contact</string>
+  <string name="activity_title_confirm_add_detail">Aan contact toevoegen</string>
   <string name="activity_title_contacts_filter">Zichtbare contacten</string>
   <string name="activity_title_settings">Instellingen</string>
-  <string name="addPeopleToGroup">Wijzig de group om toe te voegen.</string>
-  <string name="add_2sec_pause">Voer 2-sec pauze toe</string>
+  <string name="addPeopleToGroup">Bewerk de groep om leden toe te voegen.</string>
+  <string name="add_2sec_pause">Pauze van 2 seconden toevoegen</string>
   <string name="add_account">Account toevoegen</string>
   <string name="add_blacklist">Voeg toe aan blacklist</string>
   <string name="add_connection_button">Verbinding toevoegen</string>
@@ -26,7 +26,7 @@
   <string name="add_organization">Organisatie toevoegen</string>
   <string name="add_slide_before">Dia toevoegen (voor)</string>
   <string name="add_to_my_contacts">Toevoegen aan Mijn contacten</string>
-  <string name="add_wait">Wacht toevoegen</string>
+  <string name="add_wait">Wachten toevoegen</string>
   <string name="add_xiaomi_account_dialog_btn">Gebruik Xiaomi account</string>
   <string name="add_xiaomi_account_dialog_msg">Voor de beste ervaring, kunt u overwegen uw Xiaomi account te gebruiken om up contact informatie te synchroniseren en te backuppen en contacten te beheren met uw computer.</string>
   <string name="add_xiaomi_account_dialog_title">Kies sync account</string>
@@ -65,7 +65,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="call_car">Bellen naar autotelefoon</string>
   <string name="call_company_main">Bellen naar hoofdkantoor</string>
   <string name="call_custom" formatted="false">%s bellen</string>
-  <string name="call_disambig_title">Bellen met</string>
+  <string name="call_disambig_title">Nummer kiezen</string>
   <string name="call_fax_home">Bellen naar huisfax</string>
   <string name="call_fax_work">Bellen naar fax werk</string>
   <string name="call_home">Bellen naar huis</string>
@@ -141,9 +141,9 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="clearCallLogConfirmation">Al uw oproepgegevens worden verwijderd.</string>
   <string name="clearCallLogConfirmation_title">Oproeplog wissen?</string>
   <string name="clearCallLogProgress_title">Oproeplogboek wissen...</string>
-  <string name="clearFrequentsConfirmation">"Wis de lijst met regematig gecontacteerde in Contacten en Telefoon apps, en forceer email apps om uw adresserings voorkeuren opnieuw te leren."</string>
-  <string name="clearFrequentsConfirmation_title">Wis regelmatig getacteerden?</string>
-  <string name="clearFrequentsProgress_title">Wissen van regelmatig gecontacteerden...</string>
+  <string name="clearFrequentsConfirmation">U wist de lijst met contacten waarmee u regelmatig contact opneemt in de apps Personen en Telefoon, en e-mailapps moeten uw voorkeursadressen weer opnieuw leren.</string>
+  <string name="clearFrequentsConfirmation_title">Lijst met regelmatige contacten wissen?</string>
+  <string name="clearFrequentsProgress_title">Regelmatige contacten wissen...</string>
   <string name="clear_default">Standaardwaarden wissen</string>
   <string name="clear_digits">telefoonnummer wissen</string>
   <string name="click_close">Klik om te sluiten</string>
@@ -191,17 +191,17 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="contact_status_update_attribution" formatted="false">via %1$s</string>
   <string name="contact_status_update_attribution_with_date" formatted="false">%1$s via %2$s</string>
   <string name="contact_unfavorite_toast">Contact verwijdert uit favorieten</string>
-  <string name="contactsAllLabel">Contacten</string>
+  <string name="contactsAllLabel">Alle contacten</string>
   <string name="contactsFavoritesLabel">Favoriet</string>
   <string name="contactsGroupsLabel">Groepen</string>
   <string name="contactsJoinedMessage">Contacten zijn samengevoegd</string>
   <string name="contactsList">Contacten</string>
   <string name="contacts_unavailable_add_account">Aanmelden bij een account</string>
-  <string name="contacts_unavailable_create_contact">Maak een nieuw contact</string>
+  <string name="contacts_unavailable_create_contact">Een nieuw contact maken</string>
   <string name="contacts_unavailable_import_contacts">Contacten importeren uit een bestand</string>
   <string name="context_menu_add_to_browser_favorite">Toevoegen aan browser favorieten</string>
   <string name="copy_text">Kopiëren naar klembord</string>
-  <string name="createContactShortcutSuccessful">Contact widget toegevoegd aan Home-scherm.</string>
+  <string name="createContactShortcutSuccessful">Widget voor contacten toegevoegd aan het startscherm.</string>
   <string name="create_group_dialog_title">Nieuwe groep maken</string>
   <string name="create_group_item_label">[Nieuwe groep maken]</string>
   <string name="customLabelPickerTitle">Aangepaste labelnaam</string>
@@ -239,15 +239,15 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="description_contact_photo">contactfoto</string>
   <string name="description_delete_button">backspace</string>
   <string name="description_designer">Designer:</string>
-  <string name="description_dial_button">bel</string>
+  <string name="description_dial_button">bellen</string>g>
   <string name="description_dial_phone_number" formatted="false">Telefoon van %1$s bellen</string>
-  <string name="description_digits_edittext">te draaien nummer</string>
+  <string name="description_digits_edittext">nummer om te bellen</string>
   <string name="description_download">Download:</string>
   <string name="description_image_button_eight">acht</string>
   <string name="description_image_button_five">vijf</string>
   <string name="description_image_button_four">vier</string>
   <string name="description_image_button_nine">negen</string>
-  <string name="description_image_button_one">Ã©Ã©n</string>
+  <string name="description_image_button_one">één</string>
   <string name="description_image_button_pound">hekje</string>
   <string name="description_image_button_seven">zeven</string>
   <string name="description_image_button_six">zes</string>
@@ -259,7 +259,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="description_plus_button">plus</string>
   <string name="description_quick_contact_for" formatted="false">Snelcontact voor %1$s</string>
   <string name="description_search_button">zoeken</string>
-  <string name="description_send_message">Stuur bericht naar %1$s</string>
+  <string name="description_send_message">Bericht verzenden naar %1$s</string>
   <string name="description_send_text_message" formatted="false">Sms verzenden naar %1$s</string>
   <string name="description_size">Grootte:</string>
   <string name="description_star">favoriet</string>
@@ -296,22 +296,22 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="device_version_title">selecteer mobiele telefoon versie</string>
   <string name="dial">bellen</string>
   <string name="dialerDialpadHintText">Oproep toevoegen</string>
-  <string name="dialerIconLabel">Recent</string>
-  <string name="dialerKeyboardHintText">Gebruik toetsen om te kiezen</string>
-  <string name="dialer_addAnotherCall">Voeg oproep toe</string>
+  <string name="dialerIconLabel">Telefoon</string>
+  <string name="dialerKeyboardHintText">Toetsen gebruiken om te bellen</string>
+  <string name="dialer_addAnotherCall">Oproep toevoegen</string>
   <string name="dialer_empty_text_loading">Laden...</string>
   <string name="dialer_empty_text_no_call_log">Geen gesprekslog</string>
   <string name="dialer_empty_text_no_search_result">Geen items gevonden die aan de zoekcriteria voldoen</string>
-  <string name="dialer_returnToInCallScreen">Ga terug naar gesprek</string>
-  <string name="dialer_useDtmfDialpad">Gebruik aanraaktoon keypad</string>
-  <string name="dialog_import">Importeer contacten</string>
+  <string name="dialer_returnToInCallScreen">Terug naar actief gesprek</string>
+  <string name="dialer_useDtmfDialpad">Toetsen voor toonkiezen gebruiken</string>
+  <string name="dialog_import">Contacten importeren</string>
   <string name="dialog_import_export">Contacten importeren/exporteren</string>
   <string name="dialog_new_contact_account">Contact in account maken</string>
   <string name="dialog_new_group_account">Groep in account maken</string>
-  <string name="dialog_phone_call_prohibited_message">Oproep niet verzonden</string>
+  <string name="dialog_phone_call_prohibited_message">Oproep niet uitgevoerd</string>
   <string name="dialog_sync_add">Synchronisatiegroep toevoegen</string>
-  <string name="dialog_voicemail_airplane_mode_message">Om voicemail te bellen, dient u vliegmodus uit te schakelen.</string>
-  <string name="dialog_voicemail_not_ready_message">Om voicemail in te stelen, ga naar Menu &gt; Instellingen.</string>
+  <string name="dialog_voicemail_airplane_mode_message">Als u uw voicemail wilt bellen, moet u eerst de Vliegmodus uitschakelen.</string>
+  <string name="dialog_voicemail_not_ready_message">"Voor het instellen van voicemail, gaat u naar 'Menu' &gt; 'Instellingen'."</string>
   <string name="directory_search_label">Directory</string>
   <string name="dirty_contacts_notification_description" formatted="false">Telefoon heeft %d ongesynchroniseerde contacten</string>
   <string name="dirty_contacts_notification_message">(Zet geen herinnering bij contacten instelling)</string>
@@ -334,17 +334,17 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="download_preview_failed">Laden preview mislukt</string>
   <string name="duplicate_group_name">Groepnaam bestaat al</string>
   <string name="editContactDescription">Contact bewerken</string>
-  <string name="editGroupDescription">Bewerk groep</string>
+  <string name="editGroupDescription">Groep bewerken</string>
   <string name="edit_contact">Contact bewerken</string>
   <string name="edit_contact_card_title">Wijzig contact</string>
   <string name="email">E-mail</string>
-  <string name="emailLabelsGroup">E-mail</string>
+  <string name="emailLabelsGroup">E-mailadres</string>
   <string name="email_custom" formatted="false">E-mailadres %s</string>
   <string name="email_home">E-mailen naar huis</string>
   <string name="email_mobile">E-mailen naar mobiel</string>
   <string name="email_other">E-mail</string>
   <string name="email_work">E-mailen naar werk</string>
-  <string name="emptyGroup">Geen contacten in deze groep.</string>
+  <string name="emptyGroup">Geen personen in deze groep.</string>
   <string name="empty_divider_title">U kunt</string>
   <string name="enter_contact_name">Typ de naam van de persoon</string>
   <string name="eventLabelsGroup">Afspraken</string>
@@ -368,17 +368,16 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="fail_reason_could_not_initialize_exporter" formatted="false">"Kan het exportprogramma niet starten: '%s'."</string>
   <string name="fail_reason_could_not_open_file" formatted="false">"Kan '%s' niet openen: %s."</string>
   <string name="fail_reason_error_occurred_during_export" formatted="false">"Er is een fout opgetreden tijdens het exporteren: '%s'."</string>
-  <string name="fail_reason_failed_to_collect_vcard_meta_info">Kon geen meta informatie vinden van opgegeven vCard bestanden.</string>
-  <string name="fail_reason_failed_to_read_files">Eén of meerdere bestanden konden niet worden geïmporteerd (%s).</string>
+  <string name="fail_reason_failed_to_collect_vcard_meta_info">Kan metagegevens niet verzamelen uit vCard-bestand(en).</string>
+  <string name="fail_reason_failed_to_read_files">Kan een of meer bestanden niet importeren (%s).</string>
   <string name="fail_reason_io_error">I/O-fout</string>
   <string name="fail_reason_low_memory_during_import">Onvoldoende geheugen. Het bestand is mogelijk te groot.</string>
   <string name="fail_reason_no_exportable_contact">Er is geen contact dat kan worden geëxporteerd.</string>
   <string name="fail_reason_not_supported">De indeling wordt niet ondersteund.</string>
-  <string name="fail_reason_too_long_filename" formatted="false">"Vereiste bestandsnaam is te lang ('%s')."</string>
+  <string name="fail_reason_too_long_filename">"Vereiste bestandsnaam is te lang ('%s')."</string>
   <string name="fail_reason_too_many_vcard">Er staan te veel vCard-bestanden in de opslag.</string>
   <string name="fail_reason_unknown">Onbekende fout.</string>
-  <string name="fail_reason_vcard_parse_error">Om onbekende redenen kon de vCard niet ingelezen worden.</string>
-  <string name="fail_to_add_account">Contact toevoegen mislukt!</string>
+  <string name="fail_reason_vcard_parse_error">Kan vCard om onverwachte reden niet parseren.</string>
   <string name="favoritesFrequentCalled">Vaak gebeld</string>
   <string name="favoritesFrequentContacted">Regelmatig contact</string>
   <string name="favorites_list_empty">Geen favorieten</string>
@@ -390,8 +389,8 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="frequentList">Vaak</string>
   <string name="from_account_format" formatted="false">%1$s</string>
   <string name="full_name">Naam</string>
-  <string name="generic_no_account_prompt">Stel uw contacten veilig ook als u uw telefoon zou verliezen: synchronizeer met een online dienst.</string>
-  <string name="generic_no_account_prompt_title">Voeg een account toe</string>
+  <string name="generic_no_account_prompt">Zorg dat uw contacten veilig zijn, zelfs wanneer u uw telefoon verliest: synchroniseer met een online service.</string>
+  <string name="generic_no_account_prompt_title">Account toevoegen</string>
   <string name="ghostData_company">Bedrijf</string>
   <string name="ghostData_title">Titel</string>
   <string name="groupSavedErrorToast">Kan wijzigingen in groep niet opslaan.</string>
@@ -432,7 +431,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="import_from_sim">Importeren van simkaart</string>
   <string name="import_multiple_vcard_string">Meerdere vCard-bestanden importeren</string>
   <string name="import_name">naam</string>
-  <string name="import_one_vcard_string">EÃ©n vCard-bestand importeren</string>
+  <string name="import_one_vcard_string">Eén vCard-bestand importeren</string>
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Importeer geselecteerde contacten</string>
   <string name="import_sim_entries_finish">Importeren simkaart contacten succesvol voltooid</string>
@@ -470,10 +469,10 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="label_sip_address">Internetoproep</string>
   <string name="launcherDialer">Telefoon</string>
   <string name="listCustomView">Contacten in aangepaste weergave</string>
-  <string name="listFoundAllContactsZero">Niets gevonden.</string>
-  <string name="listSingleContact">Enkelvoudig contact</string>
+  <string name="listFoundAllContactsZero">Geen contacten</string>
+  <string name="listSingleContact">Eén contact</string>
   <string name="listTotalAllContactsZero">Geen contacten.</string>
-  <string name="listTotalAllContactsZeroCustom">Geen contacten zichtbaar.</string>
+  <string name="listTotalAllContactsZeroCustom">Geen zichtbare contacten.</string>
   <string name="listTotalAllContactsZeroGroup">Geen contacten in %s</string>
   <string name="listTotalAllContactsZeroStarred">Geen favorieten.</string>
   <string name="listTotalPhoneContactsZero">Geen contacten met telefoonnummers</string>
@@ -513,17 +512,17 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="menu_call">Contact bellen</string>
   <string name="menu_callNumber" formatted="false">%s bellen</string>
   <string name="menu_call_ip_number">Kies IP oproep (naar %s)</string>
-  <string name="menu_clear_frequents">Wis frequenten</string>
+  <string name="menu_clear_frequents">Regelmatige contacten wissen</string>
   <string name="menu_contacts_filter">Zichtbare contacten</string>
-  <string name="menu_copy">Kopieer</string>
+  <string name="menu_copy">Kopiëren</string>
   <string name="menu_copyContact">Kopiëren naar mijn contacten</string>
-  <string name="menu_create_contact_shortcut">Plaats op Home scherm</string>
+  <string name="menu_create_contact_shortcut">Op startscherm plaatsen</string>
   <string name="menu_deleteContact">Verwijderen</string>
   <string name="menu_deleteGroup">Verwijderen</string>
   <string name="menu_dialpad">Kiezer</string>
   <string name="menu_discard">Annuleren</string>
-  <string name="menu_display_all">Toon alle</string>
-  <string name="menu_display_selected">Toon geselecteerde</string>
+  <string name="menu_display_all">Alles weergeven</string>
+  <string name="menu_display_selected">Selectie weergeven</string>
   <string name="menu_doNotSave">Annuleren</string>
   <string name="menu_done">Gereed</string>
   <string name="menu_editContact">Bewerken</string>
@@ -541,15 +540,15 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="menu_refresh">Vernieuwen</string>
   <string name="menu_removeStar">Uit favorieten verwijderen</string>
   <string name="menu_search">Zoeken</string>
-  <string name="menu_select_all">Selecteer alles</string>
-  <string name="menu_select_none">Deselecteer alles</string>
+  <string name="menu_select_all">Alles selecteren</string>
+  <string name="menu_select_none">Selectie ongedaan maken</string>
   <string name="menu_sendSMS">"Sms'en naar contact"</string>
-  <string name="menu_sendTextMessage">Verzend tekstbericht</string>
+  <string name="menu_sendTextMessage">Sms verzenden</string>
   <string name="menu_set_ring_tone">Beltoon instellen</string>
   <string name="menu_settings">Instellingen</string>
   <string name="menu_share">Delen</string>
-  <string name="menu_show_all_calls">Toon alle contacten</string>
-  <string name="menu_show_voicemails_only">Toon alleen voicemails</string>
+  <string name="menu_show_all_calls">Alle oproepen weergeven</string>
+  <string name="menu_show_voicemails_only">Alleen voicemails weergeven</string>
   <string name="menu_splitAggregate">Scheiden</string>
   <string name="menu_sync_remove">Synchronisatiegroep verwijderen</string>
   <string name="menu_viewContact">Contact weergeven</string>
@@ -605,10 +604,10 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="noGroups">Geen groepen.</string>
   <string name="noMatchingContacts">Kan geen overeenkomende contacten vinden.</string>
   <string name="noRecentContacts">Geen recent contact</string>
-  <string name="no_account_prompt">"Contacten werkt beter met een Google-account. 
+  <string name="no_account_prompt">"Personen werkt beter met een Google-account.
 
 • Toegang via elke webbrowser. 
-• Maak veilige back-ups van uw contacten."</string>
+• Maak beveiligde back-ups van uw contacten."</string>
   <string name="no_contact_details">Geen aanvullende gegevens voor dit contact.</string>
   <string name="no_contact_in_other_phone">Er zijn geen contacten in uw telefoon</string>
   <string name="no_contacts_dialog_message">Persoon niet gevonden in uw contacten. Deze is mogelijk op uw simkaart contactlijst opgeslagen, indien dit het geval is importeer dan de simkaart informatie naar uw telefoon.</string>
@@ -642,14 +641,14 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="organization_company_and_title" formatted="false">%2$s, %1$s</string>
   <string name="other_contacts">Anderen</string>
   <string name="other_phone">andere telefoons</string>
-  <string name="payphone">Telefooncel</string>
-  <string name="people">Contacten</string>
+  <string name="payphone">Betaaltelefoon</string>
+  <string name="people">Personen</string>
   <string name="percent_sign">%</string>
   <string name="percentage" formatted="false">%s%%</string>
   <string name="phoneLabelsGroup">Telefoon</string>
   <string name="phone_info_divider">"  |  "</string>
   <string name="phone_primary">Primair</string>
-  <string name="photoPickerNotFoundText">Geen afbeeldingen beschikbaar.</string>
+ <string name="photoPickerNotFoundText">"Er zijn geen foto's beschikbaar op de telefoon."</string>
   <string name="photo_package_activity_title">Foto pakket</string>
   <string name="pick_favorites_contacts_list_title">Totaal %1$d favoriete contacten</string>
   <string name="pick_favorites_list_title" formatted="false">Totaal %1$d favoriete contact nummers</string>
@@ -673,7 +672,7 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="postal_address">Adres</string>
   <string name="postal_city">Plaats</string>
   <string name="postal_country">Land</string>
-  <string name="postal_neighborhood">Omgeving</string>
+  <string name="postal_neighborhood">Wijk</string>
   <string name="postal_pobox">Postbus</string>
   <string name="postal_postcode">Postcode</string>
   <string name="postal_region">Staat</string>
@@ -743,18 +742,18 @@ Als u contacten wilt toevoegen, drukt u op "</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" bevat informatie uit meerdere accounts. Informatie uit alleen-lezen accounts zal worden verborgen in uw contactlijst maar niet worden verwijdert.</string>
   <string name="readOnlyContactWarning">U kunt contacten niet verwijderen uit alleen-lezen-accounts, maar u kunt ze verbergen in uw contactenlijst.</string>
   <string name="readingSimContacts">Simkaart informatie lezen, een moment geduld...</string>
-  <string name="reading_vcard_canceled_title">Lezen vCard-data geannuleerd</string>
+  <string name="reading_vcard_canceled_title">Lezen van vCard-gegevens geannuleerd</string>
   <string name="reading_vcard_failed_title">Kan vCard-gegevens niet lezen</string>
   <string name="rebuild_t9_index_dialog_message">T9 index data opnieuw opbouwen…</string>
   <string name="recent">Recent</string>
-  <string name="recentCallsIconLabel">Gespreks log</string>
+  <string name="recentCallsIconLabel">Gesprek</string>
   <string name="recentCalls_addToContact">Toevoegen aan contacten</string>
-  <string name="recentCalls_callNumber">Bel %s</string>
-  <string name="recentCalls_deleteAll">Wis oproepen log</string>
+  <string name="recentCalls_callNumber">%s bellen</string>
+  <string name="recentCalls_deleteAll">Gesprekken wissen</string>
   <string name="recentCalls_editNumberBeforeCall">Nummer bewerken voor bellen</string>
-  <string name="recentCalls_empty">Oproepen log is leeg</string>
+  <string name="recentCalls_empty">Gesprekken is leeg</string>
   <string name="recentCalls_removeFromRecentList">Verwijderen uit Gesprekken</string>
-  <string name="recentCalls_shareVoicemail">Deel voicemail</string>
+  <string name="recentCalls_shareVoicemail">Voicemail delen</string>
   <string name="recentCalls_trashVoicemail">Voicemail verwijderen</string>
   <string name="recent_contacts_label">Recent</string>
   <string name="recent_number">Recent</string>
@@ -916,7 +915,7 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="save_photo_progress">Foto opslaan...</string>
   <string name="save_to_sim_failed">Oplaan op simkaart mislukt! Hersteld naar telefoon geheugen</string>
   <string name="saved_to_sim">Opgeslagen op simkaart!</string>
-  <string name="savingContact">Contact opslaan…</string>
+  <string name="savingContact">Contact opslaan...</string>
   <string name="savingDisplayGroups">Weergaveopties opslaan...</string>
   <string name="scan">scan apparaat</string>
   <string name="scan_duplicate_message">Contacten met complete dubbele data %1$d</string>
@@ -941,7 +940,7 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="select_show_contacts">Toon contact</string>
   <string name="select_vcard_title">vCard-bestand kiezen</string>
   <string name="send_contact_shortcut_todesktop_success">Snelkoppeling voor contact succesvol geplaatst</string>
-  <string name="send_to_voicemail_checkbox">Verbind oproepen direct door naar voicemail</string>
+  <string name="send_to_voicemail_checkbox">Oproepen rechtstreeks naar voicemail verzenden</string>
   <string name="separatorJoinAggregateAll">Alle contacten</string>
   <string name="separatorJoinAggregateSuggestions">Mogelijke contacten</string>
   <string name="service_provider">Service provider</string>
@@ -1001,7 +1000,7 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="sms_car">"Sms'en naar autotelefoon"</string>
   <string name="sms_company_main">"Sms'en naar hoofdkantoor"</string>
   <string name="sms_custom" formatted="false">"Sms'en naar %s"</string>
-  <string name="sms_disambig_title">"Sms'en met"</string>
+  <string name="sms_disambig_title">Nummer kiezen</string>
   <string name="sms_fax_home">"Sms'en naar huisfax"</string>
   <string name="sms_fax_work">"Sms'en naar fax werk"</string>
   <string name="sms_home">"Sms'en naar huis"</string>
@@ -1042,7 +1041,7 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="toast_call_detail_error">Kan geen gegevens over het gevraagde gesprek vinden.</string>
   <string name="toast_copy_done">Kopiëren succesvol voltooid</string>
   <string name="toast_copying">Kopiëren, een moment geduld...</string>
-  <string name="toast_displaying_all_contacts">Alle contacten weergeven</string>
+  <string name="toast_displaying_all_contacts">Alle contacten worden weergegeven</string>
   <string name="toast_finish_delete_call_log">Oproep record(s) zijn verwijderd</string>
   <string name="toast_for_failed_saving_nickname">Opslaan van wijzigingen mislukt</string>
   <string name="toast_for_saving_nickname">Wijzigingen opslaan</string>
@@ -1077,8 +1076,8 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="viewContactTitle">Details van contact</string>
   <string name="view_updates_from_group">Updates bekijken</string>
   <string name="voicemail">Voicemail</string>
-  <string name="voicemail_buffering">In buffer opslaanâ€¦</string>
-  <string name="voicemail_fetching_content">Voicemail ophalenâ€¦</string>
+  <string name="voicemail_buffering">In buffer opslaan...</string>
+  <string name="voicemail_fetching_content">Voicemail ophalen...</string>
   <string name="voicemail_fetching_timout">Kan voicemail niet ophalen.</string>
   <string name="voicemail_playback_error">Kan voicemail niet afspelen.</string>
   <string name="voicemail_speed_faster">Hoge snelheid</string>

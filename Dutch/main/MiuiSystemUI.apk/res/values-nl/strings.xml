@@ -36,7 +36,7 @@
   <string name="accessibility_remove_notification">Notificatie wissen</string>
   <string name="accessibility_ringer_silent">Beltoon stil.</string>
   <string name="accessibility_ringer_vibrate">Beltoon trilt.</string>
-  <string name="accessibility_rotation_lock_off">Scherm zal automatisch draaien.</string>
+  <string name="accessibility_rotation_lock_off">Scherm wordt automatisch geroteerd.</string>
   <string name="accessibility_settings_button">Systeeminstellingen.</string>
   <string name="accessibility_tty_enabled">TeleTypewriter ingeschakeld.</string>
   <string name="accessibility_wifi_one_bar">Wifi: één streepje.</string>
@@ -56,7 +56,7 @@
   <string name="battery_low_percent_format">%d%% resterend</string>
   <string name="battery_low_subtitle">De batterij raakt leeg.</string>
   <string name="battery_low_title">Sluit de oplader aan</string>
-  <string name="battery_low_why">Batterij gebruik</string>
+  <string name="battery_low_why">Batterijgebruik</string>
   <string name="bluetooth_tethered">Bluetooth getetherd</string>
   <string name="call_status_dialing">Kiezen</string>
   <string name="camera_key_action_app_title">Open app</string>
@@ -75,12 +75,14 @@
   <string name="compat_mode_help_header">Compatibiliteitszoom</string>
   <string name="compat_mode_off">Rek uit v. schermvulling</string>
   <string name="compat_mode_on">Zoom om scherm te vullen</string>
-  <string name="data_usage_disabled_dialog">U heeft uw ingestelde data limit bereikt. Als u data opnieuw inschakelt, kunnen er extra kosten in rekening worden gebracht door uw provider.</string>
-  <string name="data_usage_disabled_dialog_3g_title">2G-/3G-data uitgeschakeld</string>
-  <string name="data_usage_disabled_dialog_4g_title">4G-data uitgeschakeld</string>
-  <string name="data_usage_disabled_dialog_enable">Data opnieuw inschakelen</string>
-  <string name="data_usage_disabled_dialog_mobile_title">Mobiele data uitgeschakeld</string>
-  <string name="data_usage_disabled_dialog_title">Data uitgeschakeld</string>
+  <string name="data_usage_disabled_dialog">"U heeft de gestelde limiet voor gegevensverbruik bereikt.
+
+Als u gegevens opnieuw inschakelt, kunnen er kosten in rekening worden gebracht door uw provider."</string>
+  <string name="data_usage_disabled_dialog_3g_title">2G-/3G-gegevens uitgeschakeld</string>
+  <string name="data_usage_disabled_dialog_4g_title">4G-gegevens uitgeschakeld</string>
+  <string name="data_usage_disabled_dialog_enable">Gegevens opnieuw inschakelen</string>
+  <string name="data_usage_disabled_dialog_mobile_title">Mobiele gegevens uitgeschakeld</string>
+  <string name="data_usage_disabled_dialog_title">Gegevens uitgeschakeld</string>
   <string name="description_direction_left">Schuif naar links om %s.</string>
   <string name="description_direction_up">Schuif omhoog om %s.</string>
   <string name="description_target_search">Zoek</string>
