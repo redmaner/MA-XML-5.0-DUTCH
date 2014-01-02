@@ -1320,7 +1320,7 @@ Attentie: Dit kan niet ongedaan gemaakt worden</string>
   <string name="mem_unlock">Ontgrendelen</string>
   <string name="member_firewall_log" formatted="false">Geblokkeerd: Nummer%d, details%d</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Apps (app-gegevens en media-inhoud)</string
+  <string name="memory_apps_usage">Apps (app-gegevens en media-inhoud)</string>
   <string name="memory_available">Beschikbaar</string>
   <string name="memory_calculating_size">Berekenen...</string>
   <string name="memory_dcim_usage">"Foto's, video's"</string>
@@ -1773,7 +1773,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="power_dialog_screen_brightness_title">Helderheid</string>
   <string name="power_dialog_sleep_title">Slapen</string>
   <string name="power_dialog_vibration_title">Trillen</string>
-  <string name="power_idle">Telefoon inactief</string
+  <string name="power_idle">Telefoon inactief</string>
   <string name="power_mgr">Energie</string>
   <string name="power_mode">Energiemodus</string>
   <string name="power_mode_airplane_mode">Vliegmodus</string>
