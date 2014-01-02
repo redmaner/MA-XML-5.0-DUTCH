@@ -58,12 +58,14 @@
   <string name="create_equalzier_create_text_prompt">Naam equalizer instelling</string>
   <string name="create_playlist_create_text_prompt">Naam van de afspeellijst</string>
   <string name="custom">Nieuwe EQ instelling</string>
+  <string name="data_usage_warning">Waarschuwing voor datagebruik!</string>
+  <string name="data_usage_warning_summary">Het gebruik van uw mobiele verbinding om hoge kwaliteit muziek te streamen kan het datagebruik aanzienlijk verhogen.</string>
   <string name="default_interval">30</string>
   <string name="delete_file_from_sdcard">Verwijder de bestanden van de SD-kaart</string>
   <string name="delete_item">Wissen</string>
   <string name="delete_playlist_menu">Verwijderen</string>
-  <string name="delete_song_desc">“%s” zal permanent worden gewist van de SD-kaart</string>
-  <string name="deselect_all">Deselecteer alle</string>
+  <string name="delete_song_desc">“%s” wordt permanent verwijderd van de SD-kaart</string>
+  <string name="deselect_all">Alles deselecteren</string>
   <string name="dirac_mode_earbuds">Xiaomi oortjes</string>
   <string name="dirac_mode_general">Normale modus</string>
   <string name="dirac_mode_in_ear">Xiaomi in-ear oortjes</string>
@@ -87,6 +89,7 @@
   <string name="empty_edit_hint">Song informatie niet beschikbaar</string>
   <string name="empty_track_list">Geen afspeellijst</string>
   <string name="emptyplaylist">Geselecteerde afspeellijst is leeg.</string>
+  <string name="enabled">Ingeschakeld</string>
   <string name="enter_sleep_mode">Slaap Moduse betreden</string>
   <string name="eq_auto">Aangepast</string>
   <string name="eq_blues">Blues</string>
@@ -112,6 +115,7 @@
   <string name="equalizer_delete">Wissen</string>
   <string name="equalizer_delete_success">Equalizer profiel succesvol gewist</string>
   <string name="equalizer_save_success">Equalizer profiel opgeslagen</string>
+  <string name="expired">Verlopen</string>
   <string name="fade_effect_settings">Fade instellingen</string>
   <string name="fade_effect_summary">Fade effect bij het wisselen van nummers</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
@@ -137,6 +141,8 @@
   <string name="frequentlyplayed_title">Frequent afgespeeld</string>
   <string name="headphone_settings">Koptelefoon instellingen</string>
   <string name="high_quality">Hoge kwaliteit</string>
+  <string name="higher_quality_music">Hoge kwaliteit muziek</string>
+  <string name="higher_quality_music_summary">Download en luister naar hoge kwaliteit muziek</string>
   <string name="hot_artists">Populaire Artiesten</string>
   <string name="i_know">OK</string>
   <string name="id3_edit">Bewerk ID3 Informatie</string>
@@ -186,6 +192,7 @@
   <string name="lyric_picker_not_found">Bestandsbeheer niet gevonden</string>
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Muziek</string>
+  <string name="menu_higher_quality_music">Hogere kwaliteit muziek (maandelijks toegang)</string>
   <string name="mi_effect">MI Effecten</string>
   <string name="mi_effect_summary">Altijd MiSound enhancer gebruiken bij speakers</string>
   <string name="mi_effect_title">MiSound enhancer gebruiken</string>
@@ -202,6 +209,7 @@
   <string name="music_not_loaded">Geen audio bestanden gevonden!</string>
   <string name="music_open_other_connect">Download muziek door middel van mobiele data connectie</string>
   <string name="music_picker_title">Nummer selecteren</string>
+  <string name="music_quality">Muziek kwaliteit</string>
   <string name="music_settings">Instellingen</string>
   <string name="network_error">Geen netwerkconnectie, controleer uw netwerkinstellingen</string>
   <string name="new_albums">New Albums</string>
@@ -318,9 +326,14 @@
   <string name="unknown_artist_name">Onbekende artiest</string>
   <string name="use_local_album">Gebruik opgeslagen album art</string>
   <string name="use_local_lyric">Gebruik opgeslagen songteksten</string>
+  <string name="valid_period">"Geldig van: "</string>
+  <string name="vip_bought">"U heeft al toegang tot hogere kwaliteit muziek"</string>
+  <string name="vip_expired">Uw toegang tot hogere kwaliteit muziek is verlopen</string>
+  <string name="vip_rebuy">Vernieuwen</string>
   <string name="vip_recommend_buy">Kopen (RMB 5 voor 1 maand)</string>
   <string name="vip_recommend_exchange">Gebruik cadeaukaart</string>
   <string name="vip_recommend_main_title">Ongelimiteerde CD kwaliteit (320 kbps)</string>
+  <string name="vip_recommend_rebuy">VIP toegang vernieuwen voor 30 dagen kost 5 MiCredits</string>
   <string name="vip_recommend_sub_title">Alleen 5 RMB per maand</string>
   <string name="vip_recommend_summary">Stream of download al uw favoriete artiesten met Baidu Music op 320 kbps.</string>
   <string name="vip_recommend_title">Hogere kwaliteit muziek</string>

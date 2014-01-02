@@ -60,6 +60,10 @@
         <item quantity="other">" categorieën"</item>
         <item quantity="one">" categorie"</item>
     </plurals>
+    <plurals name="Nexpiration_reminder">
+        <item quantity="other">%d dagen is bijna verlopen</item>
+        <item quantity="one">%d dag is bijna verlopen</item>
+    </plurals>
     <plurals name="album_details_format">
         <item quantity="other">%1$s, %2$d nummers</item>
         <item quantity="one">%1$s, %2$d nummer</item>
@@ -71,5 +75,8 @@
     <plurals name="NTrackstoDownload">
         <item quantity="other">%d nummers zullen gedownload worden.</item>
         <item quantity="one">1 nummer zal gedownload worden.</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">Toegang tot hogere kwaliteit muziek is bijna verlopen (%d dagen resterend)</item>
     </plurals>
 </resources>

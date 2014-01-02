@@ -90,6 +90,8 @@
   <string name="enableAll">Alles Inschakelen</string>
   <string name="enable_find_device_error">%1$s, inschakelen van lokalisering van het toestel is mislukt</string>
   <string name="enable_micloud">Cloud services inschakelen</string>
+  <string name="enable_sync">Sync inschakelen</string>
+  <string name="enable_sync_dspt">Sync is uit</string>
   <string name="error_dup_phone">Telefoon is geregistreerd</string>
   <string name="error_invalid_dev_id">Apparaat id is ongeldig</string>
   <string name="error_mili_title">Niet genoeg MiCredit</string>
@@ -139,6 +141,7 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="mibi_license_message_span">MiCredit Gebruiker overeenkomst</string>
   <string name="mibi_license_title">MiCredit Gebruiker overeenkomst</string>
   <string name="micloud_account">XiaoMi account</string>
+  <string name="micloud_account_details">Account details</string>
   <string name="micloud_account_label">Account: %1$s</string>
   <string name="micloud_account_name">XiaoMi Account</string>
   <string name="micloud_account_not_actived">Account niet geactiveerd</string>
@@ -155,8 +158,10 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="micloud_activing_account">Activeer uw accout</string>
   <string name="micloud_activing_account_delayed">"Het duurt ongeveer 30 seconden om de activatie te voltooien. U kunt iets anders doen..."</string>
   <string name="micloud_activing_account_failed">Uw account activeren is mislukt</string>
+  <string name="micloud_app_data">MiCloud app backups</string>
   <string name="micloud_click_email">Klik op de link om uw Xiaomi Account te activeren</string>
   <string name="micloud_click_email_to_valid">Klik op de activatie link in de e-mail</string>
+  <string name="micloud_data_loading">Laden...</string>
   <string name="micloud_delete_account">Herroep account</string>
   <string name="micloud_dspt">Cloud services bevat MiCloud berichten, mobiele sync, lokaliseren apparaat en andere functies. U kunt ook uw mobiele data beheren wanneer u wilt!</string>
   <string name="micloud_email">E-mail Adres</string>
@@ -166,6 +171,16 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="micloud_error_empty_username">Gebruikersnaam is leeg</string>
   <string name="micloud_error_empty_vcode">Typ verificatie code.</string>
   <string name="micloud_error_illegal_pwd">Ongeldige wachtwoord</string>
+  <string name="micloud_full_influence_dspt">"Alle foto's, video's, notities and apps worden geback-upt naar MiCloud.
+
+Als u uw telefoon beschadigd of verliest zijn uw gegevens veilig
+
+Als uw MiCloud account vol is worden uw oude gegevens niet verwijderd. Nieuwe gegevens (zoals: foto's, video's, notities en apps) worden niet geback-upt.
+
+Om dit op te lossen kunt u oude bestanden verwijderen of extra ruimte kopen."</string>
+  <string name="micloud_full_influence_title">Als uw MiCloud vol is</string>
+  <string name="micloud_gallery_image">MiCloud afbeeldingen</string>
+  <string name="micloud_gallery_video">MiCloud video\'s</string>
   <string name="micloud_input_password_prompt">Voer een wachtwoord in</string>
   <string name="micloud_intro_01_part_01">Bespaar SMS kosten</string>
   <string name="micloud_intro_01_part_02">MIUI stelt u in staat gratis berichten te versturen met cloud berichten via het netwerk</string>
@@ -175,17 +190,36 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="micloud_intro_03_part_02">Beheer uw data en lokaliseer, vergrendel en wis uw apparaat via i.xiaomi.com</string>
   <string name="micloud_is_what">Wat is MiCloud?</string>
   <string name="micloud_more">Meer weten</string>
+  <string name="micloud_none">Geen</string>
   <string name="micloud_password_confirm_hint">Herhaal wachtwoord</string>
   <string name="micloud_password_error_inconsistent">Wachtwoorden komen niet overeen</string>
   <string name="micloud_password_req_notice">8 ~ 16 tekens, bevat cijfers, letters van het alfabet, hoofdlettergevoelig</string>
   <string name="micloud_proceed">Doorgaan</string>
   <string name="micloud_reg_new">Nieuw</string>
   <string name="micloud_resend_active_email">Herstuur activatie e-mail</string>
+  <string name="micloud_space_full_influence">Wat gebeurt er als ik geen ruimte meer heb?</string>
+  <string name="micloud_storage_space">MiCloud opslag ruimte</string>
   <string name="micloud_summary">Login met Xiaomi account om contacten en Galarij Albums te synchroniseren en voor andere functies.</string>
+  <string name="micloud_title_dspt" formatted="false">"Totale ruimte %s
+ gebruikt %s | beschikbaar %s"</string>
+  <string name="micloud_title_full_dspt">Opslag limiet is bereikt!</string>
   <string name="micloud_use_existing">Bestaand</string>
+  <string name="micloud_user_base_info">Gebruikers info</string>
+  <string name="micloud_user_email">E-mail</string>
+  <string name="micloud_user_id">Xiaomi ID</string>
+  <string name="micloud_user_name">Gebruikersnaam</string>
+  <string name="micloud_user_phone">Telefoonnummer</string>
+  <string name="micloud_user_space_usage">Ruimte gebruikt</string>
   <string name="micloud_via_int_sms_alert">"Een SMS zal worden verstuurd naar uw apparaat op uw provider's berichten tarief. Weet u zeker dat u wilt doorgaan?"</string>
   <string name="micloud_via_sms_alert">Een SMS zal worden verstuurd om uw telefoon nummer te valideren. Weet u zeker dat u wilt doorgaan?</string>
-  <string name="micloud_welcome_skip_login">Sla registratie over</string>
+  <string name="micloud_warn_full_msg">U heeft uw opslag limiet bereikt!</string>
+  <string name="micloud_warn_full_sum">"Nieuwe items worden niet gesynchroniseerd met uw MiCloud account."</string>
+  <string name="micloud_warn_full_title">MiCloud opslag vol!</string>
+  <string name="micloud_warn_low_sum">Opslag ruimte voor 90% gebruikt.</string>
+  <string name="micloud_warn_low_title">Weinig opslag ruimte!</string>
+  <string name="micloud_web_discription_01">Login via http://i.xiaomi.com</string>
+  <string name="micloud_web_discription_02">om uw bestanden overal op te slaan en te bekijken</string>
+  <string name="micloud_welcome_skip_login">Registratie overslaan</string>
   <string name="mili_center">MiCredit</string>
   <string name="msg_denomination_type">MiCredit</string>
   <string name="msg_error">SMS Opwaarderen mislukt</string>

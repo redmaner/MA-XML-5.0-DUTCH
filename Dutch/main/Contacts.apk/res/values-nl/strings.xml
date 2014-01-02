@@ -1097,6 +1097,7 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="wipe_data">Verwijderen</string>
   <string name="yellowPageNavigationIconLabel">Map</string>
   <string name="yellowPageNavigationLabel">Map</string>
+  <string name="yellowpage_navigation_menu_order">Mijn bestelling</string>
   <string name="yellowpage_navigation_no_content">Geen zoekresultaten</string>
   <string name="yellowpage_navigation_search_city_name_hint">Zoek via stad</string>
   <string name="yellowpage_navigation_search_hint">Zoeken</string>

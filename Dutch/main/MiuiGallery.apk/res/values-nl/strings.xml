@@ -195,6 +195,7 @@ vrienden."</string>
   <string name="exposure_time">Belichtingstijd</string>
   <string name="external_sd_card">SD-kaart</string>
   <string name="external_usb_device">USB apparaat</string>
+  <string name="external_usb_device_hm">Externe USB opslag</string>
   <string name="facelift">Gezichts Gloed</string>
   <string name="facetan">Gezichts Bruining</string>
   <string name="fail_hint">Handeling mislukt.</string>
@@ -251,9 +252,11 @@ vrienden."</string>
   <string name="internal_camera_folder_display_name">"Interne Camera Foto's"</string>
   <string name="internal_miui_capture_screen_folder_display_name">Interne Schermafdrukken</string>
   <string name="internal_sd_card">Interne SD-kaart</string>
+  <string name="internal_sd_card_hm">Telefoongeheugen</string>
   <string name="invalid_invition_url">Ongeldige uitnodigings URL.</string>
   <string name="invalid_recipient_message">"Correcte ontvanger(s) fouten of ze zullen het bericht niet ontvangen."</string>
   <string name="iso">ISO</string>
+  <string name="item_not_sync">Dit item is niet gesynchroniseerd met de cloud en kan niet worden gedownload</string>
   <string name="kick_owner_user_positive_button_text">Verwijderen</string>
   <string name="kick_owner_user_title">Dit lid verwijderen?</string>
   <string name="kick_sharer">Deelgenoot verwijderen</string>
@@ -291,7 +294,7 @@ vrienden."</string>
   <string name="messagelist_sender_self">Ik</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk kleuren</string>
-  <string name="miliao_saved">MiChat</string>
+  <string name="miliao_saved">MiTalk</string>
   <string name="miliao_saved_folder_display_name">MiTalk opgeslagen</string>
   <string name="mimetype">MIME type</string>
   <string name="mishop_saved_folder_display_name">MiShop Saves</string>
@@ -300,6 +303,7 @@ vrienden."</string>
   <string name="modify_allow_hint">Nieuwe afbeeldingen toevoegen is toegestaan</string>
   <string name="modify_disallow_hint">Nieuwe afbeeldingen toevoegen is niet toegestaan</string>
   <string name="more">Meer</string>
+  <string name="move">Verplaatsen</string>
   <string name="move_to_cloud_album">Verplaats naar Cloud</string>
   <string name="mtgif">MTGIF</string>
   <string name="mtxx">MTXX</string>
@@ -307,7 +311,7 @@ vrienden."</string>
   <string name="must_pick_file">Selecteer een afbeelding</string>
   <string name="negative">Negatief</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
- <string name="new_device_tips">Nieuw apparaat gevonden. Klik om te bekijken.</string>
+  <string name="new_device_tips">Nieuw apparaat gevonden. Klik om te bekijken.</string>
   <string name="no">Nee</string>
   <string name="no_albums_alert">Geen albums beschikbaar.</string>
   <string name="no_connectivity">"Sommige locaties kunnen niet worden geïdentificeerd door netwerk problemen."</string>

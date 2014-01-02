@@ -78,4 +78,6 @@
   <string name="select_all">Alles selecteren</string>
   <string name="select_operation_items">Selecteer</string>
   <string name="selected_count">%1$d van %2$d geselecteerd</string>
+  <string name="xunlei_brand">Ondersteuning door Xunlei</string>
+  <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
 </resources>
