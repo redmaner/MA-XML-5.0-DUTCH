@@ -239,7 +239,7 @@ Contact gegevens in de cloud zullen ook worden verwijderd als u de contact sync 
   <string name="description_contact_photo">contactfoto</string>
   <string name="description_delete_button">backspace</string>
   <string name="description_designer">Designer:</string>
-  <string name="description_dial_button">bellen</string>g>
+  <string name="description_dial_button">bellen</string>
   <string name="description_dial_phone_number" formatted="false">Telefoon van %1$s bellen</string>
   <string name="description_digits_edittext">nummer om te bellen</string>
   <string name="description_download">Download:</string>
