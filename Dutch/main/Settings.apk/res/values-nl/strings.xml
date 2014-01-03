@@ -2799,7 +2799,7 @@ Pogingen Resterende :"</string>
   <string name="wifi_fail_to_scan">Kan niet scannen naar netwerken</string>
   <string name="wifi_failed_connect_message">Kan geen verbinding maken met het netwerk</string>
   <string name="wifi_failed_forget_message">Vergeten van netwerk is mislukt</string>
-  <string name="wifi_failed_save_message">Opslaan van netwerk is mislukt</string>>
+  <string name="wifi_failed_save_message">Opslaan van netwerk is mislukt</string>
   <string name="wifi_forget">Vergeten</string>
   <string name="wifi_gateway">Gateway</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
