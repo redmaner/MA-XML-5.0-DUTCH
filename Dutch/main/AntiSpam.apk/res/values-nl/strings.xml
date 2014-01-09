@@ -21,7 +21,7 @@
   <string name="dlg_delete_keyword">Geselecteerde trefwoorden verwijderen?</string>
   <string name="dlg_edit_keyword">Trefwoord aanpassen</string>
   <string name="dlg_import_blacklist">Importeren naar blacklist</string>
-  <string name="dlg_import_whitelist">Importeren naar whitelist</string>
+  <string name="dlg_import_whitelist">Toevoegen aan uitzonderingen</string>
   <string name="dlg_keyword_ok">Opslaan</string>
   <string name="dlg_no_block">Dit nummer niet blokkeren</string>
   <string name="dlg_no_block_ok">Niet blokkeren</string>
