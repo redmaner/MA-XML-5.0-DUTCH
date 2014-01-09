@@ -147,7 +147,7 @@
   <string name="delete_bookmark">Bladwijzer verwijderen</string>
   <string name="delete_bookmark_warning">"Bladwijzer '%s' verwijderen?"</string>
   <string name="delete_folder">Map verwijderen</string>
-  <string name="delete_multi_bookmarks_alert_title"%?</string>$s items verwijderen?</string>
+  <string name="delete_multi_bookmarks_alert_title">$s items verwijderen?</string>
   <string name="dialog_geolocation_reject">Locatie verbergen</string>
   <string name="dialog_geolocation_share">Locatie delen</string>
   <string name="disable_autofill">Automatisch aanvullen uitschakelen</string>
@@ -448,7 +448,7 @@
   <string name="pref_privacy_security_title">Privacy &amp; beveiliging</string>
   <string name="pref_reading_mode_enabled_title">Leesmodus</string>
   <string name="pref_reading_mode_enabled_title_summary">JavaScript moet ingeschakeld zijn</string>
-  <string name="pref_save_bandwidth_mode_summary">Browser zal uw mobiele netwerk niet gebruiken om om pagina's te preloaden of afbeeldingen automatisch weer te geven wanneer ingeschakeld</string>
+  <string name="pref_save_bandwidth_mode_summary">"Browser zal uw mobiele netwerk niet gebruiken om om pagina's te preloaden of afbeeldingen automatisch weer te geven wanneer ingeschakeld"</string>
   <string name="pref_save_bandwidth_mode_title">Mobiel data gebruik</string>
   <string name="pref_security_accept_cookies">Cookies accepteren</string>
   <string name="pref_security_accept_cookies_summary">Sites toestaan cookiegegevens op te slaan en te lezen</string>
