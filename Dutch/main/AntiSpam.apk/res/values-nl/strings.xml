@@ -80,7 +80,7 @@
   <string name="tab_blacklist">Blacklist</string>
   <string name="tab_block_log">Firewall</string>
   <string name="tab_block_log_unKnowNumber">Onbekend nummer</string>
-  <string name="tab_call">Oproepenlog</string>
+  <string name="tab_call">Gesprekslog</string>
   <string name="tab_sms">Berichtenlog</string>
   <string name="tab_title">AntiSpam</string>
   <string name="toast_keyword_blank">Voer een trefwoord in</string>

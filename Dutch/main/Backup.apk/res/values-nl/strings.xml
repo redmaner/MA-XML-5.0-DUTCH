@@ -48,7 +48,7 @@
   <string name="button_ok">OK</string>
   <string name="button_restore">Herstellen</string>
   <string name="button_return">Terug</string>
-  <string name="call_title">Oproepenlogs</string>
+  <string name="call_title">Gesprekslogs</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_backup">Backup Annuleren</string>
   <string name="cancel_restore">Herstel Annuleren</string>

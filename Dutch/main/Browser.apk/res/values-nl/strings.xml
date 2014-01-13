@@ -75,13 +75,13 @@
   <string name="bookmark_page">Bladwijzer voor laatst weergegeven pagina</string>
   <string name="bookmark_saved">Opgeslagen in bladwijzers.</string>
   <string name="bookmark_this_page">Opslaan als bladwijzer</string>
-  <string name="bookmark_this_page_to_readmodelist">Voeg deze pagina toe aan de Leeslijst bladwijzer</string>
+  <string name="bookmark_this_page_to_readmodelist">Deze pagina toevoegen aan leeslijst</string>
   <string name="bookmark_thumbnail_view">Thumbnails</string>
-  <string name="bookmark_title">Label</string>
-  <string name="bookmark_to_readmodelist_not_saved">"Kan leeslijst bladwijzer niet opslaan."</string>
-  <string name="bookmark_to_readmodelist_saved">Opgeslagen naar leeslijst bladwijzers.</string>
-  <string name="bookmark_url">Url</string>
-  <string name="bookmark_url_not_valid">Deze URL is ongeldig.</string>
+  <string name="bookmark_title">Bladwijzer naam</string>
+  <string name="bookmark_to_readmodelist_not_saved">"Kan leeslijst niet opslaan."</string>
+  <string name="bookmark_to_readmodelist_saved">Toegevoegd aan leeslijst.</string>
+  <string name="bookmark_url">URL</string>
+  <string name="bookmark_url_not_valid">Ongeldige URL.</string>
   <string name="bookmarks">Bladwijzers</string>
   <string name="bookmarks_content_is_null">Geen bladwijzers</string>
   <string name="bookmarks_management">Bladwijzers</string>
@@ -157,7 +157,7 @@
   <string name="do_not_save">Annuleren</string>
   <string name="download">Download</string>
   <string name="download_complete">Download voltooid</string>
-  <string name="download_default_path_txt">Instellen als standaard download map en volgende keer niet meer vragen</string>
+  <string name="download_default_path_txt">Deze keuze onthouden</string>
   <string name="download_dialog_default_path_invalid">Ongeldige donwload map, de standaard download map wordt gebruikt</string>
   <string name="download_dialog_file_length_hint_txt">Bestandsgrootte:</string>
   <string name="download_dialog_file_length_lessthan1kb">Kleiner dan 1K</string>
@@ -170,7 +170,7 @@
   <string name="download_sdcard_busy_dlg_msg">"De USB-opslag is in gebruik. Als u downloads wilt toestaan, raakt u 'USB-opslag uitschakelen' in de notificatie aan."</string>
   <string name="download_sdcard_busy_dlg_title">USB-opslag niet beschikbaar</string>
   <string name="download_video_alert_message">Het downloaden van video\'s kan veel mobiele data verbruiken. Wilt u doorgaan?</string>
-  <string name="download_video_alert_title">Download Waarschuwing!</string>
+  <string name="download_video_alert_title">Download waarschuwing!</string>
   <string name="download_video_menu_dialog_positive_txt">Installeren</string>
   <string name="download_video_menu_dialog_summary">MiuiVideo is vereist alvorens u deze functie kunt gebruiken</string>
   <string name="download_video_menu_dialog_title">Installeren...</string>
@@ -231,7 +231,7 @@
   <string name="history_most_visited">Meest bezocht</string>
   <string name="history_saved_webpage">Webpagina opslaan</string>
   <string name="history_track">Geschiedenis</string>
-  <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+  <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Startpagina ingesteld.</string>
   <string name="http">http://</string>
   <string name="import_bookmarks_dialog_add">Bladwijzers toevoegen aan Google-account</string>
@@ -263,7 +263,7 @@
   <string name="local_bookmarks">Lokaal</string>
   <string name="location">Adres</string>
   <string name="max_tabs_warning">Geen tabbladen meer beschikbaar</string>
-  <string name="menu_addtodesk">Toevoegen aan bureaublad</string>
+  <string name="menu_addtodesk">Toevoegen aan startscherm</string>
   <string name="menu_disable_night_mode">Nachtmodus uitschakelen</string>
   <string name="menu_disable_save_bandwidth_mode">Mobiele data cap uitschakelen</string>
   <string name="menu_download_video">"Gedownloade video's"</string>
@@ -301,8 +301,8 @@
   <string name="no">Nee</string>
   <string name="no_subfolders">Geen submappen.</string>
   <string name="not_enough_disk_space_alert">Onvoldoende schijf ruimte</string>
-  <string name="not_remind_again">Niet opnieuw herinneren</string>
-  <string name="notif_install_successful">Download successvol</string>
+  <string name="not_remind_again">Mijn keuze onthouden</string>
+  <string name="notif_install_successful">Download voltooid</string>
   <string name="ok">OK</string>
   <string name="open_all_bookmarks">Alles openen</string>
   <string name="open_all_in_new_window">Alles openen in nieuwe tabbladen</string>
@@ -362,10 +362,10 @@
   <string name="pref_default_zoom_dialogtitle">Standaardzoom</string>
   <string name="pref_developer_options">Ontwikkelaars instellingen</string>
   <string name="pref_developer_options_summary">Foutopsporting of bug rapporteren</string>
-  <string name="pref_development_cpu_upload_path">CPU Upload Path inschakelen</string>
-  <string name="pref_development_error_console">JavaScript Console weergeven</string>
-  <string name="pref_development_hardware_accel">OpenGL Rendering inschakelen</string>
-  <string name="pref_development_hardware_accel_skia">HW Accelerated Skia inschakelen</string>
+  <string name="pref_development_cpu_upload_path">CPU upload path inschakelen</string>
+  <string name="pref_development_error_console">JavaScript console weergeven</string>
+  <string name="pref_development_hardware_accel">OpenGL rendering inschakelen</string>
+  <string name="pref_development_hardware_accel_skia">HW accelerated skia inschakelen</string>
   <string name="pref_development_nav_dump">Nav cache dump inschakelen</string>
   <string name="pref_development_normal_rendering">Normale rendering</string>
   <string name="pref_development_reset_prelogin">Reset pre-login</string>
@@ -387,8 +387,8 @@
   <string name="pref_file_downlaod_save_reset_default_settings">Standaardwaarden herstelen</string>
   <string name="pref_file_download_save_modify_default_path">Download map aanpassen</string>
   <string name="pref_file_download_save_title">Bestand downloaden en opslaan</string>
-  <string name="pref_fling_on_border_enabled">Hellen bij rand</string>
-  <string name="pref_fling_on_border_enabled_title_summary">Vegen vanaf de scherm rand</string>
+  <string name="pref_fling_on_border_enabled">Vegen vanaf de schermrand</string>
+  <string name="pref_fling_on_border_enabled_title_summary">Veeg vanaf de schermrand naar links of recht om tussen tabbladen te wisselen</string>
   <string name="pref_font_size_category">Tekstgrootte</string>
   <string name="pref_force_userscalable">Zoom inschakelen forceren</string>
   <string name="pref_force_userscalable_summary">Website verzoek overschrijden om zoom gedrag te beheren</string>
@@ -435,7 +435,7 @@
   <string name="pref_privacy_clear_geolocation_access_summary">Locatietoegang voor alle websites wissen</string>
   <string name="pref_privacy_clear_history">Geschiedenis wissen</string>
   <string name="pref_privacy_clear_history_by_group_dlg">Browsergeschiedenis wissen?</string>
-  <string name="pref_privacy_clear_history_dlg">Navigatiegeschiedenis wissen?</string>
+  <string name="pref_privacy_clear_history_dlg">Geschiedenis wissen?</string>
   <string name="pref_privacy_clear_history_summary">Browsergeschiedenis wissen</string>
   <string name="pref_privacy_clear_passwords">Wachtwoorden wissen</string>
   <string name="pref_privacy_clear_passwords_dlg">Alle opgeslagen wachtwoorden verwijderen?</string>
@@ -466,8 +466,8 @@
   <string name="pref_ua_mione_value">4</string>
   <string name="pref_ua_string">User agent string</string>
   <string name="pref_ua_title">User agent beheer</string>
-  <string name="pref_use_instant_search">Google Instant</string>
-  <string name="pref_use_instant_search_summary">Google Instant gebruiken bij Google Zoeken, om resultaten weer te geven tijdens het typen (kan leiden tot meer dataverbruik).</string>
+  <string name="pref_use_instant_search">Google Instant Zoeken</string>
+  <string name="pref_use_instant_search_summary">Google Instant Zoeken gebruiken om resultaten weer te geven tijdens het typen (kan leiden tot meer dataverbruik).</string>
   <string name="pref_video_preload_dialogtitle">Video bufferen...</string>
   <string name="pref_video_preload_summary">Browser toestaan video te bufferen bij server ondersteuning</string>
   <string name="pref_video_preload_title">Video bufferen</string>
@@ -594,7 +594,7 @@
   <string name="webapp_bottom_bar_already_addtodesk">Al toegvoegd aan startscherm</string>
   <string name="webapp_bottom_bar_exit">Afsluiten</string>
   <string name="webapp_bottom_bar_hidebar">Navigatiebalk verbergen</string>
-  <string name="webapp_bottom_bar_openbrowser">Openen in Browser</string>
+  <string name="webapp_bottom_bar_openbrowser">Openen in browser</string>
   <string name="webapp_bottom_bar_showbar">Navigatiebalk weergeven</string>
   <string name="webapp_dialog_title">App tovoegen aan startscherm</string>
   <string name="webapp_splashview_loading">Laden, een moment geduld...</string>
