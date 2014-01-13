@@ -236,7 +236,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="description_delete_button">backspace</string>
   <string name="description_designer">Designer:</string>
   <string name="description_dial_button">bellen</string>
-  <string name="description_dial_phone_number"%1$s telefoon bellen</string>
+  <string name="description_dial_phone_number">%1$s telefoon bellen</string>
   <string name="description_digits_edittext">nummer om te bellen</string>
   <string name="description_download">Download:</string>
   <string name="description_image_button_eight">acht</string>
