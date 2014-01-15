@@ -327,7 +327,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="dlg_add_blacklist">Dit nummber blokkeren?</string>
   <string name="dlg_remove_blacklist">Dit nummber niet meer blokkeren?</string>
   <string name="download_failed">Download mislukt!</string>
-  <string name="download_preview_failed">Voorbeeld laden mislukt/string>
+  <string name="download_preview_failed">Voorbeeld laden mislukt</string>
   <string name="duplicate_group_name">Groepnaam bestaat al</string>
   <string name="editContactDescription">Contact bewerken</string>
   <string name="editGroupDescription">Groep bewerken</string>
@@ -521,7 +521,7 @@ Reden: '%s'"</string>
   <string name="menu_display_all">Alles weergeven</string>
   <string name="menu_display_selected">Geselecteerde weergeven</string>
   <string name="menu_doNotSave">Annuleren</string>
-  <string name="menu_done">Ok/string>
+  <string name="menu_done">Ok</string>
   <string name="menu_editContact">Bewerken</string>
   <string name="menu_editGroup">Bewerken</string>
   <string name="menu_help">Help</string>
@@ -612,7 +612,7 @@ Om een contact toe te voegen aan de lijst met favorieten:
   <string name="non_phone_add_to_contacts">Toevoegen aan contacten</string>
   <string name="non_phone_caption">Telefoonnummer</string>
   <string name="non_phone_close">Sluiten</string>
-  <string name="none_found">Geen apparaten gevonden/string>
+  <string name="none_found">Geen apparaten gevonden</string>
   <string name="none_paired">Geen apparaten gekoppeld</string>
   <string name="not_applied">Niet ondersteund</string>
   <string name="notification_action_voicemail_play">Afspelen</string>
