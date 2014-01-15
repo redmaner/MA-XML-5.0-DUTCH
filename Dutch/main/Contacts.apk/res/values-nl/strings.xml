@@ -379,7 +379,7 @@ Reden: '%s'"</string>
   <string name="favoritesFrequentCalled">Vaak gebeld</string>
   <string name="favoritesFrequentContacted">Regelmatig contact</string>
   <string name="favorites_list_empty">Geen favorieten</string>
-  <string name="foundTooManyContacts"">Meer dan %d gevonden.</string>
+  <string name="foundTooManyContacts">Meer dan %d gevonden.</string>
   <string name="frequency_none">Nooit</string>
   <string name="frequency_three_days">Om de 3 dagen</string>
   <string name="frequency_weekly">Elke week</string>
@@ -617,7 +617,7 @@ Om een contact toe te voegen aan de lijst met favorieten:
   <string name="not_applied">Niet ondersteund</string>
   <string name="notification_action_voicemail_play">Afspelen</string>
   <string name="notification_new_voicemail_ticker">Nieuwe voicemail van %1$s</string>
-  <string name="notification_voicemail_callers_list"\>%1$s, %2$s</string>
+  <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="online_no_network">Kon niet verbinden met netwerk</string>
   <string name="online_search_hint">Online zoeken naar hulpbronnen</string>
   <string name="openDialKeyboard">Kiezer</string>
@@ -643,7 +643,7 @@ Om een contact toe te voegen aan de lijst met favorieten:
   <string name="phoneLabelsGroup">Telefoon</string>
   <string name="phone_info_divider">"  |  "</string>
   <string name="phone_primary">Primair</string>
- <string name="photoPickerNotFoundText">"Er zijn geen foto's beschikbaar op de telefoon."</string>
+  <string name="photoPickerNotFoundText">"Er zijn geen foto's beschikbaar op de telefoon."</string>
   <string name="photo_package_activity_title">Door mappen bladeren</string>
   <string name="pick_favorites_contacts_list_title">%1$d favorieten</string>
   <string name="pick_favorites_list_title">%1$d favorieten</string>
