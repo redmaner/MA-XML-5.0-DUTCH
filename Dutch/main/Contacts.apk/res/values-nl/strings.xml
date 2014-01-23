@@ -273,7 +273,6 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="device_brand_title">Merk selecteren</string>
   <string name="device_import_account_dialog_title">Selecteer account om te importeren</string>
   <string name="device_import_account_dialog_title_suffix">"(%1$s contacten gevonden)"</string>
-  <string name="device_import_done_toast">%1$d contacten geïmporteerd</string>
   <string name="device_import_failed_message">Importeren mislukt!</string>
   <string name="device_import_local_account">Lokaal account</string>
   <string name="device_import_message">Importeren</string>
@@ -312,7 +311,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="dialog_voicemail_not_ready_message">"Voor het instellen van voicemail, gaat u naar 'Menu' &gt; 'Instellingen'."</string>
   <string name="directory_search_label">Directory</string>
   <string name="dirty_contacts_notification_description">%d veranderingen zijn niet gesynchroniseerd met uw Xiaomi account</string>
-  <string name="dirty_contacts_notification_message">(Uw kunt deze herinnering uitschakelen in Contacten instellingen)</string>
+  <string name="dirty_contacts_notification_message">(Uw kunt deze herinnering uitschakelen in Contacten &gt; instellingen)</string>
   <string name="dirty_contacts_notification_title">Contacten synchroniseren?</string>
   <string name="display_all_contacts">Alle contacten</string>
   <string name="display_more_groups">Meer groepen...¦</string>
@@ -353,7 +352,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="export_sim_contacts_dialog_message">Uw simkaart kan %d contacten bevatten, weet u zeker dat u wilt doorgaan?</string>
   <string name="export_to_sdcard">Exporteren naar opslag</string>
   <string name="export_to_sim">Exporteren naar simkaart</string>
-  <string name="export_to_sim_title">Exporteren naar simkaart…</string>
+  <string name="export_to_sim_title">Exporteren…</string>
   <string name="export_vcard_description">vCard exporteren naar intern geheugen</string>
   <string name="exporting_contact_failed_message">"De contactgegevens zijn niet geëxporteerd. 
 Reden: '%s'"</string>
@@ -415,9 +414,6 @@ Reden: '%s'"</string>
   <string name="hint_distance"/>
   <string name="hint_findContacts">Contacten zoeken</string>
   <string name="hint_more_contact">Dubbele contacten samenvoegen</string>
-  <string name="hint_search_contacts">%d contacten</string>
-  <string name="hint_search_emails">%d contact e-mails</string>
-  <string name="hint_search_phone_numbers">%d contact nummers</string>
   <string name="ic_menu_back">Vorige</string>
   <string name="ic_menu_done">Voltooid</string>
   <string name="imLabelsGroup">IM</string>
@@ -647,12 +643,8 @@ Om een contact toe te voegen aan de lijst met favorieten:
   <string name="phone_primary">Primair</string>
   <string name="photoPickerNotFoundText">"Er zijn geen foto's beschikbaar op de telefoon."</string>
   <string name="photo_package_activity_title">Door mappen bladeren</string>
-  <string name="pick_favorites_contacts_list_title">%1$d favorieten</string>
-  <string name="pick_favorites_list_title">%1$d favorieten</string>
   <string name="pick_new_photo">Nieuwe foto selecteren uit Galerij</string>
   <string name="pick_photo">Foto kiezen ui Galerij</string>
-  <string name="pick_recent_contacts_list_title">%1$d recente contacten</string>
-  <string name="pick_recent_list_title">%1$d recente contacten</string>
   <string name="pickerNewContactHeader">Nieuw contact maken</string>
   <string name="pickerNewContactText">Nieuw contact maken</string>
   <string name="picker_all_list_empty">Geen contacten</string>
@@ -706,7 +698,7 @@ Om een contact toe te voegen aan de lijst met favorieten:
   <string name="preference_phone_more_title">Meer telefoon instellingen</string>
   <string name="preference_remove_duplicate">Dubbele contacten samenvoegen</string>
   <string name="preference_simple_mode_description">Lijst item toont geen avatar, attribuut en bedrijf</string>
-  <string name="preference_simple_mode_title">Simpel modus</string>
+  <string name="preference_simple_mode_title">"Verberg foto's en contactgegevens"</string>
   <string name="preference_smart_group_company_summary">Groepeer contacten op bedrijfsinfo</string>
   <string name="preference_smart_group_company_title">Op bedrijf</string>
   <string name="preference_smart_group_frequency_summary">Groepeer op laatste gesprek of SMS</string>
@@ -736,7 +728,7 @@ Om een contact toe te voegen aan de lijst met favorieten:
   <string name="readingSimContacts">Simkaart informatie lezen, een moment geduld...</string>
   <string name="reading_vcard_canceled_title">Lezen van vCard-gegevens geannuleerd</string>
   <string name="reading_vcard_failed_title">Kan vCard-gegevens niet lezen</string>
-  <string name="rebuild_t9_index_dialog_message">T9 index data opnieuw opbouwen…</string>
+  <string name="rebuild_t9_index_dialog_message">Opnieuw opbouwen…</string>
   <string name="recent">Recent</string>
   <string name="recentCallsIconLabel">Gesprek</string>
   <string name="recentCalls_addToContact">Toevoegen aan contacten</string>
@@ -1107,5 +1099,6 @@ Kies een van de volgende opties:"</string>
   <string name="yellowpage_navigation_search_result_service_error">Service momenteel niet beschikbaar</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Onbekende fout!</string>
   <string name="yellowpage_navigation_search_select_city">Selecteer een stad</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Toegevoegd aan startscherm</string>
   <string name="zero_items_selected">Geen items geselecteerd</string>
 </resources>

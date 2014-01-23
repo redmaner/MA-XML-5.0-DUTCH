@@ -161,7 +161,10 @@ Als u gegevens opnieuw inschakelt, kunnen er kosten in rekening worden gebracht 
   <string name="notification_otg_unknow_in">OTG apparaat aangesloten</string>
   <string name="notification_otg_unknow_out">OTG apparaat ontkoppeld</string>
   <string name="notifications_off_text">Tik hier om notificaties weer aan te zetten.</string>
-  <string name="notifications_off_title">Notificaties uit</string>
+  <string name="notifications_off_title">Notificaties uitgeschakeld</string>
+  <string name="oldman_airplane_mode_text">Vliegmodus</string>
+  <string name="oldman_incall_text">inkomend gesprek</string>
+  <string name="oldman_status_bar_time_format">HH:mm</string>
   <string name="recent_apps_key">Recente apps toets</string>
   <string name="recent_apps_key_show">Toon recent apps toets</string>
   <string name="return_to_incall_screen">Klik om terug te keren naar gesprek</string>
@@ -211,7 +214,7 @@ Als u gegevens opnieuw inschakelt, kunnen er kosten in rekening worden gebracht 
   <string name="status_bar_input_method_settings_configure_input_methods">Invoer methoden instellen</string>
   <string name="status_bar_network_flow">"Vandaag:%1$s    Beschikbaar:%2$s    Pakket:%3$s"</string>
   <string name="status_bar_network_flow_exceed">"Vandaag:%1$s    Overschreden:%2$s    Pakket:%3$s"</string>
-  <string name="status_bar_network_flow_today">Vandaag:%1$s</string>
+  <string name="status_bar_network_flow_today">Vandaag: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Geen recente apps</string>
   <string name="status_bar_notification_inspect_item_title">App info</string>

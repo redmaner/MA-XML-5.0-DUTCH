@@ -24,7 +24,7 @@
   <string name="setup_complete_summary">Setup voltooid! Veel plezier met het gebruiken van MIUI!</string>
   <string name="shutdown">Uitschakelen</string>
   <string name="sim_card_detection_dialog_message">Detecteren van simkaart, even geduld a.u.b...</string>
-  <string name="sim_card_detection_info">"Het is niet mogelijk een Xiaomi account in te stellen zonder simkaart. U heeft een simkaart nodig voor account synchronisatie, telefoon volgen enz."</string>
+  <string name="sim_card_detection_info"/>
   <string name="sim_card_detection_label">Detecteer simkaart</string>
   <string name="sim_card_detection_status_absent">Simkaart niet gedetecteerd!</string>
   <string name="traffic_protection_label">Data verkeer bewaking</string>

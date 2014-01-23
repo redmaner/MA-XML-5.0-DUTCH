@@ -37,7 +37,6 @@
   <string name="answer_miui">Beantwoorden</string>
   <string name="answer_state_setting_summary">Proxmity sensor instellingen</string>
   <string name="answer_state_setting_title">Inkomende oproepstatus instellingen</string>
-  <string name="answer_state_setting_title_miui">Inkomende oproepstatus instellingen</string>
   <string name="answer_widget_dialog_title_miui">Selecteer Oproep Beantwoorden gebaar</string>
   <string name="answer_widget_sliding_horizontal_miui">Horizontale schuifbeweging</string>
   <string name="answer_widget_sliding_vertical_miui">Verticale schuifbeweging</string>

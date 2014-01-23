@@ -6,6 +6,7 @@
   <string name="all_numbers">Alle nummers</string>
   <string name="app_label">Yellow Page</string>
   <string name="balance_inquiry_default_sp_name">Provider</string>
+  <string name="balance_inquiry_send_sms_fail_hint">SMS versturen mislukt. Controleer de status van uw simkaart.</string>
   <string name="balance_inquiry_send_sms_hint">Een gratis SMS wordt spoedig verzonden om uw balans te berekenen</string>
   <string name="balance_inquiry_send_sms_summmary">Controleer uw balans</string>
   <string name="balance_inquiry_title">Balans controle</string>
@@ -55,6 +56,7 @@
   <string name="general_no_yellow_page">Lijst is leeg</string>
   <string name="general_recent_title">Recent</string>
   <string name="general_yellow_page_title">Algemeen</string>
+  <string name="locating_fail">Locatie bepalen mislukt, controleer de locatie service en probeer het opnieuw</string>
   <string name="login_before_recharging">U moet inloggen alvorens u kunt opwaarderen.</string>
   <string name="login_before_use">Inloggen voor gebruik.</string>
   <string name="login_ok">Inloggen</string>
@@ -79,6 +81,9 @@
   <string name="navigation_search_no_city_list">Geen stadgegevens gevonden!</string>
   <string name="navigation_search_positioning">Locatie zoeken...</string>
   <string name="navigation_search_positioning_failed">Locatie zoeken mislukt</string>
+  <string name="nearby_no_yellow_page">Geen resultaten dichtbij</string>
+  <string name="nearby_yellow_page_title">Dichtbij</string>
+  <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_unavaliable">Netwerk is niet beschikbaar, controleer netwerk instellingen</string>
   <string name="order_empty_hint">Geen bestellingen</string>
   <string name="order_id">Bestelling info: %s</string>
@@ -108,6 +113,7 @@
   <string name="recharge_history">Opwaardeer geschiedenis</string>
   <string name="recharge_history_empty">Geen opwaardeer geschiedenis</string>
   <string name="recharge_input_phone_title">Type telefoonnummer(China mobile, China Unicom, or China Telecom)</string>
+  <string name="recharge_my_phone_number">Mijn telefoonnummer</string>
   <string name="recharge_order_actual_price">¥%s</string>
   <string name="recharge_order_id">Bestellings ID：</string>
   <string name="recharge_order_original_price">RMB%s</string>
@@ -124,6 +130,7 @@
   <string name="recharge_select_money_title">Selecteer opwaardeer hoeveelheid</string>
   <string name="recharge_status_description">Status:</string>
   <string name="recharge_title">Opwaarderen</string>
+  <string name="recharge_unknown_number">Onbekend</string>
   <string name="recharge_user_confirm_summary">"%1$s wordt in rekening gebracht voor RMB%2$s 
 Totaal bedrag: RMB%3$s"</string>
   <string name="recharge_user_confirm_title">Bevestigen</string>

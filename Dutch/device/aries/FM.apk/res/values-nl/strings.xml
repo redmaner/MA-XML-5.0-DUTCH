@@ -140,6 +140,7 @@
   <string name="toast_channel_searched">%1$d stations gescand.</string>
   <string name="toast_delete_station">%sMHz gewist</string>
   <string name="toast_edit_station">Veranderingen zijn opgeslagen</string>
+ <string name="toast_fm_error_startfailed">Opname fout. Een andere app gebruikt wellicht de opname functie. Probeer het later opnieuw.</string>
   <string name="toast_fm_not_stated">FM niet bekend</string>
   <string name="toast_fm_recorder_internal_error">FM opname fout!</string>
   <string name="toast_fm_recorder_storage_full">Geheugen vol, kan niet opnemen!</string>

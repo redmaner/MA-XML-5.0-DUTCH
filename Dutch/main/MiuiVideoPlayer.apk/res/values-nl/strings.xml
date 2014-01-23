@@ -10,8 +10,9 @@
   <string name="adjust_position_prev_media_notice">Vorige</string>
   <string name="airkan_control_device_des">U kunt het afspelen regelen met de knop onderin</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
+  <string name="airkan_tips">"Klik hier om de video af te spelen, geprojecteerd op de TV"</string>
   <string name="airkan_video_playing"/>
-  <string name="airkan_video_playing_in">Video speelt af...</string>
+  <string name="airkan_video_playing_in">Video afspelen...</string>
   <string name="app_name">MiVideo</string>
   <string name="buffering">Bufferen...</string>
   <string name="buffering_video_netplay_label_v5">Bufferen...</string>
