@@ -358,6 +358,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="onemore_click_exit">One more click to exit</string>
   <string name="order_price">%1$s MiCredits</string>
   <string name="password_error">Wachtwoord incorrect.</string>
+  <string name="password_forget">Wachtwoord vergeten?</string>
   <string name="password_hint">Typ account wachtwoord</string>
   <string name="pay_record_empty">Geen betalings geschiedenis.</string>
   <string name="pay_record_typeall">Alle</string>

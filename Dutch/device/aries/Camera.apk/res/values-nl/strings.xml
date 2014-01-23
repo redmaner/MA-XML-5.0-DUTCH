@@ -502,8 +502,10 @@ Stap even uit beeld</string>
   <string name="weixin_details">"Weixin details: "</string>
   <string name="white_balance">Witbalans</string>
   <string name="width">Breedte</string>
-  <string name="wifi_connect_fail">Verbinding timeout of mislukt met Wi-Fi netwerk</string>
+  <string name="wifi_connect_current_connetion">U bent verbonden met Wi-Fi</string>
+  <string name="wifi_connect_fail">Verbinden mislukt</string>
   <string name="wifi_connect_success">Succesvol verbonden met Wi-Fi netwerk</string>
+  <string name="wifi_connect_not_found">Wi-Fi netwerk niet gevonden</string>
   <string name="wifi_connecting">Wi-Fi verbinden...</string>
   <string name="wifi_details">Wi-Fi Netwerk details:</string>
   <string name="wifi_open_fail">Niet in staat Wi-Fi netwerk te openen</string>

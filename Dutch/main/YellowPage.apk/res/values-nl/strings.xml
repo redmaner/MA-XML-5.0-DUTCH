@@ -7,7 +7,8 @@
   <string name="app_label">Yellow Page</string>
   <string name="balance_inquiry_default_sp_name">Provider</string>
   <string name="balance_inquiry_send_sms_hint">Een gratis SMS wordt spoedig verzonden om uw balans te berekenen</string>
-  <string name="balance_inquiry_title">Balans onderzoek</string>
+  <string name="balance_inquiry_send_sms_summmary">Controleer uw balans</string>
+  <string name="balance_inquiry_title">Balans controle</string>
   <string name="callrecordview_item_newcontact">Nieuw Contact</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
   <string name="callrecordview_item_op_time_missed">Niet verbonden</string>
@@ -45,6 +46,15 @@
   <string name="express_inquiry_serial_number_prefix">"Serienummer: "</string>
   <string name="expresss_inquiry_all_logistics">Alle</string>
   <string name="expresss_inquiry_frequently_used_logistics">Veel gebruikt</string>
+  <string name="general_cancel_favorite_ok">Favoriet verwijderd</string>
+  <string name="general_delete_recent_ok">Recent verwijderd</string>
+  <string name="general_favorite_title">Favorieten</string>
+  <string name="general_menu_delete_recent">Recent verwijderen</string>
+  <string name="general_menu_favorite">Favorieten</string>
+  <string name="general_menu_unfavorite">Verwijderen van favorieten</string>
+  <string name="general_no_yellow_page">Lijst is leeg</string>
+  <string name="general_recent_title">Recent</string>
+  <string name="general_yellow_page_title">Algemeen</string>
   <string name="login_before_recharging">U moet inloggen alvorens u kunt opwaarderen.</string>
   <string name="login_before_use">Inloggen voor gebruik.</string>
   <string name="login_ok">Inloggen</string>

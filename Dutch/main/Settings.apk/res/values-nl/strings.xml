@@ -76,6 +76,8 @@
   <string name="active_device_admin_msg">Apparaatbeheerder</string>
   <string name="active_input_method_subtypes">Actieve invoermethoden</string>
   <string name="activity_picker_label">Een activiteit kiezen</string>
+  <string name="activity_title_create_shortcut">Snelkoppeling</string>
+  <string name="activity_title_settings">Instellingen</string>
   <string name="adb_warning_message">USB-foutopsporing is alleen bedoeld voor ontwikkeldoeleinden. Het kan worden gebruikt om gegevens te kopiëren tussen uw computer en uw apparaat, apps zonder melding op uw apparaat te installeren en loggegevens te lezen.</string>
   <string name="adb_warning_title">USB-foutopsporing toestaan?</string>
   <string name="add_account_label">Account toevoegen</string>
@@ -883,6 +885,7 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="edit_whitelist">Notitie aanpassen</string>
   <string name="emergency_tone_summary">Gedrag bij noodoproepen instellen</string>
   <string name="emergency_tone_title">Toon voor noodoproep</string>
+  <string name="empty_folder_title">Lege map(%d)</string>
   <string name="empty_list_msg">U heeft geen apps van derden geïnstalleerd.</string>
   <string name="emptylist_fwlog_call">Geblokkeerde oproepen worden hier gelogd.</string>
   <string name="emptylist_fwlog_ms">Geblokkeerde tekst- en MMS berichten worden hier gelogd.</string>
@@ -1176,6 +1179,11 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="legal_information">Juridische informatie</string>
   <string name="license_title">Licentie</string>
   <string name="link_speed_label">Link Speed:</string>
+  <string name="list_sub_view_item_clean">Opschonen</string>
+  <string name="list_sub_view_item_install">Installeren</string>
+  <string name="list_sub_view_item_lock">Vergrendeld</string>
+  <string name="list_sub_view_item_unlock">Ontgrendeld</string>
+  <string name="list_sub_view_item_view">Details</string>
   <string name="local_backup_password_summary_change">Raak dit aan om het wachtwoord voor volledige back-ups naar desktops te wijzigen of te verwijderen</string>
   <string name="local_backup_password_summary_none">Volledige back-ups naar desktops zijn momenteel niet beveiligd</string>
   <string name="local_backup_password_title">Wachtwoord desktopback-up</string>
@@ -1334,7 +1342,13 @@ Attentie: Dit kan niet ongedaan gemaakt worden</string>
   <string name="menu_delete">APN verwijderen</string>
   <string name="menu_edit">Aanpassen</string>
   <string name="menu_item_about_content">Beveiliging: %s</string>
+  <string name="menu_item_about_summary">Versie：%s</string>
   <string name="menu_item_about_title">Over</string>
+  <string name="menu_item_settings_title">Instellingen</string>
+  <string name="menu_item_shortcut">Snelkoppelingen maken</string>
+  <string name="menu_item_shortcut_summary">Plaats veel gebruikte functies op het startscherm</string>
+  <string name="menu_item_shortcut_title">Snelkoppeling toevoegen</string>
+  <string name="menu_item_shortcut_uninstall">Snelkoppelingen verwijderen</string>
   <string name="menu_key">Menu toets</string>
   <string name="menu_new">Nieuwe APN</string>
   <string name="menu_restore">Standaardinstellingen herstellen</string>
@@ -1658,6 +1672,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="perm_su_switch">ROOT Toegang</string>
   <string name="perm_summary_disabled">Uit</string>
   <string name="perm_summary_enabled">Aan</string>
+  <string name="perm_support_hints">Ondersteuning door LBE</string>
   <string name="perm_sysopt_boost_auto_start">Autostart machting</string>
   <string name="perm_sysopt_boost_auto_start_group">Autostart</string>
   <string name="perm_sysopt_boost_auto_start_summary">Sta dit proces toe om te autostarten</string>
@@ -1760,10 +1775,14 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="power_dialog_cpu_state_save_desc">Maak energiebesparing belangrijker dan CPU prestaties</string>
   <string name="power_dialog_cpu_state_title">CPU gebruik</string>
   <string name="power_dialog_delete_dialog_cannot_delete_default">"Kan niet verwijderen: u gebruikt dit profiel momenteel."</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Kan niet verwijderen: Uw apparaat is ingesteld om te wisselen naar dit profiel als de batterij leeg is, 
- U moet deze configuratie veranderen om dit profiel te verwijderen.</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Kan niet verwijderen: Uw apparaat is ingesteld om op geplande tijden te wisselen naar dit profiel, 
- U moet deze configuratie veranderen om dit profiel te verwijderen."</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Kan niet verwijderen: Uw apparaat is ingesteld om te wisselen naar dit profiel als de batterij wordt opgeladen. 
+ U dient uw batterij instellingen te wijzigen alvorens u dit profiel kunt verwijderen"</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Kan niet verwijderen: Uw apparaat is ingesteld om te wissen naar dit profiel op een ingestelde periode. 
+ U dient uw batterij instellingen te wijzigen alvorens u dit profiel kunt verwijderen"</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Kan niet verwijderen: Uw apparaat is ingesteld om te wisselen naar dit profiel als de batterij leeg is. 
+ U dient uw batterij instellingen te wijzigen alvorens u dit profiel kunt verwijderen"</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Kan niet verwijderen: Uw apparaat is ingesteld om op geplande tijden te wisselen naar dit profiel. 
+ U dient uw batterij instellingen te wijzigen alvorens u dit profiel kunt verwijderen"</string>
   <string name="power_dialog_delete_dialog_delete">"Aangepast profiel en gerelateerde instellingen verwijderen?"</string>
   <string name="power_dialog_delete_dialog_title">Aangepast profiel verwijderen</string>
   <string name="power_dialog_ok">OK</string>
@@ -1784,6 +1803,7 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="power_mode_auto_clean_memory_in_ten_minutes">Na tien minuten</string>
   <string name="power_mode_auto_clean_memory_never">Nooit</string>
   <string name="power_mode_bluetooth">Bluetooth</string>
+  <string name="power_mode_chooser_button_text">Toepassen</string>
   <string name="power_mode_cpu_state">CPU gebruik</string>
   <string name="power_mode_cpu_state_balance">Balans</string>
   <string name="power_mode_cpu_state_balance_desc">Alleen CPU prestaties verhogen indien vereist</string>
@@ -1812,10 +1832,13 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="power_mode_vibration_silence">Trillen als geluid is uitgeschakeld</string>
   <string name="power_mode_vibration_yes">Trillen ingeschakeld</string>
   <string name="power_mode_wifi">Wi-Fi</string>
+  <string name="power_new_choose_mode">Kies een profiel</string>
   <string name="power_perm_logs_empty">Geen logs</string>
   <string name="power_phone">Spraakoproepen</string>
   <string name="power_save_choose_mode">Kies een profiel</string>
+  <string name="power_save_choose_recovery_mode">Kies een profiel</string>
   <string name="power_save_low_battery_auto_save_title">Energiebesparing als batterij bijna leeg is</string>
+  <string name="power_save_low_battery_option_recovery_title">Als de batterij aan het opladen is, wisselen naar</string>
   <string name="power_save_low_battery_option_summary">Wanneer batterij boven een bepaald niveau is, zal het apparaat wisselen naar het meest gebruikte profiel</string>
   <string name="power_save_low_battery_option_title">Als batterij bijna leeg is wissel naar</string>
   <string name="power_save_low_battery_percentage_fifty">50%</string>
@@ -1829,6 +1852,8 @@ volg de stappen om de installatie te voltooien"</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Einde</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
+  <string name="power_save_on_time_goout_title">Herstellen naar</string>
+  <string name="power_save_on_time_option_recovery_title">Als deze periode stopt, wisselen naar</string>
   <string name="power_save_on_time_option_summary">Aan het einde van deze periode zal het apparaat wisselen naar het meest gebruikte profiel</string>
   <string name="power_save_on_time_option_title">Tijdens deze periode</string>
   <string name="power_save_on_time_start_time_summary">Starten</string>
@@ -2407,6 +2432,8 @@ Pogingen Resterende :"</string>
   <string name="title_virus_update_yes">Auto-update virus definities uitgeschakeld</string>
   <string name="title_virus_yes">Geen virussen gevonden</string>
   <string name="toast_qucik_scan_list_empty">Alles ziet er goed uit, opschonen niet nodig!</string>
+  <string name="toast_shortcut_install">Snelkoppeling gemaakt</string>
+  <string name="toast_shortcut_uninstall">Snelkoppeling verwijderd</string>
   <string name="total_size">%s (totaal)</string>
   <string name="total_size_label">Totaal</string>
   <string name="track_frame_time">GPU-rendering van profiel</string>

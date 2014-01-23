@@ -57,6 +57,7 @@
   <string name="online_no_network">Niet in staat te verbinden met netwerk</string>
   <string name="online_search_hint">Zoek online naar bron</string>
   <string name="payment_info">MiCredits</string>
+  <string name="purchased_list">Betalings geschiedenis</string>
   <string name="processing">Verwerken ...</string>
   <string name="resource_account_abnormal_state">Account fout, probeer het later opnieuw.</string>
   <string name="resource_account_current">Account: %1$s</string>
@@ -68,6 +69,7 @@
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Bronnen Browser</string>
   <string name="resource_apply">Toepassen</string>
+  <string name="resource_apply_trial">Uitproberen</string>
   <string name="resource_buy">Kopen</string>
   <string name="resource_can_not_selected">%1$s kan niet geselecteerd worden!</string>
   <string name="resource_category">Categorie</string>
@@ -124,6 +126,7 @@
   <string name="resource_detail_update_log_title">Updates</string>
   <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Download</string>
+  <string name="resource_download_trial">Gratis trial</string>
   <string name="resource_downloaded_title">Gedownloade bronnen</string>
   <string name="resource_downloading">Downloaden...</string>
   <string name="resource_exchange">Inwisselen</string>
@@ -151,6 +154,7 @@
   <string name="resource_get_auth_missing">Thema is niet gedownload van de officiële thema markt, download via de officiële markt</string>
   <string name="resource_get_auth_retrieving">Autorisatie verkrijgen...</string>
   <string name="resource_hint">Waarschuwing</string>
+  <string name="resource_import_failed">Download mislukt</string>
   <string name="resource_import_successful">Download succesvol.</string>
   <string name="resource_importing">Importeren</string>
   <string name="resource_list_title">Laatst geselecteerde</string>
@@ -160,6 +164,7 @@
   <string name="resource_my">Lokaal</string>
   <string name="resource_no_result">Geen resultaat</string>
   <string name="resource_notification_default">Notificaties</string>
+  <string name="resource_on_trial">Uitproberen: %1$s</string>
   <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">U heeft al %1$d items gekocht, maar de huidige prijs is nog steeds beter dan het individueel aanschaffen van de overige items, wilt u doorgaan?</string>
   <string name="resource_pack_discount_info">%1$s Opgeslagen!</string>
@@ -177,6 +182,7 @@
   <string name="resource_ranking_free">Gratis</string>
   <string name="resource_ranking_purchase">Betaald</string>
   <string name="resource_ringtone_default">Beltonen</string>
+  <string name="resource_ringtone_playing_error">Afspeel fout</string>
   <string name="resource_ringtone_volume_mute">Beltoon volume gedempt</string>
   <string name="resource_save_to_note">Opslaan naar notities</string>
   <string name="resource_see_more">Bekijk meer</string>
@@ -192,12 +198,17 @@
   <string name="resource_system_title">Systeem bronnen</string>
   <string name="resource_tip_select_ringtone">Geen beltoon geselecteerd</string>
   <string name="resource_title">Bron Detail</string>
-  <string name="resource_title_select_ringtone">Selecteer beltoon</string>
+  <string name="resource_title_select_ringtone">Beltoon selecteren</string>
+  <string name="resource_trial_end_message">Trial van %1$s verlopen.</string>
+  <string name="resource_trial_end_purchase">Kopen</string>
+  <string name="resource_trial_end_restore">Trial voltooien</string>
+  <string name="resource_trial_end_title">Trial verlopen</string>
+  <string name="resource_trial_time">（trial voor %1$d verlopen）</string>
   <string name="resource_unable_to_access">"Momenteel beschikbaar in uw regio/land."</string>
-  <string name="resource_unknow_error">Unknown error occurred.</string>
+  <string name="resource_unknow_error">Onbekende fout.</string>
   <string name="resource_update">Bijwerken</string>
   <string name="resource_user_know">OK</string>
-  <string name="resource_waiting_download">Waiting to download...</string>
+  <string name="resource_waiting_download">Wachten op download...</string>
   <string name="restore_default_theme_alert">U bent mogelijk het slachtoffer van thema namaak, blader door de thema markt om te kopen of om opnieuw te downloaden.</string>
   <string name="ringtone_volume_mute">Beltoon is momenteel in stille modus.</string>
   <string name="sdcard_not_mounted_dialog_message">"SD-kaart niet beschikbaar, plaats een SD-kaart."</string>
