@@ -28,6 +28,7 @@
   <string name="category_document">Documenten</string>
   <string name="category_favorite">Favorieten</string>
   <string name="category_log">Logs</string>
+  <string name="category_mirouter">MiRouter</string>
   <string name="category_music">Muziek</string>
   <string name="category_other">Overige</string>
   <string name="category_picture">"Foto's"</string>

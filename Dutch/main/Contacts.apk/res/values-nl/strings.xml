@@ -98,6 +98,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="callrecordview_item_op_time_short_incoming">"Inkomende: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Uitgaande: "</string>
   <string name="callrecordview_menu_add_call_note">Belnotitie toevoegen</string>
+  <string name="callrecordview_menu_batch_delete">Batch verwijderen</string>
   <string name="callrecordview_menu_delete">Gesprekslog verwijderen</string>
   <string name="callrecordview_menu_delete_accepted">Inkomende oproepen verwijderen</string>
   <string name="callrecordview_menu_delete_all">Gesprekslog verwijderen</string>
@@ -210,6 +211,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="deleteConfirmation">Dit contact wordt verwijderd.</string>
   <string name="deleteConfirmationDetail">\"%s\" verwijderen?.</string>
   <string name="deleteConfirmation_title">Verwijderen</string>
+  <string name="delete_call_log_selected_title">Geselecteerde gesprekslog verwijderen?</string>
   <string name="delete_call_log_title">Deze gesprekslog selecteren om te verwijderen</string>
   <string name="delete_contact_calllog_title">Gesprekslogs verwijderen</string>
   <string name="delete_dial_input">verwijderen</string>
@@ -1037,7 +1039,8 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="toast_copy_done">Kopiëren succesvol voltooid</string>
   <string name="toast_copying">Kopiëren, een moment geduld...</string>
   <string name="toast_displaying_all_contacts">Alle contacten worden weergegeven</string>
-  <string name="toast_finish_delete_call_log">Oproep record(s) zijn verwijderd</string>
+  <string name="toast_finish_delete_call_log">Gesprekslog verwijderd</string>
+  <string name="toast_finish_delete_selected_call_log">Geselecteerde gesprekslog verwijderd</string>
   <string name="toast_for_failed_saving_nickname">Opslaan van wijzigingen mislukt</string>
   <string name="toast_for_saving_nickname">Wijzigingen opslaan</string>
   <string name="toast_join_with_empty_contact">Geef een contactnaam op voordat u dit contact samenvoegt met een ander contact.</string>

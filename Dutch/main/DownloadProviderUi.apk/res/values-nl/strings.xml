@@ -78,6 +78,9 @@
   <string name="select_all">Alles selecteren</string>
   <string name="select_operation_items">Selecteer</string>
   <string name="selected_count">%1$d van %2$d geselecteerd</string>
+  <string name="turn_off_xunlei_message">U kunt langzamere downloadsnelheden ervaren.</string>
+  <string name="turn_off_xunlei_title">Xunlei download engine uitschakelen</string>
   <string name="xunlei_brand">Ondersteuning door Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+  <string name="xunlei_switch">Xunlei download engine</string>
 </resources>
