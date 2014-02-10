@@ -4,8 +4,8 @@
   <string name="access_token_expired_warning">Weibo account is verlopen</string>
   <string name="access_token_invalid_warning">Weibo account is ongeldig</string>
   <string name="account">Account</string>
-  <string name="account_detail">Xiaomi account: %1$s</string>
-  <string name="account_dspt">"Xiaomi Account kan uw berichten, contacten, foto's, etc. synchroniseren"</string>
+  <string name="account_detail">Mi Account: %1$s</string>
+  <string name="account_dspt">"Mi Account kan uw berichten, contacten, foto's, etc. synchroniseren"</string>
   <string name="account_hint_text">E-mail/Telefoon nummer</string>
   <string name="account_name">Account: %1$s</string>
   <string name="activate_phone_failed_notif_title">MiCloud service inschakelen mislukt</string>
@@ -73,13 +73,13 @@
   <string name="checking_account">"Account verifiëren..."</string>
   <string name="checking_input">Invoer controleren...</string>
   <string name="cloud_messaging">MiCloud berichten</string>
-  <string name="cmcc_data_sync_notice">Gebruik uw Xiaomi account om berichten, contacten en andere gegevens te synchroniseren. Geniet ondertussen van Xiaomi cloud services.</string>
+  <string name="cmcc_data_sync_notice">Gebruik uw Mi Account om berichten, contacten en andere gegevens te synchroniseren. Geniet ondertussen van Xiaomi cloud services.</string>
   <string name="cmcc_micloud_dspt">Cloud services bevat mobiele synchronisatie, apparaat locatie en andere functies. U kunt ook online uw gegevens beheren wanneer u maar wilt!</string>
   <string name="completed">Voltooien</string>
   <string name="confirm">Bevestigen</string>
   <string name="current_account">Huidig account</string>
   <string name="data_keep_in_phone">Op mijn toestel behouden</string>
-  <string name="data_sync_notice">Gebruik uw Xiaomi account om uw berichten, contacten en andere data te synchroniseren</string>
+  <string name="data_sync_notice">Gebruik uw Mi Account om uw berichten, contacten en andere data te synchroniseren</string>
   <string name="data_wipe_from_phone">Van mijn toestel verwijderen</string>
   <string name="dirty_contacts_count">%d contact(en)</string>
   <string name="dirty_mms_count">%d bericht(en)</string>
@@ -104,7 +104,7 @@
   <string name="failed_to_send_activate_email">Het versturen van een activatie e-mail is mislukt.</string>
   <string name="find_device">Zoek het toestel</string>
   <string name="find_device_check_phone_error_title">Inschakelen lokalisering van het toestel is mislukt</string>
-  <string name="find_device_disabled_notice">"U kunt het heropenen via Instellingen - Accounts &amp; sync - Xiaomi Account"</string>
+  <string name="find_device_disabled_notice">"U kunt het heropenen via Instellingen - Accounts &amp; sync - Mi Account"</string>
   <string name="find_device_disabled_title">Lokaliseren van het toestel is uitgeschakeld</string>
   <string name="find_device_disabling">Afsluiten...</string>
   <string name="find_device_enabling">Opstarten...</string>
@@ -140,17 +140,17 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="mibi_license_message">Xiaomi MiCredit service. Door op Ok te klikken gaat u akkoord met %1$s.</string>
   <string name="mibi_license_message_span">MiCredit Gebruiker overeenkomst</string>
   <string name="mibi_license_title">MiCredit Gebruiker overeenkomst</string>
-  <string name="micloud_account">XiaoMi account</string>
+  <string name="micloud_account">Mi Account</string>
   <string name="micloud_account_details">Account details</string>
   <string name="micloud_account_label">Account: %1$s</string>
-  <string name="micloud_account_name">XiaoMi Account</string>
+  <string name="micloud_account_name">Mi Account</string>
   <string name="micloud_account_not_actived">Account niet geactiveerd</string>
-  <string name="micloud_activate_account_fail_notify_title">Activeren van uw Xiaomi account mislukt</string>
-  <string name="micloud_activate_account_success_notify_title">Activeren van uw Xiaomi account voltooid</string>
+  <string name="micloud_activate_account_fail_notify_title">Activeren van uw Mi Account mislukt</string>
+  <string name="micloud_activate_account_success_notify_title">Activeren van uw Mi Account voltooid</string>
   <string name="micloud_activate_back_btn">Annuleren</string>
   <string name="micloud_activate_retry_btn">Activatie opnieuw proberen</string>
-  <string name="micloud_activating_account_notify_info">U activeert uw Xiaomi account</string>
-  <string name="micloud_activating_account_notify_title">Uw Xiaomi account activeren...</string>
+  <string name="micloud_activating_account_notify_info">U activeert uw Mi Account</string>
+  <string name="micloud_activating_account_notify_title">Uw Mi Account activeren...</string>
   <string name="micloud_active_alert_title">Activeer uw account</string>
   <string name="micloud_active_email_sent_1">We hebben een activatie link gestuurd naar:</string>
   <string name="micloud_active_email_sent_2"/>
@@ -159,7 +159,7 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="micloud_activing_account_delayed">"Het duurt ongeveer 30 seconden om de activatie te voltooien. U kunt iets anders doen..."</string>
   <string name="micloud_activing_account_failed">Uw account activeren is mislukt</string>
   <string name="micloud_app_data">MiCloud app backups</string>
-  <string name="micloud_click_email">Klik op de link om uw Xiaomi Account te activeren</string>
+  <string name="micloud_click_email">Klik op de link om uw Mi Account te activeren</string>
   <string name="micloud_click_email_to_valid">Klik op de activatie link in de e-mail</string>
   <string name="micloud_data_loading">Laden...</string>
   <string name="micloud_delete_account">Herroep account</string>
@@ -199,7 +199,7 @@ Om dit op te lossen kunt u oude bestanden verwijderen of extra ruimte kopen."</s
   <string name="micloud_resend_active_email">Herstuur activatie e-mail</string>
   <string name="micloud_space_full_influence">Wat gebeurt er als ik geen ruimte meer heb?</string>
   <string name="micloud_storage_space">MiCloud opslag ruimte</string>
-  <string name="micloud_summary">Login met Xiaomi account om contacten en Galarij Albums te synchroniseren en voor andere functies.</string>
+  <string name="micloud_summary">Login met Mi Account om contacten en Galarij Albums te synchroniseren en voor andere functies.</string>
   <string name="micloud_title_dspt" formatted="false">"Totale ruimte %s
  gebruikt %s | beschikbaar %s"</string>
   <string name="micloud_title_full_dspt">Opslag limiet is bereikt!</string>
@@ -242,7 +242,7 @@ Om dit op te lossen kunt u oude bestanden verwijderen of extra ruimte kopen."</s
   <string name="msg_telecom_picker_hint_2_2">U ontvangt binnenkort een bevestigings bericht.</string>
   <string name="msg_telecom_sending">Uw netwerk provider benaderen...</string>
   <string name="my_mili_record">Mijn MiCredit</string>
-  <string name="my_xiaomi_account">Mijn huidige Xiaomi account</string>
+  <string name="my_xiaomi_account">Mijn huidige Mi Account</string>
   <string name="next">Volgende</string>
   <string name="noRemind">"Niet herinneren"</string>
   <string name="nobind">Niet geautoriseerd</string>
@@ -250,7 +250,7 @@ Om dit op te lossen kunt u oude bestanden verwijderen of extra ruimte kopen."</s
   <string name="other_settings">Overige instellingen</string>
   <string name="password">Wachtwoord</string>
   <string name="password_error">Voer uw wachtwoord in</string>
-  <string name="password_hint">Voer uw Xiaomi account wachtwoord in:</string>
+  <string name="password_hint">Voer uw Mi Account wachtwoord in:</string>
   <string name="pay_record">Betalings geschiedenis</string>
   <string name="pay_record_empty">Geen betalings geschiedenis</string>
   <string name="paytool_alipay">Alipay</string>
@@ -346,7 +346,7 @@ We zullen het binnen twee werkdagen voor u controleren"</string>
   <string name="relogin">Login</string>
   <string name="remove_account_notice">Wat wilt u doen met eerder gesynchroniseerde berichten, contacten, oproepenlog en notities op uw apparaat?</string>
   <string name="remove_confirm">Verwijderen</string>
-  <string name="remove_unactivated_account_notice">Het Xiaomi account is niet geactiveerd, wilt u het verwijderen?</string>
+  <string name="remove_unactivated_account_notice">Het Mi Account is niet geactiveerd, wilt u het verwijderen?</string>
   <string name="removing_account">Account verwijderen...</string>
   <string name="restoreSync">Synchronisatie Herstellen</string>
   <string name="send_int_sms_for_sync_notice">"Een SMS zal worden verstuurd naar uw apparaat op uw provider's berichten tarief. Weet u zeker dat u wilt doorgaan?"</string>
@@ -358,14 +358,14 @@ We zullen het binnen twee werkdagen voor u controleren"</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Login overslaan</string>
   <string name="skip_login_u">&lt;u&gt;Login overslaan&lt;/u&gt;</string>
-  <string name="skip_setup_account_msg">"Uw Xiaomi Account ondersteunt het maken van een backup en synchronisatie van SMS, contacten, foto's, notities, etc. Doorgaan en later configureren?"</string>
+  <string name="skip_setup_account_msg">"Uw Mi Account ondersteunt het maken van een backup en synchronisatie van SMS, contacten, foto's, notities, etc. Doorgaan en later configureren?"</string>
   <string name="skip_setup_account_title">Instellen van account overslaan</string>
   <string name="start_micloud">Starten</string>
   <string name="sub_alert_notif_dspt" formatted="false">"U heeft %s contacten, %s SMS, %s foto's, %s van notities en andere gegevens niet gesynchroniseerd.
 
 Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze gegevens permanent verwijderd worden. Het is aanbevolen de synchronisatie te herstellen om de veiligheid van uw gegevens te waarborgen"</string>
   <string name="sub_alert_notif_title">Wachtwoord synchronisatie service is niet ingeschakeld</string>
-  <string name="sync_dspt">Gebruik Xiaomi account om gegevens te synchroniseren</string>
+  <string name="sync_dspt">Gebruik Mi Account om gegevens te synchroniseren</string>
   <string name="sync_off">Uit</string>
   <string name="sync_on">Aan</string>
   <string name="sync_sub_dspt">Er zal een SMS verzonden worden om de service te activeren</string>
@@ -378,7 +378,7 @@ Als u uw telefoon kwijtraakt of als uw telefoon wordt gewist, dan zullen deze ge
   <string name="title_prepaid">Opwaarderen via kaart</string>
   <string name="title_recharge">MiCredits opwaarderen</string>
   <string name="title_recharge_record">Opwaardeer geschiedenis</string>
-  <string name="title_reg">Registreer Xiaomi account</string>
+  <string name="title_reg">Registreer Mi Account</string>
   <string name="title_voucher">Opwaarderen gebruikt MiCredit voucher</string>
   <string name="trust_device">Apparaat vertrouwen</string>
   <string name="unactivated_user">Niet geactiveerd</string>

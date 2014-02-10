@@ -224,6 +224,7 @@
   <string name="timezone_label">Tijdzone</string>
   <string name="today">Vandaag</string>
   <string name="today_at_time_fmt">Vandaag om %s</string>
+  <string name="today_no_events">Geen afspraken vandaag</string>
   <string name="tomorrow">Morgen</string>
   <string name="tomorrow_at_time_fmt">Morgen om %s</string>
   <string name="view_event_calendar_label">Agenda:</string>
