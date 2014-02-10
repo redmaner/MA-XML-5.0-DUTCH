@@ -189,7 +189,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="contact_status_update_attribution">via %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
   <string name="contact_unfavorite_toast">Contact verwijderd uit favorieten</string>
-  <string name="contactsAllLabel">contacten</string>
+  <string name="contactsAllLabel">Contacten</string>
   <string name="contactsFavoritesLabel">Favorieten</string>
   <string name="contactsGroupsLabel">Groepen</string>
   <string name="contactsJoinedMessage">Contacten zijn samengevoegd</string>
