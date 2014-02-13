@@ -10,6 +10,7 @@
   <string name="balance_inquiry_send_sms_hint">Een gratis SMS wordt spoedig verzonden om uw balans te berekenen</string>
   <string name="balance_inquiry_send_sms_summmary">Controleer uw balans</string>
   <string name="balance_inquiry_title">Balans controle</string>
+  <string name="call">Bellen</string>
   <string name="callrecordview_item_newcontact">Nieuw Contact</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
   <string name="callrecordview_item_op_time_missed">Niet verbonden</string>

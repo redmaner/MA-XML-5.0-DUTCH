@@ -182,6 +182,7 @@ vrienden."</string>
   <string name="error_album_not_exist">"Album bestaat niet."</string>
   <string name="error_cloud_not_active">MiCloud album niet in gebruik</string>
   <string name="error_invalid_link">De link is ongeldig of verlopen, vraag de eigenaar van het album een nieuwe link te maken.</string>
+  <string name="error_share_with_creator">U bent al een lid van dit album</string>
   <string name="error_repeat_apply">Dit album wordt al met u gedeeld</string>
   <string name="error_should_not_select_image">Waarschuwing: selecteer geen afbeelding.</string>
   <string name="error_should_not_select_video">Waarschuwing: selecteer geen video.</string>

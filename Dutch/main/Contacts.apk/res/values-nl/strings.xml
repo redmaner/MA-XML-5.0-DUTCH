@@ -1090,6 +1090,10 @@ Kies een van de volgende opties:"</string>
   <string name="yellowPageNavigationIconLabel">Map</string>
   <string name="yellowPageNavigationLabel">Map</string>
   <string name="yellowpage_navigation_menu_order">Mijn bestelling</string>
+  <string name="yellowpage_navigation_network_location_enable">Nu inschakelen</string>
+  <string name="yellowpage_navigation_network_location_enable_later">Later inschakelen</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Leidraad biedt services specifiek voor uw stad en Wi-Fi &amp; mobiele netwerk locatie service kan de kwaliteit van services verbeteren.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Netwerk locatie service inschakelen</string>
   <string name="yellowpage_navigation_no_content">Geen zoekresultaten</string>
   <string name="yellowpage_navigation_search_city_name_hint">Zoek via stad</string>
   <string name="yellowpage_navigation_search_hint">Zoeken</string>

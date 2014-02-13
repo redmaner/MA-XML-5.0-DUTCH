@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="send_item">
+        <item>SMS</item>
+        <item>E-mail</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_json_key">
+        <item>wind1</item>
+        <item>紫外线指数</item>
+        <item>穿衣指数</item>
+        <item>舒适度指数</item>
+        <item>洗车指数</item>
+        <item>晾晒指数</item>
+        <item>晨练指数</item>
+        <item>旅游指数</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_key">
+        <item>Windsnelheid:</item>
+        <item>UV index:　</item>
+        <item>Kleding:</item>
+        <item>Comfort:</item>
+        <item>Auto wassen:</item>
+        <item>Was drogen:</item>
+        <item>Ochtengymnastiek:</item>
+        <item>Vrije tijd:</item>
+    </string-array>
+    <string-array name="weather_image">
+        <item>Helder</item>
+        <item>Bewolkt</item>
+        <item>Wazig</item>
+        <item>Mistig</item>
+        <item>Ernstige regen buien</item>
+        <item>Regen buien</item>
+        <item>Hevige regenval</item>
+        <item>Onweer</item>
+        <item>Buien</item>
+        <item>Hevige regenval</item>
+        <item>Regen</item>
+        <item>Motregen</item>
+        <item>IJzel</item>
+        <item>Sneeuwstorm</item>
+        <item>Sneeuw</item>
+        <item>Hevige sneeuwval</item>
+        <item>Sneeuwval</item>
+        <item>Lichte sneeuwval</item>
+        <item>Sterke zandstorm</item>
+        <item>Zandstorm</item>
+        <item>Lichte zandstorm</item>
+        <item>Zandstorm</item>
+        <item>Hagel</item>
+        <item>Stuifmeel</item>
+        <item>Nevel</item>
+    </string-array>
+    <string-array name="weather_details_key">
+        <item>Niet beschikbaar</item>
+        <item>Geschikt</item>
+        <item>Goed</item>
+        <item>Vermijden indien mogelijk</item>
+        <item>Niet aanbevolen</item>
+        <item>Ideaal</item>
+        <item>Matig</item>
+        <item>Zwak</item>
+        <item>Medium</item>
+        <item>Sterk</item>
+        <item>Erg sterk</item>
+        <item>Koud</item>
+        <item>Comfortabel</item>
+        <item>Erg heet</item>
+        <item>Heet</item>
+        <item>Warm</item>
+        <item>Koud</item>
+        <item>Kouder</item>
+        <item>Koud</item>
+        <item>Vriezend</item>
+        <item>Hoog</item>
+        <item>Middel</item>
+        <item>Laag</item>
+        <item>Heldere hemel</item>
+        <item>Bewolkt</item>
+        <item>Regen</item>
+        <item>Zandstorm</item>
+        <item>Sneeuw</item>
+        <item>Relatief geschikte condities</item>
+        <item>Geschikte condities</item>
+        <item>Bewolkt</item>
+        <item>Minder ideaal</item>
+        <item>Ideale condities</item>
+        <item>Slechte condities</item>
+        <item>Gemiddelde condities</item>
+    </string-array>
+    <string-array name="weather_image_tips">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Het regent hard, vergeet geen paraplu.</item>
+        <item>Het regent hard, vergeet geen paraplu.</item>
+        <item>Het regent hard, vergeet geen paraplu.</item>
+        <item>Als je naar buiten gaat, vergeet geen paraplu!</item>
+        <item>Als je naar buiten gaat, vergeet geen paraplu!</item>
+        <item>Als je naar buiten gaat, vergeet geen paraplu!</item>
+        <item>Het gaat vandaag regenen, vergeet geen paraplu!</item>
+        <item>Het regent buiten, vergeet geen paraplu!</item>
+        <item>Er is buiten een mix van regen en sneeuw, vergeet geen paraplu!</item>
+        <item>Het sneeuwt hevig buiten, vergeet geen sjaal en muts!</item>
+        <item>Het gaat vandaag sneeuwen, vergeet geen sjaal en muts!</item>
+        <item>Het gaat vandaag veel sneeuwen, vergeet geen sjaal en muts!</item>
+        <item>Het sneeuwt een beetje, vergeet geen sjaal en muts!</item>
+        <item>Het sneeuwt een beetje, vergeet geen sjaal en muts!</item>
+        <item>Er is een stevige zandstorm, vergeet geen masker!</item>
+        <item>Het regent best hard, vergeet geen paraplu!</item>
+        <item>Er is een stevige zandstorm, vergeet geen masker!</item>
+        <item>Er is een stevige zandstorm, vergeet geen masker!</item>
+        <item>Het heeft geijzeld, wees voorzichtig!</item>
+    </string-array>
+    <string-array name="weather_sms_content">
+        <item>Vergeet geen zonnebrandcrème.</item>
+        <item>Het wordt bewolkt vandaag.</item>
+        <item>Het wordt slecht weer vandaag, probeer binnen te blijven.</item>
+        <item>Rij voorzichtig :)</item>
+        <item>Het regent hard, vergeet geen paraplu.</item>
+        <item>Het regent hard, vergeet geen paraplu.</item>
+        <item>Het regent hard, vergeet geen paraplu.</item>
+        <item>Vergeet geen paraplu!</item>
+        <item>Vergeet geen paraplu!</item>
+        <item>Vergeet geen paraplu! :)</item>
+        <item>Vergeet geen paraplu!</item>
+        <item>Het regent buiten, vergeet geen paraplu!"</item>
+        <item>Er is buiten een mix van regen en sneeuw, vergeet geen paraplu!</item>
+        <item>Het sneeuwt hard!</item>
+        <item>Het gaat vandaag sneeuwen, vergeet geen sjaal en muts.</item>
+        <item>Het sneeuwt hard, vergeet geen sjaal en muts.</item>
+        <item>Het sneeuwt een beetje, vergeet geen sjaal en muts.</item>
+        <item>Het sneeuwt, vergeet geen sjaal en muts.</item>
+        <item>Er is een hevige zandstorm, vergeet geen masker.</item>
+        <item>Er is een hevige zandstorm, vergeet geen masker.</item>
+        <item>Er is een hevige zandstorm, vergeet geen masker.</item>
+        <item>Er is een hevige zandstorm, vergeet geen masker.</item>
+        <item>Het heeft geijzeld, wees voorzichtig!</item>
+        <item>Luchtkwaliteit is slecht, draag een masker</item>
+        <item>Luchtkwaliteit is slecht, probeer binnen te blijven.</item>
+    </string-array>
+    <string-array name="weather_sms_addons">
+        <item>"Weersverwachting van vandaag voor @: $."</item>
+        <item>Laag~hoog: %.</item>
+        <item>Vergeet geen paraplu!</item>
+        <item></item>
+        <item>Als u uw kleren droogt, vergeet ze dan niet binnen te halen! :)"</item>
+        <item>Vermijd rijden.</item>
+        <item>Rij voorzichtig!</item>
+        <item>Wees voorzichtig, het is glad</item>
+        <item></item>
+        <item>Wees voorzichtig buiten.</item>
+        <item>Ga niet naar buiten indien mogelijk</item>
+        <item>Gebruik zonnebrandcrème en draag een zonnebril.</item>
+        <item>Gebruik zonnebrandcrème en draag een zonnebril.</item>
+        <item>Het waait buiten, vergeet geen jas.</item>
+        <item>Luchtkwaliteit is slecht, draag een masker</item>
+        <item>Vergeet geen jas.</item>
+        <item>Draag een masker :)</item>
+        <item>Vergeet geen handschoenen en een muts.</item>
+        <item>"Het is heet buiten!"</item>
+        <item>"Het is heet buiten!"</item>
+        <item>Bundle up!</item>
+        <item>A cold spell is coming…</item>
+        <item>Bundel omhoog!</item>
+        <item>Draag oorwarmers als je ze hebt! :)</item>
+        <item>Ga een rondje hardlopen!</item>
+        <item>Ga een rondje hardlopen en grijp de zon! :)</item>
+        <item>Het is een mooie dag om kleren te drogen!</item>
+        <item>Het wordt koud, draag een jas!</item>
+    </string-array>
+    <string-array name="weather_info_uv">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>6</item>
+        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>7</item>
+        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>8</item>
+        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>9</item>
+        <item>Avoid the sun if possible. Use sunscreen if you need to go out!</item>
+        <item>10</item>
+        <item>Avoid sun if possible. Use sunscreen if you need to go out!</item>
+    </string-array>
+    <string-array name="weather_info_dress">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>11</item>
+        <item>Light jacket</item>
+        <item>12</item>
+        <item>Light jacket</item>
+        <item>13</item>
+        <item>Summer clothing</item>
+        <item>14</item>
+        <item>Summer clothing</item>
+        <item>15</item>
+        <item>Light jacket</item>
+        <item>16</item>
+        <item>Remember to bring additional layers!</item>
+        <item>17</item>
+        <item>Bring a jacket!</item>
+        <item>18</item>
+        <item>Bundle up!</item>
+        <item>19</item>
+        <item>Bundle up!</item>
+    </string-array>
+    <string-array name="weather_info_msport">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>1</item>
+        <item>"It's a good day for morning exercises!"</item>
+        <item>2</item>
+        <item>Bring additional layers!</item>
+        <item>3</item>
+        <item>Weather is not ideal; bring additional layers!</item>
+        <item>4</item>
+        <item>Exercise indoors!</item>
+    </string-array>
+    <string-array name="weather_info_comfort">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>20</item>
+        <item>Temperature will be stable</item>
+        <item>21</item>
+        <item>Cool and comfortable</item>
+        <item>22</item>
+        <item>Temperature will be volatile</item>
+        <item>23</item>
+        <item>Clear skies and uncomfortable temperatures</item>
+        <item>24</item>
+        <item>Hot and humid! :(</item>
+    </string-array>
+    <string-array name="weather_info_wcar">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>1</item>
+        <item>"It's a good day to wash your car!"</item>
+        <item>2</item>
+        <item>"It's a good day to wash your car!"</item>
+        <item>3</item>
+        <item>"It's going to rain, so hold off on washing your car."</item>
+        <item>25</item>
+        <item>"It's going to rain, so hold off on washing your car."</item>
+        <item>26</item>
+        <item>"There's a sand storm in the forecast, so hold off on washing your car."</item>
+        <item>27</item>
+        <item>"It's going to snow, so hold off on washing your car."</item>
+        <item>4</item>
+        <item>Hold off on washing your car.</item>
+    </string-array>
+    <string-array name="weather_info_hung">
+        <item>0</item>
+        <item>Unavailable</item>
+        <item>28</item>
+        <item>Hang your clothes to dry in the afternoon.</item>
+        <item>29</item>
+        <item>Hang your clothes to dry any time.</item>
+        <item>30</item>
+        <item>Cloudy but with the hot temperatures, your clothes will still dry.</item>
+        <item>1</item>
+        <item>The weather is suitable for drying clothes.</item>
+        <item>3</item>
+        <item>It will rain intermittently throughout the day.</item>
+        <item>5</item>
+        <item>Good drying conditions.</item>
+        <item>4</item>
+        <item>Droog uw kleren binnen.</item>
+        <item>31</item>
+        <item>Droog uw kleren binnen.</item>
+    </string-array>
+    <string-array name="weather_info_travel">
+        <item>0</item>
+        <item>Niet beschikbaar</item>
+        <item>32</item>
+        <item>Helder en zonnig met goede temperaturen.</item>
+        <item>2</item>
+        <item>Milde en stabiele temperaturen.</item>
+        <item>1</item>
+        <item>Milde en stabiele temperaturen.</item>
+        <item>3</item>
+        <item>Vandaag wordt het wisselvallig weer.</item>
+        <item>33</item>
+        <item>Vandaag wordt het wisselvallig weer.</item>
+        <item>34</item>
+        <item>Heldere hemel, milde wind.</item>
+    </string-array>
+    <string-array name="weather_info_fl">
+        <item></item>
+        <item>Wear layers!</item>
+        <item>微风</item>
+        <item>Comfortable</item>
+        <item>暂缺</item>
+        <item>Unavailable</item>
+    </string-array>
+</resources>

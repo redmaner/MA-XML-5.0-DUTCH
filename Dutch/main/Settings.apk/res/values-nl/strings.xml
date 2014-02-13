@@ -497,11 +497,11 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="button_text_security">Beveiliging</string>
   <string name="button_text_view">Bekijken</string>
   <string name="button_text_view_power">Energie bekijken</string>
-  <string name="cache_garbage">Cache bestanden</string>
+  <string name="cache_garbage">Cache</string>
   <string name="cache_header_label">Cachegeheugen</string>
   <string name="cache_list_empty_hints">Geen gecachte bestanden.</string>
   <string name="cache_manage_title">%1$d gecachte bestanden opschonen om %2$s ruimte vrij te maken</string>
-  <string name="cache_manager_actionbar_title">Systeem cache</string>
+  <string name="cache_manager_actionbar_title">Cache</string>
   <string name="cache_size_label">Cachegeheugen</string>
   <string name="cached">Gecacht achtergrondproces</string>
   <string name="call_log_tab_title">Oproep log</string>
@@ -1707,7 +1707,7 @@ probeer het volgende:
   <string name="permission_manage">Machtigings beheer</string>
   <string name="permission_manage_summary">Auto start, privacy, beveilig machtings beheer</string>
   <string name="permission_manage_title">%s machtings details</string>
-  <string name="permission_mgr">Machtigingen</string>
+  <string name="permission_mgr">Machtiging</string>
   <string name="permissions_label">Machtigingen</string>
   <string name="personal_data_section_title">Persoonlijke gegevens</string>
   <string name="phone_call_noise_suppression">Telefoon ruisonderdrukking</string>
@@ -1933,7 +1933,7 @@ probeer het volgende:
   <string name="process_kernel_label">Android-besturingssysteem</string>
   <string name="process_list_empty_hints">Geen gecachte processen.</string>
   <string name="process_manage_title">Stop %1$d processen om %2$s geheugen vrij te maken</string>
-  <string name="process_manager_actionbar_title">Geheugen gebruik</string>
+  <string name="process_manager_actionbar_title">Geheugen</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">Provider %1$s in gebruik.</string>
   <string name="process_service_in_use_description">Service %1$s in gebruik.</string>
@@ -2043,8 +2043,8 @@ probeer het volgende:
   <string name="read_only">" (Alleen-lezen)"</string>
   <string name="really_remove_account_message">Als u dit account verwijdert, worden ook alle accountberichten, contacten en andere gegevens van de telefoon verwijderd.</string>
   <string name="really_remove_account_title">Account verwijderen?</string>
-  <string name="realtime_protection">Beveiliging</string>
-  <string name="realtime_protection_title">Beveiliging</string>
+  <string name="realtime_protection">Systeem</string>
+  <string name="realtime_protection_title">Systeem</string>
   <string name="recognizer_settings_summary">"Instellingen voor '%s'"</string>
   <string name="recognizer_settings_title">Spraakgestuurd zoeken</string>
   <string name="recognizer_title">Spraakherkenning</string>
@@ -2434,6 +2434,8 @@ Pogingen Resterende :"</string>
   <string name="title_mms_yes">Berichten filter ingeschakeld</string>
   <string name="title_permission_no">Machtigingen monitor uitgeschakeld</string>
   <string name="title_permission_yes">Machtigingen monitor ingeschakeld</string>
+  <string name="title_show_notification_no">Weergeven in notificatiescherm uit</string>
+  <string name="title_show_notification_yes">Weergeven in notificatiescherm aan</string>
   <string name="title_usb_no">USB-foutopsporing ingeschakeld</string>
   <string name="title_usb_yes">USB-foutopsporing uitgeschakeld</string>
   <string name="title_virus_no">Virus gevonden</string>
@@ -2644,6 +2646,7 @@ Pogingen Resterende :"</string>
   <string name="virus_scan_app_uninstall">Meervoudig verwijderen (%d)</string>
   <string name="virus_scan_app_waiting">Wachten op</string>
   <string name="virus_scan_can_use_wifi">Gebruik online definities om te scannen</string>
+  <string name="virus_scan_clean_dialog_message">Opschonen...</string>
   <string name="virus_scan_clear">Opschonen</string>
   <string name="virus_scan_dangerous">Risico</string>
   <string name="virus_scan_description">"Deze app is een groot risico voor uw telefoon's beveiliging."</string>

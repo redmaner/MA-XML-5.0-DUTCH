@@ -20,4 +20,10 @@
         <item>Standaard</item>
         <item>Klassiek</item>
     </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Startscherm opschonen</item>
+        <item>Widgets toevoegen</item>
+        <item>Achtergrond wijzigen</item>
+        <item>Scherm overgangen</item>
+    </string-array>
 </resources>
