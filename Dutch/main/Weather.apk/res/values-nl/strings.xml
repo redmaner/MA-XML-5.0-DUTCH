@@ -4,10 +4,10 @@
   <string name="act_aqi_pm10_title">PM10</string>
   <string name="act_aqi_pm25_title">PM2.5</string>
   <string name="act_aqi_so2_title">SO2</string>
-  <string name="act_city_find_gps_error">Selecteer handmatig stad in de menu lijst</string>
-  <string name="act_find_city_hint">Stad invoeren</string>
+  <string name="act_city_find_gps_error">Selecteer handmatig een stad uit de menu lijst</string>
+  <string name="act_find_city_hint">Locatie invoeren</string>
   <string name="act_find_city_hot_title">Populaire steden</string>
-  <string name="act_find_city_null_data">Kon niks vinden</string>
+  <string name="act_find_city_null_data">Geen resultaten gevonden</string>
   <string name="act_find_city_title">Locatie toevoegen</string>
   <string name="act_init_dialog_finish">Wereld weerinformatie is toegevoegd.</string>
   <string name="act_set_city_find_side">Locatie bepalen…</string>
@@ -20,7 +20,7 @@
   <string name="act_weather_cycle_low_temp">laag</string>
   <string name="act_weather_cycle_update">Bijwerken…</string>
   <string name="act_weather_find_city_connect_net">Probeer opnieuw te verbinden</string>
-  <string name="act_weather_find_city_search_online">Aanraken om online te zoeken</string>
+  <string name="act_weather_find_city_search_online">Aanraken om te zoeken</string>
   <string name="act_weather_find_city_searching">Zoeken…</string>
   <string name="act_weather_main_aqi_index">Luchtkwaliteit: %s</string>
   <string name="act_weather_main_data_null">Geen weer gegevens, aaraken om te vernieuwen</string>
@@ -28,7 +28,7 @@
   <string name="act_weather_range_title">Lokale weersverwachting</string>
   <string name="act_weather_update_time">Laatst bijgewerkt %s</string>
   <string name="add_city">Locatie toevoegen</string>
-  <string name="alert_message_delete">%d geselecteerde item(s) verwijderen?</string>
+  <string name="alert_message_delete">%d geselecteerde locatie(s) verwijderen?</string>
   <string name="alert_provider_message">U dient locatietoegang in te schakelen via uw mobiele netwerk.</string>
   <string name="alert_provider_title">Locatie melding</string>
   <string name="alert_title_delete">Verwijderen</string>
@@ -38,12 +38,12 @@
   <string name="app_name">Weer</string>
   <string name="app_nohave_net">Geen netwerk gevonden</string>
   <string name="app_unquiet_net">Slechte netwerk verbinding</string>
-  <string name="aqi_details_dangerous">Mensem met hart of long ziekten, ouderen en jonge kinderen dienen alle fysieke buiten activiteiten zoveel mogelijk te vermijden. Alle andere mensen dienen langdurige of zware inspanning buiten zoveel te vermijden.</string>
+  <string name="aqi_details_dangerous">Vermijd langdurige en/of zware inspanning.</string>
   <string name="aqi_details_fine">Mensen met speciale medische voorzieningen dienen langdurige of zware inspanning buiten zoveel te vermijden.</string>
   <string name="aqi_details_good">Het is geweldig weer voor buiten activiteiten</string>
-  <string name="aqi_details_hazardous">Iedereen dient alle fysieke buiten activiteiten zoveel mogelijk te vermijden. Mensem met hart of long ziekten, ouderen en jonge kinderen dienen zoveel mogelijk binnen te blijven.</string>
+  <string name="aqi_details_hazardous">Blijf binnen en beperk fysieke inspanning.</string>
   <string name="aqi_details_light_pollution">Mensem met hart of long ziekten, ouderen en jonge kinderen dienen langdurige of zware inspanning buiten te vermijden.</string>
-  <string name="aqi_details_unhealthy">Iedereen dient langdurige of zware inspanning buiten te vermijden.</string>
+  <string name="aqi_details_unhealthy">Beperk langdurige en/of zware inspanning.</string>
   <string name="aqi_quality_index_dangerous">gevaarlijk</string>
   <string name="aqi_quality_index_good">goed</string>
   <string name="aqi_quality_index_hazardous">gevaarlijk</string>
@@ -55,8 +55,8 @@
   <string name="button_not_allow">Weigeren</string>
   <string name="cancel">Annuleren</string>
   <string name="enable_gps">GPS</string>
-  <string name="enable_notification">Locatie melding openen</string>
-  <string name="enable_notification_city">Weer meldingen ingeschakeld voor %s. U wordt op de hoogte gebracht als er onverwachte veranderingen zijn in de weersverwachting (sneeuw, donder, orkanen, etc).</string>
+  <string name="enable_notification">Locatie meldingen</string>
+  <string name="enable_notification_city">Weer meldingen zijn ingeschakeld voor %s.</string>
   <string name="enable_notification_summary">Breng me op de hoogte als het weer veranderd</string>
   <string name="first_start_network_toast_text">Maak verbinding met het netwerk om weer informatie op te halen.</string>
   <string name="format_date_md">M/d kk:mm</string>
@@ -64,12 +64,12 @@
   <string name="format_date_week">EEE</string>
   <string name="format_date_wmd">M/d EEE</string>
   <string name="loading_weather">Laden…</string>
-  <string name="local_city">Lokale steden</string>
+  <string name="local_city"/>
   <string name="location_allow_err">Locatie bepalen mislukt</string>
   <string name="location_management">Locaties</string>
   <string name="location_notification">Weer meldingen</string>
   <string name="menu_about">Over</string>
-  <string name="menu_add">Steden toevoegen</string>
+  <string name="menu_add">Locaties toevoegen</string>
   <string name="menu_around">Omgeving</string>
   <string name="menu_delete">Verwijderen</string>
   <string name="menu_location">Locaties</string>
@@ -91,32 +91,32 @@
   <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
   <string name="settings_weather_about">Over</string>
   <string name="settings_weather_animation">Weer animatie</string>
-  <string name="settings_weather_play_ani_summary">Antimatie afspelen in de hoofd interface</string>
+  <string name="settings_weather_play_ani_summary">Weer antimatie afspelen in het hoofdscherm</string>
   <string name="settings_weather_play_ani_title">Animatie afspelen</string>
   <string name="settings_weather_pre_title">Weer</string>
   <string name="settings_weather_preview">Voorbeeld van weer animatie</string>
   <string name="settings_weather_title">Instellingen</string>
-  <string name="share_aqi_content">"\#MIUI weer#
-Vandaag %1$s's luchtkwaliteit: %2$s, %3$s. %4$s %5$s."</string>
+  <string name="share_aqi_content">"MIUI Weer
+De luchtkwaliteits index in %1$s is %2$s, %3$s. %4$s %5$s."</string>
   <string name="share_button_text">Delen</string>
   <string name="share_choice_titile">Delen</string>
-  <string name="share_content">\#MIUI weer#</string>
-  <string name="share_weather_content">"\#MIUI weer#
-Vandaag %1$s's wordt het weer %2$s, %3$s, %4$s. %5$s."</string>
+  <string name="share_content">MIUI Weer</string>
+  <string name="share_weather_content">"MIUI weersvoorspelling
+Het weer in %1$s wordt %2$s, %3$s, %4$s. %5$s.""</string>
   <string name="share_weather_title">Weer gegevens delen</string>
   <string name="sina_share_fail">Verzenden mislukt</string>
   <string name="sina_share_pendding">Verzenden…</string>
   <string name="sina_share_success">Verzenden</string>
   <string name="sina_token_expired_warning">Weibo account is velopen</string>
   <string name="sina_token_invalid_warning">Weibo account is ongeldig</string>
-  <string name="sms_notification">Delen via SMS</string>
-  <string name="tip_weather">MIUI weer melding</string>
+  <string name="sms_notification">Delen</string>
+  <string name="tip_weather">Weer melding</string>
   <string name="tip_weather_info_content_1">Breng lagen!</string>
   <string name="tip_weather_info_title_1">%1$s verwachte temperatuur verschilt %2$d graden</string>
-  <string name="tip_weather_info_title_2">%1$s temperatuur vandaag wordt ongeveer %2$s</string>
+  <string name="tip_weather_info_title_2">"%1$s's temperatuur wordt ongeveer %2$s"</string>
   <string name="trend_weather_today">Vandaag</string>
   <string name="trend_weather_tomorrow">Morgen</string>
-  <string name="weather_notification">Weer melding</string>
+  <string name="weather_notification">Weer meldingen</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">℃</string>

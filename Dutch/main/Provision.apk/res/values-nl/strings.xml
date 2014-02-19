@@ -3,8 +3,6 @@
   <string name="continues">Doorgaan</string>
   <string name="data_usage_summary">Als u geen data-abonnement heeft, is het aangeraden mobiele data uit te schakelen. Anders kan uw provider extra kosten verrekenen.</string>
   <string name="default_gprs_sim_name">Voer uw \"%s\" data-abonnement limiet in</string>
-  <string name="input_method">Invoer Methode</string>
-  <string name="input_method_category">Selecteer Standaard Invoer Methode</string>
   <string name="next">Volgende</string>
   <string name="other_service_google_location">Google Locatie service</string>
   <string name="other_service_google_location_use">Locatie &amp; Google zoeken</string>

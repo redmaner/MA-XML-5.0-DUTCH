@@ -1183,8 +1183,8 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="link_speed_label">Link Speed:</string>
   <string name="list_sub_view_item_clean">Opschonen</string>
   <string name="list_sub_view_item_install">Installeren</string>
-  <string name="list_sub_view_item_lock">Vergrendeld</string>
-  <string name="list_sub_view_item_unlock">Ontgrendeld</string>
+  <string name="list_sub_view_item_lock">Altijd wissen</string>
+  <string name="list_sub_view_item_unlock">Altijd wissen</string>
   <string name="list_sub_view_item_view">Details</string>
   <string name="local_backup_password_summary_change">Raak dit aan om het wachtwoord voor volledige back-ups naar desktops te wijzigen of te verwijderen</string>
   <string name="local_backup_password_summary_none">Volledige back-ups naar desktops zijn momenteel niet beveiligd</string>

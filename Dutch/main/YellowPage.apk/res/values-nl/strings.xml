@@ -86,6 +86,7 @@
   <string name="nearby_yellow_page_title">Dichtbij</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_unavaliable">Netwerk is niet beschikbaar, controleer netwerk instellingen</string>
+  <string name="no_more_result">Geen resultaten</string>
   <string name="order_empty_hint">Geen bestellingen</string>
   <string name="order_id">Bestelling info: %s</string>
   <string name="order_merchant_title">Mijn bestellingen - %s</string>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item>Populair</item>
+        <item>Ranglijst</item>
+        <item>Nieuwste</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Gekozen</item>
+        <item>Ranglijst</item>
+        <item>Nieuwste</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Online</item>
+        <item>Lokaal</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Aflevering</item>
+        <item>Samenvatting</item>
+    </string-array>
+</resources>

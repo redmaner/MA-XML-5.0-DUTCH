@@ -76,7 +76,7 @@
   <string name="sound_recorder_settings">Opname Instellingen</string>
   <string name="start_recording">Opname starten</string>
   <string name="status_bar_anti_disturb">Telefoon staat op stil, pas volume aan om te hervatten.</string>
-  <string name="status_bar_back">Klik om terug te keren naar Recorder</string>
+  <string name="status_bar_back"/>
   <string name="status_bar_recording">Opnemen...</string>
   <string name="status_bar_recording_pause">"Opname is gepauzeerd. "</string>
   <string name="stop_recording">Opname stoppen</string>

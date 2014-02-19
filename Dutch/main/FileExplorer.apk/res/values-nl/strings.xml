@@ -69,7 +69,6 @@
   <string name="delete_failed">Verwijdering mislukt</string>
   <string name="delete_file">Verwijderen?</string>
   <string name="delete_files">Weet u zeker dat u de geselecteerde %1$d bestanden wil verwijderen?</string>
-  <string name="delete_files_and_folders">Weet u zeker dat u de geselecteerde %1$d bestanden en %2$d mappen wil verwijderen?</string>
   <string name="delete_folder">Weet u zeker dat u wilt verwijderen?</string>
   <string name="delete_folders">Weet u zeker dat u de geselecteerde %1$d mappen wil verwijderen?</string>
   <string name="des_running_trans">Er zijn %1$d bestanden die nog overgezet moeten worden</string>
@@ -189,7 +188,7 @@ Rommel"</string>
   <string name="operation_decompressing">Decomprimeren...</string>
   <string name="operation_delete">Verwijderen</string>
   <string name="operation_delete_confirm_message">Bevestig verwijderen?</string>
-  <string name="operation_delete_confirm_message_folder">"Het verwijderen van een map verwijdert ook alle bestanden in die map."</string>
+  <string name="operation_delete_confirm_message_folder">"Alle map inhoud wordt verwijderd."</string>
   <string name="operation_deleting">Verwijderen...</string>
   <string name="operation_deleting_detail">Bestanden verwijderen (%1$d/%2$d)</string>
   <string name="operation_download_link">Genereer download link</string>
@@ -268,8 +267,6 @@ Krijg gratis opslag %1$s"</string>
   <string name="trash_box_link">To clean up Recycle Bin, please visit &lt;b&gt;pan.xiaomi.com&lt;/b&gt;" "</string>
   <string name="trash_box_message1">U kunt onnodige bestanden verwijderen om ruimte vrij te maken</string>
   <string name="trash_box_message2">U kunt onnodige bestanden verwijderen of de Prullenbak leegmaken om ruimte vrij te maken</string>
-  <string name="ui_bar_txt_download_progress">Downloaden...</string>
-  <string name="ui_bar_txt_upload_progress">Uploaden...</string>
   <string name="ui_filechange_btn_download">Download bestanden</string>
   <string name="ui_filechange_btn_upload">Upload bestanden</string>
   <string name="ui_main_menu_option_sign_in">Inloggen</string>

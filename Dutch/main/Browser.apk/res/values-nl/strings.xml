@@ -458,7 +458,7 @@
   <string name="pref_security_save_form_data">Formuliergegevens onthouden</string>
   <string name="pref_security_save_form_data_summary">Gegevens die ik typ in formulieren, onthouden voor later gebruik</string>
   <string name="pref_security_show_security_warning">Beveiligingswaarschuwingen weergeven</string>
-  <string name="pref_security_show_security_warning_summary">Waarschuwen als er een beveiligingsprobleem is met een site</string>
+  <string name="pref_security_show_security_warning_summary">Waarschuwing weergeven als er een probleem is met de certificaat van een website</string>
   <string name="pref_set_homepage_to">Ingesteld op</string>
   <string name="pref_setting_title">Pagina instellingen</string>
   <string name="pref_text_zoom">Tekstschaal</string>
