@@ -134,7 +134,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="chat_qq">QQ</string>
   <string name="chat_skype">Skype</string>
   <string name="chat_yahoo">Yahoo</string>
-  <string name="check_unsynchronized_accounts">Controleer ongesynchorniseerde frequentie</string>
+  <string name="check_unsynchronized_accounts">Controleer ongesynchroniseerde frequentie</string>
   <string name="checkhint">controleer de andere telefoon</string>
   <string name="clearCallLogConfirmation">Al uw oproepgegevens worden verwijderd.</string>
   <string name="clearCallLogConfirmation_title">Alle gesprekslogs verwijderen?</string>
