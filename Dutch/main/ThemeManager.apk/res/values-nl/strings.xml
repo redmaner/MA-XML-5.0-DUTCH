@@ -57,8 +57,8 @@
   <string name="online_no_network">Niet in staat te verbinden met netwerk</string>
   <string name="online_search_hint">Zoek online naar bron</string>
   <string name="payment_info">MiCredits</string>
-  <string name="purchased_list">Betalings geschiedenis</string>
   <string name="processing">Verwerken ...</string>
+  <string name="purchased_list">Betalings geschiedenis</string>
   <string name="resource_account_abnormal_state">Account fout, probeer het later opnieuw.</string>
   <string name="resource_account_current">Account: %1$s</string>
   <string name="resource_account_fail_to_add">Failed to add account!</string>

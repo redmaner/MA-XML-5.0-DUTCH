@@ -179,6 +179,9 @@
   <string name="applications_settings">Apps</string>
   <string name="applications_settings_header">App-instellingen</string>
   <string name="applications_settings_summary">Apps beheren, sneltoetsen voor snelstarten instellen</string>
+  <string name="applications_sort_type_item_size">Grootte</string>
+  <string name="applications_sort_type_item_time">Vaak gebruikt</string>
+  <string name="applications_sort_type_title">Sorteren</string>
   <string name="ask_compatibility">Vragen bij starten</string>
   <string name="assisted_gps">Ondersteunde GPS gebruiken</string>
   <string name="assisted_gps_disabled">Server gebruiken ter ondersteuning van GPS (uitschakelen om GPS-prestaties te verbeteren)</string>
@@ -489,12 +492,16 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="button_start_optimize">Controleren</string>
   <string name="button_text_a_key_clean_up">Opschonen</string>
   <string name="button_text_a_key_optimize">Nu optimaliseren</string>
+  <string name="button_text_a_key_uninstall">Verwijderen</string>
+  <string name="button_text_backup_and_uninstall_apps">Back-up en verwijderen</string>
   <string name="button_text_cancel">Annuleren</string>
   <string name="button_text_delete">Verwijderen</string>
   <string name="button_text_done">Voltooid</string>
   <string name="button_text_fix">Repareren</string>
   <string name="button_text_quick_scan">Scan starten</string>
   <string name="button_text_security">Beveiliging</string>
+  <string name="button_text_uninstall">Verwijderen</string>
+  <string name="button_text_uninstall_apps">Verwijderen</string>
   <string name="button_text_view">Bekijken</string>
   <string name="button_text_view_power">Energie bekijken</string>
   <string name="cache_garbage">Cache</string>
@@ -726,21 +733,24 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="debug_layout_summary">Clipgrenzen, marges en meer weergeven.</string>
   <string name="debug_log">Foutopsporings log</string>
   <string name="debug_monitoring_category">Controle</string>
+  <string name="deep_clean_summary_install_apps_interval">%1$s|gebruikt %2$d dagen geleden</string>
+  <string name="deep_clean_summary_install_apps_new">%s|nooit gebruikt</string>
+  <string name="deep_clean_summary_install_apps_risk">%s|risico gevonden</string>
+  <string name="deep_clean_summary_install_apps_today">%1$s|vandaag gebruikt</string>
+  <string name="deep_clean_summary_install_apps_virus">%s|virus gevonden</string>
   <string name="deep_clean_tips_cache">"iconSommige apps gebruiken cache bestanden om extra bronnen te downloaden (bijv. songteksten, muziek, afbeeldingen etc.). Wees voorzichtig met het opschonen van deze bestanden."</string>
   <string name="deep_clean_tips_cache_content">"Sommige apps gebruiken cache bestanden om extra hulpbronnen te downloaden. Wees voorzichtig bij het verwijderen van deze bestanden."</string>
-
   <string name="deep_clean_tips_cache_title">Gecachte bestanden</string>
   <string name="deep_clean_tips_large_file">iconOpschonen vindt alleen grote bestaden (groter dan 10MB) die zijn opgeslagen op uw apparaat. U beslist of u ze nog nodig hebt.</string>
   <string name="deep_clean_tips_large_file_content">Grote bestanden (10MB+) die ruimte innemen op uw apparaat.</string>
-
   <string name="deep_clean_tips_large_file_title">Grote bestanden</string>
   <string name="deep_clean_tips_residual">"iconRest bestanden zijn bestanden (video's, achtergronden, muziek etc.) die zijn gedownload naar uw SD-kaart door apps die zijn geïnstalleerd. Wees voorzichtig met het opschonen van deze bestanden omdat ze nog nuttig kunnen zijn."</string>
   <string name="deep_clean_tips_residual_content">"Rest bestanden zijn gedownload door apps die niet meer geïnstalleerd zijn."</string>
-
   <string name="deep_clean_tips_residual_title">Residual files</string>
   <string name="deep_clean_title_cache">Cache</string>
   <string name="deep_clean_title_large_file">Grote bestanden</string>
   <string name="deep_clean_title_residual">Rest bestanden</string>
+  <string name="deep_clean_title_uninstall_apps">Apps</string>
   <string name="deep_cleaning">Geavanceerd</string>
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_input_method">Kies standaard invoer methode</string>
@@ -780,7 +790,11 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Telefoonnummer, signaal, enzovoort</string>
+  <string name="dialog_msg_backup_and_uninstall_apps">Apps back-uppen en verwijderen bevestigen</string>
+  <string name="dialog_msg_uninstall_apps">Deze apps verwijderen?</string>
+  <string name="dialog_title_backup_and_uninstall_apps">Back-up en verwijderen</string>
   <string name="dialog_title_font_size">Lettergrootte</string>
+  <string name="dialog_title_uninstall_apps">Verwijderen</string>
   <string name="dirac_control">Dirac Beheer</string>
   <string name="dirac_mode_earbuds">"Xiaomi's Earbud oortjes"</string>
   <string name="dirac_mode_general">Algemeen</string>
@@ -1136,8 +1150,18 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="invalid_size_value">Kan pakketgrootte niet berekenen.</string>
   <string name="ipaddr_label">IPaddr:</string>
   <string name="item_app_permission">App machtigingen</string>
+  <string name="item_garbage_size_1000m">1gb</string>
+  <string name="item_garbage_size_100m">100mb</string>
+  <string name="item_garbage_size_300m">300mb</string>
+  <string name="item_garbage_size_500m">500mb</string>
+  <string name="item_garbage_time_3d">Elke 3 dagen</string>
+  <string name="item_garbage_time_7d">Elke 7 dagen</string>
+  <string name="item_garbage_time_daily">Dagelijks</string>
+  <string name="item_garbage_time_never">Nooit</string>
   <string name="item_install_monitor">Installeer monitor</string>
   <string name="item_mms">Filter ongewenste berichten</string>
+  <string name="item_title_garbage_size">Alarm grootte</string>
+  <string name="item_title_garbage_time">Alarm tijd</string>
   <string name="item_usb_debug">USB-foutopsporing</string>
   <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Virus definities automatisch bijwerken</string>
@@ -1181,11 +1205,15 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="legal_information">Juridische informatie</string>
   <string name="license_title">Licentie</string>
   <string name="link_speed_label">Link Speed:</string>
+  <string name="list_sub_view_item_backup_uninstall">Back-up en verwijderen</string>
   <string name="list_sub_view_item_clean">Opschonen</string>
   <string name="list_sub_view_item_install">Installeren</string>
   <string name="list_sub_view_item_lock">Altijd wissen</string>
+  <string name="list_sub_view_item_uninstall">Verwijderen</string>
   <string name="list_sub_view_item_unlock">Altijd wissen</string>
   <string name="list_sub_view_item_view">Details</string>
+  <string name="list_sub_view_item_view_detail">Details</string>
+  <string name="list_sub_view_item_view_file">Bestand</string>
   <string name="local_backup_password_summary_change">Raak dit aan om het wachtwoord voor volledige back-ups naar desktops te wijzigen of te verwijderen</string>
   <string name="local_backup_password_summary_none">Volledige back-ups naar desktops zijn momenteel niet beveiligd</string>
   <string name="local_backup_password_title">Wachtwoord desktopback-up</string>
@@ -1455,7 +1483,9 @@ probeer het volgende:
   <string name="notification_pulse_title">Knipperen trackball</string>
   <string name="notification_sound_dialog_title">Beltoon voor meldingen kiezen</string>
   <string name="notification_sound_title">Standaardmelding</string>
+  <string name="notification_summary_of_garbage_cleanup">Waarschuwing! Uw rommel heeft %s bereikt.</string>
   <string name="notification_title_firewall_blocked">Geblokkeerd</string>
+  <string name="notification_title_of_garbage_cleanup">Rommel alarm</string>
   <string name="notification_vibrate_abbreviation">Notificatie</string>
   <string name="notification_volume_title">Melding</string>
   <string name="nsd_quick_toggle_summary">Apps op andere apparaten toestaan apps op dit apparaat te detecteren</string>
@@ -1504,6 +1534,8 @@ probeer het volgende:
   <string name="optimize_cache_header_left">Cache bestanden: %d</string>
   <string name="optimize_cache_list_empty_content">Geen cache bestanden gevonden.</string>
   <string name="optimize_done">Optimisatie voltooid!</string>
+  <string name="optimize_installed_apps_header_left">Download apps: %d</string>
+  <string name="optimize_installed_apps_list_empty_content">Geen apps gevonden</string>
   <string name="optimize_large_file_header_left">Grote bestanden: %d</string>
   <string name="optimize_large_file_list_empty_content">Geen grote bestanden gevonden.</string>
   <string name="optimize_now">Starten</string>
@@ -1511,19 +1543,15 @@ probeer het volgende:
   <string name="optimize_residual_list_empty_content">Geen overblijfselen gevonden.</string>
   <string name="optimize_tips_ad">iconReclame bestanden zijn afbeeldingen, tekst en andere reclame gerelateerde gegevens die apps van derden opslaan op uw telefoon.</string>
   <string name="optimize_tips_ad_content">Afbeeldingen, text en ander bestanden van derde partijen opgeslagen op uw telefoon.</string>
-
   <string name="optimize_tips_ad_title">Reclame bestanden</string>
   <string name="optimize_tips_apk">"iconInstallatie pakketen worden gebruikt bij de installatie van apps, na de installatie worden ze niet meer gebruikt."</string>
   <string name="optimize_tips_apk_content">Bestanden die worden gebruikt om apps te installeren, maar daarna niet meer worden gebruikt</string>
-
   <string name="optimize_tips_apk_title">Apps</string>
   <string name="optimize_tips_cache">iconCache bestanden zijn bestanden voor tijdelijke ondersteuning van bepaalde processen (zoals thumbnails).</string>
   <string name="optimize_tips_cache_content">Tijdelijke bestanden die zijn gemaakt door apps en processen (bijv. thumbnails).</string>
-
   <string name="optimize_tips_cache_title">Cache</string>
   <string name="optimize_tips_residual">"iconOverblijfselen zijn bestanden (zoals video's, achtergronden, muziek etc.) die zijn gedownload door apps die nu niet meer zijn geïnstalleerd. Omdat deze bestanden nog wel nuttig kunnen zijn is het aangeraden deze bestanden te verwijderen via de geavanceerde functie."</string>
   <string name="optimize_tips_residual_content">Rest bestanden die zijn gemaakt door apps die niet meer geïnstaleerd zijn. Sommige bestanden zijn echter nog steeds vereist, er wordt aanbevolen de geavanceerde functie te gebruiken om deze bestanden te verwijderen.</string>
-
   <string name="optimize_tips_residual_title">Rest bestanden</string>
   <string name="optimize_tips_title">Help</string>
   <string name="optimize_title_ad">Reclame bestanden</string>
@@ -1793,11 +1821,11 @@ probeer het volgende:
   <string name="power_dialog_cpu_state_save_desc">Maak energiebesparing belangrijker dan CPU prestaties</string>
   <string name="power_dialog_cpu_state_title">CPU gebruik</string>
   <string name="power_dialog_delete_dialog_cannot_delete_default">"Kan niet verwijderen: u gebruikt dit profiel momenteel."</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Kan niet verwijderen: Uw apparaat is ingesteld om te wisselen naar dit profiel als de batterij leeg is. 
+ U dient uw batterij instellingen te wijzigen alvorens u dit profiel kunt verwijderen"</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Kan niet verwijderen: Uw apparaat is ingesteld om te wisselen naar dit profiel als de batterij wordt opgeladen. 
  U dient uw batterij instellingen te wijzigen alvorens u dit profiel kunt verwijderen"</string>
   <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Kan niet verwijderen: Uw apparaat is ingesteld om te wissen naar dit profiel op een ingestelde periode. 
- U dient uw batterij instellingen te wijzigen alvorens u dit profiel kunt verwijderen"</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Kan niet verwijderen: Uw apparaat is ingesteld om te wisselen naar dit profiel als de batterij leeg is. 
  U dient uw batterij instellingen te wijzigen alvorens u dit profiel kunt verwijderen"</string>
   <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Kan niet verwijderen: Uw apparaat is ingesteld om op geplande tijden te wisselen naar dit profiel. 
  U dient uw batterij instellingen te wijzigen alvorens u dit profiel kunt verwijderen"</string>
@@ -1899,10 +1927,14 @@ probeer het volgende:
   <string name="pref_button_light">toets verlichting</string>
   <string name="pref_button_light_summary">Menu, Home terug toets indicator</string>
   <string name="pref_category_title_auto_update_cleanup_db">Update opschoon database instellingen</string>
-  <string name="pref_summary_auto_update_cleanup_db">Bijwerken op：%s</string>
-  <string name="pref_title_auto_update_cleanup_db">Automatisch bijwerken</string>
-  <string name="pref_title_manual_check_cleanup_db_update">Nu bijwerken</string>
+  <string name="pref_category_title_garbage_cleanup_check">Opschoon instellingen</string>
   <string name="pref_operational_key">Operationele toets</string>
+  <string name="pref_summary_auto_update_cleanup_db">Bijwerken op：%s</string>
+  <string name="pref_summary_garbage_cleanup_check_time">Waarschuw mij als rommel een bepaald niveau bereikt</string>
+  <string name="pref_title_auto_update_cleanup_db">Automatisch bijwerken</string>
+  <string name="pref_title_garbage_cleanup_check_size">Rommel alarm grootte</string>
+  <string name="pref_title_garbage_cleanup_check_time">Rommel alarm</string>
+  <string name="pref_title_manual_check_cleanup_db_update">Nu bijwerken</string>
   <string name="pref_volume_wake_summary">Druk op volume toetsen opent de telefoon. Voor telefoons waar de aan/uit toets moeilijk bereikbaar is</string>
   <string name="pref_volume_wake_title">Volume rocker open</string>
   <string name="preference_change_password_title">Wachtwoord wijzigen</string>
@@ -2442,6 +2474,10 @@ Pogingen Resterende :"</string>
   <string name="title_virus_update_no">Auto-update virus definities ingeschakeld</string>
   <string name="title_virus_update_yes">Auto-update virus definities uitgeschakeld</string>
   <string name="title_virus_yes">Geen virussen gevonden</string>
+  <string name="toast_application_no_residual_on_sdcard">Deze app heeft geen gegevens opgeslagen op de SD-kaart</string>
+  <string name="toast_backup_is_running">Backup draait al. Probeer het later opnieuw.</string>
+  <string name="toast_backup_uninstall_failed">%d apps back-uppen mislukt. Probeer het later opnieuw.</string>
+  <string name="toast_backup_uninstall_success">Back-up en verwijderen voltooid</string>
   <string name="toast_qucik_scan_list_empty">Alles ziet er goed uit, opschonen niet nodig!</string>
   <string name="toast_shortcut_install">Snelkoppeling gemaakt</string>
   <string name="toast_shortcut_uninstall">Snelkoppeling verwijderd</string>
@@ -2504,6 +2540,7 @@ Pogingen Resterende :"</string>
   <string name="turn_on_smart_antispam_summary_on">Alleen beschikbaar via Wi-Fi of 3G netwerk</string>
   <string name="turn_on_smart_antispam_title">Identificeer onbekende nummers</string>
   <string name="under_keyguard">Op vergrendelscherm</string>
+  <string name="uninstall_confirm_title">Deze apps verwijderen</string>
   <string name="uninstall_text">Verwijderen</string>
   <string name="unknown">Onbekend</string>
   <string name="unlock_backup_info_summary">Hoe wilt u ontgrendelen als Face Unlock niet mogelijk is?</string>

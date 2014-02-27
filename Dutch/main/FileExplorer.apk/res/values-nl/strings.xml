@@ -46,6 +46,7 @@
   <string name="cleanup_complete">Voltooien</string>
   <string name="cleanup_stopped">Opschonen geannuleerd</string>
   <string name="close">Sluiten</string>
+  <string name="colon">": "</string>
   <string name="compress_fail">Comprimeren mislukt, bestemming bestaat al</string>
   <string name="compress_message">Comprimeer naar:</string>
   <string name="compress_title">Comprimeer</string>

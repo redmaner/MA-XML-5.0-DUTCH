@@ -144,6 +144,11 @@ Totaal bedrag: RMB%3$s"</string>
   <string name="select_package_before_buy">Selecteer het pakket dat u wilt kopen</string>
   <string name="selected_category_format">%1$s(%2$d mensen zijn gemarkeerd, klik om te accepteren)</string>
   <string name="service_unavailiable">Uw huidige netwerk is niet goed, probeer het later opnieuw</string>
+  <string name="sina_share_fail">Verzenden mislukt</string>
+  <string name="sina_share_pendding">Verzenden...</string>
+  <string name="sina_share_success">Verzenden</string>
+  <string name="sina_token_expired_warning">Weibo account is verlopen</string>
+  <string name="sina_token_invalid_warning">Weibo account is ongeldig</string>
   <string name="smart_antispam">Identificeer onbekend nummer automatisch</string>
   <string name="sms_disabled_in_privacy_mode">Kan bericht niet verzenden in bewakings modus.</string>
   <string name="sms_send_failed">SMS verzenden mislukt!</string>

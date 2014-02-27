@@ -162,7 +162,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="confirm_delete_contact_all_call_logs">Gesprekslogs verwijdren?</string>
   <string name="confirm_delete_selected_all_call_logs">Gesprekslogs verwijdren?</string>
   <string name="confirm_delete_sim_entry_miui">%d contacten verwijderen van simkaart?</string>
-  <string name="confirm_export_message" >Uw lijst met contacten wordt geëxporteerd naar het bestand: %s.</string>
+  <string name="confirm_export_message">Uw lijst met contacten wordt geëxporteerd naar het bestand: %s.</string>
   <string name="confirm_export_title">Contacten exporteren?</string>
   <string name="connections">Verbindingen</string>
   <string name="contactDetailAbout">Over</string>
@@ -376,7 +376,7 @@ Reden: '%s'"</string>
   <string name="fail_reason_too_many_vcard">Er staan te veel vCard-bestanden in de opslag.</string>
   <string name="fail_reason_unknown">Onbekende fout.</string>
   <string name="fail_reason_vcard_parse_error">Kan vCard om onverwachte reden niet parseren.</string>
-  <string name="fail_to_add_account">Account toevoegen mislukt!</string> 
+  <string name="fail_to_add_account">Account toevoegen mislukt!</string>
   <string name="favoritesFrequentCalled">Vaak gebeld</string>
   <string name="favoritesFrequentContacted">Regelmatig contact</string>
   <string name="favorites_list_empty">Geen favorieten</string>
@@ -893,7 +893,7 @@ Om contacten samen te voegen dient u dit handmatig te doen"</string>
   <string name="resource_trial_end_restore">Finish trial</string>
   <string name="resource_trial_end_title">Trial expired</string>
   <string name="resource_trial_time">（trial for %1$d minutes）</string>
-   <string name="resource_unable_to_access">"Het spijt ons
+  <string name="resource_unable_to_access">"Het spijt ons
 de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="resource_unknow_error">Onbekende fout.</string>
   <string name="resource_update">Bijwerken</string>
@@ -961,7 +961,7 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="sim_error_email_full">Opslag voor E-mail is vol!</string>
   <string name="sim_error_email_too_long">E-mail adres is te lang.</string>
   <string name="sim_error_generic_failure">Generieke simkaart fout.</string>
-  <string name="sim_error_not_ready">Loading SIM contacts…</string> 
+  <string name="sim_error_not_ready">Loading SIM contacts…</string>
   <string name="sim_error_number_too_long">Simkaart nummer is te lang!</string>
   <string name="sim_error_password_error">Simkaart wachtwoord fout.</string>
   <string name="sim_error_storage_full">Simkaart opslag is vol!</string>

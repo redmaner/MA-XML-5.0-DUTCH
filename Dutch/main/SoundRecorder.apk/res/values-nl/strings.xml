@@ -23,8 +23,8 @@
   <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Interne toepassingsfout</string>
-  <string name="error_filename_illegal_char">Bestandsnaam bevat ongeldige karakters.</string>
   <string name="error_app_internal_title">Geluidsrecorder fout</string>
+  <string name="error_filename_illegal_char">Bestandsnaam bevat ongeldige karakters.</string>
   <string name="error_mediadb_new_record">Kan opgenomen audio niet opslaan</string>
   <string name="error_sdcard_access">Kan geen toegang krijgen tot de USB-opslag</string>
   <string name="fm_record">FM opname (%d)</string>

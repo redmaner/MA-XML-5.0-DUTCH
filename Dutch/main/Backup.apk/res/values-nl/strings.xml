@@ -79,7 +79,7 @@ Ok om de backup te annuleren"</string>
   <string name="cloud_app_load_data_timeout">Timeout berekenen gegevens van MiCloud</string>
   <string name="cloud_app_loading_with_mobile_network_prompt">"Mobiele data wordt gebruikt om door te gaan. Wilt u doorgaan?"</string>
   <string name="cloud_app_mine">Gedownloade apps</string>
-  <string name="cloud_app_name">Cloud Backup</string>
+  <string name="cloud_app_name">MiCloud Backup</string>
   <string name="cloud_app_no_data">Geen gegevens.</string>
   <string name="cloud_app_no_network">Netwerk niet beschikbaar</string>
   <string name="cloud_app_no_wifi">Wi-Fi niet beschikbaar</string>
@@ -134,7 +134,7 @@ om herstellen te annuleren"</string>
   <string name="data_no_enough_space_message">Herstellen kan mislukken,  maak wat ruimte vrij en probeer het opnieuw</string>
   <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
   <string name="delete">Verwijderen</string>
-  <string name="delete_backup_process">Backup(s) verwijderen...</string>
+  <string name="delete_backup_process">Verwijderen...</string>
   <string name="delete_failed_backup_confirm">De backup bevat een fout, kan niet herstellen vanaf deze backup</string>
   <string name="dir_date_format">yyyy-MM-dd_HH-mm-ss</string>
   <string name="disable_encrypt_title">Encryptie uitgeschakeld</string>

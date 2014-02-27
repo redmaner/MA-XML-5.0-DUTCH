@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">AntiSpam</string>
-  <string name="bl_block_info" formatted="false">Geblokkeerd: Nummer %d, details %d</string>
+  <string name="bl_block_info" formatted="false">Geblokkeerd: %d nummers | %d berichten</string>
   <string name="bl_no_blacklist">Geen geblokkeerde numers</string>
   <string name="bl_no_block_call">Geen geblokkeerde oproepen</string>
   <string name="bl_no_block_sms">Geen geblokeerde berichten</string>
@@ -30,10 +30,10 @@
   <string name="dlg_retore">Herstellen naar berichten app?</string>
   <string name="dlg_retore_ok">Herstellen</string>
   <string name="fw_blocked">Blokkerings statistieken</string>
-  <string name="fw_blocked_count" formatted="false">Onderschept: %d Oproepen en %d Berichten</string>
+  <string name="fw_blocked_count" formatted="false">Geblokkeerd: %d oproepen en %d berichten</string>
   <string name="log_count">(%d)</string>
-  <string name="marked_by_others">%d mensen hebben het gemarkeerd als</string>
-  <string name="marked_by_user">door mij gemarkeerd</string>
+  <string name="marked_by_others">"%d mensen hebben het gemarkeerd als "</string>
+  <string name="marked_by_user">"U heeft het gemarkeerd als "</string>
   <string name="menu_add">Toevoegen</string>
   <string name="menu_add_into_contact">Toevoegen aan bestaand contact</string>
   <string name="menu_add_new_contact">Nieuw contact</string>
@@ -66,7 +66,7 @@
   <string name="st_call_group">Bellen</string>
   <string name="st_common_setting_group">Filter instellingen</string>
   <string name="st_filter_keywords_setting_summary1">Berichten van onbekende contacten worden geblokkeerd.</string>
-  <string name="st_filter_keywords_setting_summary2">Voeg meerdere trefwoorden toe gescheiden met een komma.</string>
+  <string name="st_filter_keywords_setting_summary2">U kunt meerdere trefwoorden onderscheiden met een komma.</string>
   <string name="st_filter_keywords_setting_title">Filter trefwoorden instellen</string>
   <string name="st_filter_keywords_title">Filter trefwoorden</string>
   <string name="st_filter_sms_button">Filter spam berichten</string>
