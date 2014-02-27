@@ -134,7 +134,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="chat_qq">QQ</string>
   <string name="chat_skype">Skype</string>
   <string name="chat_yahoo">Yahoo</string>
-  <string name="check_unsynchronized_accounts">Controleer ongesynchorniseerde frequentie</string>
+  <string name="check_unsynchronized_accounts">Controleer ongesynchroniseerde frequentie</string>
   <string name="checkhint">controleer de andere telefoon</string>
   <string name="clearCallLogConfirmation">Al uw oproepgegevens worden verwijderd.</string>
   <string name="clearCallLogConfirmation_title">Alle gesprekslogs verwijderen?</string>
@@ -209,7 +209,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="date_year_toggle">Jaar toevoegen</string>
   <string name="default_ringtone">Standaard beltoon</string>
   <string name="deleteConfirmation">Dit contact wordt verwijderd.</string>
-  <string name="deleteConfirmationDetail">\"%s\" verwijderen?.</string>
+  <string name="deleteConfirmationDetail">\"%s\" verwijderen?</string>
   <string name="deleteConfirmation_title">Verwijderen</string>
   <string name="delete_call_log_selected_title">Geselecteerde gesprekslog verwijderen?</string>
   <string name="delete_call_log_title">Deze gesprekslog selecteren om te verwijderen</string>
@@ -219,10 +219,10 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="delete_duplicate_message">"Contacten samenvoegen ... "</string>
   <string name="delete_group_dialog_message">"De groep '%1$s' verwijderen? (De contacten zelf worden niet verwijderd.)"</string>
   <string name="delete_group_dialog_title">Groep verwijderen</string>
-  <string name="delete_selected_sim_entry_miui">Gselecteerde contacten verwijderen?</string>
-  <string name="delete_sim_entries_finish">Geselcteerde simkaart contacten verwijderd</string>
+  <string name="delete_selected_sim_entry_miui">Geselecteerde contacten verwijderen?</string>
+  <string name="delete_sim_entries_finish">Geselecteerde simkaart contacten verwijderd</string>
   <string name="delete_sim_entry_miui">Simkaart contacten verwijderen</string>
-  <string name="delete_unknown_contact_calllog_title">"Weet u zeker dat u de onbekende contacten gepsrekslogs wilt verwijderen?"</string>
+  <string name="delete_unknown_contact_calllog_title">"Weet u zeker dat u de onbekende contacten gesprekslogs wilt verwijderen?"</string>
   <string name="deleting">Verwijderen...</string>
   <string name="deleting_sim_entry_miui">Contacten van simkaart verwijderen</string>
   <string name="description_add_contact">Contact toevoegen</string>
