@@ -28,7 +28,7 @@
   <string name="bt_toast_1">Bestand wordt ontvangen. Controleer de voortgang in het notificatiescherm</string>
   <string name="bt_toast_2">Kan bestand niet ontvangen</string>
   <string name="bt_toast_3">Bestand ontvangen van \"%1$s\" geannuleerd</string>
-  <string name="bt_toast_4">Bestand verzenden naar \"%2$s\"</string>
+  <string name="bt_toast_4">Bestand verzenden naar \"%1$s\"</string>
   <string name="bt_toast_5">%1$s bestanden verzenden naar \"%2$s\"</string>
   <string name="bt_toast_6">Bestand verzenden naar \"%1$s\" geannuleerd</string>
   <string name="btopp_live_folder">Ontvangen via Bluetooth</string>
