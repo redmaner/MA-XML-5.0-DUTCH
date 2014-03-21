@@ -14,10 +14,10 @@
   <string name="arbor_day">Arbor Day</string>
   <string name="armed_forces_day"/>
   <string name="autumn_begins">Herfst Begint</string>
-  <string name="autumn_equinox">Herst Equinox</string>
+  <string name="autumn_equinox">Herfst Equinox</string>
   <string name="callNoAnswerTimeFormat">Ring %s keer</string>
   <string name="call_record_or">of</string>
-  <string name="call_record_sample_prefix_miui">Callrecording</string>
+  <string name="call_record_sample_prefix_miui">Gespreksopname</string>
   <string name="caller_info_name_delimiter">Of</string>
   <string name="check_phone_error_title">Synchronisatie mislukt</string>
   <string name="check_phone_io_error">Netwerk fout</string>
@@ -421,7 +421,7 @@ Probeer het opnieuw over %d seconden."</string>
   <string name="sd_not_available">SD-kaart niet gekoppeld of niet beschikbaar</string>
   <string name="sd_not_available_low_internal_storage">SD-kaart niet gekoppeld of niet beschikbaar, intern geheugen heeft weinig ruimte</string>
   <string name="sd_not_available_saved_to_internal_storage">Opgeslagen op intern geheugen</string>
-  <string name="sd_not_available_use_internal_storage">SD-kaar niet beschikbaar, opgeslagen op intern geheugen</string>
+  <string name="sd_not_available_use_internal_storage">SD-kaart niet beschikbaar, opgeslagen op intern geheugen</string>
   <string name="select">Selecteer</string>
   <string name="select_all">Selecteer alles</string>
   <string name="send">Verzend</string>
