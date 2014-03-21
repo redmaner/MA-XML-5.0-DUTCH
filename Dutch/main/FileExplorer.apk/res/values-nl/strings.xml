@@ -100,7 +100,7 @@
   <string name="file_info_canread">Leesbaar:</string>
   <string name="file_info_canwrite">Schrijfbaar:</string>
   <string name="file_info_ishidden">Verborgen:</string>
-  <string name="file_info_location">Locactie:</string>
+  <string name="file_info_location">Locatie:</string>
   <string name="file_info_modified">Gewijzigd:</string>
   <string name="file_info_size">Grootte:</string>
   <string name="file_loading">Laden...</string>
