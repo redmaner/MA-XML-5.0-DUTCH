@@ -5,14 +5,14 @@
         <item>E-mail</item>
     </string-array>
     <string-array name="act_weather_main_listview_json_key">
-        <item>wind1</item>
+        <item>Windsnelheid</item>
         <item>UV Index</item>
-        <item>穿衣指数</item>
-        <item>舒适度指数</item>
-        <item>洗车指数</item>
-        <item>晾晒指数</item>
-        <item>晨练指数</item>
-        <item>旅游指数</item>
+        <item>Kledij Index</item>
+        <item>Comfort Index</item>
+        <item>Was Index</item>
+        <item>Droog Index</item>
+        <item>Morgen Index</item>
+        <item>Toerisme Index</item>
     </string-array>
     <string-array name="act_weather_main_listview_key">
         <item>Windsnelheid:</item>
@@ -288,10 +288,10 @@
     </string-array>
     <string-array name="weather_info_fl">
         <item></item>
-        <item>Wear layers!</item>
-        <item>微风</item>
-        <item>Comfortable</item>
+        <item>Draag meerdere lagen kledij!</item>
+        <item>Bries</item>
+        <item>Comfortabel</item>
         <item>暂缺</item>
-        <item>Unavailable</item>
+        <item>Niet beschikbaar</item>
     </string-array>
 </resources>
