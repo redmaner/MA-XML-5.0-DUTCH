@@ -84,6 +84,6 @@
   <string name="tab_sms">Berichtenlog</string>
   <string name="tab_title">AntiSpam</string>
   <string name="toast_keyword_blank">Voer een trefwoord in</string>
-  <string name="toast_keyword_exist">Trefwood bestaat al</string>
+  <string name="toast_keyword_exist">Trefwoord bestaat al</string>
   <string name="toast_keyword_invalid">Ongeldig trefwoord ingevoerd</string>
 </resources>
