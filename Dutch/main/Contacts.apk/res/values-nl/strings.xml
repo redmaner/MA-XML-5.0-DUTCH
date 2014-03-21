@@ -947,7 +947,7 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="simContacts_empty">Geen contacten gevonden op de simkaart.</string>
   <string name="simContacts_emptyLoading">Laden vanaf simkaart...</string>
   <string name="simContacts_title">Contacten op simkaart</string>
-  <string name="sim_capacity">Toon SIM-kaart capaciteit</string>
+  <string name="sim_capacity">Toon simkaart capaciteit</string>
   <string name="sim_capacity_content" formatted="false">Totale capaciteit %d, gebruikt %d</string>
   <string name="sim_card_no_free_space_message">Uw simkaart is vol, niet mogelijk nieuwe contacten te importeren. Wis uw simkaart en probeer opnieuw</string>
   <string name="sim_card_no_free_space_title">simkaart vol</string>
