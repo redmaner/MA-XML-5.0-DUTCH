@@ -208,15 +208,15 @@
     </string-array>
     <string-array name="weather_info_msport">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Niet beschikbaar</item>
         <item>1</item>
-        <item>"It's a good day for morning exercises!"</item>
+        <item>"Het is een goede dag voor ochtendgymnastiek!"</item>
         <item>2</item>
-        <item>Bring additional layers!</item>
+        <item>Draag meerdere lagen kledij!</item>
         <item>3</item>
-        <item>Weather is not ideal; bring additional layers!</item>
+        <item>Het weer is niet ideaal; Draag meerdere lagen kledij!</item>
         <item>4</item>
-        <item>Exercise indoors!</item>
+        <item>Doe binnenshuis aan lichaamsbeweging!</item>
     </string-array>
     <string-array name="weather_info_comfort">
         <item>0</item>
