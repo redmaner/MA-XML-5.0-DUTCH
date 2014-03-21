@@ -220,35 +220,35 @@
     </string-array>
     <string-array name="weather_info_comfort">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Niet beschikbaar</item>
         <item>20</item>
-        <item>Temperature will be stable</item>
+        <item>De temperatuur blijft stabiel</item>
         <item>21</item>
-        <item>Cool and comfortable</item>
+        <item>Koel en comfortabel</item>
         <item>22</item>
-        <item>Temperature will be volatile</item>
+        <item>De temperatuur zal onregelmatig zijn</item>
         <item>23</item>
-        <item>Clear skies and uncomfortable temperatures</item>
+        <item>Heldere hemel en oncomfortabele temperaturen</item>
         <item>24</item>
-        <item>Hot and humid! :(</item>
+        <item>Warm en vochtig! :(</item>
     </string-array>
     <string-array name="weather_info_wcar">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Niet beschikbaar</item>
         <item>1</item>
-        <item>"It's a good day to wash your car!"</item>
+        <item>"Het is een goede dag om uw auto te wassen!"</item>
         <item>2</item>
-        <item>"It's a good day to wash your car!"</item>
+        <item>"Het is een goede dag om uw auto te wassen!"</item>
         <item>3</item>
-        <item>"It's going to rain, so hold off on washing your car."</item>
+        <item>"Het zal regenen dus wacht nog even om uw auto te wassen."</item>
         <item>25</item>
-        <item>"It's going to rain, so hold off on washing your car."</item>
+        <item>"Het zal regenen dus wacht nog even om uw auto te wassen."</item>
         <item>26</item>
-        <item>"There's a sand storm in the forecast, so hold off on washing your car."</item>
+        <item>"Er is een zandstorm voorspelt dus wacht nog even om uw auto te wassen."</item>
         <item>27</item>
-        <item>"It's going to snow, so hold off on washing your car."</item>
+        <item>"Het gaat sneeuwen dus wacht nog even om uw auto te wassen"</item>
         <item>4</item>
-        <item>Hold off on washing your car.</item>
+        <item>Wacht nog even om uw auto te wassen.</item>
     </string-array>
     <string-array name="weather_info_hung">
         <item>0</item>
