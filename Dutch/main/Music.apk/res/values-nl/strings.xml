@@ -307,6 +307,7 @@
   <string name="sort_by_album">Albums</string>
   <string name="sort_by_artist">Artiesten</string>
   <string name="sort_by_track">Tracks</string>
+  <string name="source_from">Bron van : %1$s</string>
   <string name="start_to_download_album">Album art aan het downloaden voor uw nummer(s) bibliotheek</string>
   <string name="start_to_download_avatar">Artiest avatar aan het downloaden voor uw muziek bibliotheek</string>
   <string name="streamloadingtext">Verbinden met %s</string>

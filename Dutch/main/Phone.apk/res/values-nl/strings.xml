@@ -143,13 +143,13 @@
   <string name="call_lost">De verbinding is verbroken.</string>
   <string name="call_number">Naar:</string>
   <string name="call_record_button_label">Opnemen %s</string>
+  <string name="call_record_error_access">"Kan niet opnemen in Gastmodus"</string>
   <string name="call_record_notification_message_low_space_miui">Opname is gestopt wegens ruimtegebrek, klik om %s te tonen</string>
   <string name="call_record_notification_message_miui">Klik om %s te tonen.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">Opname is gestopt omdat de SD-Kaart niet meer beschikbaar is.</string>
   <string name="call_record_notification_message_start_failed">Apparaat opname wordt gebruikt door een andere applicatie.</string>
   <string name="call_record_notification_title_error_miui">Gespreksopname mislukt</string>
   <string name="call_record_notification_title_miui">Gespreksopname gelukt</string>
-  <string name="call_record_path_name_of_sdcard_miui">SD-kaart</string>
   <string name="call_record_sd_error_miui">SD-kaart toegangsfout!</string>
   <string name="call_record_sd_space_low_miui">SD-Kaart heeft weinig ruimte, probeer opnieuw als u ruimte gemaakt heeft door overbodige bestanden te verwijderen</string>
   <string name="call_record_setting_miui">Oproep Opname Instellingen</string>

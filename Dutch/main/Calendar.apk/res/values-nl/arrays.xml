@@ -17,11 +17,11 @@
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Alleen deze afspraak</item>
-        <item>Deze en toekomstige afspraken</item>
+        <item>Deze &amp; toekomstige afspraken</item>
         <item>Alle afspraken</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Deze en toekomstige afspraken</item>
+        <item>Deze &amp; toekomstige afspraken</item>
         <item>Alle afspraken</item>
     </string-array>
     <string-array name="ordinal_labels">

@@ -4,6 +4,8 @@
   <string name="activity_not_found">Applicatie is niet geïnstalleerd op uw telefoon.</string>
   <string name="all_resources">Alle</string>
   <string name="application_name">MiuiHome</string>
+  <string name="apply_as_lock_wallpaper">Toepassen</string>
+  <string name="apply_as_lock_wallpaper_message">Deze achtergrond ook toepassen op uw vergrendelscherm?</string>
   <string name="aqi_quality_index_dangerous">Gevaarlijk</string>
   <string name="aqi_quality_index_good">Goed</string>
   <string name="aqi_quality_index_hazardous">Gevaarlijk</string>
@@ -18,7 +20,7 @@
   <string name="cant_remove_system_app">Systeem applicaties kunnen niet worden verwijderd</string>
   <string name="chooser_wallpaper">Achtergrond kiezen van</string>
   <string name="confirm_btn_label">OK</string>
-  <string name="custom_wallpaper_picker">Aangepast</string>
+  <string name="custom_wallpaper_picker">Bladeren</string>
   <string name="default_folder_title_game">Games</string>
   <string name="default_folder_title_recommend">Aanbevolen</string>
   <string name="default_folder_title_security">Security Centre</string>
@@ -39,7 +41,7 @@
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_folder_title">Map bewerken</string>
-  <string name="editing_add_widget_tips">Widgets toevoegen</string>
+  <string name="editing_add_widget_tips">Widgets bewerken</string>
   <string name="editing_set_transition_effect_tips">Scherm overgang effect wijzigen</string>
   <string name="editing_set_wallpaper_tips">Achtergrond wijzigen</string>
   <string name="editing_tips">Bewerken of widget toevoegen</string>
@@ -103,6 +105,8 @@
   <string name="invalid_contact_shortcut">Ongeldig contact</string>
   <string name="loading">Laden...</string>
   <string name="loading_desktop">Launcher laden...</string>
+  <string name="lock_screen_failed_message">Toepassen mislukt</string>
+  <string name="lock_screen_success_message">Toegepast</string>
   <string name="loading_resource_detail_fail">Bron laden mislukt!</string>
   <string name="loading_resource_detail_info">Laden ...</string>
   <string name="maml_component_customization_title">Onderdeel Instellingen</string>
@@ -120,10 +124,8 @@
   <string name="menu_sort">Menu sorteren</string>
   <string name="menu_wallpaper">Achtergrond</string>
   <string name="menu_workspace_preview">Voorbeeld</string>
-  <string name="multi_selecting_tips">Klik Iconen om te starten</string>
-  <string name="online_no_network">Verbinden met netwerk mislukt</string>
-  <string name="online_search_hint">Zoeken naar online bron</string>
-  <string name="online_wallpaper">Online Achtergrond</string>
+  <string name="multi_selecting_tips">Klik op een icoon om de app te starten</string>
+  <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Geen ruimte meer op dit startscherm.</string>
   <string name="permdesc_install_shortcut">Een app toestaan snelkoppelingen toe te voegen zonder tussenkomst van de gebruiker.</string>
   <string name="permdesc_install_widget">Staat een applicatie toe widgets toe te voegen zonder de gebruiker.</string>
@@ -145,7 +147,7 @@
   <string name="pref_icon_shadow_title">Icoon schaduw</string>
   <string name="pref_keep_in_memory_summary">Applicatie zal niet afsluiten bij laag geheugen</string>
   <string name="pref_keep_in_memory_title">In geheugen houden</string>
-  <string name="pref_keep_layout_summary">Wisselen naar icoon layout kan de desktop layout verstoren.</string>
+  <string name="pref_keep_layout_summary">Wisselen van icoon layout heeft geeen invloed op de postitie van apps ten opzichte van elkaar.</string>
   <string name="pref_keep_layout_title">Behoud huidige layout</string>
   <string name="pref_render_in_truecolor_summary">Schakel uit om weergavesnelheid te verbeteren</string>
   <string name="pref_render_in_truecolor_title">Ware kleurweergave</string>
@@ -207,12 +209,12 @@ Herstart de app om bronnen te vernieuwen."</string>
   <string name="sdcard_status_changed_dialog_title">SD-kaart status is veranderd</string>
   <string name="select_frame">Frame</string>
   <string name="select_photo">Foto</string>
-  <string name="settings_shortcut">Instellingen snelkoppeling</string>
+  <string name="settings_shortcut">Instellingen</string>
   <string name="sharedUserId"/>
   <string name="sort_by_abc">Sorteer op naam</string>
   <string name="sort_by_frequency">Sorteer op gebruik</string>
   <string name="sort_by_not_defined">Sorteer standaard</string>
-  <string name="start_activity_failed">Mislukt bij het starten</string>
+  <string name="start_activity_failed">Kan laucher niet starten</string>
   <string name="starting_preset_app">Starten</string>
   <string name="status_bar_toggle_ac">Toegangscontrole</string>
   <string name="status_bar_toggle_auto_brightness">Auto-Helderheid</string>
@@ -250,7 +252,7 @@ Herstart de app om bronnen te vernieuwen."</string>
   <string name="title_select_live_folder">Map selecteren</string>
   <string name="title_select_shortcut">Snelkoppeling selecteren</string>
   <string name="toggle_select_title">Schakelaar selecteren</string>
-  <string name="toggle_title">Schakelaar</string>
+  <string name="toggle_title">Schakelaars</string>
   <string name="transformation_type_classic">Klassiek</string>
   <string name="transformation_type_classic_no_overshoot">Klassiek (geen overshot)</string>
   <string name="transformation_type_crossfade">Vervagen</string>
@@ -261,7 +263,7 @@ Herstart de app om bronnen te vernieuwen."</string>
   <string name="transformation_type_stack">Stapelen</string>
   <string name="uninstall">Verwijderen</string>
   <string name="uninstall_dialog_message">Dit zal alle gegevens verwijderen</string>
-  <string name="uninstall_dialog_title_format">\"%s\" verwijderen</string>
+  <string name="uninstall_dialog_title_format">%s verwijderen</string>
   <string name="unknown_artist_name">Artiest onbekend</string>
   <string name="unnamed_folder_name">Map zonder naam</string>
   <string name="wallpaper_scrolling">alle</string>

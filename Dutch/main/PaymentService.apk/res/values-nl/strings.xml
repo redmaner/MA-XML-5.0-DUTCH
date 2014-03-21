@@ -32,6 +32,7 @@
   <string name="bankcall_province">Provincie</string>
   <string name="bankcall_saved_card_info">%1$s - Kaart nr. %2$s</string>
   <string name="bankcall_xiaomi_company">Xiaomi Corporation (Beijing)</string>
+  <string name="btn_agree">Accepteren</string>
   <string name="btn_back">Terug</string>
   <string name="btn_call">Bellen</string>
   <string name="btn_count_down_auto">Informeren na %1$s seconden</string>
@@ -124,6 +125,8 @@ Probeer het opnieuw over vijf minuten."</string>
   <string name="giftcard_denom_frozen">MiCredit bevroren</string>
   <string name="giftcard_empty">Geen cadeaukaarten.</string>
   <string name="giftcard_expire">%1$s-%2$s-%3$s verlopen</string>
+  <string name="giftcard_expire_notification_prime_title">Uw promotie code is bijna verlopen</string>
+  <string name="giftcard_expire_notification_sub_title">Uw MiCredit cadeaukaart verloopt op %1$s</string>
   <string name="giftcard_hint">MiCredits die zijn toegevoegd via cadeaukaart worden als eerst gebruikt.</string>
   <string name="giftcard_push_notification_prime_title">U heeft een cadeaukaart ontvangen</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit weggegeven.</string>
@@ -177,9 +180,9 @@ SMS bevestiging en klik 'Betaling voltooien'"</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Patroon vergeten&lt;/u&gt;</string>
   <string name="login">Inloggen</string>
   <string name="memu_refresh">Vernieuwen</string>
-  <string name="mibi_license_message">Tik Ok als u akkoord gaat met de gebruikers voorwaarden zoals omschreven in de %1$s.</string>
+  <string name="mibi_license_message">U gaat zo MiCredit gebruiken, een service van Xiaomi Inc. Alvorens u deze service kunt gebruiken moet u de gebruikersvoorwaarden accepteren zoals omschreven in %1$s. Tik OK als u akkoord gaat met de gebruikersvoorwaarden zoals omschreven in %1$s.</string>
   <string name="mibi_license_message_span">MiCredit Gebruikersovereenkomst </string>
-  <string name="mibi_license_title">Gebruikersovereenkomst</string>
+  <string name="mibi_license_title">Gebruikersvoorwaarden</string>
   <string name="mili_center">MiCredit</string>
   <string name="msg_denomination_type">MiCredit</string>
   <string name="msg_error">Opwaarderen mislukt</string>
@@ -189,8 +192,6 @@ SMS bevestiging en klik 'Betaling voltooien'"</string>
   <string name="msg_picker_hint_1_2">Opwaarderen via tekstbericht is waarschijnlijk duurder: &lt;font color=red&gt;￥2 = 1 MiCredit&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">Providers berekenen ￥0.1 servicekosten per opwaardering</string>
-  <string name="msg_picker_hint_3_1">3.</string>
-  <string name="msg_picker_hint_3_2">Maximale maandelijkse opwaardering: ￥%1$s</string>
   <string name="msg_progress_hint_2_1">UW netwerk provider is benaderd!</string>
   <string name="msg_progress_hint_2_2">U ontvangt spoedig een bevestiging via SMS.</string>
   <string name="msg_send_no_net_error">Bericht verzenden mislukt: kon geen verbinding maken met netwerk provider.</string>
@@ -222,6 +223,8 @@ SMS bevestiging en klik 'Betaling voltooien'"</string>
   <string name="prepaid_error_carrier">Selecteer provider</string>
   <string name="prepaid_error_denomination">Selecteer bedrag</string>
   <string name="prepaid_error_password">Kaart wachtwoord ongeldig.</string>
+  <string name="prepaid_grid_carrier_hint">Provider selecteren</string>
+  <string name="prepaid_grid_denomination_hint">Hoeveelheid selecteren</string>
   <string name="prepaid_number_edit_hint">Nummer</string>
   <string name="prepaid_password_edit_hint">Wachtwoord</string>
   <string name="prepaid_picker_hint_1_1">1.</string>
@@ -229,8 +232,6 @@ SMS bevestiging en klik 'Betaling voltooien'"</string>
   <string name="prepaid_picker_hint_2_1">2.</string>
   <string name="prepaid_picker_hint_2_2_a">"Gekozen nominale waarde moet in overeenstemming zijn met die van de prepaid-kaart. De kaart wordt ongeldig bij het kiezen van een andere waarde. Deze actie kan niet ongedaan worden gemaakt."</string>
   <string name="prepaid_picker_hint_2_2_b">Als de nominale waarde niet gelijk is aan de prepaird-kaart van &lt;font color=red&gt;￥%1$s&lt;/font&gt;, dan wordt de kaart ongeldig. Xiaomi is niet verandwoordelijk voor waardeverlies, veroorzaakt door een gebruikersfout.</string>
-  <string name="prepaid_picker_title_default">Selecteer bedrag</string>
-  <string name="prepaid_picker_title_selected">bedrag</string>
   <string name="progress_bankcall_card_creating">Bestelling genereren...</string>
   <string name="progress_bankcall_card_querying">Account type controleren...</string>
   <string name="progress_creating">Bestellings info ophalen...</string>

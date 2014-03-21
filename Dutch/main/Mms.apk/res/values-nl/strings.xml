@@ -5,7 +5,7 @@
   <string name="addBlackList">Toevoegen aan Blacklist</string>
   <string name="add_bookmark">Favorieten</string>
   <string name="add_contact">Contact</string>
-  <string name="add_festival">Aanbevolen SMS</string>
+  <string name="add_festival">Snelle reacties</string>
   <string name="add_music">Muziek toevoegen</string>
   <string name="add_nickname">Roepnaam</string>
   <string name="add_nickname_title">Roepnaam titel toevoegen</string>
@@ -32,9 +32,9 @@
   <string name="attach_video">"Video's"</string>
   <string name="back_to_message_list">terug naar berichtenlijst</string>
   <string name="batch_adding_progress_message">Toevoegen...</string>
-  <string name="batch_delete_confirm_dialog_message">Wis geselecteerde %1$s berichten</string>
-  <string name="batch_deleting_message_progress_message">Wis geselecteerde berichten</string>
-  <string name="batch_deleting_progress_message">Wissen van geselecteerde conversaties</string>
+  <string name="batch_delete_confirm_dialog_message">%1$s berichten verwijderen</string>
+  <string name="batch_deleting_message_progress_message">Berichten verwijderen...</string>
+  <string name="batch_deleting_progress_message">Berichten verwijderen...</string>
   <string name="bcc_label">"Bcc: "</string>
   <string name="bookmark">Favorieten</string>
   <string name="bookmark_confirm_delete_message">Bericht wordt gewist uit favorieten</string>
@@ -48,7 +48,7 @@
   <string name="cannot_send_message_reason">Uw bericht heeft geen geldige ontvangers.</string>
   <string name="change_duration_activity">Duur wijzigen</string>
   <string name="check_all">Selecteer alles</string>
-  <string name="chenghu_disable_mms">Helaas, u kunt geen roepnamen gebruiken in MMS</string>
+  <string name="chenghu_disable_mms">U kunt geen roepnamen gebruiken in MMS</string>
   <string name="class_0_message_activity">Berichtklasse 0</string>
   <string name="close">Sluit</string>
   <string name="compressing">Afbeelding is te groot. Comprimeren...</string>

@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="continues">Doorgaan</string>
-  <string name="data_usage_summary">Als u geen data-abonnement heeft, is het aangeraden mobiele data uit te schakelen. Anders kan uw provider extra kosten verrekenen.</string>
-  <string name="default_gprs_sim_name">Voer uw \"%s\" data-abonnement limiet in</string>
   <string name="next">Volgende</string>
   <string name="other_service_google_location">Google Locatie service</string>
   <string name="other_service_google_location_use">Locatie &amp; Google zoeken</string>
@@ -25,9 +23,4 @@
   <string name="sim_card_detection_info"/>
   <string name="sim_card_detection_label">Detecteer simkaart</string>
   <string name="sim_card_detection_status_absent">Simkaart niet gedetecteerd!</string>
-  <string name="traffic_protection_label">Data verkeer bewaking</string>
-  <string name="traffic_protection_summary">Data verkeer bewaking zal uw waarschuwen wanneer het limiet van uw data-abonnement is bereikt.</string>
-  <string name="traffic_protection_text_hint">Voer uw data-abonnement limiet in.</string>
-  <string name="traffic_protection_unknown">"&lt;u&gt;"Weet ik niet. Later invullen."&lt;/u&gt;"</string>
-  <string name="use_data">Data inschakelen</string>
 </resources>

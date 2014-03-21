@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="uninstall_dialog_title_format">
-        <item quantity="other">%1$s" en %2$d anderen apps verwijderen?</item>
-        <item quantity="one">\"%s\" verwijderen?</item>
-        <item quantity="two">\"%s\" en 1 andere app verwijderen?</item>
+        <item quantity="other">%1$s en %2$d anderen apps verwijderen?</item>
+        <item quantity="one">%s verwijderen?</item>
+        <item quantity="two">%s en 1 andere app verwijderen?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
         <item quantity="other">%1$ apps verwijderd</item>
         <item quantity="one">App verwijderd</item>
     </plurals>
     <plurals name="uninstall_result_failed">
-        <item quantity="other">Kon "%1$s" en %2$d andere apps niet verwijderen</item>
-        <item quantity="one">"Kon \"%s\" niet verwijderen"</item>
-        <item quantity="two">"Kon \"%s\" en 1 andere app niet verwijderen"</item>
+        <item quantity="other">Kon %1$s en %2$d andere apps niet verwijderen</item>
+        <item quantity="one">"Kon %s niet verwijderen"</item>
+        <item quantity="two">"Kon %s en 1 andere app niet verwijderen"</item>
     </plurals>
 </resources>

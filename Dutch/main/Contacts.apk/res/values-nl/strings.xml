@@ -44,7 +44,7 @@
 Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth verbinding verbroken</string>
   <string name="blurbJoinContactDataWith">Selecteer het contact dat u wilt samenvoegen met $s:</string>
-  <string name="btn_delete_multi_contacts">%d verwijderen</string>
+  <string name="btn_delete_multi_contacts">%d contacten verwijderen</string>
   <string name="btn_delete_one_contact">Contact verwijderen</string>
   <string name="btn_rotation">Rotatie</string>
   <string name="btn_split_contact">Splits contact</string>
@@ -103,7 +103,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="callrecordview_menu_delete_accepted">Inkomende oproepen verwijderen</string>
   <string name="callrecordview_menu_delete_all">Gesprekslog verwijderen</string>
   <string name="callrecordview_menu_delete_called">Uitgaande oproepen verwijderen</string>
-  <string name="callrecordview_menu_delete_confirm">Alle gespreklogs verwijderen?</string>
+  <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Gemiste oproepen verwijderen</string>
   <string name="callrecordview_menu_delete_new">Gesprekslog van nieuwe contacten verwijderen</string>
   <string name="callrecordview_menu_delete_one">Verwijderen uit gesprekslog</string>
@@ -177,7 +177,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="contact_detail_calllog_call_record_tips">Oproep opname</string>
   <string name="contact_directory_description">Directory %1$s</string>
   <string name="contact_edit_title_edit">Contact bewerken</string>
-  <string name="contact_edit_title_insert">Maak %s contact</string>
+  <string name="contact_edit_title_insert">%s toevoegen aan contacten</string>
   <string name="contact_edit_title_readonly">Alleen-lezen contact</string>
   <string name="contact_editor_prompt_multiple_accounts">Selecteer een contact account om naar op te slaan</string>
   <string name="contact_editor_prompt_one_account">Uw nieuwe contact wordt gesynchroniseerd met %1$s.</string>
@@ -311,7 +311,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="dialog_voicemail_not_ready_message">"Voor het instellen van voicemail, gaat u naar 'Menu' &gt; 'Instellingen'."</string>
   <string name="directory_search_label">Directory</string>
   <string name="dirty_contacts_notification_description">%d veranderingen zijn niet gesynchroniseerd met uw Xiaomi account</string>
-  <string name="dirty_contacts_notification_message">(Uw kunt deze herinnering uitschakelen in Contacten &gt; instellingen)</string>
+  <string name="dirty_contacts_notification_message">(Uw kunt deze herinnering uitschakelen via Instellingen)</string>
   <string name="dirty_contacts_notification_title">Contacten synchroniseren?</string>
   <string name="display_all_contacts">Alle contacten</string>
   <string name="display_more_groups">Meer groepen...¦</string>
@@ -348,7 +348,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Exporteren voltooid</string>
   <string name="export_sim_contact_finish_failure">Overgedragen: %1$d Resterend: %2$d</string>
-  <string name="export_sim_contact_finish_success">%d contact(s) gekopiëerd.</string>
+  <string name="export_sim_contact_finish_success">%d contacten gekopiëerd.</string>
   <string name="export_sim_contacts_dialog_message">Uw simkaart kan %d contacten bevatten, weet u zeker dat u wilt doorgaan?</string>
   <string name="export_to_sdcard">Exporteren naar opslag</string>
   <string name="export_to_sim">Exporteren naar simkaart</string>
@@ -672,7 +672,7 @@ Om een contact toe te voegen aan de lijst met favorieten:
   <string name="pref_key_rebuild_t9_index_message">Index herbouwen om zoekproblemen te repareren</string>
   <string name="pref_key_rebuild_t9_index_title">Index gegevens herbouwen</string>
   <string name="pref_key_sim_manage">Simkaart beheer</string>
-  <string name="pref_summary_import_from_account">Importeer contacten uit Google en Exchange accounts naar mijn Xiaomi Account</string>
+  <string name="pref_summary_import_from_account">Contacten importeren uit Google en Exchange accounts naar Xiaomi Account</string>
   <string name="pref_title_account_import">Importeer uit account</string>
   <string name="pref_title_import_from_account">Importeer naar Xiaomi account</string>
   <string name="preference_auto_ip_summary_disable">Niet ingeschakeld</string>
@@ -698,7 +698,7 @@ Om een contact toe te voegen aan de lijst met favorieten:
   <string name="preference_phone_more_title">Meer telefoon instellingen</string>
   <string name="preference_remove_duplicate">Dubbele contacten samenvoegen</string>
   <string name="preference_simple_mode_description">Lijst item toont geen avatar, attribuut en bedrijf</string>
-  <string name="preference_simple_mode_title">"Verberg foto's en contactgegevens"</string>
+  <string name="preference_simple_mode_title">"Foto's en informatie verbergen"</string>
   <string name="preference_smart_group_company_summary">Groepeer contacten op bedrijfsinfo</string>
   <string name="preference_smart_group_company_title">Op bedrijf</string>
   <string name="preference_smart_group_frequency_summary">Groepeer op laatste gesprek of SMS</string>
@@ -721,7 +721,7 @@ Om een contact toe te voegen aan de lijst met favorieten:
   <string name="profile_name_photo">I</string>
   <string name="progress_notifier_message" formatted="false">Importeren %s/%s: %s</string>
   <string name="quickcontact_missing_app">Er is geen app gevonden om deze actie uit te voeren.</string>
-  <string name="quit_dialog_confirm_title">Contact samenvoegen afsluiten?</string>
+  <string name="quit_dialog_confirm_title">U heeft geen contacten samengevoegd</string>
   <string name="readOnlyContactDeleteConfirmation">Dit contact bevat gegevens uit meerdere accounts. Gegevens uit alleen-lezen accounts worden verborgen in uw contactenlijst, maar niet verwijderd.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" bevat informatie uit meerdere accounts. Informatie uit alleen-lezen accounts zal worden verborgen in uw contactlijst maar niet worden verwijdert.</string>
   <string name="readOnlyContactWarning">U kunt contacten niet verwijderen uit alleen-lezen-accounts, maar u kunt ze verbergen in uw contactenlijst.</string>
@@ -754,7 +754,6 @@ Om een contact toe te voegen aan de lijst met favorieten:
 
 Om contacten samen te voegen dient u dit handmatig te doen"</string>
   <string name="resource_account_abnormal_state">Account fout, probeer het later opnieuw.</string>
-  <string name="resource_account_current">Account: %1$s</string>
   <string name="resource_account_fail_to_add">Failed to add account!</string>
   <string name="resource_account_login">Log in</string>
   <string name="resource_account_login_before_action">Please login to your Xiaomi account.</string>
@@ -1032,7 +1031,7 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="toast_copying">Kopiëren, een moment geduld...</string>
   <string name="toast_displaying_all_contacts">Alle contacten worden weergegeven</string>
   <string name="toast_finish_delete_call_log">Gesprekslog verwijderd</string>
-  <string name="toast_finish_delete_selected_call_log">Geselecteerde gesprekslog verwijderd</string>
+  <string name="toast_finish_delete_selected_call_log">Gesprekslog verwijderd</string>
   <string name="toast_for_failed_saving_nickname">Opslaan van wijzigingen mislukt</string>
   <string name="toast_for_saving_nickname">Wijzigingen opslaan</string>
   <string name="toast_join_with_empty_contact">Geef een contactnaam op voordat u dit contact samenvoegt met een ander contact.</string>
@@ -1089,14 +1088,13 @@ Kies een van de volgende opties:"</string>
   <string name="wipe_data">Verwijderen</string>
   <string name="yellowPageNavigationIconLabel">Map</string>
   <string name="yellowPageNavigationLabel">Map</string>
-  <string name="yellowpage_navigation_menu_order">Mijn bestelling</string>
+  <string name="yellowpage_navigation_menu_order">Mijn bestellingen</string>
   <string name="yellowpage_navigation_network_location_enable">Nu inschakelen</string>
   <string name="yellowpage_navigation_network_location_enable_later">Later inschakelen</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Leidraad biedt services specifiek voor uw stad en Wi-Fi &amp; mobiele netwerk locatie service kan de kwaliteit van services verbeteren.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Netwerk locatie service inschakelen</string>
   <string name="yellowpage_navigation_no_content">Geen zoekresultaten</string>
   <string name="yellowpage_navigation_search_city_name_hint">Zoek via stad</string>
-  <string name="yellowpage_navigation_search_hint">Zoeken</string>
   <string name="yellowpage_navigation_search_offline_hint">Netwerk niet beschikbaar</string>
   <string name="yellowpage_navigation_search_result_network_error">Kon niet verbinden met netwerk</string>
   <string name="yellowpage_navigation_search_result_no_more">Geen resultaten meer</string>

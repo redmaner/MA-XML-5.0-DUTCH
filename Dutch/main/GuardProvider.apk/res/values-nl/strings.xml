@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Jinshan Veiligheids Bewaking</string>
+  <string name="default_sdcard_volume_path"/>
   <string name="hello_world">Hallo Wereld!</string>
   <string name="menu_settings">Instellingen</string>
   <string name="title_activity_main">MainActivity</string>
