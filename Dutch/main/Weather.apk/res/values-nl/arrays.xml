@@ -252,19 +252,19 @@
     </string-array>
     <string-array name="weather_info_hung">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Niet beschikbaar</item>
         <item>28</item>
-        <item>Hang your clothes to dry in the afternoon.</item>
+        <item>Hang uw kleren te drogen in de namiddag.</item>
         <item>29</item>
-        <item>Hang your clothes to dry any time.</item>
+        <item>Hang uw kleren te drogen op gelijk welk moment van de dag.</item>
         <item>30</item>
-        <item>Cloudy but with the hot temperatures, your clothes will still dry.</item>
+        <item>Bewolkt, maar met hoge temperaturen, uw kleren zullen nog steeds drogen.</item>
         <item>1</item>
-        <item>The weather is suitable for drying clothes.</item>
+        <item>Het weer is geschikt om kleren te drogen.</item>
         <item>3</item>
-        <item>It will rain intermittently throughout the day.</item>
+        <item>Het zal afwisselend regenen doorheen de dag.</item>
         <item>5</item>
-        <item>Good drying conditions.</item>
+        <item>Goede condities om kleren te drogen.</item>
         <item>4</item>
         <item>Droog uw kleren binnen.</item>
         <item>31</item>
