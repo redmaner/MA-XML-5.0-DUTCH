@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="act_weather_main_listview_json_key">
         <item>wind1</item>
-        <item>紫外线指数</item>
+        <item>UV Index</item>
         <item>穿衣指数</item>
         <item>舒适度指数</item>
         <item>洗车指数</item>
@@ -186,25 +186,25 @@
     </string-array>
     <string-array name="weather_info_dress">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Niet beschikbaar</item>
         <item>11</item>
-        <item>Light jacket</item>
+        <item>Lichte jas</item>
         <item>12</item>
-        <item>Light jacket</item>
+        <item>Lichte jas</item>
         <item>13</item>
-        <item>Summer clothing</item>
+        <item>Zomerkledij</item>
         <item>14</item>
-        <item>Summer clothing</item>
+        <item>Zomerkledij</item>
         <item>15</item>
-        <item>Light jacket</item>
+        <item>Lichte jas</item>
         <item>16</item>
-        <item>Remember to bring additional layers!</item>
+        <item>Draag meerdere lagen kledij!</item>
         <item>17</item>
-        <item>Bring a jacket!</item>
+        <item>Neem een jas mee!</item>
         <item>18</item>
-        <item>Bundle up!</item>
+        <item>Kleed je warm!</item>
         <item>19</item>
-        <item>Bundle up!</item>
+        <item>Kleed je warm!</item>
     </string-array>
     <string-array name="weather_info_msport">
         <item>0</item>
