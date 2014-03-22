@@ -35,11 +35,11 @@
   <string name="edit_station">Wijzig station</string>
   <string name="enter_rssi">RMSSI Delta invoeren</string>
   <string name="enter_sigth">Signal Th invoeren</string>
-  <string name="exit_fm">Beïndigen</string>
+  <string name="exit_fm">Beëindigen</string>
   <string name="factory_reset_dialog_message">Dit zal alle instellingen en voorinstellingen wissen</string>
   <string name="factory_reset_dialog_title">Reset bevestigen</string>
   <string name="find_af_station">Zoeken</string>
-  <string name="fm_cmd_failed_call_on">FM operatiie mislukt. FM audio is niet toegestaan tijdens een oproep.</string>
+  <string name="fm_cmd_failed_call_on">FM operatie mislukt. FM audio is niet toegestaan tijdens een oproep.</string>
   <string name="fm_cmd_failed_msg">FM operatie mislukt. Indien het probleem aanhoud, schakel FM uit en opnieuw aan.</string>
   <string name="fm_cmd_failed_msg_hdmi">FM operatie mislukt. FM en HDMI kunnen niet tegelijkertijd gebruikt worden.</string>
   <string name="fm_command_failed_title">FM Operatie mislukt</string>
