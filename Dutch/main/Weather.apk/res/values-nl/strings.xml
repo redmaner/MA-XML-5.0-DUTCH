@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="act_aqi_no2_title">NO2</string>
   <string name="act_aqi_pm10_title">PM10</string>
@@ -13,7 +13,7 @@
   <string name="act_set_city_find_side">Locatie bepalen…</string>
   <string name="act_set_city_find_side_error">Locatie bepalen mislukt</string>
   <string name="act_set_city_find_side_on">Locatie openen</string>
-  <string name="act_set_city_re_find_side">Lokatie bepalen…</string>
+  <string name="act_set_city_re_find_side">Locatie bepalen…</string>
   <string name="act_weather_aqi_share">Delen</string>
   <string name="act_weather_aqi_title">Luchtkwaliteit index</string>
   <string name="act_weather_cycle_link_china">WeatherChina</string>
@@ -42,7 +42,7 @@
   <string name="aqi_details_fine">Mensen met speciale medische voorzieningen dienen langdurige of zware inspanning buiten zoveel te vermijden.</string>
   <string name="aqi_details_good">Het is geweldig weer voor buiten activiteiten</string>
   <string name="aqi_details_hazardous">Blijf binnen en beperk fysieke inspanning.</string>
-  <string name="aqi_details_light_pollution">Mensem met hart of long ziekten, ouderen en jonge kinderen dienen langdurige of zware inspanning buiten te vermijden.</string>
+  <string name="aqi_details_light_pollution">Mensen met hart of long ziekten, ouderen en jonge kinderen dienen langdurige of zware inspanning buiten te vermijden.</string>
   <string name="aqi_details_unhealthy">Beperk langdurige en/of zware inspanning.</string>
   <string name="aqi_quality_index_dangerous">gevaarlijk</string>
   <string name="aqi_quality_index_good">goed</string>
