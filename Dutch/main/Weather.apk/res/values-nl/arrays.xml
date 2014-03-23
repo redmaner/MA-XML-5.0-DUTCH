@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="send_item">
         <item>SMS</item>
         <item>E-mail</item>
     </string-array>
     <string-array name="act_weather_main_listview_json_key">
-        <item>wind1</item>
-        <item>紫外线指数</item>
-        <item>穿衣指数</item>
-        <item>舒适度指数</item>
-        <item>洗车指数</item>
-        <item>晾晒指数</item>
-        <item>晨练指数</item>
-        <item>旅游指数</item>
+        <item>Windsnelheid</item>
+        <item>UV Index</item>
+        <item>Kledij Index</item>
+        <item>Comfort Index</item>
+        <item>Was Index</item>
+        <item>Droog Index</item>
+        <item>Morgen Index</item>
+        <item>Toerisme Index</item>
     </string-array>
     <string-array name="act_weather_main_listview_key">
         <item>Windsnelheid:</item>
@@ -161,9 +161,9 @@
         <item>Vergeet geen handschoenen en een muts.</item>
         <item>"Het is heet buiten!"</item>
         <item>"Het is heet buiten!"</item>
-        <item>Bundle up!</item>
-        <item>A cold spell is coming…</item>
-        <item>Bundel omhoog!</item>
+        <item>Kleed je warm!</item>
+        <item>Er is een koudegolf op komst...</item>
+        <item>Kleed je warm!</item>
         <item>Draag oorwarmers als je ze hebt! :)</item>
         <item>Ga een rondje hardlopen!</item>
         <item>Ga een rondje hardlopen en grijp de zon! :)</item>
@@ -172,99 +172,99 @@
     </string-array>
     <string-array name="weather_info_uv">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Niet beschikbaar</item>
         <item>6</item>
-        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>Gebruik zonnebrandcrème en draag een hoofddeksel en zonnebril als je buiten gaat.</item>
         <item>7</item>
-        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>Gebruik zonnebrandcrème en draag een hoofddeksel en zonnebril als je buiten gaat.</item>
         <item>8</item>
-        <item>Use sunscreen and wear hat and sunglasses when outdoors.</item>
+        <item>Gebruik zonnebrandcrème en draag een hoofddeksel en zonnebril als je buiten gaat.</item>
         <item>9</item>
-        <item>Avoid the sun if possible. Use sunscreen if you need to go out!</item>
+        <item>Vermijd de zon indien mogelijk. Gebruik zonnebrandcrème indien je naar buiten gaat!</item>
         <item>10</item>
-        <item>Avoid sun if possible. Use sunscreen if you need to go out!</item>
+        <item>Vermijd de zon indien mogelijk. Gebruik zonnebrandcrème indien je naar buiten gaat!</item>
     </string-array>
     <string-array name="weather_info_dress">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Niet beschikbaar</item>
         <item>11</item>
-        <item>Light jacket</item>
+        <item>Lichte jas</item>
         <item>12</item>
-        <item>Light jacket</item>
+        <item>Lichte jas</item>
         <item>13</item>
-        <item>Summer clothing</item>
+        <item>Zomerkledij</item>
         <item>14</item>
-        <item>Summer clothing</item>
+        <item>Zomerkledij</item>
         <item>15</item>
-        <item>Light jacket</item>
+        <item>Lichte jas</item>
         <item>16</item>
-        <item>Remember to bring additional layers!</item>
+        <item>Draag meerdere lagen kledij!</item>
         <item>17</item>
-        <item>Bring a jacket!</item>
+        <item>Neem een jas mee!</item>
         <item>18</item>
-        <item>Bundle up!</item>
+        <item>Kleed je warm!</item>
         <item>19</item>
-        <item>Bundle up!</item>
+        <item>Kleed je warm!</item>
     </string-array>
     <string-array name="weather_info_msport">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Niet beschikbaar</item>
         <item>1</item>
-        <item>"It's a good day for morning exercises!"</item>
+        <item>"Het is een goede dag voor ochtendgymnastiek!"</item>
         <item>2</item>
-        <item>Bring additional layers!</item>
+        <item>Draag meerdere lagen kledij!</item>
         <item>3</item>
-        <item>Weather is not ideal; bring additional layers!</item>
+        <item>Het weer is niet ideaal; Draag meerdere lagen kledij!</item>
         <item>4</item>
-        <item>Exercise indoors!</item>
+        <item>Doe binnenshuis aan lichaamsbeweging!</item>
     </string-array>
     <string-array name="weather_info_comfort">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Niet beschikbaar</item>
         <item>20</item>
-        <item>Temperature will be stable</item>
+        <item>De temperatuur blijft stabiel</item>
         <item>21</item>
-        <item>Cool and comfortable</item>
+        <item>Koel en comfortabel</item>
         <item>22</item>
-        <item>Temperature will be volatile</item>
+        <item>De temperatuur zal onregelmatig zijn</item>
         <item>23</item>
-        <item>Clear skies and uncomfortable temperatures</item>
+        <item>Heldere hemel en oncomfortabele temperaturen</item>
         <item>24</item>
-        <item>Hot and humid! :(</item>
+        <item>Warm en vochtig! :(</item>
     </string-array>
     <string-array name="weather_info_wcar">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Niet beschikbaar</item>
         <item>1</item>
-        <item>"It's a good day to wash your car!"</item>
+        <item>"Het is een goede dag om uw auto te wassen!"</item>
         <item>2</item>
-        <item>"It's a good day to wash your car!"</item>
+        <item>"Het is een goede dag om uw auto te wassen!"</item>
         <item>3</item>
-        <item>"It's going to rain, so hold off on washing your car."</item>
+        <item>"Het zal regenen dus wacht nog even om uw auto te wassen."</item>
         <item>25</item>
-        <item>"It's going to rain, so hold off on washing your car."</item>
+        <item>"Het zal regenen dus wacht nog even om uw auto te wassen."</item>
         <item>26</item>
-        <item>"There's a sand storm in the forecast, so hold off on washing your car."</item>
+        <item>"Er is een zandstorm voorspelt dus wacht nog even om uw auto te wassen."</item>
         <item>27</item>
-        <item>"It's going to snow, so hold off on washing your car."</item>
+        <item>"Het gaat sneeuwen dus wacht nog even om uw auto te wassen"</item>
         <item>4</item>
-        <item>Hold off on washing your car.</item>
+        <item>Wacht nog even om uw auto te wassen.</item>
     </string-array>
     <string-array name="weather_info_hung">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Niet beschikbaar</item>
         <item>28</item>
-        <item>Hang your clothes to dry in the afternoon.</item>
+        <item>Hang uw kleren te drogen in de namiddag.</item>
         <item>29</item>
-        <item>Hang your clothes to dry any time.</item>
+        <item>Hang uw kleren te drogen op gelijk welk moment van de dag.</item>
         <item>30</item>
-        <item>Cloudy but with the hot temperatures, your clothes will still dry.</item>
+        <item>Bewolkt, maar met hoge temperaturen, uw kleren zullen nog steeds drogen.</item>
         <item>1</item>
-        <item>The weather is suitable for drying clothes.</item>
+        <item>Het weer is geschikt om kleren te drogen.</item>
         <item>3</item>
-        <item>It will rain intermittently throughout the day.</item>
+        <item>Het zal afwisselend regenen doorheen de dag.</item>
         <item>5</item>
-        <item>Good drying conditions.</item>
+        <item>Goede condities om kleren te drogen.</item>
         <item>4</item>
         <item>Droog uw kleren binnen.</item>
         <item>31</item>
@@ -288,10 +288,10 @@
     </string-array>
     <string-array name="weather_info_fl">
         <item></item>
-        <item>Wear layers!</item>
-        <item>微风</item>
-        <item>Comfortable</item>
+        <item>Draag meerdere lagen kledij!</item>
+        <item>Bries</item>
+        <item>Comfortabel</item>
         <item>暂缺</item>
-        <item>Unavailable</item>
+        <item>Niet beschikbaar</item>
     </string-array>
 </resources>

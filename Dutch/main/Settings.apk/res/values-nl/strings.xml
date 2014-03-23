@@ -733,11 +733,11 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="debug_layout_summary">Clipgrenzen, marges en meer weergeven.</string>
   <string name="debug_log">Foutopsporings log</string>
   <string name="debug_monitoring_category">Controle</string>
-  <string name="deep_clean_summary_install_apps_interval">%1$s|gebruikt %2$d dagen geleden</string>
-  <string name="deep_clean_summary_install_apps_new">%s|nooit gebruikt</string>
-  <string name="deep_clean_summary_install_apps_risk">%s|risico gevonden</string>
-  <string name="deep_clean_summary_install_apps_today">%1$s|vandaag gebruikt</string>
-  <string name="deep_clean_summary_install_apps_virus">%s|virus gevonden</string>
+  <string name="deep_clean_summary_install_apps_interval">gebruikt %d dagen geleden</string>
+  <string name="deep_clean_summary_install_apps_new">nooit gebruikt</string>
+  <string name="deep_clean_summary_install_apps_risk">risico gevonden</string>
+  <string name="deep_clean_summary_install_apps_today">vandaag gebruikt</string>
+  <string name="deep_clean_summary_install_apps_virus">virus gevonden</string>
   <string name="deep_clean_tips_cache">"iconSommige apps gebruiken cache bestanden om extra bronnen te downloaden (bijv. songteksten, muziek, afbeeldingen etc.). Wees voorzichtig met het opschonen van deze bestanden."</string>
   <string name="deep_clean_tips_cache_content">"Sommige apps gebruiken cache bestanden om extra hulpbronnen te downloaden. Wees voorzichtig bij het verwijderen van deze bestanden."</string>
   <string name="deep_clean_tips_cache_title">Gecachte bestanden</string>

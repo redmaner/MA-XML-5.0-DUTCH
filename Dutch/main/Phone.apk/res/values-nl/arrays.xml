@@ -38,14 +38,14 @@
         <item>Nummer weergeven</item>
     </string-array>
     <string-array name="clir_values">
-        <item>DEFAULT</item>
-        <item>HIDE</item>
-        <item>SHOW</item>
+        <item>STANDAARD</item>
+        <item>VERBERGEN</item>
+        <item>TONEN</item>
     </string-array>
     <string-array name="clir_values_miui">
-        <item>DEFAULT</item>
-        <item>HIDE</item>
-        <item>SHOW</item>
+        <item>STANDAARD</item>
+        <item>VERBERGEN</item>
+        <item>TONEN</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
         <item>GSM/WCDMA (automatische modus)</item>
@@ -83,13 +83,13 @@
     </array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE / CDMA</item>
-        <item>EvDo only</item>
-        <item>CDMA w/o EvDo</item>
+        <item>Alleen EvDo</item>
+        <item>CDMA zonder EvDo</item>
         <item>CDMA / EvDo auto</item>
         <item>GSM / WCDMA auto</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM / WCDMA preferred</item>
+        <item>Alleen WCDMA</item>
+        <item>Alleen GSM</item>
+        <item>GSM / WCDMA (voorkeur voor WCDMA)</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_lte">
         <item>LTE/CDMA</item>
