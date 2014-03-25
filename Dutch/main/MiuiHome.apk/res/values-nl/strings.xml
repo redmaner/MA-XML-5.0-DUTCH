@@ -105,10 +105,10 @@
   <string name="invalid_contact_shortcut">Ongeldig contact</string>
   <string name="loading">Laden...</string>
   <string name="loading_desktop">Launcher laden...</string>
-  <string name="lock_screen_failed_message">Toepassen mislukt</string>
-  <string name="lock_screen_success_message">Toegepast</string>
   <string name="loading_resource_detail_fail">Bron laden mislukt!</string>
   <string name="loading_resource_detail_info">Laden ...</string>
+  <string name="lock_screen_failed_message">Toepassen mislukt</string>
+  <string name="lock_screen_success_message">Toegepast</string>
   <string name="maml_component_customization_title">Onderdeel Instellingen</string>
   <string name="menu_add">Toevoegen</string>
   <string name="menu_back_desktop">Terug naar startscherm</string>

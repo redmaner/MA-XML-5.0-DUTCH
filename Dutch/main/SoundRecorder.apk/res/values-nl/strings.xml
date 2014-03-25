@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="access_error">Kan niet opnemen in gastmodus</string>
   <string name="alert_message_delete_record">Verwijder geselecteerde opname?</string>
   <string name="app_name">Geluidsrecorder</string>
-  <string name="audio_db_album_name">Audio-opnamen</string>
-  <string name="audio_db_artist_name">Uw opnamen</string>
-  <string name="audio_db_playlist_name">Mijn opnamen</string>
+  <string name="audio_db_album_name">Audio-opnames</string>
+  <string name="audio_db_artist_name">Uw opnames</string>
+  <string name="audio_db_playlist_name">Mijn opnames</string>
   <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
   <string name="back">Terug</string>
   <string name="button_ok">OK</string>
+  <string name="button_queue_for_wifi">In wachtrij</string>
+  <string name="button_start_now">Downloaden</string>
   <string name="call_record">Oproep opname(%d)</string>
   <string name="call_record_or">of</string>
+  <string name="cloud_record">Opnemen in cloud(%d)</string>
   <string name="default_record_name">Nieuwe opname</string>
   <string name="delete">Wissen</string>
   <string name="delete_dialog_message">Wilt u de huidige opname wissen?</string>
@@ -30,6 +34,7 @@
   <string name="fm_record">FM opname (%d)</string>
   <string name="hour" formatted="false">%d uur</string>
   <string name="insert_sd_card">Koppel de USB-opslag</string>
+  <string name="loading_recording">Opnames laden</string>
   <string name="low_battery_error">Batterij is nog 5% opgeladen, om te verzekeren dat de opname niet veloren gaat, is de opname gestopt en opgeslagen.</string>
   <string name="low_battery_message_title">Batterij bijna leeg</string>
   <string name="low_battery_warning">Onverwacht afsluiten kan resulteren in een verloren opname, het is aangeraden alleen op te nemen als de batterij volledig is opgeladen.</string>
@@ -40,9 +45,11 @@
   <string name="message_file_size_error">Opname heeft de maximale ondersteunde opname tijd bereikt voor %s</string>
   <string name="minute" formatted="false">%d minuten</string>
   <string name="no_file">Geen opname</string>
+  <string name="notification_message_all_paused">Kan mobiel data verbruik vergroten.</string>
   <string name="notification_playback">Opname afspelen…</string>
   <string name="notification_recording">Opnemen...</string>
   <string name="notification_stopped">Opname is gestopt</string>
+  <string name="notification_title_all_paused">Download gepauzeerd</string>
   <string name="notification_warning" formatted="false">Weing opslag(minder dan %d minuten)...</string>
   <string name="open_file_explorer">Open Bestanden</string>
   <string name="overwrite_dialog_message" formatted="false">%s bestaat al. Wilt u het overschrijven?</string>
@@ -58,7 +65,24 @@
   <string name="preference_scenes">Instellingen voor scenes</string>
   <string name="preference_silent_mode">Stille modus opname</string>
   <string name="preference_silent_mode_summary">Instellen om stille modus opname in te schakelen</string>
+  <string name="record_download">Downloaden van Mi Cloud</string>
+  <string name="record_download_activity">Opname downloader</string>
+  <string name="record_download_complete">Voltooid</string>
+  <string name="record_download_failed">Mislukt</string>
+  <string name="record_download_manager">Download manager</string>
+  <string name="record_download_msg">Opnames kunnen alleen worden afgespeeld als ze volledig zijn gedownload.</string>
+  <string name="record_download_msg_reload">Deze opname bestaat niet</string>
+  <string name="record_download_paused">Gepauzeerd</string>
+  <string name="record_download_progress">%d%%</string>
+  <string name="record_downloading_notification">Downloaden…</string>
+  <string name="record_downloading_notification_complete">Download voltooid</string>
+  <string name="record_downloading_notification_count">%d downloaden</string>
   <string name="record_list">Opname lijst</string>
+  <string name="record_list_call">Oproepopnames</string>
+  <string name="record_list_cloud">Cloud Opnames</string>
+  <string name="record_list_cloud_call">Cloud oproepopnames</string>
+  <string name="record_list_cloud_fm">Cloud FM Opnames</string>
+  <string name="record_list_fm">FM Opnames</string>
   <string name="record_loading">Opname laden, moment geduld.</string>
   <string name="record_name_hour">.</string>
   <string name="record_picker_title">Kies opname</string>
@@ -69,21 +93,30 @@
   <string name="rename_dialog_title">Andere naam voor deze opname</string>
   <string name="rename_duplicate">Dubbele opname naam, opnieuw invoeren a.u.b.:</string>
   <string name="rename_illegal">Illegale opname naam, opnieuw invoeren a.u.b.:</string>
+  <string name="retry">Opnieuw proberen</string>
   <string name="sd_card_not_available">SD-kaart niet beschikbaar</string>
   <string name="search_for_recordings_in_folders">In mappen zoeken naar opnames</string>
   <string name="second" formatted="false">%d seconden</string>
   <string name="send_to">verzend naar</string>
   <string name="sound_recorder_settings">Opname Instellingen</string>
+  <string name="start">Doorgaan</string>
   <string name="start_recording">Opname starten</string>
   <string name="status_bar_anti_disturb">Telefoon staat op stil, pas volume aan om te hervatten.</string>
-  <string name="status_bar_back"/>
+  <string name="status_bar_back">Raak deze balk aan om terug te gaan</string>
   <string name="status_bar_recording">Opnemen...</string>
   <string name="status_bar_recording_pause">"Opname is gepauzeerd. "</string>
   <string name="stop_recording">Opname stoppen</string>
   <string name="storage_is_full">Opslag is vol</string>
+  <string name="sync_only_in_wifi">Gebruik alleen Wi-Fi om te synchroniseren</string>
+  <string name="sync_only_in_wifi_alert">Het uitschakelen van deze optie kan data vebruik vergroten.</string>
+  <string name="sync_only_in_wifi_summary">Recorder zak uw mobiele data verbinding gebruiken om opnames te downloaden en te uploaden als deze optie is uitgeschakeld</string>
+  <string name="sync_records">Synchoniseren met Mi Cloud</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">App: %1$s maximale ondersteunde opname tijd %2$s</string>
   <string name="toast_uninstall_fileexplorer">Bestandsbeheer is niet geïnstalleerd!</string>
   <string name="unknown_caller">Onbekende beller</string>
   <string name="view_list_of_recordings">Opnames bekijken</string>
+  <string name="wifi_recommended_body">"Klaar om te downloaden via provider's netwerk：
+Het downloaden van dit bestand kan leiden tot hogere data kosten."</string>
+  <string name="wifi_recommended_title">Verkeers herinnering</string>
 </resources>
