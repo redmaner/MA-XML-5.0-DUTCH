@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Settings_title_anti_spam">Antispam instellingen</string>
+  <string name="Settings_title_anti_virus">AntiVirus instellingen</string>
+  <string name="Settings_title_garbage_cleanup">Afval opschoon instellingen</string>
+  <string name="Settings_title_network_assistants">Netwerk assistent instellingen</string>
+  <string name="Settings_title_power_center">Energie beheer instellingen</string>
   <string name="about_settings">Over de telefoon</string>
   <string name="about_settings_summary">Juridische info, status, softwareversie weergeven</string>
   <string name="ac_enable_title">Toegang beheer</string>
@@ -519,7 +524,7 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="call_settings_title">Oproepinstellingen</string>
   <string name="calllog">Oproep log</string>
   <string name="camera_key_action_app_title">Open app</string>
-  <string name="camera_key_action_category_title">Gebruik als camera app niet in gebruik is</string>
+  <string name="camera_key_action_category_title">Kan camera niet gebruiken</string>
   <string name="camera_key_action_none_title">Geen actie</string>
   <string name="camera_key_action_setting_title">MI Toets</string>
   <string name="camera_key_action_shortcut_call">Bel</string>
@@ -798,6 +803,7 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="dialog_msg_check_all">Selecteren van %1$s bevestigen die %2$d items bevat</string>
   <string name="dialog_msg_cleanup_apps">"Al deze app's gegevens worden verwijderd. Waaronder alle bestanden, instellingen, accounts, databases, etc."</string>
   <string name="dialog_msg_cleanup_system_cache">Dit verwijderd alle gecachete gegevens van alle apps.</string>
+  <string name="dialog_msg_load_cleanup_engine_error">Afval opschoon engine is beschadigd!</string>
   <string name="dialog_msg_uninstall_apps">Deze apps verwijderen?</string>
   <string name="dialog_title_backup_and_cleanup_apps">App gegevens back-uppen en verwijderen?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Back-up en verwijderen</string>
@@ -805,6 +811,7 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="dialog_title_cleanup_apps">App gegevens verwijderen?</string>
   <string name="dialog_title_cleanup_system_cache">Gecachte gegevens verwijderen?</string>
   <string name="dialog_title_font_size">Lettergrootte</string>
+  <string name="dialog_title_load_cleanup_engine_error">Fout</string>
   <string name="dialog_title_uninstall_apps">Verwijderen</string>
   <string name="dirac_control">Dirac Beheer</string>
   <string name="dirac_mode_earbuds">"Xiaomi's Earbud oortjes"</string>
@@ -1086,10 +1093,11 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="gadget_toggle_bluetooth">Bluetooth-instelling bijwerken</string>
   <string name="gadget_toggle_wifi">Wi-Fi-instelling bijwerken</string>
   <string name="game_controller_settings_category">Gamecontroller</string>
+  <string name="garbage_white_list_empty_content">Uitzonderingenlijst is leeg</string>
   <string name="getConfiguredNetworks">haalGeconfigureerdeNetwerken</string>
   <string name="getConnectionInfo">haalConnectieInformatie</string>
   <string name="haptic_feedback_enable_title">Trillen bij aanraking</string>
-  <string name="haptic_feedback_level">Tril niveau</string>
+  <string name="haptic_feedback_level">Trillen</string>
   <string name="hardkeyboard_category">Instellingen voor vast toetsenbord</string>
   <string name="hdcp_checking_dialog_title">HDCP-controlegedrag instellen</string>
   <string name="hdcp_checking_title">HDCP-controle</string>
@@ -1104,7 +1112,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="header_data_and_synchronization">Gegevens en synchronisatie</string>
   <string name="headset_calibrate">Kalibreer knoppen</string>
   <string name="headset_calibrate_apply">Toepassen</string>
-  <string name="headset_calibrate_confirm">Nieuwe kalibratie instellingen opslaan?</string>
+  <string name="headset_calibrate_confirm">Deze instellingen toepassen?</string>
   <string name="headset_calibrate_hint">Druk op de bovenste knop</string>
   <string name="headset_calibrate_next_track">Volgende nummer</string>
   <string name="headset_calibrate_prev_track">Vorige nummer</string>
@@ -1998,9 +2006,11 @@ probeer het volgende:
   <string name="pref_operational_key">Operationele toets</string>
   <string name="pref_summary_auto_update_cleanup_db">Bijwerken op： %s</string>
   <string name="pref_summary_cleanup_white_list">Afval op uitzonderingenlijst wordt genegeerd</string>
+  <string name="pref_summary_expand_cache_group">Groepen in cache lijst zullen standaard vergroten</string>
   <string name="pref_summary_garbage_cleanup_check_size">Waarschuw mij als afval een bepaald niveau bereikt</string>
   <string name="pref_title_auto_update_cleanup_db">Automatisch bijwerken</string>
   <string name="pref_title_cleanup_white_list">Afval uizonderingen opschonen</string>
+  <string name="pref_title_expand_cache_group">Vergroten in cache groepen</string>
   <string name="pref_title_garbage_cleanup_check_size">Afval alarm grootte</string>
   <string name="pref_title_garbage_cleanup_check_time">Afval alarm</string>
   <string name="pref_title_manual_check_cleanup_db_update">Nu bijwerken</string>
@@ -2554,6 +2564,7 @@ Pogingen Resterende :"</string>
   <string name="toast_backup_uninstall_failed">%d apps back-uppen mislukt. Probeer het later opnieuw.</string>
   <string name="toast_backup_uninstall_success">Back-up en verwijderen voltooid</string>
   <string name="toast_cleanup_success">Gegevens verwijderd</string>
+  <string name="toast_garbage_cleanup_success">Opschonenen voltooid</string>
   <string name="toast_qucik_scan_list_empty">Alles ziet er goed uit, opschonen niet nodig!</string>
   <string name="toast_removed_from_white_list">Is verwijderd van uizonderingen</string>
   <string name="toast_shortcut_install">Snelkoppeling gemaakt</string>

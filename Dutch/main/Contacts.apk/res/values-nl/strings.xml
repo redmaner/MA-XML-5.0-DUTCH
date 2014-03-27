@@ -5,6 +5,7 @@
   <string name="account_default">Telefoon</string>
   <string name="account_phone">Alleen telefoon, niet gesynchroniseerd</string>
   <string name="account_sim">Sim-only, niet gesynchroniseerd</string>
+  <string name="account_sim2">Simkaart %d</string>
   <string name="account_type_format">%1$s contact</string>
   <string name="account_unactivated">Account niet geactiveerd.</string>
   <string name="actionIncomingCall">Inkomende oproepen</string>
@@ -107,6 +108,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="callrecordview_menu_delete_missed">Gemiste oproepen verwijderen</string>
   <string name="callrecordview_menu_delete_new">Gesprekslog van nieuwe contacten verwijderen</string>
   <string name="callrecordview_menu_delete_one">Verwijderen uit gesprekslog</string>
+  <string name="callrecordview_menu_delete_sim">%s gesprekslogs verwijderen</string>
   <string name="callrecordview_menu_delete_stranger">Onbekende nummers verwijderen uit gesprekslog</string>
   <string name="callrecordview_menu_edit_call_note">Oproep notitie aanpassen</string>
   <string name="callrecordview_menu_paste">Plakken</string>
@@ -117,6 +119,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="callrecordview_menu_show_called">Uitgaande oproepen weergeven</string>
   <string name="callrecordview_menu_show_missed">Gemiste oproepen weergeven</string>
   <string name="callrecordview_menu_show_new">Nieuwe contacten</string>
+  <string name="callrecordview_menu_show_sim">%s oproepen</string>
   <string name="callrecordview_menu_show_stranger">Onbekende oproepen weergeven</string>
   <string name="callrecordview_menu_show_title">Weer te geven categorie selecteren</string>
   <string name="cancel_confirmation_dialog_message">Wjzigingen annuleren?</string>
@@ -345,6 +348,7 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">Typ de naam van de persoon</string>
   <string name="eventLabelsGroup">Verjaardag</string>
+  <string name="eventTypeCustom">Aangepast</string>
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Exporteren voltooid</string>
   <string name="export_sim_contact_finish_failure">Overgedragen: %1$d Resterend: %2$d</string>
@@ -352,12 +356,13 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="export_sim_contacts_dialog_message">Uw simkaart kan %d contacten bevatten, weet u zeker dat u wilt doorgaan?</string>
   <string name="export_to_sdcard">Exporteren naar opslag</string>
   <string name="export_to_sim">Exporteren naar simkaart</string>
+  <string name="export_to_sim2">Exporteren naar simkaart 2</string>
   <string name="export_to_sim_title">Exporteren…</string>
   <string name="export_vcard_description">vCard exporteren naar intern geheugen</string>
   <string name="exporting_contact_failed_message">"De contactgegevens zijn niet geëxporteerd. 
 Reden: '%s'"</string>
   <string name="exporting_contact_failed_title">Kan niet exporteren</string>
-  <string name="exporting_contact_list_message">Uw contactgegevens worden geëxporteerd naar: %s.</string>
+  <string name="exporting_contact_list_message">Exporteren naar %s.</string>
   <string name="exporting_contact_list_progress" formatted="false">%s van %s contacten</string>
   <string name="exporting_contact_list_title">Contactgegevens exporteren</string>
   <string name="exporting_vcard_canceled_title">%s exporteren geannuleerd.</string>
@@ -418,6 +423,7 @@ Reden: '%s'"</string>
   <string name="ic_menu_done">Voltooid</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">IMEI</string>
+  <string name="imei_invalid">IMEI ongeldig</string>
   <string name="import_all_sim_entries_miui">Alle contacten importeren</string>
   <string name="import_all_vcard_string">Alle vCard-bestanden importeren</string>
   <string name="import_contact_card_button">Contact importeren</string>
@@ -425,6 +431,7 @@ Reden: '%s'"</string>
   <string name="import_from_other_phone">Importeren van andere telefoon</string>
   <string name="import_from_sdcard">Importeren uit opslag</string>
   <string name="import_from_sim">Importeren van simkaart</string>
+  <string name="import_from_sim2">Importeren van simkaart 2</string>
   <string name="import_multiple_vcard_string">Meerdere vCard-bestanden importeren</string>
   <string name="import_name">Naam</string>
   <string name="import_one_vcard_string">Eén vCard-bestand importeren</string>
@@ -496,6 +503,7 @@ Reden: '%s'"</string>
   <string name="map_other">Adres weergeven</string>
   <string name="map_work">Werkadres weergeven</string>
   <string name="meid">MEID</string>
+  <string name="meid_invalid">MEID ongeldig</string>
   <string name="menu_accounts">Accounts</string>
   <string name="menu_addStar">Toevoegen aan favorieten</string>
   <string name="menu_bar_group_add">Toevoegen</string>
@@ -672,6 +680,7 @@ Om een contact toe te voegen aan de lijst met favorieten:
   <string name="pref_key_rebuild_t9_index_message">Index herbouwen om zoekproblemen te repareren</string>
   <string name="pref_key_rebuild_t9_index_title">Index gegevens herbouwen</string>
   <string name="pref_key_sim_manage">Simkaart beheer</string>
+  <string name="pref_key_sim_manage2">Simkaart 2 configureren</string>
   <string name="pref_summary_import_from_account">Contacten importeren uit Google en Exchange accounts naar Xiaomi Account</string>
   <string name="pref_title_account_import">Importeer uit account</string>
   <string name="pref_title_import_from_account">Importeer naar Xiaomi account</string>
@@ -952,8 +961,9 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="sim_card_no_free_space_title">simkaart vol</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Alles deselecteren</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Alles selecteren</string>
-  <string name="sim_contact_existing">Contact bestaat reeds</string>
+  <string name="sim_contact_existing">SIM contact bestaat al</string>
   <string name="sim_contact_invalid">Ongeldig SIM contact</string>
+  <string name="sim_contact_number_missing">SIM contact nummer ontbreekt.</string>
   <string name="sim_contact_search_error">Fout bij zoeken van contacten op simkaart</string>
   <string name="sim_contacts">Simkaart Contacten</string>
   <string name="sim_error_anr_full">Opslag voor nummer is vol!</string>

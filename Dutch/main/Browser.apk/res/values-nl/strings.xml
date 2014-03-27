@@ -84,7 +84,7 @@
   <string name="bookmark_url_not_valid">Ongeldige URL.</string>
   <string name="bookmarks">Bladwijzers</string>
   <string name="bookmarks_content_is_null">Geen bladwijzers</string>
-  <string name="bookmarks_management">Bladwijzers</string>
+  <string name="bookmarks_management">Bladwijzers beheren</string>
   <string name="bookmarks_root_folder">Root map</string>
   <string name="bookmarks_search">Browser</string>
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Naar beneden vegen om af te sluiten</string>

@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="do_not_remind_me">Mij niet herinneren</string>
-  <string name="notify_connect_every_time">Altijd toestemming vragen voor netwerk toegang</string>
-  <string name="recharge_phone_number_empty">Het telefoonnummer dat u heeft ingevoerd mag niet leeg zijn</string>
   <string name="about_smart_antispam_summary">Over Slimme Antispam onbekend nummer detector</string>
   <string name="about_telephone_fraud">Over Telefoon Fraude</string>
   <string name="agree">Accepteren</string>
@@ -33,6 +30,7 @@
   <string name="custom_mark_category">Aangepast</string>
   <string name="data_error">Sorry, huidige service is niet beschikbaar, probeer het later opnieuw</string>
   <string name="delete">Verwijderen</string>
+  <string name="do_not_remind_me">Mij niet herinneren</string>
   <string name="express_inqiury_select_logistics">Koerier selecteren</string>
   <string name="express_inquiry">Opsporen</string>
   <string name="express_inquiry_button_text">Opsporen</string>
@@ -90,6 +88,7 @@
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_unavaliable">Netwerk is niet beschikbaar, controleer netwerk instellingen</string>
   <string name="no_more_result">Geen resultaten</string>
+  <string name="notify_connect_every_time">Altijd toestemming vragen voor netwerk toegang</string>
   <string name="order_empty_hint">Geen bestellingen</string>
   <string name="order_id">Bestelling info: %s</string>
   <string name="order_merchant_title">Mijn bestellingen - %s</string>
@@ -131,6 +130,7 @@
   <string name="recharge_payment_result_ok_summary">Bevestig dat het bedrag zichtbaar is op uw balans.</string>
   <string name="recharge_payment_result_ok_title">RMB%s toegevoegd.</string>
   <string name="recharge_payment_result_progress_summary">Betalings resultaat controleren...</string>
+  <string name="recharge_phone_number_empty">Het telefoonnummer dat u heeft ingevoerd mag niet leeg zijn</string>
   <string name="recharge_phone_number_error">Ongeldig telefoonnummer.</string>
   <string name="recharge_select_money_title">Selecteer opwaardeer hoeveelheid</string>
   <string name="recharge_status_description">Status:</string>
