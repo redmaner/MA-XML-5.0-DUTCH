@@ -8,7 +8,7 @@
   <string name="app_name">Thema\'s</string>
   <string name="apply_font_btn_exclude">Toepassen zonder lettertype</string>
   <string name="apply_font_btn_reboot">Toepassen en herstart</string>
-  <string name="apply_font_tip">Het thema heeft een lettertype, herstart is vereist.</string>
+  <string name="apply_font_tip">Herstart uw apparaat om het thema lettertype toe te passen.</string>
   <string name="apply_lockscreen_paper_tips">Vergrendelthema al in gebruik, nieuw vergendel-voorbeeld mogelijk niet zichtbaar!</string>
   <string name="apply_theme_no_select_message">Geen modules geselecteerd</string>
   <string name="apply_theme_with_ringtones">Thema met beltonen toepassen</string>
@@ -60,12 +60,11 @@
   <string name="processing">Verwerken ...</string>
   <string name="purchased_list">Betalings geschiedenis</string>
   <string name="resource_account_abnormal_state">Account fout, probeer het later opnieuw.</string>
-  <string name="resource_account_current">Account: %1$s</string>
-  <string name="resource_account_fail_to_add">Failed to add account!</string>
-  <string name="resource_account_login">Login</string>
-  <string name="resource_account_login_before_action">Please login to your Xiaomi account.</string>
-  <string name="resource_account_login_title">Login</string>
-  <string name="resource_account_switch">Switch account</string>
+  <string name="resource_account_fail_to_add">Account toevoegen mislukt!</string>
+  <string name="resource_account_login">Inloggen</string>
+  <string name="resource_account_login_before_action">Log in met uw Xiaomi Account.</string>
+  <string name="resource_account_login_title">Inloggen</string>
+  <string name="resource_account_switch">Account wisselen</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Bronnen Browser</string>
   <string name="resource_apply">Toepassen</string>
@@ -209,7 +208,7 @@
   <string name="resource_update">Bijwerken</string>
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Wachten op download...</string>
-  <string name="restore_default_theme_alert">U bent mogelijk het slachtoffer van thema namaak, blader door de thema markt om te kopen of om opnieuw te downloaden.</string>
+  <string name="restore_default_theme_alert">Gebruik de Thema app om te kopen of om opnieuw te downloaden.</string>
   <string name="ringtone_volume_mute">Beltoon is momenteel in stille modus.</string>
   <string name="sdcard_not_mounted_dialog_message">"SD-kaart niet beschikbaar, plaats een SD-kaart."</string>
   <string name="sdcard_not_mounted_dialog_title">SD-kaart niet gevonden</string>
@@ -220,7 +219,7 @@ Herstart de app om bronnen te vernieuwen."</string>
   <string name="settings">Settings</string>
   <string name="short_ringtone_resource">Kort</string>
   <string name="theme_another_import_running">Importeren draait reeds, even geduld a.u.b. en probeer het opnieuw</string>
-  <string name="theme_batch_has_update_text">Er zijn voor %1$d thema\'s nieuwe versies beschikbaar</string>
+  <string name="theme_batch_has_update_text">"Er zijn voor %1$d thema's updates beschikbaar"</string>
   <string name="theme_batch_update_all">Alles bijwerken</string>
   <string name="theme_batch_update_dlg_content">Wilt u nu bijwerken?</string>
   <string name="theme_batch_update_dlg_content_single">Nu bijwerken?</string>
@@ -251,7 +250,7 @@ Herstart de app om bronnen te vernieuwen."</string>
   <string name="theme_component_title_ringtone">Beltonen</string>
   <string name="theme_component_title_statusbar">Statusbalk</string>
   <string name="theme_component_title_wallpaper">Achtergronden</string>
-  <string name="theme_current_using_has_update">Het huidige thema is bijgewerkt, klik hier om toe te passen</string>
+  <string name="theme_current_using_has_update">Er is een update voor het thema dat u momenteel gebruikt</string>
   <string name="theme_description_title_customized">Aangepast</string>
   <string name="theme_description_title_default">Standaard</string>
   <string name="theme_immediately_apply_tip">Het thema is bijgewerkt, meteen toepassen?</string>
@@ -280,7 +279,7 @@ Herstart de app om bronnen te vernieuwen."</string>
   <string name="theme_is_imported">Thema geïmporteerd</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_sdcard_importing">Importeren van SD-kaart</string>
-  <string name="theme_select_others">Overige</string>
+  <string name="theme_select_others">Bladeren</string>
   <string name="theme_upgrade_request_cancel">Annuleren</string>
   <string name="theme_upgrade_request_content">Uw lokale thema\'s moeten geconverteerd worden om de effientie te verbeteren. Dit kan enige minuten duren en uw telefoon kan mogelijk niet reageren. Converteer thema\'s nu?</string>
   <string name="theme_upgrade_request_title">Thema Conversie Benodigd</string>

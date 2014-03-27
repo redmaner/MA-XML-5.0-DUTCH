@@ -203,6 +203,7 @@ Om dit op te lossen kunt u oude bestanden verwijderen of extra ruimte kopen."</s
   <string name="micloud_title_dspt" formatted="false">"Totale ruimte %s
  gebruikt %s | beschikbaar %s"</string>
   <string name="micloud_title_full_dspt">Opslag limiet is bereikt!</string>
+  <string name="micloud_upgrade_space">Ruimte upgraden</string>
   <string name="micloud_use_existing">Bestaand</string>
   <string name="micloud_user_base_info">Gebruikers info</string>
   <string name="micloud_user_email">E-mail</string>

@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="do_not_remind_me">Mij niet herinneren</string>
+  <string name="notify_connect_every_time">Altijd toestemming vragen voor netwerk toegang</string>
+  <string name="recharge_phone_number_empty">Het telefoonnummer dat u heeft ingevoerd mag niet leeg zijn</string>
   <string name="about_smart_antispam_summary">Over Slimme Antispam onbekend nummer detector</string>
   <string name="about_telephone_fraud">Over Telefoon Fraude</string>
   <string name="agree">Accepteren</string>
