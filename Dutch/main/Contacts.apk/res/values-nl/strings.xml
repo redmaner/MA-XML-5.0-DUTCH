@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  string name="accessibility_calllog_detail">Gesprekslog details</string>
+  <string name="accessibility_calllog_detail">Gesprekslog details</string>
   <string name="account_container_title">Geïmporteerd van</string>
   <string name="account_default">Telefoon</string>
   <string name="account_phone">Alleen telefoon, niet gesynchroniseerd</string>
