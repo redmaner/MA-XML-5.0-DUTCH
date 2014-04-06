@@ -117,9 +117,7 @@ Het bestand accepteren?"</string>
   <string name="permlab_bluetoothShareManager">Download manager</string>
   <string name="permlab_bluetoothWhitelist">Whitelist bluetooth apparaat toegang.</string>
   <string name="permlab_handoverStatus">Ontvang BT overdracht verzending uitzendingen.</string>
-  <string name="process"/>
   <string name="share_prepare">Bluetooth Delene voorbereiden</string>
-  <string name="sharedUserId"/>
   <string name="start_server">TCP-server starten</string>
   <string name="status_bpp_aborted_by_printer">Afdrukken mislukt, afgebroken door de printer</string>
   <string name="status_bpp_canceled_by_user">Afdrukken geannuleerd door gebruiker</string>
