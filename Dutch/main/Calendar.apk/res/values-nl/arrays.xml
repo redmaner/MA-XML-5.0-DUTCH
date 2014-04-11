@@ -36,25 +36,6 @@
         <item>Alleen indien stil</item>
         <item>Nooit</item>
     </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Geen</item>
-        <item>0 minuten</item>
-        <item>1 minuut</item>
-        <item>5 minuten</item>
-        <item>10 minuten</item>
-        <item>15 minuten</item>
-        <item>20 minuten</item>
-        <item>25 minuten</item>
-        <item>30 minuten</item>
-        <item>45 minuten</item>
-        <item>1 uur</item>
-        <item>2 uur</item>
-        <item>3 uur</item>
-        <item>12 uur</item>
-        <item>24 uur</item>
-        <item>2 dagen</item>
-        <item>1 week</item>
-    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Standaardlandinstelling</item>
         <item>Zaterdag</item>
@@ -66,24 +47,6 @@
         <item>E-mail</item>
         <item>SMS</item>
 	 <item>Alarm</item>
-    </string-array>
-    <string-array name="reminder_minutes_labels">
-        <item>0 minuten</item>
-        <item>1 minuut</item>
-        <item>5 minuten</item>
-        <item>10 minuten</item>
-        <item>15 minuten</item>
-        <item>20 minuten</item>
-        <item>25 minuten</item>
-        <item>30 minuten</item>
-        <item>45 minuten</item>
-        <item>1 uur</item>
-        <item>2 uur</item>
-        <item>3 uur</item>
-        <item>12 uur</item>
-        <item>24 uur</item>
-        <item>2 dagen</item>
-        <item>1 week</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Geen reactie</item>
