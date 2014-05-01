@@ -33,24 +33,6 @@
         <item>Chinees</item>
         <item>Hebreeuws</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>LTE / CDMA</item>
-        <item>Alleen EvDo</item>
-        <item>CDMA zonder EvDo</item>
-        <item>CDMA / EvDo auto</item>
-        <item>GSM / WCDMA auto</item>
-        <item>Alleen WCDMA</item>
-        <item>Alleen GSM</item>
-        <item>GSM / WCDMA (voorkeur voor WCDMA)</item>
-    </string-array>
-    <string-array name="preferred_network_mode_choices_lte">
-        <item>LTE/CDMA</item>
-        <item>CDMA</item>
-    </string-array>
-    <string-array name="preferred_network_mode_values_lte">
-        <item>7</item>
-        <item>4</item>
-    </string-array>
     <string-array name="transport_types">
         <item>UDP</item>
         <item>TCP</item>
@@ -60,11 +42,5 @@
         <item>TTY vol</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>
-    </string-array>
-    <string-array name="tty_mode_values_miui">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
 </resources>

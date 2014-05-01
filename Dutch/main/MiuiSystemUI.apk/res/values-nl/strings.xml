@@ -109,7 +109,6 @@ Als u gegevens opnieuw inschakelt, kunnen er kosten in rekening worden gebracht 
   <string name="ext_media_unmountable_notification_title">Beschadigde SD-kaart</string>
   <string name="filter_item_description">U kunt \"Instellingen-Statusbalk-Notificaties aanpassen\" notificatie type instellen per applicatie</string>
   <string name="filter_item_preview_image">Voorbeeld</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Locatie ingesteld door GPS</string>
   <string name="gps_notification_searching_text">Zoeken naar GPS</string>
   <string name="headset_custom">Aanpassen</string>

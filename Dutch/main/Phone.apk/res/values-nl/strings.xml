@@ -17,7 +17,6 @@
   <string name="administrative_disable">Beheer uitgeschakeld</string>
   <string name="administrative_enable">Beheer ingeschakeld</string>
   <string name="advanced_settings">Optionele instellingen</string>
-  <string name="advanced_settings_container">Geavanceerde instellingen container</string>
   <string name="advanced_settings_hide">▽ Aanraken om alles te verbergen</string>
   <string name="advanced_settings_show">▷ Aanraken om alles weer te geven</string>
   <string name="advertisements_disable">Advertenties uitgeschakeld</string>
@@ -55,7 +54,6 @@
   <string name="audio_mode_earpiece">Koptelefoon oortje</string>
   <string name="audio_mode_speaker">Luidspreker</string>
   <string name="audio_mode_wired_headset">Bedrade koptelefoon</string>
-  <string name="auth_username">Authentificeer gebruikersnaam</string>
   <string name="auth_username_summary">Gebruikersnaam die voor de verificatie wordt gebruikt</string>
   <string name="auth_username_title">Gebruikersnaam voor verificatie</string>
   <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
@@ -308,9 +306,7 @@
   <string name="default_contacts_countrycode_hint_miui">Bijvoorbeeld: 31</string>
   <string name="default_contacts_countrycode_miui">Standaard landcode voor contactpersonen</string>
   <string name="default_contacts_countrycode_sum_miui">Standaard landcode voor contactpersonen instellen</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Niet ingesteld&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Verwijderen</string>
   <string name="deleteAllSimEntries">Verwijder alle simkaart contacten</string>
   <string name="deleteSimContacts">Simkaart contacten verwijderen...</string>
@@ -365,10 +361,8 @@
   <string name="disable_pin_ok">Simkaart pincode uitgeschakeld</string>
   <string name="disable_sim_pin">Simkaart pincode uitschakelen</string>
   <string name="disable_sim_pin_miui">Simkaart pincode uitschakelen</string>
-  <string name="display_name">Weertegeven naam</string>
   <string name="display_name_summary">&lt;Gelijk aan gebruikersnaam&gt;</string>
   <string name="display_name_title">Weergavenaam</string>
-  <string name="domain_address">SIP Domein</string>
   <string name="domain_address_title">Server</string>
   <string name="doneButton">Gereed</string>
   <string name="dtmf_tone_enable_title">Toetsenbord aanraak tonen</string>
@@ -715,7 +709,6 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="ota_unsuccessful">"Uw telefoon heeft niet geactiveerd. U moet een omgeving zoeken met beter bereik (dichtbij een raam, buiten). Probeer het opnieuw of bel klantenservice voor meer opties."</string>
   <string name="other_settings">Andere instellingen voor bellen</string>
   <string name="other_settings_miui">Andere instellingen</string>
-  <string name="password">Wachtwoord</string>
   <string name="password_title">Wachtwoord</string>
   <string name="pause_prompt_no">Nee</string>
   <string name="pause_prompt_str">"Verzend Tonen"</string>
@@ -750,7 +743,6 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="pin_progress_unlock_icc_miui">Deblokkeren simkaart…</string>
   <string name="place_a_call1">Abonnement 1</string>
   <string name="place_a_call2">Abonnement 2</string>
-  <string name="port">Poort</string>
   <string name="port_title">Poortnummer</string>
   <string name="pref_custom_location_summary_miui">Wijzig regionale kenmerken en nummer kenmerken</string>
   <string name="pref_custom_location_title_miui">Aanpassen kenmerken</string>
@@ -791,7 +783,6 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="progress_dialog_exiting_ecm">Modus voor noodoproepen verlaten</string>
   <string name="prompt">Vragen</string>
   <string name="prompt_user">Vraag Gebruiker</string>
-  <string name="proxy_address">Proxy adres</string>
   <string name="proxy_address_title">Adres voor uitgaande proxy</string>
   <string name="pstn_phone">Oproep met mobiele telefoon</string>
   <string name="puk2_blocked">Pukcode is permanent geblokkeerd.</string>
@@ -888,11 +879,9 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="select_automatically">Automatisch selecteren</string>
   <string name="sendSms">Send SMS</string>
   <string name="send_button">Verzenden</string>
-  <string name="send_keepalive">Stuur KeepAlive</string>
   <string name="send_keepalive_summary">Stuur SIP keep-alive bericht</string>
   <string name="separate_from_conference_miui">Individueel gesprek</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Voorkeursnetwerktype alleen beschikbaar wanneer data is uitgeschakeld</string>
-  <string name="set_primary">Zet standaard</string>
   <string name="set_primary_summary">Gebruikt voor uitgaande oproepen</string>
   <string name="set_primary_title">Instellen als primair account</string>
   <string name="set_smsc_address_error_miui">Instellen nummer SMS-centrale mislukt. Probeer het later opnieuw.</string>
@@ -937,10 +926,7 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="sip_accounts">Internet oproep (SIP) accounts</string>
   <string name="sip_accounts_title">Accounts</string>
   <string name="sip_add_account_tip_text">Stel een SIP account in voor internetbellen</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Altijd verzenden</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Voor alle oproepen indien gegevensnetwerk beschikbaar is</string>
   <string name="sip_call_options_entry_2">Alleen voor internetoproepen</string>
   <string name="sip_call_options_entry_3">Vragen bij elke oproep</string>
@@ -1033,7 +1019,6 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="throttle_time_frame">Periode voor gegevensgebruik</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ van cyclus verlopen Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="title_data_settings">Data Instellingen</string>
-  <string name="transport">Protocol</string>
   <string name="transport_title">Transporttype</string>
   <string name="tty_mode_entries_full_miui">TTY Volledig</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -1057,7 +1042,6 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="updating_fdn_contact">Vast nummer bijwerken...</string>
   <string name="updating_settings">Instellingen bijwerken...</string>
   <string name="updating_title">Oproepinstellingen</string>
-  <string name="username">Gebruikersnaam</string>
   <string name="username_title">Gebruikersnaam</string>
   <string name="ussdRunning">USSD-code uitvoeren...</string>
   <string name="vibrate_on_ring_title">Trillen bij overgaan</string>

@@ -488,7 +488,6 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="brightness_auto_adjust_off">Handmatige helderheid kan aangepast worden door de schuif te bewegen. Scherm helderheid blijft ongewijzigd in elke omgeving. </string>
   <string name="brightness_auto_adjust_on">Automatische helderheid effect kan aangepast worden door de schuif te bewegen. Scherm helderheid zal variëren met uw aanpassingen en omgevingen.</string>
   <string name="brightness_summary">Helderheid van het scherm aanpassen</string>
-  <string name="bssid_label">BSSID:</string>
   <string name="build_number">Build-nummer</string>
   <string name="builtin_keyboard_settings_summary">Instellingen voor vast toetsenbord</string>
   <string name="builtin_keyboard_settings_title">Fysiek toetsenbord</string>
@@ -575,7 +574,6 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="common_settings">Normale Instellingen</string>
   <string name="complete_settings">Complete Instellingen</string>
   <string name="computing_size">Berekenen...</string>
-  <string name="config_list_label">Ingestelde Netwerken</string>
   <string name="config_mass_storage_function_name">massaopslag</string>
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
@@ -735,7 +733,6 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="debug_debugging_category">Foutopsporing</string>
   <string name="debug_drawing_category">Tekening</string>
   <string name="debug_input_category">Invoer</string>
-  <string name="debug_intent_sender_label">Debug doel zender</string>
   <string name="debug_layout">Indelingsgrenzen weerg.</string>
   <string name="debug_layout_summary">Clipgrenzen, marges en meer weergeven.</string>
   <string name="debug_log">Foutopsporings log</string>
@@ -818,7 +815,6 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="dirac_mode_in_ear">"Xiaomi's In-Ear oortjes"</string>
   <string name="dirac_mode_off">Dirac Uit</string>
   <string name="dirac_mode_piston_100">Xiaomi piston oortjes</string>
-  <string name="disableNetwork">Netwerk uitschakelen</string>
   <string name="disable_adb_debug_summary">USB-foutopsporing uitschakelen</string>
   <string name="disable_anti_spam_summary">Berichten filter uitgeschakeld</string>
   <string name="disable_app_permission_summary">Machtigingen monitor uitgeschakeld</string>
@@ -827,7 +823,6 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="disable_power_key_long_press_under_keyguard">Schakel uit in schermvergrendeling</string>
   <string name="disable_text">Uitschakelen</string>
   <string name="disabled">Uitgeschakeld</string>
-  <string name="disconnect">loskoppelen</string>
   <string name="display_font_size_label">Lettergrootte:</string>
   <string name="display_label">Scherm</string>
   <string name="display_order_text">Sorteren op:</string>
@@ -923,7 +918,6 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="empty_list_msg">U heeft geen apps van derden geïnstalleerd.</string>
   <string name="emptylist_fwlog_call">Geblokkeerde oproepen worden hier gelogd.</string>
   <string name="emptylist_fwlog_ms">Geblokkeerde tekst- en MMS berichten worden hier gelogd.</string>
-  <string name="enableNetwork">Netwerk inschakelen</string>
   <string name="enable_adb">USB-foutopsporing</string>
   <string name="enable_adb_debug_summary">Gebruik de ADB command, wanneer verbonden via USB</string>
   <string name="enable_adb_debug_title">USB-foutopsporing inschakelen</string>
@@ -1093,8 +1087,6 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="gadget_toggle_wifi">Wi-Fi-instelling bijwerken</string>
   <string name="game_controller_settings_category">Gamecontroller</string>
   <string name="garbage_white_list_empty_content">Uitzonderingenlijst is leeg</string>
-  <string name="getConfiguredNetworks">haalGeconfigureerdeNetwerken</string>
-  <string name="getConnectionInfo">haalConnectieInformatie</string>
   <string name="haptic_feedback_enable_title">Trillen bij aanraking</string>
   <string name="haptic_feedback_level">Trillen</string>
   <string name="hardkeyboard_category">Instellingen voor vast toetsenbord</string>
@@ -1125,20 +1117,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="headset_no_contected">Headset niet verbonden</string>
   <string name="headset_settings">Headset Instellingen</string>
   <string name="heavy_weight_stop_description">Deze app kan niet veilig worden gestopt. Als u de app stopt, kunt u een deel van uw huidige werk kwijtraken.</string>
-  <string name="hello_world">Hello world!</string>
   <string name="help_label">Help</string>
-  <string name="help_url_accounts"/>
-  <string name="help_url_backup_reset"/>
-  <string name="help_url_battery"/>
-  <string name="help_url_bluetooth"/>
-  <string name="help_url_choose_lockscreen"/>
-  <string name="help_url_data_usage"/>
-  <string name="help_url_more_networks"/>
-  <string name="help_url_sound"/>
-  <string name="help_url_tether"/>
-  <string name="help_url_vpn"/>
-  <string name="help_url_wifi"/>
-  <string name="hidden_ssid_label">Verborgen SSID:</string>
   <string name="history_details_title">Geschiedenisdetails</string>
   <string name="home_key">Home toets</string>
   <string name="ime_security_warning">Deze invoermethode verzamelt mogelijk alle tekst die u typt, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. De methode is afkomstig uit de app %1$s. Deze invoermethode inschakelen?</string>
@@ -1196,7 +1175,6 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="internal_used_memory_hint">Gebruikt: Berekenen…</string>
   <string name="invalid_location">De installatielocatie is niet geldig.</string>
   <string name="invalid_size_value">Kan pakketgrootte niet berekenen.</string>
-  <string name="ipaddr_label">IPaddr:</string>
   <string name="item_app_permission">App machtigingen</string>
   <string name="item_garbage_size_1000m">1gb</string>
   <string name="item_garbage_size_100m">100mb</string>
@@ -1255,7 +1233,6 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="led_settings">LED</string>
   <string name="legal_information">Juridische informatie</string>
   <string name="license_title">Licentie</string>
-  <string name="link_speed_label">Link Speed:</string>
   <string name="list_sub_view_item_backup_cleanup">Eerst backup maken</string>
   <string name="list_sub_view_item_backup_uninstall">Back-up en verwijderen</string>
   <string name="list_sub_view_item_clean">Opschonen</string>
@@ -1354,7 +1331,6 @@ Bent u klaar om te starten? Raak 'Volgende' aan."</string>
   <string name="log_count">(%d)</string>
   <string name="lte_ram_dump_off">LTE RAM-dump uitschakelen</string>
   <string name="lte_ram_dump_on">LTE RAM-dump inschakelen</string>
-  <string name="macaddr_label">MAC addr:</string>
   <string name="main_running_process_description">Hoofdproces in gebruik.</string>
   <string name="man_add_application">Handmatig auto start apps toevoegen</string>
   <string name="manage_device_admin">Apparaatbeheerders</string>
@@ -1517,8 +1493,6 @@ probeer het volgende:
   <string name="network_assistant">Data gebruik</string>
   <string name="network_detail">%s Netwerk detail</string>
   <string name="network_settings_title">Mobiele netwerken</string>
-  <string name="network_state_label">Netwerk Status:</string>
-  <string name="networkid_label">Netwerk ID:</string>
   <string name="networks">Operator selecteren</string>
   <string name="new_backup_pw_prompt">Geef hier een nieuw wachtwoord voor volledige back-ups op</string>
   <string name="new_bw_list_button">Contact toevoegen</string>
@@ -2198,7 +2172,6 @@ probeer het volgende:
   <string name="roaming_reenable_title">Gegevensroaming toestaan?</string>
   <string name="roaming_turn_it_on_button">Inschakelen</string>
   <string name="roaming_warning">Wanneer u gegevensroaming toestaat, kunnen er hoge roamingkosten in rekening worden gebracht.</string>
-  <string name="rssi_label">RSSI:</string>
   <string name="rubbish_cleaning">Systeem opschonen</string>
   <string name="running_processes_item_description_p_p">%1$d processen en %2$d services</string>
   <string name="running_processes_item_description_p_s">%1$d processen en %2$d service</string>
@@ -2213,7 +2186,6 @@ probeer het volgende:
   <string name="runningservices_settings_title">Actieve services</string>
   <string name="save_button">Opslaan</string>
   <string name="scan_done">Scan voltooid</string>
-  <string name="scan_list_label">Scan resultaten:</string>
   <string name="scanning_prefix">Scannen: %s</string>
   <string name="scanning_start_hints">Voorbereiden…</string>
   <string name="scanning_virus">Scannen...</string>
@@ -2432,7 +2404,6 @@ Pogingen Resterende :"</string>
   <string name="spellchecker_quick_settings">Instellingen</string>
   <string name="spellchecker_security_warning">Deze spellingcontrole verzamelt mogelijk alle tekst die u typt, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. De service is afkomstig uit de app %1$s. Wilt u deze spellingcontrole gebruiken?</string>
   <string name="spellcheckers_settings_title">Spellingcontrole</string>
-  <string name="ssid_label">SSID:</string>
   <string name="start_checking_memory">Geheugen conditie controleren...</string>
   <string name="start_checking_protection">Realtime beveiliging controleren...</string>
   <string name="start_checking_trash">Applicatie cache controleren...</string>
@@ -2482,14 +2453,12 @@ Pogingen Resterende :"</string>
   <string name="subscription_02_summary">Opties instellen voor SUB2 netwerk</string>
   <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Een mobiele provider kiezen</string>
-  <string name="summary_font_size">%1$s</string>
   <string name="summary_install_virus">Controleer apps op virussen voor installatie</string>
   <string name="summary_mms">Filter ongewenste berichten (verkopen, reclame, etc.)</string>
   <string name="summary_permission">Bescherm mijn privacy tegen apps van derden</string>
   <string name="summary_usb">Voorkom virus verspreiding via USB verbinding</string>
   <string name="summary_virus">%2$d virussen gevonden</string>
   <string name="summary_virus_update">Virus definities automatisch bijwerken wanneer verbonden met Wi-Fi</string>
-  <string name="supplicant_state_label">Supplicant State:</string>
   <string name="sync_active">Sync actief</string>
   <string name="sync_automatically">Appgegevens automatisch synchr.</string>
   <string name="sync_calendar">Agenda</string>
@@ -2525,7 +2494,6 @@ Pogingen Resterende :"</string>
   <string name="testing_phone_info">Telefooninformatie</string>
   <string name="testing_sim_toolkit">Sim-toolkit</string>
   <string name="testing_usage_stats">Gebruiksstatistieken</string>
-  <string name="testing_wifi_info">Wi-Fi informatie</string>
   <string name="tether_settings_title_all">Tetheren</string>
   <string name="tether_settings_title_bluetooth">Bluetooth-tethering</string>
   <string name="tether_settings_title_usb">USB-tethering</string>
@@ -2533,7 +2501,6 @@ Pogingen Resterende :"</string>
   <string name="tether_settings_title_wifi">Draagbare hotspot</string>
   <string name="tethering_help_button_text">Help</string>
   <string name="time_picker_title">Tijd</string>
-  <string name="time_zone_auto_stub">Selecteer Tijdzone</string>
   <string name="timezone_settings">TijdZone</string>
   <string name="title_app_update_no">%d apps hebben updates</string>
   <string name="title_app_update_yes">Alle apps zijn bijgewerkt</string>
@@ -2937,7 +2904,6 @@ Pogingen Resterende :"</string>
   <string name="wifi_advanced_mac_address_title">MAC-adres</string>
   <string name="wifi_advanced_settings_label">IP-instellingen</string>
   <string name="wifi_advanced_titlebar">Geavanceerde Wi-Fi-instellingen</string>
-  <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Automatisch verbinden</string>
   <string name="wifi_cancel">Annuleren</string>
   <string name="wifi_certificate">Wi-Fi Certificaat</string>
@@ -2952,9 +2918,7 @@ Pogingen Resterende :"</string>
   <string name="wifi_disabled_network_failure">Slechte internetverbinding vermeden</string>
   <string name="wifi_disabled_password_failure">Authenticatieprobleem</string>
   <string name="wifi_dns1">DNS 1</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
-  <string name="wifi_dns2_hint">4.4.4.4</string>
   <string name="wifi_eap_anonymous">Anonieme identiteit</string>
   <string name="wifi_eap_ca_cert">CA-certificaat</string>
   <string name="wifi_eap_identity">Identiteit</string>
@@ -2971,10 +2935,8 @@ Pogingen Resterende :"</string>
   <string name="wifi_failed_save_message">Opslaan van netwerk is mislukt</string>
   <string name="wifi_forget">Vergeten</string>
   <string name="wifi_gateway">Gateway</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_in_airplane_mode">In vliegmodus</string>
   <string name="wifi_ip_address">IP-adres</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">IP-instellingen</string>
   <string name="wifi_ip_settings_invalid_dns">Voer een geldig DNS-adres in.</string>
   <string name="wifi_ip_settings_invalid_gateway">Voer een geldig gateway-adres in.</string>
@@ -2993,7 +2955,6 @@ Pogingen Resterende :"</string>
   <string name="wifi_menu_wps_pin">WPS pincode</string>
   <string name="wifi_more">Meer</string>
   <string name="wifi_network_prefix_length">Lengte van netwerkprefix</string>
-  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Niet binnen bereik</string>
   <string name="wifi_notify_open_networks">Netwerkmelding</string>
   <string name="wifi_notify_open_networks_summary">Melden wanneer een open netwerk beschikbaar is</string>
@@ -3029,19 +2990,9 @@ Pogingen Resterende :"</string>
   <string name="wifi_security">Beveiliging</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Geen</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_wep">WEP</string>
-  <string name="wifi_security_short_wpa">WPA</string>
-  <string name="wifi_security_short_wpa2">WPA2</string>
-  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-  <string name="wifi_security_wep">WEP</string>
-  <string name="wifi_security_wpa">WPA PSK</string>
-  <string name="wifi_security_wpa2">WPA2 PSK</string>
-  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_setting_frequency_band_error">Probleem bij instellen van het frequentiebeleid.</string>
   <string name="wifi_setting_frequency_band_summary">Het frequentiebereik voor gebruik opgeven</string>
   <string name="wifi_setting_frequency_band_title">Wi-Fi-frequentieband</string>
@@ -3117,14 +3068,7 @@ Pogingen Resterende :"</string>
   <string name="wifi_speed">Linksnelheid</string>
   <string name="wifi_ssid">SSID van netwerk</string>
   <string name="wifi_starting">Wi-Fi inschakelen...</string>
-  <string name="wifi_state_disabled">Uitgeschakeld</string>
-  <string name="wifi_state_disabling">Uitschakelen</string>
-  <string name="wifi_state_enabled">Ingeschakeld</string>
-  <string name="wifi_state_enabling">Inschakelen</string>
-  <string name="wifi_state_label">Wi-Fi Staat:</string>
-  <string name="wifi_state_unknown">Onbekend</string>
   <string name="wifi_status">Status</string>
-  <string name="wifi_status_test">Wi-Fi Status</string>
   <string name="wifi_stopping">Wi-Fi uitschakelen...</string>
   <string name="wifi_tether_checkbox_text">Draagbare Wi-Fi-hotspot</string>
   <string name="wifi_tether_configure_ap_text">Wi-Fi-hotspot instellen</string>
@@ -3134,7 +3078,6 @@ Pogingen Resterende :"</string>
   <string name="wifi_tether_failed_subtext">Fout met draagbare Wi-Fi-hotspot</string>
   <string name="wifi_unchanged">(ongewijzigd)</string>
   <string name="wifi_unspecified">(niet opgegeven)</string>
-  <string name="wifi_update">Refresh Stats</string>
   <string name="wifi_wapi_as_cert">WAPI AS Certificaat</string>
   <string name="wifi_wapi_cert_cancel_button">Annuleren</string>
   <string name="wifi_wapi_cert_create_subdir">Maak een directory</string>
