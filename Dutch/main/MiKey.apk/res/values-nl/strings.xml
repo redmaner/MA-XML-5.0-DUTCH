@@ -7,7 +7,7 @@
   <string name="action_clear_sms_inbox">SMS Inbox wissen</string>
   <string name="action_close">Sluiten</string>
   <string name="action_home">Startscherm</string>
-  <string name="action_lock_screen">Vergrende scherm</string>
+  <string name="action_lock_screen">Vergrendelscherm</string>
   <string name="action_open_camera">Camera</string>
   <string name="action_open_camera2">Camera</string>
   <string name="action_open_flashlight">Zaklamp</string>
