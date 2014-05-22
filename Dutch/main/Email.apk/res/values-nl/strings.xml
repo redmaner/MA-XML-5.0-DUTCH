@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ApplicationIconMore99">99+</string>
-  <string name="Folders">Folders</string>
-  <string name="abc_action_bar_home_description">Navigate home</string>
-  <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
+  <string name="Folders">Mappen</string>
+  <string name="abc_action_bar_home_description">Navigeer thuis</string>
+  <string name="abc_action_bar_up_description">Navigeer omhoog</string>
+  <string name="abc_action_menu_overflow_description">Meer opties</string>
+  <string name="abc_action_mode_done">Klaar</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_activitychooserview_choose_application">Kies een app</string>
   <string name="abc_searchview_description_clear">Clear query</string>
   <string name="abc_searchview_description_query">Search query</string>
   <string name="abc_searchview_description_search">Search</string>
@@ -15,17 +15,12 @@
   <string name="abc_searchview_description_voice">Voice search</string>
   <string name="abc_shareactionprovider_share_with">Share with</string>
   <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"U gebruikt deze gebruikersnaam al voor het account '%s'."</string>
   <string name="account_duplicate_dlg_title">Dubbel account</string>
   <string name="account_folder_list_summary_drafts">Concepten</string>
   <string name="account_folder_list_summary_inbox">Postvak IN</string>
   <string name="account_folder_list_summary_outbox">Postvak UIT</string>
   <string name="account_folder_list_summary_starred">Met ster</string>
-  <string name="account_manager_type_exchange">com.android.exchange</string>
-  <string name="account_manager_type_imap">com.android.email</string>
-  <string name="account_manager_type_legacy_imap">com.android.email</string>
-  <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">Duplicate with existing one, please rename</string>
   <string name="account_password_spaces_error">Dit wachtwoord begint of eindigt met een of meer spaties. Veel servers bieden geen ondersteuning voor wachtwoorden met spaties.</string>
   <string name="account_security_dialog_content_fmt">Voor %s moet u uw beveiligingsinstellingen bijwerken.</string>
@@ -262,7 +257,6 @@
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
   <string name="colon">:</string>
   <string name="compose">Opstellen</string>
-  <string name="compose_help_context">compose</string>
   <string name="compose_send">Send</string>
   <string name="compose_sent">Sent Successfully</string>
   <string name="confirm">confirm</string>
@@ -295,7 +289,6 @@
   <string name="contextmenu_send_mail">E-mail verzenden</string>
   <string name="contextmenu_sharelink">Link delen</string>
   <string name="contextmenu_sms_dot">"Sms'en…"</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Verplaatst naar %1$s</string>
   <string name="conversation_item_mark_read">Read</string>
   <string name="conversation_item_mark_unread">Unread</string>
@@ -358,7 +351,6 @@
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
   <string name="email_package_name">com.android.email</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">Could not find account</string>
   <string name="empty_email_tip">Could not send Empty Email</string>
   <string name="empty_spam">Spammap leegmaken</string>
@@ -394,7 +386,6 @@
   <string name="forward_attribution_no_headers">---------- Doorgestuurd bericht ----------</string>
   <string name="forward_download_failed_ticker">Kan een of meer bijlagen niet doorsturen.</string>
   <string name="forward_download_failed_title">Bijlage niet doorgestuurd</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from">From</string>
   <string name="from_heading">"Van: "</string>
   <string name="general_preference_confirm_delete_label">Bevestigen vóór verwijderen</string>
@@ -428,7 +419,6 @@
   <string name="invalid_recipient">"Het adres '%s' is ongeldig."</string>
   <string name="kilobytes">%s kB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
-  <string name="load_attachment">@string/load_more</string>
   <string name="load_more">Meer laden</string>
   <string name="loading_conversation">Laden...</string>
   <string name="loading_conversations">Laden…</string>
@@ -447,14 +437,6 @@
   <string name="mailbox_name_display_starred">Met ster</string>
   <string name="mailbox_name_display_trash">Prullenbak</string>
   <string name="mailbox_name_display_unread">Ongelezen</string>
-  <string name="mailbox_name_server_all_unread">Unread</string>
-  <string name="mailbox_name_server_drafts">Drafts</string>
-  <string name="mailbox_name_server_inbox">Inbox</string>
-  <string name="mailbox_name_server_junk">Junk</string>
-  <string name="mailbox_name_server_outbox">Outbox</string>
-  <string name="mailbox_name_server_sent">Sent</string>
-  <string name="mailbox_name_server_starred">Starred</string>
-  <string name="mailbox_name_server_trash">Trash</string>
   <string name="mailbox_settings_activity_title">Synchronisatieopties</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Synchronisatieopties (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Dagen waarvoor e-mail wordt gesynchroniseerd</string>
@@ -522,7 +504,6 @@ Cc: %4$s
   <string name="message_invite_title">Agenda-uitnodiging</string>
   <string name="message_saved">Bericht opgeslagen als concept.</string>
   <string name="message_view_attachment_background_load">Een of meer bijlagen in uw doorgestuurde bericht worden gedownload voordat het bericht wordt verzonden.</string>
-  <string name="mock_content_provider">Mock Content Provider</string>
   <string name="more_atts_total">%1$d attachments in total</string>
   <string name="more_info_attachment">Info</string>
   <string name="more_string">+%1$s</string>
@@ -621,8 +602,6 @@ size exceeds receiving limit"</string>
   <string name="policy_screen_timeout">Inactief apparaat vergrendelt scherm</string>
   <string name="policy_text_truncation">Restrict text email size</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">list</string>
-  <string name="prefDefault_removal_action">archive</string>
   <string name="prefDialogTitle_conversationListIcon">Afbeelding van afzender</string>
   <string name="prefDialogTitle_removal_action">Acties voor archiveren of verwijderen</string>
   <string name="preference_removal_action_title">Acties voor archiveren of verwijderen</string>
@@ -654,8 +633,6 @@ size exceeds receiving limit"</string>
   <string name="quick_responses_empty_view">Geen snelle reacties.</string>
   <string name="quote_begin">&lt;div class=\"quote\"&gt;</string>
   <string name="quoted_text">Tekst uit oorspronkelijk bericht weergeven</string>
-  <string name="quoted_text_background_color_string">@android:color/white</string>
-  <string name="quoted_text_font_color_string">@color/gray_text_color</string>
   <string name="quoted_text_label">Geciteerde tekst</string>
   <string name="read_string">conversatie gelezen</string>
   <string name="recent_folders_heading">Recente mappen</string>
@@ -672,14 +649,9 @@ size exceeds receiving limit"</string>
   <string name="reply">Beantwoorden</string>
   <string name="reply_all">Allen beantw.</string>
   <string name="reply_attribution" formatted="false">Op %s schreef %s:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Antwoord: "</string>
   <string name="report">Rapporteren</string>
   <string name="report_phishing">Phishing melden</string>
-  <string name="report_rendering_improvement">Looks good</string>
-  <string name="report_rendering_improvement_desc">This message looks good.</string>
-  <string name="report_rendering_problem">Looks bad</string>
-  <string name="report_rendering_problem_desc">This message looks bad.</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Request file too large!</string>
   <string name="require_manual_sync_message">Achtergrondsynchronisatie voor dit account is uitgeschakeld tijdens roaming.</string>
@@ -799,11 +771,9 @@ Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n ke
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Please slide from the top to get the notification. Click to finish the security setting.</string>
   <string name="wait_for_sync_title">Wachten op synchronisatie</string>
-  <string name="wait_help_context">wait</string>
   <string name="widget_all_mail">All Mail</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Other</string>
-  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">Wrong password!</string>
   <string name="yes">Ja</string>
   <string name="zip_viewer_no_file">No files!</string>
