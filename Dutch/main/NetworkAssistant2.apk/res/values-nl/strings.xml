@@ -134,7 +134,7 @@ Verbruikt"</string>
   <string name="pref_package_traffic_settings">Mobiel datalimiet</string>
   <string name="pref_pkg_begin_date">Gebruik cyclus reset datum</string>
   <string name="pref_setting_operators_message">Bericht aanpassen dat uw apparaat verzend naar uw provider om uw dataverbruik stats te synchroniseren</string>
-  <string name="pref_show_mobile_traffic">Als u uw telefoon ontgrendelt, toon dataverbruik stats van de periode dat het apparaat stand-by was (moet langer zijn dan 3 minuten)</string>
+  <string name="pref_show_mobile_traffic">Als u uw telefoon ontgrendelt, toon dataverbruik stats van de periode dat het apparaat stand-by was (moet langer zijn dan 5 minuten)</string>
   <string name="pref_special_traffic_exceed_limit">Waarschuw mij als datalimiet is bereikt</string>
   <string name="pref_special_traffic_limit_warn">Dataverbruik waarschuwing instellen</string>
   <string name="pref_specified_adjust">Aangepast datalimiet instellen</string>

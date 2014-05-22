@@ -73,6 +73,7 @@
   <string name="unknown_apps_dlg_text">"Voor de veiligheid is uw telefoon ingesteld op het blokkeren van de installatie van apps die niet afkomstig zijn van Google Play store. Wijzigen via Instellingen-&gt;Beveiliging-&gt;Onbekende bronnen."</string>
   <string name="unknown_apps_dlg_title">De installatie is geblokkeerd</string>
   <string name="unknown_installer">Onbekende installer</string>
+  <string name="virus_scan_caller_unknown">Onbekend</string>
   <string name="virus_scan_clear">Verwijderen</string>
   <string name="virus_scan_install">" "&lt;u&gt;&amp;#32487;&amp;#32493;&amp;#23433;&amp;#35013;&lt;/u&gt;" "</string>
   <string name="virus_scan_is_risk">Deze app bevat een risico!</string>

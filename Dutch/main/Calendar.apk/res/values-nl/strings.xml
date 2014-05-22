@@ -24,8 +24,6 @@
   <string name="acessibility_selected_marker_description">Geselecteerde afspraak</string>
   <string name="acessibility_snooze_notification">Snooze Notificatie</string>
   <string name="action_bar_today">T</string>
-  <string name="activity_summary">10 yuan lotterij</string>
-  <string name="activity_title">"MIUI Nieuwjaar cadeau's"</string>
   <string name="add_account">Account toevoegen</string>
   <string name="add_calendar">订阅</string>
   <string name="add_topic_success">订阅\"%s\"成功</string>
@@ -48,6 +46,7 @@
   <string name="birthday_notification_type_term_lunar"/>
   <string name="button_day">D</string>
   <string name="button_month">M</string>
+  <string name="button_online">订</string>
   <string name="calendar_refresh">Vernieuwen</string>
   <string name="calendar_server_error">网络错误</string>
   <string name="change_response_title">Reactie wijzigen</string>
@@ -95,8 +94,10 @@
   <string name="event_account">Agenda account</string>
   <string name="event_all_day_label">Hele dag</string>
   <string name="event_create">Nieuwe afspraak</string>
+  <string name="event_date_format">dd/MM</string>
   <string name="event_delete">Afspraak verwijderen</string>
   <string name="event_edit">Afspraak bewerken</string>
+  <string name="event_full_date_format">dd/MM/yyyy</string>
   <string name="event_hide_more">Verbergen</string>
   <string name="event_info_descrip">"Beschrijving: "</string>
   <string name="event_info_organizer">Organisator:</string>
@@ -119,10 +120,10 @@
   <string name="hint_description">Beschrijving</string>
   <string name="hint_what">Afspraaknaam</string>
   <string name="hint_where">Locatie</string>
-  <string name="holiday_label">节日</string>
+  <string name="holiday_label">中国节日</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
-  <string name="huangli_label">老黄历</string>
+  <string name="huangli_label">中国黄历</string>
   <string name="jump_date">Overslaan</string>
   <string name="jump_date_full">Spring naar datum</string>
   <string name="label_recent_events">近期事件</string>
@@ -167,8 +168,14 @@
   <string name="no_title_label">(Geen titel)</string>
   <string name="not_synced">niet gesynchroniseerd</string>
   <string name="online_calendar_activity_label">订阅日历</string>
+  <string name="online_reminder_header_text">提醒</string>
+  <string name="online_reminder_primary_text">启用提醒</string>
+  <string name="online_reminder_secondary_text">提醒时间</string>
+  <string name="online_reminder_time_allday">上午9点</string>
+  <string name="online_reminder_time_text">提前%d分钟</string>
   <string name="pengzu"/>
   <string name="prefDialogTitle_vibrateWhen">Trillen</string>
+  <string name="pref_title_alarm_remind">Alarm herinnering</string>
   <string name="pref_title_alert_remind">Opwaardeer herinnering</string>
   <string name="pref_title_no_remind">Geen herinnering</string>
   <string name="pref_title_notification_remind">Herinnerings notificatie</string>
@@ -221,6 +228,7 @@
   <string name="select_synced_calendars_button">"Agenda's om te synchroniseren"</string>
   <string name="select_synced_calendars_title">"Agenda's om te synchroniseren"</string>
   <string name="select_visible_calendars_title">"Agenda's om weer te geven"</string>
+  <string name="setting_load_images_under_data_conn">非WIFI网络下加载在线订阅大图</string>
   <string name="show_controls">Bediening weergeven</string>
   <string name="show_day_view">Dag weergeven</string>
   <string name="show_newer_events">Raak aan om afspraken na %1$s weer te geven</string>
@@ -230,7 +238,7 @@
   <string name="subscribe_all">全部订阅</string>
   <string name="synced">gesynchroniseerd</string>
   <string name="tab_local">已订阅</string>
-  <string name="tab_online">在线</string>
+  <string name="tab_online">推荐</string>
   <string name="taishen"/>
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index">Afspraak %1$s van %2$s.</string>
@@ -239,9 +247,9 @@
   <string name="today">Vandaag</string>
   <string name="today_at_time_fmt">Vandaag om %s</string>
   <string name="today_no_events">Geen afspraken vandaag</string>
-  <string name="today_weather_unavailable">无法获取天气信息</string>
   <string name="tomorrow">Morgen</string>
   <string name="tomorrow_at_time_fmt">Morgen om %s</string>
+  <string name="topic_event_list_header_label">近期活动</string>
   <string name="view_event_calendar_label">Agenda:</string>
   <string name="view_event_organizer_label">Organisator:</string>
   <string name="view_event_response_label">Aanwezig?</string>

@@ -82,6 +82,7 @@
   <string name="menu_stats">FM RF Stats</string>
   <string name="msg_callactive">FM Tx is niet ondersteund tijdens een oproep</string>
   <string name="msg_do_not_support_fm">FM is niet ondersteund op dit apparaat.</string>
+  <string name="msg_fm_starting">Starten…</string>
   <string name="msg_headsetpluggedin">Ontkoppel alle headsets voor het gebruik van FM Tx</string>
   <string name="msg_noantenna_message">Sluit een hoofdtelefoon aan voor betere kwaliteit.</string>
   <string name="msg_scanning">Scannen naar alle FM Stations</string>
