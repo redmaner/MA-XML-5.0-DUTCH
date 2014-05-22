@@ -522,6 +522,7 @@ Reden: '%s'"</string>
   <string name="menu_create_contact_shortcut">Plaatsen op startscherm</string>
   <string name="menu_deleteContact">Verwijderen</string>
   <string name="menu_deleteGroup">Verwijderen</string>
+  <string name="menu_dial_ip_number">IP oproep bellen</string>
   <string name="menu_dialpad_text">Kiezer</string>
   <string name="menu_discard">Annuleren</string>
   <string name="menu_display_all">Alles weergeven</string>

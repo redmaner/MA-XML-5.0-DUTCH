@@ -217,6 +217,7 @@
   <string name="new_playlist">Nieuwe afspeellijst</string>
   <string name="new_playlist_name_template">Afspeellijst %d</string>
   <string name="no_effect">Vlak</string>
+  <string name="no_music_to_play">Geen muziek om af te spelen</string>
   <string name="no_song_downloaded">Nummer kan niet worden gedownload</string>
   <string name="normal_quality">Normale kwaliteit</string>
   <string name="not_login">Inloggen</string>

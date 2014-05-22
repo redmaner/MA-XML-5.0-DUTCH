@@ -16,15 +16,15 @@
   <string name="begin_date">Gebruikscyclus reset datum</string>
   <string name="cancel_button">Annuleren</string>
   <string name="daily_pkg_traffic">Piek dataverbruik limiet instellen</string>
-  <string name="data_usage_correction_timeout_body">Aanraken om handmatig bij te werken.</string>
+  <string name="data_usage_correction_timeout_body">Aanraken om handmatig bij te werken</string>
   <string name="data_usage_correction_timeout_title">Dataverbruik synchronisatie gepauzeerd</string>
   <string name="data_usage_disabled_dialog">"U heeft uw datalimiet bereikt. 
 
 Gebruik van data over uw datalimiet kan extra kosten opleveren."</string>
   <string name="data_usage_disabled_dialog_enable">Data inschakelen</string>
-  <string name="data_usage_leisure_warning_body">Aanraken om dataverbruik details weer te geven.</string>
+  <string name="data_usage_leisure_warning_body">Aanraken om dataverbruik details weer te geven</string>
   <string name="data_usage_leisure_warning_title">Off-peak datalimiet</string>
-  <string name="data_usage_limit_body">Aanraken om mobiele data in te schakelen.</string>
+  <string name="data_usage_limit_body">Aanraken om mobiele data in te schakelen</string>
   <string name="data_usage_limit_snoozed_body">U heeft uw datalimiet bereikt</string>
   <string name="data_usage_mobile_limit_snoozed_title">Datalimiet overschreden</string>
   <string name="data_usage_mobile_limit_title">Mobiele data is uitgeschakeld</string>
@@ -33,7 +33,7 @@ Gebruik van data over uw datalimiet kan extra kosten opleveren."</string>
   <string name="data_usage_no_total_package_title">Dataverbruik</string>
   <string name="data_usage_restricted_body">Aanraken om achtergrond data in te schakelen</string>
   <string name="data_usage_restricted_title">Achtergrond data is beperkt</string>
-  <string name="data_usage_warning_body">Aanraken om dataverbruik details weer te geven.</string>
+  <string name="data_usage_warning_body">Aanraken om dataverbruik details weer te geven</string>
   <string name="data_usage_warning_title">Dataverbruik waarschuwing</string>
   <string name="declaration_dialog_msg">Deze functie helpt u dataverbruik in de gaten te houden, het is echter geen garantie om extra datakosten te voorkomen. Stel een conservatief datalimiet in om het beste resultaat te bereiken.</string>
   <string name="deleted_apps">Verwijderde Apps</string>
@@ -81,7 +81,7 @@ Resterend"</string>
 Verbruikt"</string>
   <string name="manual_input_free_traffic">Off-peak datavebruik instellen</string>
   <string name="manual_input_traffic">Dataverbruik instellen</string>
-  <string name="network_assistant_upgraded_body">Tik om dataverbruik te beperken.</string>
+  <string name="network_assistant_upgraded_body">Tik om dataverbruik te beperken</string>
   <string name="network_assistant_upgraded_title">Update voltooid</string>
   <string name="network_control">App instellingen bekijken</string>
   <string name="notification_content_title">Verbruikt %1$s tijdens vergrendeling</string>
@@ -126,6 +126,7 @@ Verbruikt"</string>
   <string name="pref_month_begin_date">Gebruik cyclus reset datum</string>
   <string name="pref_month_first_day">Eerste dag van de maand</string>
   <string name="pref_more_traffic_settings">Extra instellingen</string>
+  <string name="pref_new_installed_preconfig_title">Standaard instellingen voor nieuwe apps</string>
   <string name="pref_open_adjust_traffic">"Sync uw dataverbruik stats met uw provider's servers"</string>
   <string name="pref_package_traffic_leisure">%1$s | Off-peak: %2$s</string>
   <string name="pref_package_traffic_normal">Peak: %s</string>
@@ -141,7 +142,7 @@ Verbruikt"</string>
   <string name="pref_title_declaration">Belangrijke disclaimer</string>
   <string name="pref_title_mobile_traffic">Dataverbruik weergeven wanneer vergrendeld</string>
   <string name="pref_title_network_diagnostics">Netwerk diagnose</string>
-  <string name="pref_title_traffic_speed_state">Netwerksnelheid weergeven in statusbalk</string>
+  <string name="pref_title_traffic_speed_state">Netwerksnelheid weergeven</string>
   <string name="pref_title_update_notification">Dataverbruik notificaties weergeven</string>
   <string name="pref_version">Versie %s</string>
   <string name="pref_warning_values">Dataverbruik waarschuwings niveau</string>
@@ -161,7 +162,7 @@ Verbruikt"</string>
   <string name="traffic_protection_label">Dataverbruik waarschuwing</string>
   <string name="traffic_protection_next">Volgende</string>
   <string name="traffic_protection_summary">Waarschuwingen instellen als uw dataverbruik een bepaald niveau bereikt</string>
-  <string name="traffic_protection_text_hint">Een datalimiet instellen</string>
+  <string name="traffic_protection_text_hint">Een datalimiet instellen voor %s</string>
   <string name="traffic_protection_unknown">&lt;u&gt;Later instellen&lt;/u&gt;</string>
   <string name="traffic_protection_use_data">Data ingeschakeld</string>
   <string name="traffic_setting_fragment_area">Locale</string>
