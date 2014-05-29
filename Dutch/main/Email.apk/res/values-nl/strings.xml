@@ -229,7 +229,7 @@
   <string name="auto_sync_off">Automatische synchronisatie is uitgeschakeld.</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
- <string name="blank_feedback_toast">De feedback is leeg, voer feedback in!</string>
+  <string name="blank_feedback_toast">De feedback is leeg, voer feedback in!</string>
   <string name="body_hint">E-mail opstellen</string>
   <string name="bytes">%s B</string>
   <string name="cancel">Annuleren</string>
@@ -683,7 +683,7 @@ grootte overschrijd het ontvanglimiet"</string>
   <string name="sending">Verzenden...</string>
   <string name="sending_message">Bericht wordt verzonden…</string>
   <string name="sent_folder_selection_title">"Map 'Verzonden items' van server selecteren voor %s"</string>
-  <string name="set_network">Netwerk instellen</string> 
+  <string name="set_network">Netwerk instellen</string>
   <string name="settings_activity_title">Instellingen</string>
   <string name="sharing">Delen</string>
   <string name="shortcut_name_title">Snelkoppeling naar map een naam geven</string>
