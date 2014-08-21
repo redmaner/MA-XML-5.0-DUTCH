@@ -13,6 +13,12 @@
   <string name="debug_tool_email_subject">Database voor Agenda bijgevoegd</string>
   <string name="debug_tool_message">U staat op het punt 1) een kopie van uw agenda-database te maken op de SD-kaart/USB-opslag die kan worden gelezen via een app en 2) deze te e-mailen. Verwijder de kopie zodra u deze van het apparaat heeft gekopieerd of de e-mail is ontvangen.</string>
   <string name="debug_tool_start_button">Starten</string>
+  <string name="holiday_data_no_network">No network, please try again later</string>
+  <string name="holiday_data_update_failed">Check for update errors and please try again later.</string>
+  <string name="holiday_data_update_succeed">Check for completed update</string>
+  <string name="holiday_data_updating">Updating...</string>
+  <string name="holiday_update_summary">Click check updates</string>
+  <string name="holiday_update_title">Work days data need connect network and update</string>
   <string name="provider_label">Agenda</string>
   <string name="upgrade_msg">Agenda-database bijwerken.</string>
 </resources>

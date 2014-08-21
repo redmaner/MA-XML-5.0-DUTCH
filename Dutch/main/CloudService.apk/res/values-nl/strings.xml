@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Xiaomi sync</string>
-  <string name="find_device">Zoek apparaat</string>
+  <string name="find_device_noise_title">Locate device sound</string>
   <string name="find_device_stop_noise">Klik \"OK\" om alarmtoon te stoppen</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Verminderd dataverbruik"</string>
   <string name="pref_title_sync_contacts_title">Sync contacten</string>
@@ -9,6 +9,8 @@
   <string name="pref_title_sync_my_profile_title">Mijn profiel synchroniseren</string>
   <string name="sub_sync_item_sms_summary">Sync berichten met WI-FI om extra data kosten te vermijden</string>
   <string name="sub_sync_item_sms_title_wifi_only">Gebruik WI-FI om berichten te synchroniseren</string>
+  <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
+  <string name="sync_item_calllog_title">Sync call logs</string>
   <string name="sync_item_sms_summary">Verminderd dataverbruik</string>
   <string name="sync_item_sms_title">Berichten synchroniseren</string>
 </resources>

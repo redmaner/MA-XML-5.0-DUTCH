@@ -24,7 +24,7 @@
   <string name="access_control_recording_intro_header">Teken patroon om toegang te beperken tot wachtwoorden</string>
   <string name="access_control_reset_by_account">Login Mi Account to reset access control password</string>
   <string name="accessibility_enable">Toegankelijkheid inschakelen</string>
-  <string name="accessibility_long_press_timeout_preference_title">Vertraging voor blijven aanraken</string>
+  <string name="accessibility_long_press_timeout_title">Touch &amp; hold delay</string>
   <string name="accessibility_menu_item_settings">Instellingen</string>
   <string name="accessibility_no_services_installed">Geen services geïnstalleerd</string>
   <string name="accessibility_power_button_ends_call_title">Aan/uit-knop beëindigt oproep</string>
@@ -33,7 +33,7 @@
   <string name="accessibility_script_injection_button_disallow">Niet toestaan</string>
   <string name="accessibility_script_injection_disallowed">Niet toegestaan</string>
   <string name="accessibility_script_injection_security_warning_summary">Wilt u dat apps scripts installeren van Google waardoor de webinhoud van de apps toegankelijker wordt?</string>
-  <string name="accessibility_script_injection_security_warning_title">Webscripts installeren?</string>
+  <string name="accessibility_script_injection_title">Enhance web accessibility</string>
   <string name="accessibility_service_default_description">Geen beschrijving opgegeven.</string>
   <string name="accessibility_service_disable_warning_summary">"Als u 'OK' aanraakt, wordt %1$s beëindigd."</string>
   <string name="accessibility_service_disable_warning_title">%1$s beëindigen?</string>
@@ -51,7 +51,7 @@
   <string name="accessibility_sync_enabled">Synchronisatie is ingeschakeld</string>
   <string name="accessibility_sync_error">Synchronisatiefout.</string>
   <string name="accessibility_system_title">Systeem</string>
-  <string name="accessibility_toggle_large_text_preference_title">Grote tekst</string>
+  <string name="accessibility_toggle_large_text_title">Large text</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Synchroniseren</string>
   <string name="act_action_accept_accept">Toepassen</string>
@@ -154,6 +154,7 @@
   <string name="apn_settings">"APN's"</string>
   <string name="apn_type">APN-type</string>
   <string name="apn_user">Gebruikersnaam</string>
+  <string name="app_backup">Backup</string>
   <string name="app_disable_dlg_text">Als u een ingebouwde app uitschakelt, kunnen andere apps onverwacht gedrag vertonen.</string>
   <string name="app_disable_dlg_title">Ingebouwde app uitschakelen?</string>
   <string name="app_disable_notifications_dlg_text">Als u meldingen voor deze app uitschakelt, mist u misschien belangrijke waarschuwingen en updates.</string>
@@ -161,6 +162,7 @@
   <string name="app_factory_reset">Updates verwijderen</string>
   <string name="app_factory_reset_dlg_text">Alle updates van deze app van het Android-systeem worden verwijderd.</string>
   <string name="app_factory_reset_dlg_title">Updates verwijderen?</string>
+  <string name="app_feedback">Report bug</string>
   <string name="app_floating_window_dlg_disable">"uitschakelen %1$s's zwevende venster instellingen zal de app geforceerd stoppen. Weet u zeker dat u het wilt uitschakelen?"</string>
   <string name="app_floating_window_dlg_enable">"Inschakelen %1$s's zwevende venster instellingen vereist de app te herstarten. Weet u zeker dat u het wilt inschakelen?"</string>
   <string name="app_forward_locked">App is beveiligd tegen kopiëren.</string>
@@ -186,7 +188,6 @@
   <string name="applications_settings_summary">Apps beheren, sneltoetsen voor snelstarten instellen</string>
   <string name="applications_sort_type_item_size">Grootte</string>
   <string name="applications_sort_type_item_time">Vaak gebruikt</string>
-  <string name="applications_sort_type_title">Sorteren</string>
   <string name="ask_compatibility">Vragen bij starten</string>
   <string name="assisted_gps">Ondersteunde GPS gebruiken</string>
   <string name="assisted_gps_disabled">Server gebruiken ter ondersteuning van GPS (uitschakelen om GPS-prestaties te verbeteren)</string>
@@ -295,6 +296,7 @@
   <string name="battery_stats_charging_label">Opladen</string>
   <string name="battery_stats_duration">%1$s sinds losgekoppeld</string>
   <string name="battery_stats_gps_on_label">GPS ingeschakeld</string>
+  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">%1$s op batterij</string>
   <string name="battery_stats_phone_signal_label">Signaal mobiel netwerk</string>
   <string name="battery_stats_screen_on_label">Scherm aan</string>
@@ -481,13 +483,13 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="bluetooth_visibility_timeout_summary">Instellen hoe lang het apparaat vindbaar is</string>
   <string name="breathing_light_color_menu_title">Licht kleur</string>
   <string name="breathing_light_color_summary">LED kleur voor ontvangst nieuwe notificatie</string>
-  <string name="breathing_light_color_title">LED kleur</string>
   <string name="breathing_light_freq_summary">LED pauze tussen flash</string>
   <string name="breathing_light_freq_title">LED flash frequentie</string>
   <string name="brightness">Helderheid</string>
   <string name="brightness_auto_adjust_off">Handmatige helderheid kan aangepast worden door de schuif te bewegen. Scherm helderheid blijft ongewijzigd in elke omgeving. </string>
   <string name="brightness_auto_adjust_on">Automatische helderheid effect kan aangepast worden door de schuif te bewegen. Scherm helderheid zal variëren met uw aanpassingen en omgevingen.</string>
   <string name="brightness_summary">Helderheid van het scherm aanpassen</string>
+  <string name="bssid_label">BSSID:</string>
   <string name="build_number">Build-nummer</string>
   <string name="builtin_keyboard_settings_summary">Instellingen voor vast toetsenbord</string>
   <string name="builtin_keyboard_settings_title">Fysiek toetsenbord</string>
@@ -504,12 +506,15 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="button_text_delete_from_white_list">Verwijderen van uitzonderingen</string>
   <string name="button_text_done">Voltooid</string>
   <string name="button_text_fix">Repareren</string>
+  <string name="button_text_known">I know</string>
   <string name="button_text_quick_scan">Scan starten</string>
   <string name="button_text_security">Beveiliging</string>
   <string name="button_text_uninstall">Verwijderen</string>
   <string name="button_text_uninstall_apps">Verwijderen</string>
   <string name="button_text_view">Bekijken</string>
   <string name="button_text_view_power">Energie bekijken</string>
+  <string name="cache_data_sort_type_item_name">Name</string>
+  <string name="cache_data_sort_type_item_size">Size</string>
   <string name="cache_garbage">Cache</string>
   <string name="cache_header_label">Cachegeheugen</string>
   <string name="cache_list_empty_hints">Geen gecachte bestanden.</string>
@@ -543,6 +548,8 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="carrier_enabled">APN inschakelen/uitschakelen</string>
   <string name="carrier_enabled_summaryOff">APN uitgeschakeld</string>
   <string name="carrier_enabled_summaryOn">APN ingeschakeld</string>
+  <string name="category_key_power_usage_details">key_power_usage_details</string>
+  <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="cdma_security_settings_summary">"'Mijn locatie' instellen, scherm ontgrendelen, opslag van referenties vergrendelen"</string>
   <string name="cell_broadcast_settings">Cell broadcasts</string>
   <string name="cell_broadcast_settings_summary">Selecteer de typen noodoproepen die moeten worden weergegeven.</string>
@@ -574,6 +581,7 @@ Typ pincode om te koppelen met \"%1$s\". [Hoge Veiligheid ingeschakeld: Vereist 
   <string name="common_settings">Normale Instellingen</string>
   <string name="complete_settings">Complete Instellingen</string>
   <string name="computing_size">Berekenen...</string>
+  <string name="config_list_label">Configured networks</string>
   <string name="config_mass_storage_function_name">massaopslag</string>
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
@@ -637,6 +645,12 @@ Als u uw telefoon weer wilt gebruiken, moet u de fabrieksinstellingen herstellen
   <string name="crypt_keeper_unplugged_text">Sluit uw lader aan en probeer het opnieuw.</string>
   <string name="cryptkeeper_emergency_call">Noodoproep</string>
   <string name="cryptkeeper_return_to_call">Terug naar gesprek</string>
+  <string name="cta_button_text_agree">OK</string>
+  <string name="cta_button_text_cancel">Cancel</string>
+  <string name="cta_checkbox_title">"Don't show again"</string>
+  <string name="cta_dialog_msg">Security Center may need to connect to the internet to get updates.</string>
+  <string name="cta_dialog_title">Internet connection</string>
+  <string name="cta_settings">Allow internet connection</string>
   <string name="current_backup_pw_prompt">Typ hier uw huidige wachtwoord voor volledige back-up</string>
   <string name="current_input_method">Standaard</string>
   <string name="custom_mark_category">Aangepast</string>
@@ -708,7 +722,7 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="data_usage_tab_wifi">Wi-Fi</string>
   <string name="data_usage_total_during_range">%2$s: ongeveer %1$s gebruikt</string>
   <string name="data_usage_total_during_range_mobile">%2$s: ongeveer %1$s gebruikt volgens uw telefoon. Uw provider kan dit anders berekenen.</string>
-  <string name="data_usage_uninstalled_apps_users">Verwijder apps en gebruikers</string>
+  <string name="data_usage_uninstalled_apps">Removed apps</string>
   <string name="data_usage_warning_editor_title">Waarschuwing voor gegevensverbruik instellen</string>
   <string name="date_and_time">Datum- en tijdinstellingen</string>
   <string name="date_and_time_settings_summary">Datum, tijd, tijdzone en notaties instellen</string>
@@ -733,6 +747,7 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="debug_debugging_category">Foutopsporing</string>
   <string name="debug_drawing_category">Tekening</string>
   <string name="debug_input_category">Invoer</string>
+  <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">Indelingsgrenzen weerg.</string>
   <string name="debug_layout_summary">Clipgrenzen, marges en meer weergeven.</string>
   <string name="debug_log">Foutopsporings log</string>
@@ -742,13 +757,10 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="deep_clean_summary_install_apps_risk">risico gevonden</string>
   <string name="deep_clean_summary_install_apps_today">vandaag gebruikt</string>
   <string name="deep_clean_summary_install_apps_virus">virus gevonden</string>
-  <string name="deep_clean_tips_cache">"iconSommige apps gebruiken cache bestanden om extra bronnen te downloaden (bijv. songteksten, muziek, afbeeldingen etc.). Wees voorzichtig met het opschonen van deze bestanden."</string>
   <string name="deep_clean_tips_cache_content">"Sommige apps gebruiken cache bestanden om extra hulpbronnen te downloaden. Wees voorzichtig bij het verwijderen van deze bestanden."</string>
   <string name="deep_clean_tips_cache_title">Cache:</string>
-  <string name="deep_clean_tips_large_file">iconOpschonen vindt alleen grote bestaden (groter dan 10MB) die zijn opgeslagen op uw apparaat. U beslist of u ze nog nodig hebt.</string>
   <string name="deep_clean_tips_large_file_content">Grote bestanden (10MB+) die ruimte innemen op uw apparaat.</string>
   <string name="deep_clean_tips_large_file_title">Grote bestanden:</string>
-  <string name="deep_clean_tips_residual">"iconRest bestanden zijn bestanden (video's, achtergronden, muziek etc.) die zijn gedownload naar uw SD-kaart door apps die zijn geïnstalleerd. Wees voorzichtig met het opschonen van deze bestanden omdat ze nog nuttig kunnen zijn."</string>
   <string name="deep_clean_tips_residual_content">"Rest bestanden zijn gedownload door apps die niet meer geïnstalleerd zijn."</string>
   <string name="deep_clean_tips_residual_title">Overgebleven bestanden:</string>
   <string name="deep_clean_title_cache">Cache</string>
@@ -756,6 +768,8 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="deep_clean_title_residual">Rest bestanden</string>
   <string name="deep_clean_title_uninstall_apps">Apps</string>
   <string name="deep_cleaning">Geavanceerd</string>
+  <string name="deepclean_cache_header_left">Cache files: %d</string>
+  <string name="deepclean_sort_type_title">Sort</string>
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_input_method">Kies standaard invoer methode</string>
   <string name="default_usb_mode">Standaard USB connectie type</string>
@@ -794,6 +808,7 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Telefoonnummer, signaal, enzovoort</string>
+  <string name="dialog_message_auto_start_tips">Some security apps may incorrectly indicate that MIUI has prevented them from starting. To check the permissions that have been granted to individual apps, go to Settings &gt; Apps.</string>
   <string name="dialog_msg_backup_and_cleanup_apps">Als de backup is voltooid worden alle app gegevens verwijderd. Waaronder bestanden, instellingen, accounts, databases, etc.</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Apps back-uppen en verwijderen</string>
   <string name="dialog_msg_check_all">Selecteren van %1$s bevestigen die %2$d items bevat</string>
@@ -801,6 +816,7 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="dialog_msg_cleanup_system_cache">Dit verwijderd alle gecachete gegevens van alle apps.</string>
   <string name="dialog_msg_load_cleanup_engine_error">Afval opschoon engine is beschadigd!</string>
   <string name="dialog_msg_uninstall_apps">Deze apps verwijderen?</string>
+  <string name="dialog_title_auto_start_tips">About auto start</string>
   <string name="dialog_title_backup_and_cleanup_apps">App gegevens back-uppen en verwijderen?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Back-up en verwijderen</string>
   <string name="dialog_title_check_all">Alles selecteren</string>
@@ -812,9 +828,15 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="dirac_control">Dirac Beheer</string>
   <string name="dirac_mode_earbuds">"Xiaomi's Earbud oortjes"</string>
   <string name="dirac_mode_general">Algemeen</string>
+  <string name="dirac_mode_general_earbuds">General earbuds</string>
+  <string name="dirac_mode_general_inear">General inear</string>
   <string name="dirac_mode_in_ear">"Xiaomi's In-Ear oortjes"</string>
   <string name="dirac_mode_off">Dirac Uit</string>
+  <string name="dirac_mode_piston_1">Mi piston-1</string>
   <string name="dirac_mode_piston_100">Xiaomi piston oortjes</string>
+  <string name="dirac_mode_piston_2">Mi piston-2</string>
+  <string name="dirac_mode_piston_youth">Mi piston-youth</string>
+  <string name="disableNetwork">disableNetwork</string>
   <string name="disable_adb_debug_summary">USB-foutopsporing uitschakelen</string>
   <string name="disable_anti_spam_summary">Berichten filter uitgeschakeld</string>
   <string name="disable_app_permission_summary">Machtigingen monitor uitgeschakeld</string>
@@ -823,6 +845,7 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="disable_power_key_long_press_under_keyguard">Schakel uit in schermvergrendeling</string>
   <string name="disable_text">Uitschakelen</string>
   <string name="disabled">Uitgeschakeld</string>
+  <string name="disconnect">disconnect</string>
   <string name="display_font_size_label">Lettergrootte:</string>
   <string name="display_label">Scherm</string>
   <string name="display_order_text">Sorteren op:</string>
@@ -913,11 +936,13 @@ Ga naar 'Instellingen' &gt; 'Accounts' om te selecteren welke typen gegevens u m
   <string name="edit_whitelist">Notitie aanpassen</string>
   <string name="emergency_tone_summary">Gedrag bij noodoproepen instellen</string>
   <string name="emergency_tone_title">Toon voor noodoproep</string>
+  <string name="empty_content_size">None</string>
   <string name="empty_folder_title">Lege map (%d)</string>
   <string name="empty_folder_title_hints">Lege map</string>
   <string name="empty_list_msg">U heeft geen apps van derden geïnstalleerd.</string>
   <string name="emptylist_fwlog_call">Geblokkeerde oproepen worden hier gelogd.</string>
   <string name="emptylist_fwlog_ms">Geblokkeerde tekst- en MMS berichten worden hier gelogd.</string>
+  <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">USB-foutopsporing</string>
   <string name="enable_adb_debug_summary">Gebruik de ADB command, wanneer verbonden via USB</string>
   <string name="enable_adb_debug_title">USB-foutopsporing inschakelen</string>
@@ -968,6 +993,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="external_data_size_label">USB-opslaggegevens</string>
   <string name="factory_reset_summary">U kunt uw persoonlijke gegevens wissen door uw telefoon te resetten, of ervoor te kiezen om de geïnstalleerde apps te wissen en de SD kaart te formatteren om naar de fabrieksinstellingen terug te keren</string>
   <string name="failed_to_open_app_settings_toast">Instellingen openen voor %1$s mislukt</string>
+  <string name="fancy_icon_antispam">com.miui.antispam.AntiSpam</string>
   <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
   <string name="fancy_icon_power_center">com.miui.powercenter</string>
   <string name="fcc_equipment_id">Apparaat ID</string>
@@ -1024,6 +1050,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="free_wifi_connected_time">Online lengte： %1$s</string>
   <string name="free_wifi_connecting">Verbinden...</string>
   <string name="free_wifi_login_again">Opnieuw verbinden</string>
+  <string name="free_wifi_manage_summary">Tap to view to %1$s.</string>
   <string name="free_wifi_speed_title">Langzame verbinding?</string>
   <string name="free_wifi_summary">Gratis Wi-Fi verleent door %1$s</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
@@ -1087,6 +1114,9 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="gadget_toggle_wifi">Wi-Fi-instelling bijwerken</string>
   <string name="game_controller_settings_category">Gamecontroller</string>
   <string name="garbage_white_list_empty_content">Uitzonderingenlijst is leeg</string>
+  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
+  <string name="getConnectionInfo">getConnectionInfo</string>
+  <string name="google_backup_section_title">Google backup &amp; restore</string>
   <string name="haptic_feedback_enable_title">Trillen bij aanraking</string>
   <string name="haptic_feedback_level">Trillen</string>
   <string name="hardkeyboard_category">Instellingen voor vast toetsenbord</string>
@@ -1117,7 +1147,23 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="headset_no_contected">Headset niet verbonden</string>
   <string name="headset_settings">Headset Instellingen</string>
   <string name="heavy_weight_stop_description">Deze app kan niet veilig worden gestopt. Als u de app stopt, kunt u een deel van uw huidige werk kwijtraken.</string>
+  <string name="hello_world">Hello world!</string>
   <string name="help_label">Help</string>
+  <string name="help_url_accounts"/>
+  <string name="help_url_backup_reset"/>
+  <string name="help_url_battery"/>
+  <string name="help_url_bluetooth"/>
+  <string name="help_url_choose_lockscreen"/>
+  <string name="help_url_data_usage"/>
+  <string name="help_url_more_networks"/>
+  <string name="help_url_sound"/>
+  <string name="help_url_tether"/>
+  <string name="help_url_vpn"/>
+  <string name="help_url_wifi"/>
+  <string name="hidden_ssid_label">Hidden SSID:</string>
+  <string name="high_performance_notif_summary">Performance mode is on.</string>
+  <string name="high_performance_notif_title">Battery usage warning</string>
+  <string name="high_performance_title">"Looks like you're running a benchmark test. Set power management to \"Performance\" for best results."</string>
   <string name="history_details_title">Geschiedenisdetails</string>
   <string name="home_key">Home toets</string>
   <string name="ime_security_warning">Deze invoermethode verzamelt mogelijk alle tekst die u typt, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. De methode is afkomstig uit de app %1$s. Deze invoermethode inschakelen?</string>
@@ -1125,7 +1171,8 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="immediately_destroy_activities_summary">Activiteit wissen zodra de gebruiker deze verlaat</string>
   <string name="ims_reg_required_off">Uitschakelen van IMS-registratie vereist</string>
   <string name="ims_reg_required_on">Inschakelen van IMS-registratie vereist</string>
-  <string name="incoming_call_vibrate_abbreviation">Oproepen</string>
+  <string name="incoming_call_breathing_light_color_title">Calls light color</string>
+  <string name="incoming_call_breathing_light_freq_title">Calls LED flash frequency</string>
   <string name="incoming_call_volume_title">Beltoon</string>
   <string name="input_method">Invoermethode</string>
   <string name="input_method_selector">Selectie voor invoermethode</string>
@@ -1175,6 +1222,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="internal_used_memory_hint">Gebruikt: Berekenen…</string>
   <string name="invalid_location">De installatielocatie is niet geldig.</string>
   <string name="invalid_size_value">Kan pakketgrootte niet berekenen.</string>
+  <string name="ipaddr_label">IPaddr:</string>
   <string name="item_app_permission">App machtigingen</string>
   <string name="item_garbage_size_1000m">1gb</string>
   <string name="item_garbage_size_100m">100mb</string>
@@ -1213,6 +1261,8 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="language_picker_title">Taal</string>
   <string name="language_settings">Taal en invoer</string>
   <string name="language_settings_category">Taalinstellingen</string>
+  <string name="large_file_sort_type_item_name">Name</string>
+  <string name="large_file_sort_type_item_size">Size</string>
   <string name="large_file_sort_type_name">Sorteren op naam</string>
   <string name="large_file_sort_type_size">Sorteren op grootte</string>
   <string name="large_font">Groot</string>
@@ -1233,6 +1283,7 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="led_settings">LED</string>
   <string name="legal_information">Juridische informatie</string>
   <string name="license_title">Licentie</string>
+  <string name="link_speed_label">Link speed:</string>
   <string name="list_sub_view_item_backup_cleanup">Eerst backup maken</string>
   <string name="list_sub_view_item_backup_uninstall">Back-up en verwijderen</string>
   <string name="list_sub_view_item_clean">Opschonen</string>
@@ -1250,6 +1301,8 @@ Sommige apps werken mogelijk pas nadat ze zijn bijgewerkt door hun ontwikkelaars
   <string name="local_backup_password_toast_confirmation_mismatch">Nieuw wachtwoord en bevestiging komen niet overeen.</string>
   <string name="local_backup_password_toast_success">Nieuw back-upwachtwoord ingesteld</string>
   <string name="local_backup_password_toast_validation_failure">Instellen van back-upwachtwoord is mislukt</string>
+  <string name="local_backup_section_summary">Backup system settings, accounts, and apps</string>
+  <string name="local_backup_section_title">Local backups</string>
   <string name="location_gps">GPS-satellieten</string>
   <string name="location_neighborhood_level">Toestaan dat anonieme locatiegegevens worden verzonden naar Google. Ook toestaan dat toegestane apps bronnen zoals mobiele en wifi-netwerken gebruiken om uw geschatte locatie te bepalen.</string>
   <string name="location_neighborhood_level_wifi">Locatie bepaald via Wi-Fi</string>
@@ -1331,6 +1384,7 @@ Bent u klaar om te starten? Raak 'Volgende' aan."</string>
   <string name="log_count">(%d)</string>
   <string name="lte_ram_dump_off">LTE RAM-dump uitschakelen</string>
   <string name="lte_ram_dump_on">LTE RAM-dump inschakelen</string>
+  <string name="macaddr_label">MAC addr:</string>
   <string name="main_running_process_description">Hoofdproces in gebruik.</string>
   <string name="man_add_application">Handmatig auto start apps toevoegen</string>
   <string name="manage_device_admin">Apparaatbeheerders</string>
@@ -1437,8 +1491,9 @@ Attentie: Dit kan niet ongedaan gemaakt worden</string>
   <string name="miui_screensaver_state_on">Aan</string>
   <string name="miui_screensaver_title">Screensaver</string>
   <string name="miui_screensaver_usage">Eenmaal geactiveerd, worden afbeeldingen uit het screensaver album herhaaldelijk weergegeven, 5 seconden na het scherm is uitgeschakeld.</string>
+  <string name="mms_breathing_light_color_title">Messages light color</string>
+  <string name="mms_breathing_light_freq_title">Messages LED flash frequency</string>
   <string name="mms_log_tab_title">Berichten log</string>
-  <string name="mms_vibrate_abbreviation">Berichten</string>
   <string name="model_number">Modelnummer</string>
   <string name="move_app">Verplaatsen</string>
   <string name="move_app_failed_dlg_text">Kan app niet verplaatsen. %1$s</string>
@@ -1475,6 +1530,14 @@ probeer het volgende:
   <string name="msd_install_status_undo">Installeer driver</string>
   <string name="msd_install_succeed">Driver geïnstalleerd</string>
   <string name="msd_install_windows_xp_step_2_1">"1.Als de wizard in beeld komt, volg de stappen om de installatie te voltooien"</string>
+  <string name="msd_pc_system_install_finish_summary_vista">"For Windows Vista and newer,
+the %1$s music player will appear on your computer automatically"</string>
+  <string name="msd_pc_system_install_finish_summary_xp">"After you install the driver
+%1$s will appear as a USB storage device when connected to a computer."</string>
+  <string name="msd_pc_system_install_start_summary_vista">"For Windows Vista and newer, 
+%1$s will appear automatically as a USB mass storage"</string>
+  <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s will appear as a USB mass storage
+ device when connected to your computer."</string>
   <string name="msg_cleanup_db_update_checking">Controleren...</string>
   <string name="msg_cleanup_db_update_time_unknown">Bijwerken op： onbekend</string>
   <string name="msg_system_cache_hints">"Gecachte gegevens verwijderen heeft geen invloed op uw app's bestanden, instellingen, accounts, databases etc."</string>
@@ -1493,6 +1556,8 @@ probeer het volgende:
   <string name="network_assistant">Data gebruik</string>
   <string name="network_detail">%s Netwerk detail</string>
   <string name="network_settings_title">Mobiele netwerken</string>
+  <string name="network_state_label">Network state:</string>
+  <string name="networkid_label">Network ID:</string>
   <string name="networks">Operator selecteren</string>
   <string name="new_backup_pw_prompt">Geef hier een nieuw wachtwoord voor volledige back-ups op</string>
   <string name="new_bw_list_button">Contact toevoegen</string>
@@ -1511,6 +1576,8 @@ probeer het volgende:
   <string name="no_services">Niet actief</string>
   <string name="noise_suppression">Ruisonderdrukking</string>
   <string name="normal_date_format">Regionaal (%s)</string>
+  <string name="notification_breathing_light_color_title">Notifications light color</string>
+  <string name="notification_breathing_light_freq_title">Notifications LED flash frequency</string>
   <string name="notification_button_text_of_low_memory">Opschonen</string>
   <string name="notification_pulse_title">Knipperen trackball</string>
   <string name="notification_sound_dialog_title">Beltoon voor meldingen kiezen</string>
@@ -1520,7 +1587,6 @@ probeer het volgende:
   <string name="notification_title_firewall_blocked">Geblokkeerd</string>
   <string name="notification_title_of_garbage_cleanup">Afval alarm</string>
   <string name="notification_title_of_low_memory">Systeem geheugen heeft %s gebruikt</string>
-  <string name="notification_vibrate_abbreviation">Notificatie</string>
   <string name="notification_volume_title">Melding</string>
   <string name="nsd_quick_toggle_summary">Apps op andere apparaten toestaan apps op dit apparaat te detecteren</string>
   <string name="nsd_quick_toggle_title">Netwerkservicedetectie</string>
@@ -1575,16 +1641,12 @@ probeer het volgende:
   <string name="optimize_now">Starten</string>
   <string name="optimize_residual_header_left">Overblijfselen: %d</string>
   <string name="optimize_residual_list_empty_content">Geen overblijfselen gevonden.</string>
-  <string name="optimize_tips_ad">iconReclame bestanden zijn afbeeldingen, tekst en andere reclame gerelateerde gegevens die apps van derden opslaan op uw telefoon.</string>
   <string name="optimize_tips_ad_content">Afbeeldingen, text en ander bestanden van derde partijen opgeslagen op uw telefoon.</string>
   <string name="optimize_tips_ad_title">Reclame bestanden:</string>
-  <string name="optimize_tips_apk">"iconInstallatie pakketen worden gebruikt bij de installatie van apps, na de installatie worden ze niet meer gebruikt."</string>
   <string name="optimize_tips_apk_content">Bestanden die worden gebruikt om apps te installeren, maar daarna niet meer worden gebruikt</string>
   <string name="optimize_tips_apk_title">Apps:</string>
-  <string name="optimize_tips_cache">iconCache bestanden zijn bestanden voor tijdelijke ondersteuning van bepaalde processen (zoals thumbnails).</string>
   <string name="optimize_tips_cache_content">Tijdelijke bestanden die zijn gemaakt door apps en processen (bijv. thumbnails).</string>
   <string name="optimize_tips_cache_title">Cache:</string>
-  <string name="optimize_tips_residual">"iconOverblijfselen zijn bestanden (zoals video's, achtergronden, muziek etc.) die zijn gedownload door apps die nu niet meer zijn geïnstalleerd. Omdat deze bestanden nog wel nuttig kunnen zijn is het aangeraden deze bestanden te verwijderen via de geavanceerde functie."</string>
   <string name="optimize_tips_residual_content">Rest bestanden die zijn gemaakt door apps die niet meer geïnstaleerd zijn. Sommige bestanden zijn echter nog steeds vereist, er wordt aanbevolen de geavanceerde functie te gebruiken om deze bestanden te verwijderen.</string>
   <string name="optimize_tips_residual_title">Rest bestanden</string>
   <string name="optimize_tips_title">Help</string>
@@ -1604,6 +1666,7 @@ probeer het volgende:
   <string name="percentage">%d%%</string>
   <string name="perm">Machtigingen</string>
   <string name="perm_app">Apps</string>
+  <string name="perm_app_enable">Monitor permission requests</string>
   <string name="perm_app_header">Machtigingen Beheer</string>
   <string name="perm_app_manage_empty">Geen gevolgde apps</string>
   <string name="perm_app_name">Machtigingen</string>
@@ -1990,6 +2053,29 @@ probeer het volgende:
   <string name="pref_volume_wake_summary">Druk op volume toetsen opent de telefoon. Voor telefoons waar de aan/uit toets moeilijk bereikbaar is</string>
   <string name="pref_volume_wake_title">Volume rocker open</string>
   <string name="preference_change_password_title">Wachtwoord wijzigen</string>
+  <string name="preference_key_about_version">key_about_version</string>
+  <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
+  <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
+  <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
+  <string name="preference_key_create_shortcut">key_create_shortcut</string>
+  <string name="preference_key_cta_settings">key_cta_settings</string>
+  <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
+  <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
+  <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
+  <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
+  <string name="preference_key_module_antipam">module_antipam</string>
+  <string name="preference_key_module_antivirus">key_module_antivirus</string>
+  <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
+  <string name="preference_key_module_network_assistant">key_network_assistant</string>
+  <string name="preference_key_module_power_center">module_power_center</string>
+  <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
+  <string name="preference_key_shortcut_antispam">key_shortcut_antispam</string>
+  <string name="preference_key_shortcut_network_assistant">key_shortcut_network_assistant</string>
+  <string name="preference_key_shortcut_optimize_center">_key_shortcut_optimize_center</string>
+  <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
+  <string name="preference_key_shortcut_power_center">key_shortcut_power_center</string>
+  <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
+  <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
   <string name="preferred_app_settings">Standaard app instellingen</string>
   <string name="preferred_app_settings_default">Standaard</string>
   <string name="preferred_app_settings_reset">Standaard instellingen herstellen</string>
@@ -2000,11 +2086,11 @@ probeer het volgende:
   <string name="preferred_application_warning_title">Standaard %s vervangen</string>
   <string name="preferred_application_warning_use_system">Standaard %s gebruiken</string>
   <string name="preferred_launcher_title">Bevoorkeurde Launcher</string>
-  <string name="preferred_launcher_warning_message">Het vervangen van de standaard launcher kan meer hulpbronnen verbruiken dan de standaard launcher. Weet u zeker dat u wilt doorgaan?</string>
-  <string name="preferred_launcher_warning_replace">Vervang Launcher</string>
-  <string name="preferred_launcher_warning_title">Standaard launcher vervangen</string>
-  <string name="preferred_launcher_warning_use_system">Gebruik standaard launcher</string>
   <string name="preferred_media_app_summary">Kies Muziekspeler</string>
+  <string name="priority_storage_app_settings">Userdata will be saved to %1$s</string>
+  <string name="priority_storage_settings_summary">"If no SD card is detected, userdata will be saved to your device's internal storage automatically"</string>
+  <string name="priority_storage_summary">Choose the default location to save userdata</string>
+  <string name="priority_storage_title">Storage settings</string>
   <string name="privacy_mode_enable_sum">Verberg bel geschiedenis, berichten en andere data om privacy te beschermen.</string>
   <string name="privacy_mode_enable_title">Bescherm privacy</string>
   <string name="privacy_protect_title">Privacy bewaking</string>
@@ -2172,6 +2258,7 @@ probeer het volgende:
   <string name="roaming_reenable_title">Gegevensroaming toestaan?</string>
   <string name="roaming_turn_it_on_button">Inschakelen</string>
   <string name="roaming_warning">Wanneer u gegevensroaming toestaat, kunnen er hoge roamingkosten in rekening worden gebracht.</string>
+  <string name="rssi_label">RSSI:</string>
   <string name="rubbish_cleaning">Systeem opschonen</string>
   <string name="running_processes_item_description_p_p">%1$d processen en %2$d services</string>
   <string name="running_processes_item_description_p_s">%1$d processen en %2$d service</string>
@@ -2186,6 +2273,7 @@ probeer het volgende:
   <string name="runningservices_settings_title">Actieve services</string>
   <string name="save_button">Opslaan</string>
   <string name="scan_done">Scan voltooid</string>
+  <string name="scan_list_label">Scan results:</string>
   <string name="scanning_prefix">Scannen: %s</string>
   <string name="scanning_start_hints">Voorbereiden…</string>
   <string name="scanning_virus">Scannen...</string>
@@ -2206,7 +2294,6 @@ probeer het volgende:
   <string name="screen_on_proximity_sensor_summary">Voorkom telefoon gebruik in broekzak (detecteren via nabijheidssensor).</string>
   <string name="screen_on_proximity_sensor_title">Voorkom misbruik</string>
   <string name="screen_saturation">Kleur verzadiging</string>
-  <string name="screen_saturation_adjust">Pas verzadiging aan</string>
   <string name="screen_timeout">Slaapstand</string>
   <string name="screen_timeout_summary">Na %1$s inactiviteit</string>
   <string name="screen_timeout_title">Scherm time-out</string>
@@ -2404,6 +2491,7 @@ Pogingen Resterende :"</string>
   <string name="spellchecker_quick_settings">Instellingen</string>
   <string name="spellchecker_security_warning">Deze spellingcontrole verzamelt mogelijk alle tekst die u typt, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. De service is afkomstig uit de app %1$s. Wilt u deze spellingcontrole gebruiken?</string>
   <string name="spellcheckers_settings_title">Spellingcontrole</string>
+  <string name="ssid_label">SSID:</string>
   <string name="start_checking_memory">Geheugen conditie controleren...</string>
   <string name="start_checking_protection">Realtime beveiliging controleren...</string>
   <string name="start_checking_trash">Applicatie cache controleren...</string>
@@ -2453,12 +2541,14 @@ Pogingen Resterende :"</string>
   <string name="subscription_02_summary">Opties instellen voor SUB2 netwerk</string>
   <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Een mobiele provider kiezen</string>
+  <string name="summary_font_size">%1$s</string>
   <string name="summary_install_virus">Controleer apps op virussen voor installatie</string>
   <string name="summary_mms">Filter ongewenste berichten (verkopen, reclame, etc.)</string>
   <string name="summary_permission">Bescherm mijn privacy tegen apps van derden</string>
   <string name="summary_usb">Voorkom virus verspreiding via USB verbinding</string>
   <string name="summary_virus">%2$d virussen gevonden</string>
   <string name="summary_virus_update">Virus definities automatisch bijwerken wanneer verbonden met Wi-Fi</string>
+  <string name="supplicant_state_label">Supplicant state:</string>
   <string name="sync_active">Sync actief</string>
   <string name="sync_automatically">Appgegevens automatisch synchr.</string>
   <string name="sync_calendar">Agenda</string>
@@ -2481,6 +2571,7 @@ Pogingen Resterende :"</string>
   <string name="sync_wifi_label">Wi-Fi Synchronisatie instellingen</string>
   <string name="sync_wifi_only">Alleen Wi-Fi</string>
   <string name="system">Systeem</string>
+  <string name="system_backup_section_title">Backup</string>
   <string name="system_cache_title">Systeem cache</string>
   <string name="system_package">Systeemupdates kunnen niet worden geïnstalleerd op externe media.</string>
   <string name="system_update_settings_list_item_summary"/>
@@ -2494,6 +2585,7 @@ Pogingen Resterende :"</string>
   <string name="testing_phone_info">Telefooninformatie</string>
   <string name="testing_sim_toolkit">Sim-toolkit</string>
   <string name="testing_usage_stats">Gebruiksstatistieken</string>
+  <string name="testing_wifi_info">WLAN information</string>
   <string name="tether_settings_title_all">Tetheren</string>
   <string name="tether_settings_title_bluetooth">Bluetooth-tethering</string>
   <string name="tether_settings_title_usb">USB-tethering</string>
@@ -2501,12 +2593,15 @@ Pogingen Resterende :"</string>
   <string name="tether_settings_title_wifi">Draagbare hotspot</string>
   <string name="tethering_help_button_text">Help</string>
   <string name="time_picker_title">Tijd</string>
+  <string name="time_zone_auto_stub">Select Time Zone</string>
   <string name="timezone_settings">TijdZone</string>
   <string name="title_app_update_no">%d apps hebben updates</string>
   <string name="title_app_update_yes">Alle apps zijn bijgewerkt</string>
   <string name="title_data_flow_no">Data verbruik monitor ingeschakeld</string>
   <string name="title_data_flow_yes">Data verbruik monitor uitgschakeld</string>
   <string name="title_dolby_control">Dolby controle</string>
+  <string name="title_font">Font</string>
+  <string name="title_font_current">Using</string>
   <string name="title_font_size">Lettertype grootte</string>
   <string name="title_install_virus_no">Installatie monitor uitgeschakeld</string>
   <string name="title_install_virus_yes">Installatie monitor ingeschakeld</string>
@@ -2524,6 +2619,7 @@ Pogingen Resterende :"</string>
   <string name="title_virus_update_no">Auto-update virus definities ingeschakeld</string>
   <string name="title_virus_update_yes">Auto-update virus definities uitgeschakeld</string>
   <string name="title_virus_yes">Geen virussen gevonden</string>
+  <string name="toast_add_white_list_success">" added to exceptions"</string>
   <string name="toast_application_no_residual_on_sdcard">Deze app heeft geen gegevens opgeslagen op de SD-kaart</string>
   <string name="toast_backup_cleanup_success">Gegevens geback-upped en verwijderd</string>
   <string name="toast_backup_is_running">Backup draait al. Probeer het later opnieuw.</string>
@@ -2542,6 +2638,7 @@ Pogingen Resterende :"</string>
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Open via Trackball</string>
   <string name="transition_animation_scale_title">Overgangsanimatieschaal</string>
+  <string name="translation_contributors_title">Contributors</string>
   <string name="trust_switch_dialog_msg">"MIUI zal uw bevestiging niet vragen voor enige veiligheid en privacy gerelateerde handelingen van deze app. Vertrouw deze app?"</string>
   <string name="trusted_credentials">Vertrouwde id-gegevens</string>
   <string name="trusted_credentials_disable_confirmation">Het CA-certificaat voor het systeem uitschakelen?</string>
@@ -2709,6 +2806,8 @@ Pogingen Resterende :"</string>
   <string name="user_settings_title">Gebruikers en beperkingen</string>
   <string name="user_system_apps_heading">Systeem apps</string>
   <string name="valuation">Opschonen aanbevolen</string>
+  <string name="versionCode">3</string>
+  <string name="versionName">1.0.140225</string>
   <string name="version_text">versie %1$s</string>
   <string name="vibrate_category_title">Trillen</string>
   <string name="vibrate_in_normal_title">Normaal trillen</string>
@@ -2750,6 +2849,7 @@ Pogingen Resterende :"</string>
   <string name="virus_scan_finish_text">OK, de slechte dingen zijn weg!</string>
   <string name="virus_scan_guard_provider_missed">Virus scanner kan virus niet verwijderen. U moet een fabrieksreset uitvoeren.</string>
   <string name="virus_scan_installed_package">%s (geïnstalleerde app)</string>
+  <string name="virus_scan_is_cloud_scanning">Cloud scanning…</string>
   <string name="virus_scan_is_scanning">Scannen...</string>
   <string name="virus_scan_judge_is_virus">Controleer apps op virussen voor installatie</string>
   <string name="virus_scan_last_risk">Verdachte apps die zijn ontdekt tijdens de laatste scan zijn niet verwijderd.</string>
@@ -2783,6 +2883,7 @@ Pogingen Resterende :"</string>
   <string name="virus_scan_stop">Pauzeren</string>
   <string name="virus_scan_support">Ondersteuning door Tencent</string>
   <string name="virus_scan_uninstalled_package">%s (installeer pkg)</string>
+  <string name="virus_scan_unknown_virus_name">Unknown</string>
   <string name="virus_scan_update_lib">Virus definities automatisch bijwerken</string>
   <string name="virus_scan_update_now">Nu bijwerken</string>
   <string name="virus_scan_use_cloud">Cloud virus definities</string>
@@ -2904,6 +3005,7 @@ Pogingen Resterende :"</string>
   <string name="wifi_advanced_mac_address_title">MAC-adres</string>
   <string name="wifi_advanced_settings_label">IP-instellingen</string>
   <string name="wifi_advanced_titlebar">Geavanceerde Wi-Fi-instellingen</string>
+  <string name="wifi_api_test">WLAN API</string>
   <string name="wifi_auto_connect">Automatisch verbinden</string>
   <string name="wifi_cancel">Annuleren</string>
   <string name="wifi_certificate">Wi-Fi Certificaat</string>
@@ -2918,7 +3020,9 @@ Pogingen Resterende :"</string>
   <string name="wifi_disabled_network_failure">Slechte internetverbinding vermeden</string>
   <string name="wifi_disabled_password_failure">Authenticatieprobleem</string>
   <string name="wifi_dns1">DNS 1</string>
+  <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
+  <string name="wifi_dns2_hint">4.4.4.4</string>
   <string name="wifi_eap_anonymous">Anonieme identiteit</string>
   <string name="wifi_eap_ca_cert">CA-certificaat</string>
   <string name="wifi_eap_identity">Identiteit</string>
@@ -2935,8 +3039,10 @@ Pogingen Resterende :"</string>
   <string name="wifi_failed_save_message">Opslaan van netwerk is mislukt</string>
   <string name="wifi_forget">Vergeten</string>
   <string name="wifi_gateway">Gateway</string>
+  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_in_airplane_mode">In vliegmodus</string>
   <string name="wifi_ip_address">IP-adres</string>
+  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">IP-instellingen</string>
   <string name="wifi_ip_settings_invalid_dns">Voer een geldig DNS-adres in.</string>
   <string name="wifi_ip_settings_invalid_gateway">Voer een geldig gateway-adres in.</string>
@@ -2955,6 +3061,7 @@ Pogingen Resterende :"</string>
   <string name="wifi_menu_wps_pin">WPS pincode</string>
   <string name="wifi_more">Meer</string>
   <string name="wifi_network_prefix_length">Lengte van netwerkprefix</string>
+  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Niet binnen bereik</string>
   <string name="wifi_notify_open_networks">Netwerkmelding</string>
   <string name="wifi_notify_open_networks_summary">Melden wanneer een open netwerk beschikbaar is</string>
@@ -2990,9 +3097,21 @@ Pogingen Resterende :"</string>
   <string name="wifi_security">Beveiliging</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
+  <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Geen</string>
+  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
+  <string name="wifi_security_short_eap">802.1x</string>
+  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+  <string name="wifi_security_short_wep">WEP</string>
+  <string name="wifi_security_short_wpa">WPA</string>
+  <string name="wifi_security_short_wpa2">WPA2</string>
+  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+  <string name="wifi_security_wep">WEP</string>
+  <string name="wifi_security_wpa">WPA PSK</string>
+  <string name="wifi_security_wpa2">WPA2 PSK</string>
+  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_setting_frequency_band_error">Probleem bij instellen van het frequentiebeleid.</string>
   <string name="wifi_setting_frequency_band_summary">Het frequentiebereik voor gebruik opgeven</string>
   <string name="wifi_setting_frequency_band_title">Wi-Fi-frequentieband</string>
@@ -3068,7 +3187,14 @@ Pogingen Resterende :"</string>
   <string name="wifi_speed">Linksnelheid</string>
   <string name="wifi_ssid">SSID van netwerk</string>
   <string name="wifi_starting">Wi-Fi inschakelen...</string>
+  <string name="wifi_state_disabled">Disabled</string>
+  <string name="wifi_state_disabling">Disabling</string>
+  <string name="wifi_state_enabled">Enabled</string>
+  <string name="wifi_state_enabling">Enabling</string>
+  <string name="wifi_state_label">WLAN state:</string>
+  <string name="wifi_state_unknown">Unknown</string>
   <string name="wifi_status">Status</string>
+  <string name="wifi_status_test">WLAN status</string>
   <string name="wifi_stopping">Wi-Fi uitschakelen...</string>
   <string name="wifi_tether_checkbox_text">Draagbare Wi-Fi-hotspot</string>
   <string name="wifi_tether_configure_ap_text">Wi-Fi-hotspot instellen</string>
@@ -3078,6 +3204,7 @@ Pogingen Resterende :"</string>
   <string name="wifi_tether_failed_subtext">Fout met draagbare Wi-Fi-hotspot</string>
   <string name="wifi_unchanged">(ongewijzigd)</string>
   <string name="wifi_unspecified">(niet opgegeven)</string>
+  <string name="wifi_update">Refresh stats</string>
   <string name="wifi_wapi_as_cert">WAPI AS Certificaat</string>
   <string name="wifi_wapi_cert_cancel_button">Annuleren</string>
   <string name="wifi_wapi_cert_create_subdir">Maak een directory</string>

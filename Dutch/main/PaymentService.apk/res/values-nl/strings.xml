@@ -4,8 +4,6 @@
 %1$s"</string>
   <string name="app_name">Betalings service</string>
   <string name="balance">Balans: %1$s MiCredits</string>
-  <string name="balance_giftcard_payment">%1$s MiCredits（%2$s-MiCredit gift card）</string>
-  <string name="balance_no_giftcard_payment">%1$s MiCredits (cannot use MiCredit gift card for this order)</string>
   <string name="balance_payment">%1$s MiCredits</string>
   <string name="bankcall_bank_account">Bankpas:</string>
   <string name="bankcall_call_hint">U ontvangt spoedig een oproep van UnionPay (020-96585).</string>
@@ -41,7 +39,6 @@
   <string name="btn_net_connection_retry">Opnieuw proberen</string>
   <string name="btn_next">Volgende</string>
   <string name="btn_other_bankcard">Gebruik een andere kaart</string>
-  <string name="btn_pay_large">Betalen</string>
   <string name="btn_prev">Vorige</string>
   <string name="btn_query">Informeren</string>
   <string name="btn_recharge_confirm">Aankoop bevestigen</string>
@@ -53,14 +50,18 @@
   <string name="btn_wait_call_count">Wachten (%1$s)</string>
   <string name="btn_wait_confirm">Wachten</string>
   <string name="btn_wait_confirm_count">Wachten（%1$s）</string>
+  <string name="button_bind_phone">Bind now</string>
   <string name="button_call">Bellen</string>
   <string name="button_cancel">Annuleren</string>
   <string name="button_confirm">Bevestigen</string>
+  <string name="button_count_down_reget">Gets the verification code(%1$s)</string>
   <string name="button_next">Volgende</string>
   <string name="button_pay">Bevestigen</string>
   <string name="button_recharge">Opwaarderen</string>
   <string name="button_recharge_pay">Bevestigen</string>
+  <string name="button_reget">Gets the verification code</string>
   <string name="button_retry">Opnieuw proberen</string>
+  <string name="button_sms_code">Confirm</string>
   <string name="cancel">Annuleren</string>
   <string name="change_security_lock">Vergrendeling wijzigen</string>
   <string name="colon">": "</string>
@@ -86,40 +87,25 @@
 Log opnieuw in."</string>
   <string name="error_account_changed_title">Account is veranderd</string>
   <string name="error_auth_summary">Account inlog fout, log opnieuw in.</string>
-  <string name="error_auth_title">Login fout</string>
-  <string name="error_bankcard_verify_summary">Kaart nr. controleren mislukt</string>
   <string name="error_cert_date_summary">"Certificaat datum fout. 
 Controleer uw lokale datum en probeer het opnieuw."</string>
-  <string name="error_cert_date_title">Certificaat datum fout</string>
   <string name="error_common_summary">Systeem fout. Probeer het opnieuw.</string>
-  <string name="error_common_title">Systeem fout</string>
   <string name="error_expired_summary">Uw bestelling is verlopen</string>
   <string name="error_frozen_summary">"Uw account is bevroren. 
 Neem contact op met Xiaomi klantenservice."</string>
-  <string name="error_frozen_title">Account bevroren</string>
-  <string name="error_giftcard_summary">Cadeaukaart info verkrijgen mislukt</string>
   <string name="error_has_bought_summary">U heeft dit product al gekocht.</string>
-  <string name="error_has_bought_title">Aankoop herhalen</string>
   <string name="error_illegal_order_summary">Bestellings fout. Probeer het later opnieuw</string>
-  <string name="error_illegal_order_title">Bestellings fout</string>
   <string name="error_mili_summary">Onvoldoende saldo.</string>
   <string name="error_network_summary">Verbinding maken met netwerk mislukt.</string>
-  <string name="error_network_title">Netwerk fout</string>
   <string name="error_server_summary">Server fout, probeer het later opnieuw</string>
-  <string name="error_server_title">Server fout</string>
-  <string name="error_too_frequent_visits_summary">"Nummer van account handeling overschreden.
-Probeer het opnieuw over vijf minuten."</string>
-  <string name="error_too_frequent_visits_title">Wow.... rustig aan</string>
   <string name="error_user_id_mismatch_summary">Controleer uw account in log opnieuw in</string>
-  <string name="error_user_id_mismatch_title">Account fout</string>
-  <string name="error_verify_summary">Uw app heeft geen machtiging om deze service te verzoeken</string>
-  <string name="error_verify_title">Geen machtiging</string>
   <string name="fee">%1$s MiCredit</string>
   <string name="forget_password">&lt;u&gt;Wachtwoord wijzigen&lt;/u&gt;</string>
   <string name="format_date">MMM. dd, yyyy</string>
   <string name="format_time">MMM dd, yyyy hh:mmaa</string>
   <string name="frozen">(Bevroren)</string>
   <string name="giftcard_acitivity_and_denomination">%2$s-MiCredit cadeaukaart van %1$s</string>
+  <string name="giftcard_define_detail">Use these certificates just like regular Mi Credits. You may receive credits after participating in Xiaomi events and promotions.</string>
   <string name="giftcard_denom">MiCredit</string>
   <string name="giftcard_denom_available">MiCredit beschikbaar</string>
   <string name="giftcard_denom_frozen">MiCredit bevroren</string>
@@ -128,9 +114,11 @@ Probeer het opnieuw over vijf minuten."</string>
   <string name="giftcard_expire_notification_prime_title">Uw promotie code is bijna verlopen</string>
   <string name="giftcard_expire_notification_sub_title">Uw MiCredit cadeaukaart verloopt op %1$s</string>
   <string name="giftcard_hint">MiCredits die zijn toegevoegd via cadeaukaart worden als eerst gebruikt.</string>
+  <string name="giftcard_payment">%1$s MiCredits</string>
   <string name="giftcard_push_notification_prime_title">U heeft een cadeaukaart ontvangen</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit weggegeven.</string>
   <string name="giftcard_record">Mijn cadeaukaarten</string>
+  <string name="giftcard_title">Mi Credit Certificates</string>
   <string name="giftcard_value">(%1$s-MiCredit cadeaukaart)</string>
   <string name="hfb_app_name">UMPay</string>
   <string name="hfb_complete">Succesvol gekocht!</string>
@@ -154,6 +142,7 @@ SMS bevestiging en klik 'Betaling voltooien'"</string>
   <string name="hfb_succ_label">Betaling voltooid</string>
   <string name="hfb_succ_result">Bedankt voor het gebruik van de communicatie- en betaaldiensten.</string>
   <string name="label_balance">Balans:</string>
+  <string name="label_giftcard">Giftcard:</string>
   <string name="label_order_name">Product:</string>
   <string name="label_order_price">Prijs:</string>
   <string name="lockpassword_choose_your_pattern_header">Kies uw patroon</string>
@@ -180,10 +169,14 @@ SMS bevestiging en klik 'Betaling voltooien'"</string>
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Patroon vergeten&lt;/u&gt;</string>
   <string name="login">Inloggen</string>
   <string name="memu_refresh">Vernieuwen</string>
+  <string name="mibi_license_checkbox_prompt">"Don't remind me again"</string>
   <string name="mibi_license_message">U gaat zo MiCredit gebruiken, een service van Xiaomi Inc. Alvorens u deze service kunt gebruiken moet u de gebruikersvoorwaarden accepteren zoals omschreven in %1$s. Tik OK als u akkoord gaat met de gebruikersvoorwaarden zoals omschreven in %1$s.</string>
   <string name="mibi_license_message_span">MiCredit Gebruikersovereenkomst </string>
+  <string name="mibi_license_net_prompt_message">Using the Mi Credit app may increase your data usage.</string>
+  <string name="mibi_license_net_prompt_title">Internet connection required</string>
   <string name="mibi_license_title">Gebruikersvoorwaarden</string>
   <string name="mili_center">MiCredit</string>
+  <string name="mipay_error">Mipay failed</string>
   <string name="msg_denomination_type">MiCredit</string>
   <string name="msg_error">Opwaarderen mislukt</string>
   <string name="msg_order_hint_1_1">Na het drukken op "Betaling bevestigen" zal uw telefoon</string>
@@ -202,8 +195,8 @@ SMS bevestiging en klik 'Betaling voltooien'"</string>
   <string name="msg_telecom_order_goods">%1s MiCredits</string>
   <string name="msg_telecom_order_goods_label">Product omschrijving:</string>
   <string name="msg_telecom_sending">Netwerk provider benaderen</string>
-  <string name="onemore_click_exit">One more click to exit</string>
   <string name="order_price">%1$s MiCredits</string>
+  <string name="partner_giftcard_payment">%1$sMiCredits（Only for %2$s）</string>
   <string name="password_error">Wachtwoord incorrect.</string>
   <string name="password_forget">Wachtwoord vergeten?</string>
   <string name="password_hint">Typ account wachtwoord</string>
@@ -214,14 +207,13 @@ SMS bevestiging en klik 'Betaling voltooien'"</string>
   <string name="paytool_error_msp">%1$s mislukt</string>
   <string name="paytool_msp_not_installed">U heeft %1$s mobile security plugin niet geïnstalleerd, nu installeren?</string>
   <string name="paytool_tenpay">Tenpay</string>
-  <string name="prepaid_china_mobile">China Mobile</string>
-  <string name="prepaid_china_telcom">China Telecom</string>
-  <string name="prepaid_china_unicom">China Unicom</string>
+  <string name="prepaid_card_order_info">%1$s top-up card: RMB %2$s</string>
   <string name="prepaid_edit_limit">cijfers</string>
   <string name="prepaid_error_card_length">Ongeldig kaartnummer of wachtwoord.</string>
   <string name="prepaid_error_card_number">Kaartnummer ongeldig.</string>
   <string name="prepaid_error_carrier">Selecteer provider</string>
   <string name="prepaid_error_denomination">Selecteer bedrag</string>
+  <string name="prepaid_error_not_choose_carrier">No carrier selected.</string>
   <string name="prepaid_error_password">Kaart wachtwoord ongeldig.</string>
   <string name="prepaid_grid_carrier_hint">Provider selecteren</string>
   <string name="prepaid_grid_denomination_hint">Hoeveelheid selecteren</string>
@@ -241,13 +233,13 @@ SMS bevestiging en klik 'Betaling voltooien'"</string>
   <string name="progress_error_recharge_summary">Top-up failed! Please try again later.</string>
   <string name="progress_error_recharge_title">Opwaarderen mislukt</string>
   <string name="progress_loading">Verwerken</string>
+  <string name="progress_mipay_creating">Generating order…</string>
   <string name="progress_msg_creating">Opwaardering genereren</string>
   <string name="progress_paytool_creating">%1$s bestelling genereren...</string>
   <string name="progress_paytool_installing">%1$s mobile security plugin installeren...</string>
   <string name="progress_prepaid_creating">Bestelling genereren...</string>
   <string name="progress_querying">Verwerken...</string>
   <string name="progress_submit_hint">Opwaardering wordt binnen 3 minuten weergegeven op uw balans.</string>
-  <string name="progress_submit_pay_summary">%1$s MiCredits betalen.</string>
   <string name="progress_submit_recharge_summary">Opwaardering: %1$s MiCredits.</string>
   <string name="progress_submit_title">Verzoek verzonden</string>
   <string name="progress_success_pay_summary">Betaling voltooid! :)</string>
@@ -255,11 +247,9 @@ SMS bevestiging en klik 'Betaling voltooien'"</string>
   <string name="progress_success_recharge_summary">Account balans: %1$s MiCredits.</string>
   <string name="progress_success_recharge_title">%1$s MiCredit opwaardering voltooid</string>
   <string name="progress_voucher_creating">MiCredit card opwaarderen</string>
-  <string name="progress_warning_check">"Betaling heeft het account nog niet bereikt. 
-We zullen binnen twee werkdagen opnieuw controleren"</string>
-  <string name="progress_warning_contact_server">"Betaling heeft het account nog steeds niet bereikt. 
-1. Neem contact op met Shenzhou klanten service：%1$s 
-2. Verleen serienummer: %2$s."</string>
+  <string name="progress_warning_check_with_contact">"Payment hasn't reached your account yet. 
+We will check again within two working days.
+Customer service center：400-100-5678"</string>
   <string name="progress_warning_waiting">Betaling heeft uw account nog niet bereikt.</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_bankcall_title">Bankpas</string>
@@ -284,9 +274,15 @@ We zullen binnen twee werkdagen opnieuw controleren"</string>
   <string name="recharge_voucher_title">MiCredit kaart</string>
   <string name="scan_prompt_number">%1$s prepaid kaartnummer scannen</string>
   <string name="scan_prompt_password">%1$s prepaid kaart wachtwoord scannen</string>
+  <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
   <string name="scan_prompt_voucher">MiCredit wachtwoord scannen</string>
   <string name="security_setting">Beveiligings instellingen</string>
+  <string name="sms_code_error">Mobile phone verification code error, please get again</string>
+  <string name="sms_code_hint">Mobile phone verification code</string>
+  <string name="summary_bind_phone">To ensure the safety of your account, please complete the payment after binding mobile phone No.</string>
   <string name="summary_lockpattern">Uniek patroon vereist voor MiCredit</string>
+  <string name="summary_sms_code">To ensure the safety of your account, please input the verification code received by phone %1$s，and then finish payment</string>
+  <string name="title_bind_phone">Binding mobile phone No.</string>
   <string name="title_change_lockpattern">Patroon wijzigen</string>
   <string name="title_discounts">Kortingen</string>
   <string name="title_gesture">Patroon</string>
@@ -294,19 +290,20 @@ We zullen binnen twee werkdagen opnieuw controleren"</string>
   <string name="title_lockpattern">Patroon vereist</string>
   <string name="title_mili_center">MiCredits</string>
   <string name="title_myaccount">Mi Account: %s</string>
+  <string name="title_need_prompt">Notify me connecting to the internet as openning</string>
   <string name="title_nopassword">"Niet vereist voor kleine betalingen"</string>
   <string name="title_nopassword_dialog">Dagelijks limiet</string>
   <string name="title_password">Wachtwoord</string>
   <string name="title_password_threshold">Dagelijks limiet = %1$s yuan</string>
-  <string name="title_pay">Betalen met MiCredits</string>
   <string name="title_pay_record">Betalings geschiedenis</string>
+  <string name="title_prompt">Notifications</string>
   <string name="title_recharge">MiCredit opwaarderen</string>
   <string name="title_recharge_record">Opwaarderings geschiedenis</string>
+  <string name="title_sms_code">Please enter the mobile phone verification code</string>
   <string name="title_transaction">Transacties</string>
   <string name="title_visible_pattern">Maak patroon zichtbaar</string>
   <string name="voucher_edit_hint">Code</string>
   <string name="voucher_edit_limit">cijfers</string>
   <string name="voucher_error_password">Ongeldige voucher code!</string>
-  <string name="voucher_error_password_empty">Code leeg.</string>
   <string name="voucher_input_password_prompt">Typ code</string>
 </resources>

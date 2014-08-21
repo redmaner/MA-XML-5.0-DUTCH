@@ -2,6 +2,11 @@
 <resources>
   <string name="Parse_error_dlg_text">Er is een probleem opgetreden bij het parseren van het pakket.</string>
   <string name="Parse_error_dlg_title">Parseerfout</string>
+  <string name="ad_block_button_title">Block adware</string>
+  <string name="ad_relative">Adware</string>
+  <string name="adware_count">Contains %d plugins</string>
+  <string name="adware_hint">These plugins are used by third-party developers to display advertisements on your device</string>
+  <string name="adware_title">AdWare</string>
   <string name="allow_source_dlg_text">"%1$s wil andere apps installeren. Wilt u dit nu en in de toekomst toestaan?"</string>
   <string name="allow_source_dlg_title">Nieuwe bron voor apps toestaan?</string>
   <string name="app_name">Pakket-installer</string>

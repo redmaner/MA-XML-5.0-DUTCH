@@ -9,6 +9,7 @@
   <string name="auth_notif_message">Typ sessiesleutel voor %1$s</string>
   <string name="auth_notif_ticker">OBEX verificatieverzoek</string>
   <string name="auth_notif_title">Sessiesleutel</string>
+  <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bpp_authentication_timeout_message">Er was een time-out bij de invoer van de sessie sleutel met %1$s</string>
   <string name="bpp_cancel">Annuleren</string>
   <string name="bpp_main">Bluetooth Printen</string>
@@ -117,7 +118,9 @@ Het bestand accepteren?"</string>
   <string name="permlab_bluetoothShareManager">Download manager</string>
   <string name="permlab_bluetoothWhitelist">Whitelist bluetooth apparaat toegang.</string>
   <string name="permlab_handoverStatus">Ontvang BT overdracht verzending uitzendingen.</string>
+  <string name="process"/>
   <string name="share_prepare">Bluetooth Delene voorbereiden</string>
+  <string name="sharedUserId"/>
   <string name="start_server">TCP-server starten</string>
   <string name="status_bpp_aborted_by_printer">Afdrukken mislukt, afgebroken door de printer</string>
   <string name="status_bpp_canceled_by_user">Afdrukken geannuleerd door gebruiker</string>

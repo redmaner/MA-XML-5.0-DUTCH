@@ -205,7 +205,7 @@ om herstellen te annuleren"</string>
   <string name="sc_unaccess_password_file">Wi-Fi wachtwoord niet opslaan</string>
   <string name="sc_unauthorized">Certificaat niet geldig</string>
   <string name="sdcard_no_enough_space">Niet genoeg ruimte op SD-kaart</string>
-  <string name="sdcard_no_enough_space_warning">Backup kan mislukken, maak ruimte vrij op uw SD-kaart er probeer het opnieuw?</string>
+  <string name="sdcard_no_enough_space_message">"There's not enough space on your phone's SD card."</string>
   <string name="sdcard_unmounted">SD-kaart losgekoppeld of niet gevonden!</string>
   <string name="select_all">Alles selecteren</string>
   <string name="select_backup_item">Backup item selecteren</string>

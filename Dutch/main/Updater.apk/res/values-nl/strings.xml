@@ -63,7 +63,6 @@
   <string name="install_file_explorer">Installeer bestandsbeheer</string>
   <string name="install_qq">Installeer QQ app</string>
   <string name="install_rom_from_sd">Selecteer installatie pakket</string>
-  <string name="install_sina">Installeer Sina app</string>
   <string name="install_whole_rom">Volledige ROM download is aangeraden</string>
   <string name="internal_build">Interne versie</string>
   <string name="kernel_upgrade_link"/>
@@ -85,6 +84,7 @@
   <string name="my_update_feel">Mijn gevoelens</string>
   <string name="my_worst_update">Slechtste update die ik heb gekozen</string>
   <string name="network_error">Netwerk fout, probeer het opnieuw</string>
+  <string name="new_update_content_notification_shade"/>
   <string name="new_update_content_title">Nieuwe update gevonden</string>
   <string name="new_update_download_complete_body">Nieuwe versie updatebaar:%s</string>
   <string name="new_update_downloading_body">Nieuwe versie downloaden:%s</string>

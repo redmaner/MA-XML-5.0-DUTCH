@@ -4,6 +4,7 @@
   <string name="act_aqi_pm10_title">PM10</string>
   <string name="act_aqi_pm25_title">PM2.5</string>
   <string name="act_aqi_so2_title">SO2</string>
+  <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
   <string name="act_city_find_gps_error">Selecteer handmatig een stad uit de menu lijst</string>
   <string name="act_find_city_hint">Locatie invoeren</string>
   <string name="act_find_city_hot_title">Populaire steden</string>
@@ -18,9 +19,13 @@
   <string name="act_weather_aqi_title">Luchtkwaliteit index</string>
   <string name="act_weather_cycle_link_china">WeatherChina</string>
   <string name="act_weather_cycle_low_temp">laag</string>
+  <string name="act_weather_cycle_no_forcast">Unknown</string>
   <string name="act_weather_cycle_update">Bijwerken…</string>
+  <string name="act_weather_find_city_added">City added</string>
+  <string name="act_weather_find_city_click_retry">Retry</string>
   <string name="act_weather_find_city_connect_net">Probeer opnieuw te verbinden</string>
-  <string name="act_weather_find_city_search_online">Aanraken om te zoeken</string>
+  <string name="act_weather_find_city_net_no_good">"Can't connect to the network"</string>
+  <string name="act_weather_find_city_no_result">No results</string>
   <string name="act_weather_find_city_searching">Zoeken…</string>
   <string name="act_weather_main_aqi_index">Luchtkwaliteit: %s</string>
   <string name="act_weather_main_data_null">Geen weer gegevens, aaraken om te vernieuwen</string>
@@ -36,7 +41,6 @@
   <string name="app_love_sms_title">Inhoud versturen via SMS</string>
   <string name="app_love_view_title">Voorbeeld</string>
   <string name="app_name">Weer</string>
-  <string name="app_nohave_net">Geen netwerk gevonden</string>
   <string name="app_unquiet_net">Slechte netwerk verbinding</string>
   <string name="aqi_details_dangerous">Vermijd langdurige en/of zware inspanning.</string>
   <string name="aqi_details_fine">Mensen met speciale medische voorzieningen dienen langdurige of zware inspanning buiten zoveel te vermijden.</string>
@@ -44,6 +48,7 @@
   <string name="aqi_details_hazardous">Blijf binnen en beperk fysieke inspanning.</string>
   <string name="aqi_details_light_pollution">Mensen met hart of long ziekten, ouderen en jonge kinderen dienen langdurige of zware inspanning buiten te vermijden.</string>
   <string name="aqi_details_unhealthy">Beperk langdurige en/of zware inspanning.</string>
+  <string name="aqi_quality_index_break">Yikes!</string>
   <string name="aqi_quality_index_dangerous">gevaarlijk</string>
   <string name="aqi_quality_index_good">goed</string>
   <string name="aqi_quality_index_hazardous">gevaarlijk</string>
@@ -51,10 +56,11 @@
   <string name="aqi_quality_index_moderate">matig</string>
   <string name="aqi_quality_index_pure">uitstekend</string>
   <string name="aqi_quality_index_unhealthy">ongezond</string>
+  <string name="button_abandon">Abandon changes</string>
   <string name="button_allow">Toestaan</string>
   <string name="button_not_allow">Weigeren</string>
   <string name="cancel">Annuleren</string>
-  <string name="enable_gps">GPS</string>
+  <string name="edit_city">Edit</string>
   <string name="enable_notification">Locatie meldingen</string>
   <string name="enable_notification_city">Weer meldingen zijn ingeschakeld voor %s.</string>
   <string name="enable_notification_summary">Breng me op de hoogte als het weer veranderd</string>
@@ -63,11 +69,13 @@
   <string name="format_date_trend_md">M/d</string>
   <string name="format_date_week">EEE</string>
   <string name="format_date_wmd">M/d EEE</string>
+  <string name="gps_hint">Current location</string>
   <string name="loading_weather">Laden…</string>
   <string name="local_city"/>
   <string name="location_allow_err">Locatie bepalen mislukt</string>
   <string name="location_management">Locaties</string>
   <string name="location_notification">Weer meldingen</string>
+  <string name="location_tag">Locate</string>
   <string name="menu_about">Over</string>
   <string name="menu_add">Locaties toevoegen</string>
   <string name="menu_around">Omgeving</string>
@@ -82,6 +90,7 @@
   <string name="menu_settings">Instellingen</string>
   <string name="menu_share">Delen</string>
   <string name="menu_trend">Trend</string>
+  <string name="network_unavailable">"Can't connect to the network. Check your data connection and try again."</string>
   <string name="save_screen_shot_failed">Schermafdruk opslaan mislukt</string>
   <string name="selected_format">%d geselecteerd</string>
   <string name="send_sms_notification">Komende weer meldingen</string>
@@ -116,6 +125,7 @@ Het weer in %1$s wordt %2$s, %3$s, %4$s. %5$s.""</string>
   <string name="tip_weather_info_title_2">"%1$s's temperatuur wordt ongeveer %2$s"</string>
   <string name="trend_weather_today">Vandaag</string>
   <string name="trend_weather_tomorrow">Morgen</string>
+  <string name="weather_data_unreachable">"Can't get weather info. Wait a minute or two and try again."</string>
   <string name="weather_notification">Weer meldingen</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>

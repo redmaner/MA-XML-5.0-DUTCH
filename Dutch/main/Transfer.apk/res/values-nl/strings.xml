@@ -56,6 +56,7 @@
   <string name="failed">Mislukt</string>
   <string name="file_download">Bestand downloaden</string>
   <string name="file_downloading">Bestand wordt gedownload</string>
+  <string name="file_not_exist">file not exists</string>
   <string name="file_restore">Bestanden herstellen</string>
   <string name="file_share_download_complete">Gedeeld bestand succesvol ontvangen</string>
   <string name="file_share_upload_complete">Gedeeld bestand succesvol geüpload</string>

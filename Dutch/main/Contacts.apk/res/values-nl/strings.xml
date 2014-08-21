@@ -137,7 +137,6 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="chat_qq">QQ</string>
   <string name="chat_skype">Skype</string>
   <string name="chat_yahoo">Yahoo</string>
-  <string name="check_unsynchronized_accounts">Controleer ongesynchroniseerde frequentie</string>
   <string name="checkhint">controleer de andere telefoon</string>
   <string name="clearCallLogConfirmation">Al uw oproepgegevens worden verwijderd.</string>
   <string name="clearCallLogConfirmation_title">Alle gesprekslogs verwijderen?</string>
@@ -313,9 +312,6 @@ Contact gegevens in uw MiCloud account worden ook verwijderd."</string>
   <string name="dialog_voicemail_airplane_mode_message">Als u voicemail wilt bellen, moet u eerst vliegmodus uitschakelen.</string>
   <string name="dialog_voicemail_not_ready_message">"Voor het instellen van voicemail, gaat u naar 'Menu' &gt; 'Instellingen'."</string>
   <string name="directory_search_label">Directory</string>
-  <string name="dirty_contacts_notification_description">%d veranderingen zijn niet gesynchroniseerd met uw Xiaomi account</string>
-  <string name="dirty_contacts_notification_message">(Uw kunt deze herinnering uitschakelen via Instellingen)</string>
-  <string name="dirty_contacts_notification_title">Contacten synchroniseren?</string>
   <string name="display_all_contacts">Alle contacten</string>
   <string name="display_more_groups">Meer groepen...¦</string>
   <string name="display_only_phones">Incomplete nummers verbergen</string>
@@ -386,9 +382,6 @@ Reden: '%s'"</string>
   <string name="favoritesFrequentContacted">Regelmatig contact</string>
   <string name="favorites_list_empty">Geen favorieten</string>
   <string name="foundTooManyContacts">Meer dan %d gevonden.</string>
-  <string name="frequency_none">Nooit</string>
-  <string name="frequency_three_days">Om de 3 dagen</string>
-  <string name="frequency_weekly">Elke week</string>
   <string name="frequentList">Vaak</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Naam</string>
@@ -452,7 +445,6 @@ Reden: '%s'"</string>
   <string name="import_weibo_error_unknown">Onbekende fout</string>
   <string name="import_weibo_error_user_cancel">Door gebruiker gestopt</string>
   <string name="import_weibo_fetch_followers">Contacten verkrijgen...</string>
-  <string name="import_weibo_notification_title">Sina weibo contacten importeren...</string>
   <string name="import_weibo_notification_title_done">%s contacten bijgewerkt</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
@@ -729,7 +721,6 @@ Om een contact toe te voegen aan de lijst met favorieten:
   <string name="profile_display_name">Mijn profiel instellen</string>
   <string name="profile_name">Mijn profiel</string>
   <string name="profile_name_photo">I</string>
-  <string name="progress_notifier_message" formatted="false">Importeren %s/%s: %s</string>
   <string name="quickcontact_missing_app">Er is geen app gevonden om deze actie uit te voeren.</string>
   <string name="quit_dialog_confirm_title">U heeft geen contacten samengevoegd</string>
   <string name="readOnlyContactDeleteConfirmation">Dit contact bevat gegevens uit meerdere accounts. Gegevens uit alleen-lezen accounts worden verborgen in uw contactenlijst, maar niet verwijderd.</string>
@@ -756,8 +747,6 @@ Om een contact toe te voegen aan de lijst met favorieten:
   <string name="redirect_calls_to_vm_confirm_text">Aanzetten</string>
   <string name="refresh">Refresh</string>
   <string name="relationLabelsGroup">Relatie</string>
-  <string name="remind_btn_ignore">Negeren</string>
-  <string name="remind_btn_sync_now">Nu</string>
   <string name="removePhoto">Foto verwijderen</string>
   <string name="remove_blacklist">Verwijderen van blacklist</string>
   <string name="remove_duplicate">"MIUI zal u helpen met vinden en samenvoegen van dubbele contacten, contacten zullen niet automatisch samengevoegd worden. 
@@ -785,6 +774,7 @@ Om contacten samen te voegen dient u dit handmatig te doen"</string>
   <string name="resource_comment_average_score">Gemiddeld</string>
   <string name="resource_comment_bad_comments">Negatief</string>
   <string name="resource_comment_current_version">Huidige versie</string>
+  <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Reacties toevoegen</string>
   <string name="resource_comment_edit_comment_waiting">Gebruikersgeschiedenis controleren...</string>
   <string name="resource_comment_edit_text_default">Reactie toevoegen</string>
@@ -811,6 +801,7 @@ Om contacten samen te voegen dient u dit handmatig te doen"</string>
   <string name="resource_comment_upload_success">Reactie verzonden! Uw reactie wordt weergegeven na een standaard controle.</string>
   <string name="resource_default">Standaard ringtone</string>
   <string name="resource_default_name">Hulpbron</string>
+  <string name="resource_delete">Delete</string>
   <string name="resource_delete_all">Weet u zeker dat u %1$d geselecteerde hulpbron wilt verwijderen?</string>
   <string name="resource_delete_confirm">Weet u zeker dat u deze hulpbronnen wilt verwijderen?</string>
   <string name="resource_delta_update_failed">Patch update mislukt! De complete hulpbron wordt nu gedownload!</string>
@@ -1028,7 +1019,6 @@ de inhoud die u zoekt is momenteel niet beschikbaar in uw regio.”</string>
   <string name="strequentList">Favorieten</string>
   <string name="success_message_import_from_account">Import succesvol</string>
   <string name="summary_kind_title">Basis informatie</string>
-  <string name="t9_search_guide">Typ 7 en 5 om te zoeken naar bijv. Steve Jobs</string>
   <string name="t9_search_guide_pinyin">Typ 7 en 5 om te zoeken naar bijv. Steve Jobs</string>
   <string name="t9_search_guide_zhuyin">Typ 7 en 5 om te zoeken naar bijv. Steve Jobs</string>
   <string name="take_new_photo">Nieuwe foto nemen</string>
@@ -1099,19 +1089,24 @@ Kies een van de volgende opties:"</string>
   <string name="wipe_data">Verwijderen</string>
   <string name="yellowPageNavigationIconLabel">Map</string>
   <string name="yellowPageNavigationLabel">Map</string>
-  <string name="yellowpage_navigation_menu_order">Mijn bestellingen</string>
+  <string name="yellowpage_navigation_more_items">More</string>
   <string name="yellowpage_navigation_network_location_enable">Nu inschakelen</string>
   <string name="yellowpage_navigation_network_location_enable_later">Later inschakelen</string>
+  <string name="yellowpage_navigation_network_location_enabled">Location service is on</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Leidraad biedt services specifiek voor uw stad en Wi-Fi &amp; mobiele netwerk locatie service kan de kwaliteit van services verbeteren.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Netwerk locatie service inschakelen</string>
   <string name="yellowpage_navigation_no_content">Geen zoekresultaten</string>
   <string name="yellowpage_navigation_search_city_name_hint">Zoek via stad</string>
   <string name="yellowpage_navigation_search_offline_hint">Netwerk niet beschikbaar</string>
+  <string name="yellowpage_navigation_search_result_average_price">Average %d RMB</string>
   <string name="yellowpage_navigation_search_result_network_error">Kon niet verbinden met netwerk</string>
   <string name="yellowpage_navigation_search_result_no_more">Geen resultaten meer</string>
   <string name="yellowpage_navigation_search_result_service_error">Service momenteel niet beschikbaar</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Onbekende fout!</string>
   <string name="yellowpage_navigation_search_select_city">Selecteer een stad</string>
+  <string name="yellowpage_navigation_send_to_desktop_downloading">Downloading icon…</string>
+  <string name="yellowpage_navigation_send_to_desktop_failed">"Couldn't connect to network. Check your network settings."</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Toegevoegd aan startscherm</string>
+  <string name="yellowpage_user_profile">Profile</string>
   <string name="zero_items_selected">Geen items geselecteerd</string>
 </resources>

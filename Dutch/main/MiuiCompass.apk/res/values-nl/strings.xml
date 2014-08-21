@@ -12,7 +12,11 @@
   <string name="dialog_title_no_network">Geen netwerk gevonden, verbind met WI-Fi of schakel Data in</string>
   <string name="direction_east">O</string>
   <string name="direction_north">N</string>
+  <string name="direction_north_east">NE</string>
+  <string name="direction_north_west">NW</string>
   <string name="direction_south">Z</string>
+  <string name="direction_south_east">SE</string>
+  <string name="direction_south_west">SW</string>
   <string name="direction_west">W</string>
   <string name="getting_location">Locatie verkrijgen...</string>
   <string name="guide_toast">"Er kan een magnetisch veld zijn die stoort, kalibreer het kompas door gebruik te maken van het volgende gebaar."</string>

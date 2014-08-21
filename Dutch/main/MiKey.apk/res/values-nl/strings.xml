@@ -1,21 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about">Over</string>
   <string name="action_capture_video">Video opnemen</string>
   <string name="action_clear_call_list">Gespreksgeschiedenis wissen</string>
   <string name="action_clear_memory">RAM wissen</string>
   <string name="action_clear_sms_inbox">SMS Inbox wissen</string>
   <string name="action_close">Sluiten</string>
   <string name="action_home">Startscherm</string>
+  <string name="action_kuaidi">Quick taxi</string>
   <string name="action_lock_screen">Vergrendelscherm</string>
   <string name="action_open_camera">Camera</string>
   <string name="action_open_camera2">Camera</string>
+  <string name="action_open_camera360_capture">Camera360 camera effects</string>
+  <string name="action_open_camera360_edit">Camera360 picture editing</string>
   <string name="action_open_flashlight">Zaklamp</string>
+  <string name="action_open_mi_route">List of devices</string>
   <string name="action_open_or_close_motion">Aan/Uit Beweging</string>
   <string name="action_open_other_app">Andere app</string>
   <string name="action_open_sound_recorder">Geluid Opnemen</string>
   <string name="action_open_wechat">WeChat openen</string>
   <string name="action_phone">Telefoon</string>
+  <string name="action_qrcode">QR code</string>
   <string name="action_screen_shot">Schermafdruk</string>
   <string name="action_send_text_message">SMS verzenden</string>
   <string name="action_share_to_miliao">MiTalk</string>
@@ -23,17 +27,24 @@
   <string name="action_share_to_moment">Moment delen via  WeChat</string>
   <string name="action_share_to_wechat">Delen via WeChat</string>
   <string name="action_share_to_weibo">Delen via Weibo</string>
+  <string name="action_toolbox">Tools</string>
   <string name="action_zero_volume">Geluid uit</string>
   <string name="add">Toevoegen</string>
+  <string name="add_to_contacts">Add to contact list</string>
+  <string name="address">Address:</string>
   <string name="app_name">MiKey</string>
+  <string name="app_not_installed">App not installed</string>
   <string name="back_camera">Camera achter</string>
+  <string name="birthday">Birthday:</string>
   <string name="call_to">Bellen</string>
   <string name="cancel">Annuleren</string>
   <string name="category_app">Apps</string>
   <string name="category_system_settings">Instellingen</string>
+  <string name="chooser_dust_cap">Mikey (dust plug mode)</string>
   <string name="clean_memory">Geheugen wissen</string>
   <string name="click_to_open">Openen</string>
   <string name="close_all">Alles sluiten</string>
+  <string name="close_flash_error">Failed to close flash!</string>
   <string name="close_recorder">Recorder sluiten</string>
   <string name="cn_0">0</string>
   <string name="cn_1">1</string>
@@ -50,36 +61,85 @@
   <string name="cn_7">7</string>
   <string name="cn_8">8</string>
   <string name="cn_9">9</string>
+  <string name="company">Company:</string>
   <string name="confirm">OK</string>
+  <string name="copy">Copy</string>
+  <string name="copy_succeed">Copied successfully</string>
   <string name="default_action_title">Standaard actie</string>
+  <string name="default_toolbar_items">.CapturePhotoAction,.FlashlightAction,.AudioRecorderAction,0,0,0</string>
+  <string name="default_toolbox_items">.FlashlightAction,.AudioRecorderAction,.CapturePhotoInstantAction,0</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_confirm">Verwijderen?</string>
   <string name="delete_gesture">Instellingen verwijderen?</string>
   <string name="device_not_recognized">Apparaat niet herkend. Probeer het opnieuw.</string>
   <string name="earphone">Oordopjes</string>
+  <string name="email">E-mail:</string>
+  <string name="fail_generate_barcode">Failed to generate QR code</string>
+  <string name="faq_comp_text">For MIUI and Xiaomi phones. The current version of MiKey is available at &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
+  <string name="faq_comp_title">Supported devices</string>
+  <string name="faq_focus_text">Flash extends the time of taking the picture, but the resulting picture is sharper. Although you can turn it off, the picture might be blurred.</string>
+  <string name="faq_focus_title">Slow taking pictures?</string>
+  <string name="faq_misreq_text">"If the control of music on the lock screen doesn't respond, quit app and remove it from memory. Reconnect your MiKey and try again."</string>
+  <string name="faq_misreq_title">Solving common problems</string>
+  <string name="faq_plug_text">This method of inserting MiKey will help avoid potential problems. Do not press the button while inserting MiKey.</string>
+  <string name="faq_plug_title">How to connect MiKey?</string>
+  <string name="faq_quni_text">Button will last over 30000 clicks.</string>
+  <string name="faq_quni_title">What is the lifespan?</string>
+  <string name="faq_slow_text">Set the frequency of clicks to "0"</string>
+  <string name="faq_slow_title">Slow reaction?</string>
+  <string name="faq_speed_text">Differences between the device causes a different reaction times. Set the time between clicks MiKey according to your needs.</string>
+  <string name="faq_speed_title">Unknown action?</string>
+  <string name="faq_stat_text">Ranking clears ar the start of each new day.</string>
+  <string name="faq_stat_title">I have "0" clicks in the morning?</string>
+  <string name="faq_title">MiKey FAQ</string>
+  <string name="faq_voice_text">Please re-insert MiKey and try again.</string>
+  <string name="faq_voice_title">No sound during a call?</string>
+  <string name="faq_vsm_text">Make sure that you have disconnected your MiKey before removing the back cover!</string>
+  <string name="faq_vsm_title">Warning!</string>
+  <string name="file_delimiter">/</string>
+  <string name="flash_lable">Flash</string>
   <string name="front_camera">Camera voor</string>
+  <string name="goto_update">Update</string>
+  <string name="hint_long_press_del">Long press to remove</string>
   <string name="input_phone">Telefoon invoer</string>
   <string name="long_click">Ingedrukt houden</string>
   <string name="message_photo_end">Foto opgeslagen</string>
+  <string name="name">Name:</string>
+  <string name="nickname">Nickname:</string>
   <string name="no_usage">...</string>
+  <string name="note">Note:</string>
   <string name="notification_control_play">Afspelen</string>
   <string name="notification_control_stop">Stoppen</string>
   <string name="notification_recorder_file_location">Bestandslocatie:</string>
   <string name="notification_recorder_start">Recorder starten...</string>
+  <string name="open_flash_error">Turn on of flash failed</string>
+  <string name="phone">Phone:</string>
+  <string name="picker_lable">Gallery</string>
+  <string name="place_barcode_into_rectangle">Focus on the QR code</string>
   <string name="rank_prefix">"Rank: "</string>
   <string name="rank_suffix">points</string>
+  <string name="recognize">Identify</string>
   <string name="recommend">Aanbevolen</string>
   <string name="running_notification">Xiaomi MiKey</string>
+  <string name="scan_fail">Failed to scan!</string>
+  <string name="scan_result">Scan results</string>
   <string name="sdcard">SD-Kaart</string>
   <string name="select_camera">Camera selecteren?</string>
   <string name="select_device">Apparaat selecteren?</string>
+  <string name="setting_buy">Buy MiKeys</string>
   <string name="setting_feedback">Feedback</string>
   <string name="setting_instant_photo_desc">Focussen voordat de foto wordt gemaakt</string>
   <string name="setting_instant_photo_text">Focussen voordat</string>
   <string name="setting_keeplive_desc">"Applicatie op de achtergrond laten draaien.
 Dit kan meer energie verbruiken"</string>
   <string name="setting_keeplive_text">Applicatie op de achtergrond laten draaien</string>
+  <string name="setting_key_mode_dust_cap">key_dust_cap</string>
+  <string name="setting_key_mode_silent_open">key_silent_default</string>
+  <string name="setting_key_silent">key_silent</string>
   <string name="setting_silent_mode">Stille modus</string>
+  <string name="setting_silent_mode_default">Headphone mode (select MiKey)</string>
+  <string name="setting_silent_mode_desc">"If you want to connect the headset, select the headset mode and disconnect the MiKey. Otherwise the audio output will not work properly."</string>
+  <string name="setting_silent_mode_dust_cap">Plug mode</string>
   <string name="setting_speed_desc">Knop druksnelheid</string>
   <string name="setting_speed_max_time">1000</string>
   <string name="setting_speed_middle_time">500ms</string>
@@ -87,6 +147,14 @@ Dit kan meer energie verbruiken"</string>
   <string name="setting_speed_quick">Snel</string>
   <string name="setting_speed_slow">Langzaam</string>
   <string name="setting_speed_text">Snelheid</string>
+  <string name="setting_toolbar">Toolbar</string>
+  <string name="setting_toolbar_desc">"Toolbar features can be quickly accessed from the notification bar to make things more convenient."</string>
+  <string name="setting_toolbar_tip">"Click the + symbol to add a new feature.
+Long press to delete.
+Create your own toolbar now!
+
+Open the toolbar,
+From the top of the screen slide downwards to use it."</string>
   <string name="setting_vibrate_desc">"The ability to feel the implementation of the functions are not repeated to give vibration feedback 
 The feedback function can not be delivered, such as "flash shot", "Mute" is through the vibration Feedback implementation. 
 Users can use this switch to completely turn off the anti-vibration"</string>
@@ -110,6 +178,24 @@ Users can use this switch to completely turn off the anti-vibration"</string>
   <string name="sms_to">SMS versturen naar:</string>
   <string name="splash_tip">MiKey verbinden</string>
   <string name="task_title_prefix">"Taak N: "</string>
+  <string name="test_user_entry">Test</string>
   <string name="times">tijden</string>
+  <string name="title">Title:</string>
+  <string name="toast_close">Closed</string>
+  <string name="toast_open">Open</string>
+  <string name="toggle_bluetooth">Bluetooth</string>
+  <string name="toggle_bright">Brightness</string>
+  <string name="toggle_data">Data</string>
+  <string name="toggle_flight">Flight mode</string>
+  <string name="toggle_gps">GPS</string>
+  <string name="toggle_nfc">NFC</string>
+  <string name="toggle_ring">Ringing</string>
+  <string name="toggle_shake">Vibration</string>
+  <string name="toggle_sleep">Dormacy</string>
+  <string name="toggle_wifi">Wi-Fi</string>
+  <string name="toolbox_outer_desc">Select plus or existing function</string>
+  <string name="update_message">Update!</string>
+  <string name="vcard_prompt">Contact can not be added because there is no name</string>
+  <string name="web">Website:</string>
   <string name="write_pic_fail">Foto opslaan mislukt</string>
 </resources>

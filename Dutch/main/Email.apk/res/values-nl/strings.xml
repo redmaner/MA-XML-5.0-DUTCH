@@ -200,6 +200,8 @@
   <string name="application_mime_type">application/email-ls</string>
   <string name="archive">Archiveren</string>
   <string name="archived">Gearchiveerd</string>
+  <string name="att_download_failed_content">Download mislukt</string>
+  <string name="att_download_failed_title">Bijlage downloaden mislukt</string>
   <string name="att_mgr_no_attachment">Geen bijlagen!</string>
   <string name="att_mgr_title_order_mime">Formaat</string>
   <string name="att_mgr_title_order_name">Naam</string>
@@ -317,16 +319,22 @@
   <string name="default_signature">Verzonden via Xiaomi</string>
   <string name="delete">Verwijderen</string>
   <string name="deleted">Verwijderd</string>
+  <string name="device_activity_btn_str">Ga terug om te activeren</string>
+  <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
   <string name="device_admin_description">Door de server aangegeven beveiligingsbeleid inschakelen</string>
   <string name="device_admin_label">E-mail</string>
+  <string name="device_not_activiey_lint1">Device Manager is not activated</string>
+  <string name="device_not_activiey_lint2">Mail service does not work properly exchange</string>
+  <string name="dialog_auto_download_failed">"Can't finish auto-download, try manual-download."</string>
+  <string name="dialog_insufficient_space_for_single_account_on_internal">No enough space for %s.</string>
+  <string name="dialog_insufficient_space_on_external">"Can't finish download. There isn't enough space on external storage."</string>
+  <string name="dialog_insufficient_space_on_internal">"There isn't enough space on internal storage."</string>
   <string name="disable_admin_warning">WAARSCHUWING: als u de rechten van de app E-mail voor het beheren van uw apparaat uitschakelt, worden alle e-mailaccounts verwijderd waarvoor deze rechten vereist zijn, samen met de bijbehorende e-mails, contacten, agenda-afspraken en andere gegevens.</string>
   <string name="discard">Weggooien</string>
   <string name="discard_drafts">Concepten verwijderen</string>
   <string name="dismiss_tip_hover_text">Tip negeren</string>
   <string name="done">Gereed</string>
   <string name="done_action">Gereed</string>
-  <string name="donot_download">暂不下载</string>
-  <string name="donot_upgrade">暂不更新</string>
   <string name="downlaod_cancel_confirm_download">Download annuleren</string>
   <string name="downlaod_cancel_continue_download">Annuleren</string>
   <string name="downlaod_confirm_download">Downloaden</string>
@@ -334,14 +342,10 @@
   <string name="download_again">Opnieuw downloaden</string>
   <string name="download_before_sharing">" is nog niet gedownload, graag eerst downloaden alvorens te delen!"</string>
   <string name="download_cancel_confirm_title">Download annuleren?</string>
-  <string name="download_complete_message">点击马上更新，进行全新体验！</string>
   <string name="download_complete_not_cancel">Download is voltooid, annuleren mislukt!</string>
-  <string name="download_complete_title">下载完成</string>
   <string name="download_confirm_message">Om dit bestand te openen dient u de bijlage van 180k %1$s te downloaden</string>
   <string name="download_confirm_title">Download bevestiging</string>
   <string name="download_failed">Kan niet downloaden. Raak aan om het opnieuw te proberen.</string>
-  <string name="download_now">立即下载</string>
-  <string name="downloading">正在下载</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Navigatielade sluiten</string>
   <string name="drawer_open">Navigatielade openen</string>
@@ -370,7 +374,6 @@
   <string name="file_not_found">Bestand niet gevonden op mail server!</string>
   <string name="file_not_found_reDownload">Bestand niet gevonden, probeer het opnieuw!</string>
   <string name="file_rar_not_support">Gecodeerd rar bestand is niet ondersteund!</string>
-  <string name="file_size">大小为</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
   <string name="folder_icon_desc">Mappictogram</string>
   <string name="folder_picker_title">Mapkiezer</string>
@@ -473,6 +476,7 @@
   <string name="menu_photo_save_all">Alles opslaan</string>
   <string name="menu_photo_share">Delen</string>
   <string name="menu_photo_share_all">Alles delen</string>
+  <string name="menu_resend_all">Alles opnieuw verzenden</string>
   <string name="menu_search">Zoeken</string>
   <string name="menu_settings">Instellingen</string>
   <string name="menu_show_original">Oorspr. versie herstellen</string>
@@ -509,23 +513,14 @@ Cc: %4$s
   <string name="name_or_number_is_error">Gebruikersnaam of wachtwoord fout</string>
   <string name="net_check_title">Network fout, controleer het netwerk.</string>
   <string name="network_error">Geen verbinding</string>
-  <string name="new_down_desc1">温馨提示：</string>
-  <string name="new_down_desc2">会保存上一版本的使用记录</string>
-  <string name="new_down_desc3">升级使用流量较多，建议使用Wifi</string>
-  <string name="new_feature_desc">改进信息：</string>
   <string name="new_incoming_messages_one">Nieuw bericht van %s. Tonen.</string>
   <string name="new_messages">%1$d nieuwe berichten</string>
-  <string name="new_version">最新版本：</string>
   <string name="next_action">Volgende</string>
   <string name="no">Nee</string>
   <string name="no_application_found">Er is geen app die deze bijlage kan openen voor weergave.</string>
   <string name="no_conversations">Geen berichten.</string>
-  <string name="no_display_this_version">本版本不再提示</string>
-  <string name="no_enough_space">空间不足</string>
   <string name="no_mails">Geen e-mails</string>
   <string name="no_matched_attachment">Geen overeenkomende bijlagen!</string>
-  <string name="no_sdcard">sd卡不存在或未加载成功</string>
-  <string name="no_update">版本已是最新，无需更新</string>
   <string name="non_synced_folder_description">Synchroniseer deze map om conversaties weer te geven.</string>
   <string name="not_subject">(Geen onderwerp)</string>
   <string name="not_synced_title">Account niet gesynchroniseerd</string>
@@ -539,14 +534,17 @@ Cc: %4$s
   <string name="notification_action_undo_delete">Verwijderd</string>
   <string name="notification_action_undo_remove_label">Label verwijderd</string>
   <string name="notification_exchange_calendar_added">Exchange kalendar toegeveogd</string>
-  <string name="now_version">当前版本：</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="other_mail">Andere mail</string>
   <string name="outbox_alert_button_confirm">Bewerken</string>
+  <string name="outbox_alert_button_no_resend">Niet verzenden</string>
+  <string name="outbox_alert_button_resend">Opnieuw verzenden</string>
   <string name="outbox_alert_description_sent_failed">"Oorzaak: De bijlage
 grootte overschrijd het ontvanglimiet"</string>
+  <string name="outbox_alert_mailbox_not_found">E-mailadres niet gevonden/string>
   <string name="outbox_alert_title_sent_failed">E-mail verzenden mislukt</string>
+  <string name="outbox_no_mails">Geen e-mails in Outbox</string>
   <string name="parase_setup_data">Configuratie gegevens verkrijgen...</string>
   <string name="password_changed_prompt">Aanmelden mislukt.</string>
   <string name="password_expire_warning_content_title">Ww. schermvergr. bijna verlopen</string>
@@ -702,7 +700,6 @@ grootte overschrijd het ontvanglimiet"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sort_attachment">Sorteren op</string>
   <string name="spaceChar">" "</string>
-  <string name="start_download">开始下载</string>
   <string name="status_network_error">Verbindingsprobleem.</string>
   <string name="storage">Opslag</string>
   <string name="str_select_all">Alles selecteren</string>
@@ -743,10 +740,6 @@ grootte overschrijd het ontvanglimiet"</string>
   <string name="unsent_messages_in_outbox">%1$s niet verzonden in %2$s</string>
   <string name="updated_at">Laatst bijgewerkt %1$s</string>
   <string name="updated_just_now">Net bijgewerkt</string>
-  <string name="upgrade_check">检查更新</string>
-  <string name="upgrade_network_error">网络异常，请检查您的网络连接</string>
-  <string name="upgrade_now">马上更新</string>
-  <string name="upgrade_title">升级</string>
   <string name="validation_failed_prompt">Server %s instellen, validatie mislukt</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -769,6 +762,15 @@ Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n ke
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Anders</string>
   <string name="wrong_password">Verkeerd wachtwoord!</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="yes">Ja</string>
   <string name="zip_viewer_no_file">Geen bestanden!</string>
 </resources>

@@ -29,6 +29,7 @@
   <string name="permlab_downloadManagerAdvanced">Geavanceerde functies van de downloadbeheerder.</string>
   <string name="permlab_downloadWithoutNotification">bestanden downloaden zonder melding</string>
   <string name="permlab_seeAllExternal">Alle downloads naar USB-opslag bekijken</string>
+  <string name="task_already_exist">Task already exists</string>
   <string name="wifi_recommended_body">"Door deze download nu te starten zal dat de batterijduur verkorten en/of resulteren in excessief gebruik van de mobiele data verbinding, en ook de databundel zal gebruikt worden.
  Klik \"Wachtrij\" om deze download te starten als er een Wi-Fi netwerk beschikbaar is.
  U kunt de standaard instellingen wijzigen in de \"Instellingen\" pagina."</string>

@@ -17,6 +17,7 @@
   <string name="administrative_disable">Beheer uitgeschakeld</string>
   <string name="administrative_enable">Beheer ingeschakeld</string>
   <string name="advanced_settings">Optionele instellingen</string>
+  <string name="advanced_settings_container">advanced settings container</string>
   <string name="advanced_settings_hide">▽ Aanraken om alles te verbergen</string>
   <string name="advanced_settings_show">▷ Aanraken om alles weer te geven</string>
   <string name="advertisements_disable">Advertenties uitgeschakeld</string>
@@ -54,6 +55,7 @@
   <string name="audio_mode_earpiece">Koptelefoon oortje</string>
   <string name="audio_mode_speaker">Luidspreker</string>
   <string name="audio_mode_wired_headset">Bedrade koptelefoon</string>
+  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Gebruikersnaam die voor de verificatie wordt gebruikt</string>
   <string name="auth_username_title">Gebruikersnaam voor verificatie</string>
   <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
@@ -168,13 +170,14 @@
   <string name="caller_id_sum_miui">Verberg mijn telefoonnummer voor uitgaande oproepen (als de provider het toestaat)</string>
   <string name="caller_id_title_miui">Nummerherkenning</string>
   <string name="caller_manage_header">Telefonisch vergadergesprek %s</string>
-  <string name="caller_manage_manage_done_text">Terug naar oproep</string>
+  <string name="caller_manage_manage_done_text_miui">Back to call</string>
   <string name="callind">Oproep Kenmerk Instellingen</string>
   <string name="callind_multi_sim">Selecteer Abonnement</string>
   <string name="calling_via_template">"Bellen via ^1
 "</string>
   <string name="calling_via_template_miui">"Oproep via ^1
 "</string>
+  <string name="callwait_open_hint">\"Call waiting\" is a feature provided by your mobile service provider. If you receive an error notification, contact your service provider and make sure that this feature is enabled for your number.</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_call">Annuleren</string>
   <string name="card_01">Kaart 1</string>
@@ -306,7 +309,9 @@
   <string name="default_contacts_countrycode_hint_miui">Bijvoorbeeld: 31</string>
   <string name="default_contacts_countrycode_miui">Standaard landcode voor contactpersonen</string>
   <string name="default_contacts_countrycode_sum_miui">Standaard landcode voor contactpersonen instellen</string>
+  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Niet ingesteld&gt;</string>
+  <string name="default_transport">UDP</string>
   <string name="delete">Verwijderen</string>
   <string name="deleteAllSimEntries">Verwijder alle simkaart contacten</string>
   <string name="deleteSimContacts">Simkaart contacten verwijderen...</string>
@@ -361,8 +366,10 @@
   <string name="disable_pin_ok">Simkaart pincode uitgeschakeld</string>
   <string name="disable_sim_pin">Simkaart pincode uitschakelen</string>
   <string name="disable_sim_pin_miui">Simkaart pincode uitschakelen</string>
+  <string name="display_name">DisplayName</string>
   <string name="display_name_summary">&lt;Gelijk aan gebruikersnaam&gt;</string>
   <string name="display_name_title">Weergavenaam</string>
+  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Server</string>
   <string name="doneButton">Gereed</string>
   <string name="dtmf_tone_enable_title">Toetsenbord aanraak tonen</string>
@@ -521,6 +528,10 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="ip_prefix_miui">IP prefix</string>
   <string name="ip_prefix_required_miui">IP Prefix is vereist</string>
   <string name="ip_prefix_sum_miui">"Netwerkprovider's IP prefix: %s"</string>
+  <string name="ivr_menu_dialing_msg">Forwarding…</string>
+  <string name="ivr_menu_dialing_msg_no_mute">Transferring to selected service (ignore the error messages)…</string>
+  <string name="ivr_menu_list_sub_menu_count_format">Press %s</string>
+  <string name="ivr_menu_list_title">Voice menu</string>
   <string name="jituan_number_format_error_message_miui">%s ondersteunt alleen nummers en jokertekens</string>
   <string name="labelCDMAMore">CDMA oproep instellingen</string>
   <string name="labelCF">Oproep doorschakelen</string>
@@ -583,16 +594,17 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="mismatchPin2">De pincodes2 die u invoerde komen niet overeen. Probeer het opnieuw.</string>
   <string name="mismatch_pin2_miui">De pincodes2 die u invoerde komen niet overeen. Probeer het opnieuw.</string>
   <string name="mismatch_pin_miui">De pincodes die u invoerde komen niet overeen. Probeer het opnieuw.</string>
-  <string name="missed_call_notify_five_times">5 maal</string>
+  <string name="missed_call_notify_five_times_miui">5 times</string>
   <string name="missed_call_notify_none_miui">Nooit</string>
-  <string name="missed_call_notify_once">Een maal</string>
-  <string name="missed_call_notify_ten_times">10 maal</string>
-  <string name="missed_call_notify_thrice">3 maal</string>
+  <string name="missed_call_notify_once_miui">1 time</string>
+  <string name="missed_call_notify_ten_times_miui">10 times</string>
+  <string name="missed_call_notify_thrice_miui">3 times</string>
   <string name="missed_call_notify_times_summary_miui">Herhaald elke 5 minuten voor gemiste oproepen</string>
   <string name="missed_call_notify_times_title_miui">Herinnering gemiste oproepen</string>
-  <string name="missed_call_notify_twice">2 maal</string>
+  <string name="missed_call_notify_twice_miui">2 times</string>
   <string name="mmiCancelled">MMI-code geannuleerd</string>
   <string name="mmiStarted">MMI-code gestart</string>
+  <string name="mobile_network_setting">Mobile Network Settings</string>
   <string name="mobile_networks">Instellingen mobiel netwerk</string>
   <string name="mobile_networks_miui">Mobiele netwerk instellingen</string>
   <string name="multi_category_disable">Meerdere categorieën uitgeschakeld</string>
@@ -609,6 +621,7 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="networks_title_miui">Netwerk providers</string>
   <string name="newPin2Label">Nieuwe pincode2</string>
   <string name="newPinLabel">Nieuwe pincode</string>
+  <string name="new_cards_available">New card available. Please configure subscriptions.</string>
   <string name="new_pin2_hint_miui">Nieuwe pincode2</string>
   <string name="new_pin_hint_miui">Nieuwe pincode</string>
   <string name="next_miui">Volgende</string>
@@ -622,6 +635,8 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="no_voip">Bellen via internet niet ondersteund</string>
   <string name="no_wifi_available">"Voor internetoproepen moet u verbinding hebben met een Wi-Fi-netwerk (gebruik 'Draadloze en netwerkinstellingen')"</string>
   <string name="no_wifi_available_title">Geen Wi-Fi-verbinding</string>
+  <string name="non_ivr_menu_collapse_menu">Collapse menu</string>
+  <string name="non_ivr_menu_view_menu">View menu</string>
   <string name="not_a_valid_port">Het poortnummer moet tussen 1000 en 65534 liggen</string>
   <string name="not_allowed">Uw simkaart staat geen verbinding met dit netwerk toe.</string>
   <string name="not_connected_miui">Niet verbonden</string>
@@ -637,7 +652,7 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="notification_network_selection_text">Geselecteerd netwerk (%s) niet beschikbaar</string>
   <string name="notification_network_selection_title">Geen service</string>
   <string name="notification_on_hold">In de wacht</string>
-  <string name="notification_ongoing_call_format">Huidige oproep (%s)</string>
+  <string name="notification_ongoing_call">Ongoing call</string>
   <string name="notification_ongoing_calling_format_miui">Huidige oproep (%s)</string>
   <string name="notification_voicemail_no_vm_number">Voicemailnummer onbekend</string>
   <string name="notification_voicemail_text_format">%s bellen</string>
@@ -688,6 +703,7 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="onscreen_swap_calls_text_miui">Omschakelen</string>
   <string name="onscreen_tools_off_miui">Tools</string>
   <string name="onscreen_tools_on_miui">Tools</string>
+  <string name="open_miui">Open</string>
   <string name="optional_summary">&lt;Optioneel&gt;</string>
   <string name="ota_activate">Activeren</string>
   <string name="ota_call_end">Terug</string>
@@ -709,6 +725,7 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="ota_unsuccessful">"Uw telefoon heeft niet geactiveerd. U moet een omgeving zoeken met beter bereik (dichtbij een raam, buiten). Probeer het opnieuw of bel klantenservice voor meer opties."</string>
   <string name="other_settings">Andere instellingen voor bellen</string>
   <string name="other_settings_miui">Andere instellingen</string>
+  <string name="password">Password</string>
   <string name="password_title">Wachtwoord</string>
   <string name="pause_prompt_no">Nee</string>
   <string name="pause_prompt_str">"Verzend Tonen"</string>
@@ -727,6 +744,7 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="pin2_changed">Pincode gewijzigd</string>
   <string name="pin2_changed_miui">Pincode met succes gewijzigd</string>
   <string name="pin2_invalid">FDN niet bijgewerkt: u heeft een onjuiste pincode ingevoerd.</string>
+  <string name="pin2_invalid_or_name_is_too_long">You entered an invalid PIN or the name you entered is too long</string>
   <string name="pin2_lock_warning_miui">"Pincode wordt geblokkeerd bij foute ingeving."</string>
   <string name="pin2_locked_message_miui">Foutieve pincode2 en de pincode2 gerelateerde functies zijn geblokkeerd. Reset pincode2 met de pukcode2.</string>
   <string name="pin2_or_fdn_invalid">FDN was niet bijgewerkt. Pincode2 fout of het telefoonnummer was afgewezen</string>
@@ -743,6 +761,7 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="pin_progress_unlock_icc_miui">Deblokkeren simkaart…</string>
   <string name="place_a_call1">Abonnement 1</string>
   <string name="place_a_call2">Abonnement 2</string>
+  <string name="port">Port</string>
   <string name="port_title">Poortnummer</string>
   <string name="pref_custom_location_summary_miui">Wijzig regionale kenmerken en nummer kenmerken</string>
   <string name="pref_custom_location_title_miui">Aanpassen kenmerken</string>
@@ -783,6 +802,7 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="progress_dialog_exiting_ecm">Modus voor noodoproepen verlaten</string>
   <string name="prompt">Vragen</string>
   <string name="prompt_user">Vraag Gebruiker</string>
+  <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Adres voor uitgaande proxy</string>
   <string name="pstn_phone">Oproep met mobiele telefoon</string>
   <string name="puk2_blocked">Pukcode is permanent geblokkeerd.</string>
@@ -879,9 +899,11 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="select_automatically">Automatisch selecteren</string>
   <string name="sendSms">Send SMS</string>
   <string name="send_button">Verzenden</string>
-  <string name="send_keepalive_summary">Stuur SIP keep-alive bericht</string>
+  <string name="send_keepalive">SendKeepAlive</string>
+  <string name="send_keepalive_title">Send keep-alive</string>
   <string name="separate_from_conference_miui">Individueel gesprek</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Voorkeursnetwerktype alleen beschikbaar wanneer data is uitgeschakeld</string>
+  <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Gebruikt voor uitgaande oproepen</string>
   <string name="set_primary_title">Instellen als primair account</string>
   <string name="set_smsc_address_error_miui">Instellen nummer SMS-centrale mislukt. Probeer het later opnieuw.</string>
@@ -914,8 +936,6 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="sim_lock_off_miui">Pincode vereist om telefoon te gebruiken</string>
   <string name="sim_lock_on_miui">Pincode vereist om telefoon te gebruiken</string>
   <string name="sim_lock_title_miui">Simkaart blokkade-instellingen</string>
-  <string name="sim_missing_continueView_text">Doorgaan zonder simkaart</string>
-  <string name="sim_missing_msg_text">Geen simkaart gevonden. Plaats een simkaart in de telefoon.</string>
   <string name="sim_ndp_dismiss_text">Negeren</string>
   <string name="sim_ndp_unlock_text">Ontgrendelen</string>
   <string name="sim_pin_change_miui">Simkaart pincode wijzigen</string>
@@ -926,7 +946,10 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="sip_accounts">Internet oproep (SIP) accounts</string>
   <string name="sip_accounts_title">Accounts</string>
   <string name="sip_add_account_tip_text">Stel een SIP account in voor internetbellen</string>
+  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
+  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Altijd verzenden</string>
+  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Voor alle oproepen indien gegevensnetwerk beschikbaar is</string>
   <string name="sip_call_options_entry_2">Alleen voor internetoproepen</string>
   <string name="sip_call_options_entry_3">Vragen bij elke oproep</string>
@@ -1019,6 +1042,7 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="throttle_time_frame">Periode voor gegevensgebruik</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ van cyclus verlopen Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="title_data_settings">Data Instellingen</string>
+  <string name="transport">Protocol</string>
   <string name="transport_title">Transporttype</string>
   <string name="tty_mode_entries_full_miui">TTY Volledig</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -1042,6 +1066,7 @@ Toch overschakelen op de nieuwe provider?"</string>
   <string name="updating_fdn_contact">Vast nummer bijwerken...</string>
   <string name="updating_settings">Instellingen bijwerken...</string>
   <string name="updating_title">Oproepinstellingen</string>
+  <string name="username">UserName</string>
   <string name="username_title">Gebruikersnaam</string>
   <string name="ussdRunning">USSD-code uitvoeren...</string>
   <string name="vibrate_on_ring_title">Trillen bij overgaan</string>

@@ -15,6 +15,7 @@
   <string name="background_traffic">Achtergrond %s</string>
   <string name="begin_date">Gebruikscyclus reset datum</string>
   <string name="cancel_button">Annuleren</string>
+  <string name="checkout_traffic_saving_history">View history</string>
   <string name="daily_pkg_traffic">Piek dataverbruik limiet instellen</string>
   <string name="data_usage_correction_timeout_body">Aanraken om handmatig bij te werken</string>
   <string name="data_usage_correction_timeout_title">Dataverbruik synchronisatie gepauzeerd</string>
@@ -35,6 +36,30 @@ Gebruik van data over uw datalimiet kan extra kosten opleveren."</string>
   <string name="data_usage_restricted_title">Achtergrond data is beperkt</string>
   <string name="data_usage_warning_body">Aanraken om dataverbruik details weer te geven</string>
   <string name="data_usage_warning_title">Dataverbruik waarschuwing</string>
+  <string name="datausage_purchase_backto_ns">Back</string>
+  <string name="datausage_purchase_banner_title">%s top-up offer (exclusive)</string>
+  <string name="datausage_purchase_buy">Buy</string>
+  <string name="datausage_purchase_confirm_tip">Your order:</string>
+  <string name="datausage_purchase_get_captcha">Get verification code(%d)</string>
+  <string name="datausage_purchase_get_captcha_again">Send a new code</string>
+  <string name="datausage_purchase_get_captcha_failed">"Couldn't get verification code. Check your data connection and try again."</string>
+  <string name="datausage_purchase_goto_monthsetting">Edit package info</string>
+  <string name="datausage_purchase_ordering">Purchasing…</string>
+  <string name="datausage_purchase_pay_captcha_hint">Enter the code you receive here</string>
+  <string name="datausage_purchase_pay_captcha_tips">After you receive your verification code, enter it in the box above and tap \"Buy\" to complete your purchase. Note that the code will is only valid for 10 minutes.</string>
+  <string name="datausage_purchase_pay_confirm">Buy</string>
+  <string name="datausage_purchase_pay_hint">To cancel, dial %s</string>
+  <string name="datausage_purchase_pkglist_networkerror">"Couldn't connect to the network. Check your data connection and try again."</string>
+  <string name="datausage_purchase_pkglist_nodata">"There's conflict between your current data package and the data package you're attempting to purchase.
+ Check with your service provider for more info."</string>
+  <string name="datausage_purchase_pkglist_servererror">Yikes! Something went wrong with our server.</string>
+  <string name="datausage_purchase_result_failed">"Couldn't buy data. Check with your carrier for more info about the issue. "</string>
+  <string name="datausage_purchase_result_ok">"You bought %s
+For more info check the message you received from your service provider"</string>
+  <string name="datausage_purchase_title_confirm">Purchase details</string>
+  <string name="datausage_purchase_title_order">Purchase additional data</string>
+  <string name="datausage_purchase_title_pkglist">Purchase data</string>
+  <string name="datausage_purchase_view_detail">View details</string>
   <string name="declaration_dialog_msg">Deze functie helpt u dataverbruik in de gaten te houden, het is echter geen garantie om extra datakosten te voorkomen. Stel een conservatief datalimiet in om het beste resultaat te bereiken.</string>
   <string name="deleted_apps">Verwijderde Apps</string>
   <string name="detail_app_button">Details</string>
@@ -60,10 +85,13 @@ Gebruik van data over uw datalimiet kan extra kosten opleveren."</string>
   <string name="input_aviable_traffic">Datalimiet instellen</string>
   <string name="input_traffic_pkg">Voer dataverbruik in</string>
   <string name="input_used_hint">Voer dataverbruik in</string>
+  <string name="left_precent">60%</string>
   <string name="list_empty_text">Leeg</string>
   <string name="lock_screen_traffic_warn_title">Dataverbruik waarschuwing</string>
   <string name="main_alert_message_no_imsi">Geen simkaart gevonden</string>
   <string name="main_alert_message_no_mobile_package">"Mobiel datalimiet is ingesteld"</string>
+  <string name="main_alert_message_slot_no_data_connection">"De simkaart ondersteund geen
+mobiele dataverbinding"</string>
   <string name="main_button_idel_traffic">Off-peak</string>
   <string name="main_button_normal_traffic">Peak</string>
   <string name="main_button_usage_adjust">Mobiel dataverbruik instellen</string>
@@ -72,6 +100,7 @@ Gebruik van data over uw datalimiet kan extra kosten opleveren."</string>
   <string name="main_button_usage_package_setting">Mobiel dataverbruik instellen</string>
   <string name="main_toolbar_firewall">Beperken</string>
   <string name="main_toolbar_purchase">Opwaarderen</string>
+  <string name="main_toolbar_saving">Saver</string>
   <string name="main_toolbar_statistic">Statistieken</string>
   <string name="main_traffic_overlimit_text">%s over</string>
   <string name="main_traffic_remian_text">"%s
@@ -81,15 +110,23 @@ Resterend"</string>
 Verbruikt"</string>
   <string name="manual_input_free_traffic">Off-peak datavebruik instellen</string>
   <string name="manual_input_traffic">Dataverbruik instellen</string>
+  <string name="mi_service_app_detail">Data usage details</string>
+  <string name="mi_service_framework">Mi Service Framework</string>
+  <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
+  <string name="mi_service_traffic_detail">Framework details</string>
   <string name="network_assistant_upgraded_body">Tik om dataverbruik te beperken</string>
   <string name="network_assistant_upgraded_title">Update voltooid</string>
   <string name="network_control">App instellingen bekijken</string>
+  <string name="none_mi_service_app_detail">Empty</string>
   <string name="notification_content_title">Verbruikt %1$s tijdens vergrendeling</string>
   <string name="notification_title">%1$s-%2$s: ongeveer %3$s verbruikt</string>
   <string name="ok_button">OK</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
+  <string name="operator_number_cmcc">10086</string>
+  <string name="operator_number_telcom">10000</string>
+  <string name="operator_number_unicom">10010</string>
   <string name="per_month_pkg_traffic_settings">Datalimiet instellen</string>
   <string name="permit_running_network">Achtergrond data toestaan</string>
   <string name="person_hotpot">Mobiele hotspots</string>
@@ -120,6 +157,8 @@ Verbruikt"</string>
   <string name="pref_free_traffic_exceed_limit">Mij waarschuwen als datalimiet is bereikt</string>
   <string name="pref_free_traffic_limit_warn">Off-peak dataverbruik waarschuwing</string>
   <string name="pref_free_traffic_settings">Off-peak dataverbruik instellingen</string>
+  <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
+  <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
   <string name="pref_leisure_no_overlay">Ingeschakeld</string>
   <string name="pref_leisure_not_opened">Uitgeschakeld</string>
   <string name="pref_manual_adjust">Dataverbruik stats handmatig instellen</string>
@@ -144,15 +183,39 @@ Verbruikt"</string>
   <string name="pref_title_network_diagnostics">Netwerk diagnose</string>
   <string name="pref_title_traffic_speed_state">Netwerksnelheid weergeven</string>
   <string name="pref_title_update_notification">Dataverbruik notificaties weergeven</string>
+  <string name="pref_traffic_saving_issue">FAQ</string>
+  <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Will enabling Data Saver affect my privacy? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;No. Your data will remain private and will not be shared with third parties. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; Why isn't Data Saver working? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Data Saver only kicks in when you're using your carrier's network to send or download content."</string>
+  <string name="pref_traffic_saving_notify_switch">Show in notification shade</string>
+  <string name="pref_traffic_saving_notify_switch_hint">Show Data Saver info in the notification shade</string>
+  <string name="pref_traffic_saving_switch">Reduce data usage</string>
+  <string name="pref_traffic_saving_switch_hint">Use proxy to compress data</string>
+  <string name="pref_traffic_saving_title">Data saver settings</string>
+  <string name="pref_traffic_saving_whitelist">Exceptions</string>
+  <string name="pref_traffic_saving_whitelist_hint">Lift data restrictions for a select group of apps</string>
   <string name="pref_version">Versie %s</string>
   <string name="pref_warning_values">Dataverbruik waarschuwings niveau</string>
+  <string name="right_precent">100%</string>
   <string name="settings">Dataverbruik instellingen</string>
   <string name="sorted_button">Sorteren op</string>
   <string name="sorted_dialog_title">Sorteren op</string>
+  <string name="spinner_title">%1$s - Mobile data: %2$s</string>
   <string name="stop_app_button">Stoppen</string>
   <string name="system_app">Systeem Apps</string>
+  <string name="text_day"/>
   <string name="tips_dialog_title">"U weet uw datalimiet niet?"</string>
   <string name="tips_message">"Als u de details van uw databundel niet kent, dan kunt u deze bekijken door de provider te bellen %2$s (%1$s)."</string>
+  <string name="traffic_config_alert_body">"Your carrier's accounting show you have used %s
+Update your data usage info?"</string>
+  <string name="traffic_config_alert_body_leisure">"Your carrier's accounting shows you've used %1$s of your off-peak data this month, this is different from the %2$s you've set manually."</string>
+  <string name="traffic_config_alert_body_leisure_notset">"
+Your carrer's accounting shows you have %s of off-peak data remaining. You haven't set a limit for off-peak data."</string>
+  <string name="traffic_config_alert_body_normal">"
+Your carrier's accounting shows you've used %1$s of your peak-time data this month, this is different from the %2$s you've set manually."</string>
+  <string name="traffic_config_alert_cancel">Cancel</string>
+  <string name="traffic_config_alert_nomore">"Don't show again"</string>
+  <string name="traffic_config_alert_ok">OK</string>
+  <string name="traffic_config_alert_setted">Settings applied</string>
+  <string name="traffic_config_alert_title">%s correction</string>
   <string name="traffic_correction_failed">"Kan datavebruik info niet verkrijgen"</string>
   <string name="traffic_correction_start_correction">"Verbinden met provider's servers…"</string>
   <string name="traffic_correction_start_correction_failed">Verzoek mislukt, controleer uw provider instellingen</string>
@@ -165,6 +228,38 @@ Verbruikt"</string>
   <string name="traffic_protection_text_hint">Een datalimiet instellen voor %s</string>
   <string name="traffic_protection_unknown">&lt;u&gt;Later instellen&lt;/u&gt;</string>
   <string name="traffic_protection_use_data">Data ingeschakeld</string>
+  <string name="traffic_saving_button_sorted">Details</string>
+  <string name="traffic_saving_button_sorted_chose_simcard">Sort by</string>
+  <string name="traffic_saving_button_start">Enable</string>
+  <string name="traffic_saving_button_stop">Disable</string>
+  <string name="traffic_saving_history_title">History</string>
+  <string name="traffic_saving_history_total_money">Total saved</string>
+  <string name="traffic_saving_history_total_money_unit">RMB</string>
+  <string name="traffic_saving_history_total_month">"Saved this month: "</string>
+  <string name="traffic_saving_history_total_month_default">Avg monthly savings:</string>
+  <string name="traffic_saving_history_total_month_value">"Listen to &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; songs / Chat for &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; hours / Read &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
+  <string name="traffic_saving_history_total_month_value_default">"Listen to &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; songs / Chat for &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; hours / Read &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
+  <string name="traffic_saving_history_total_rate">Rate</string>
+  <string name="traffic_saving_history_total_rate_unit">%</string>
+  <string name="traffic_saving_history_total_traffic">Data saved</string>
+  <string name="traffic_saving_msg_month">Saved this month:</string>
+  <string name="traffic_saving_msg_not_started">Data Saver is off</string>
+  <string name="traffic_saving_msg_today">Saved today:</string>
+  <string name="traffic_saving_notify_start_content">%s saved this month</string>
+  <string name="traffic_saving_notify_start_title">Reduce your data usage</string>
+  <string name="traffic_saving_tecsupport">Powered by Opera Max</string>
+  <string name="traffic_saving_title">Data Saver</string>
+  <string name="traffic_saving_toast_start_mobile">Data Saver is on</string>
+  <string name="traffic_saving_toast_start_none_mobile">Data Saver will start when you begin using mobile data</string>
+  <string name="traffic_saving_toast_start_unreachable">"Can't start Data Saver"</string>
+  <string name="traffic_saving_toast_stop">Data Saver is off</string>
+  <string name="traffic_saving_whitelist_btn_add">Add</string>
+  <string name="traffic_saving_whitelist_btn_add_app">Add</string>
+  <string name="traffic_saving_whitelist_btn_added">Added</string>
+  <string name="traffic_saving_whitelist_btn_remove">Remove</string>
+  <string name="traffic_saving_whitelist_btn_removed">App removed from list</string>
+  <string name="traffic_saving_whitelist_count">"%d apps' data usage is not restricted"</string>
+  <string name="traffic_saving_whitelist_no_app">No apps</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_brand">Merk</string>
   <string name="traffic_setting_fragment_button2_text">Opslaan</string>

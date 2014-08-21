@@ -42,7 +42,11 @@
   <string name="channel_postfix">MHZ</string>
   <string name="choose_download_quality">Kies download kwaliteit</string>
   <string name="choose_stream_quality">Kies stream kwaliteit</string>
+  <string name="click_to_play_all">Tap to play all</string>
   <string name="click_to_shuffle">Klik voor shuffle</string>
+  <string name="collect_bill_success">Playlist added to favorites</string>
+  <string name="collect_fm_success">Added to favorites</string>
+  <string name="collect_topic_success">Album added to favorites</string>
   <string name="complete">Compleet</string>
   <string name="confirm">Bevestig</string>
   <string name="correct_id3_by_internet">Auto corrigeer ID3 middels mobiel Internet</string>
@@ -68,9 +72,12 @@
   <string name="deselect_all">Alles deselecteren</string>
   <string name="dirac_mode_earbuds">Xiaomi oortjes</string>
   <string name="dirac_mode_general">Normale modus</string>
+  <string name="dirac_mode_general_earbuds">General earbuds</string>
+  <string name="dirac_mode_general_inear">General inear</string>
   <string name="dirac_mode_in_ear">Xiaomi in-ear oortjes</string>
-  <string name="dirac_mode_off">Dirac uit</string>
   <string name="dirac_mode_piston_100">Xiaomi Piston oortjes</string>
+  <string name="dirac_mode_piston_2">Mi piston-2</string>
+  <string name="dirac_mode_piston_youth">Mi piston-youth</string>
   <string name="disconnect">Verbinding verbreken</string>
   <string name="download">Downloaden</string>
   <string name="download_album_settings">Cover auto downloaden</string>
@@ -109,7 +116,6 @@
   <string name="eq_preset_hint">Typ preset naam</string>
   <string name="eq_preset_rename">Hernoemen</string>
   <string name="eq_preset_select">Kies een preset</string>
-  <string name="eq_rb">R &amp; B</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
   <string name="equalizer_delete">Wissen</string>
@@ -150,6 +156,9 @@
   <string name="id3_modify_confirm_check">Bevestig ID3 wijziging(en)?</string>
   <string name="id3_modify_confirm_text">Opslaan</string>
   <string name="impunity_declaration">De online muziek die gebruikt wordt is van Baidu Online Music Service. Klik \"OK\" om te accepteren en gebruiken, klik \"Annuleren\" om af te sluiten.</string>
+  <string name="impunity_declaration_ignore">"Don't show again"</string>
+  <string name="impunity_declaration_settings">Show Terms of Use</string>
+  <string name="impunity_declaration_summary">Show Terms of Use popup for Baidu Online Music Service everytime the Music app opens</string>
   <string name="impunity_declaration_title">Declaratie</string>
   <string name="keep_quit_position_settings">Laatste positie opslaan</string>
   <string name="keep_quit_position_summary">Laatste positie opslaan voor continuering bij herstart van de app</string>
@@ -164,20 +173,17 @@
   <string name="ktv_unbind_message">"Verbinden met KTV console mislukt. Controleer uw QR code."</string>
   <string name="listen_to_music_online_settings">Online muziek luisteren</string>
   <string name="listen_to_online_summary">(hoog dataverbruik)</string>
-  <string name="load_album_artist_failed">Album en artiest lijst laden mislukt. probeer het opnieuw.</string>
-  <string name="load_album_artist_in_process">Album en artiest lijst laden...</string>
-  <string name="load_album_failed">Laden album lijst mislukt, probeer het nogmaals</string>
-  <string name="load_album_in_process">Laad album lijst</string>
-  <string name="load_artist_failed">Laden artiesten lijst mislukt, probeer het nogmaals</string>
-  <string name="load_artist_in_process">Laad artiest lijst</string>
   <string name="load_audio_failed">Laden audio lijst mislukt, probeer het nogmaals</string>
   <string name="load_audio_in_process">Laad audio lijst</string>
   <string name="load_bill_failed">Laden billboard lijst mislukt, probeer het nogmaals</string>
   <string name="load_bill_in_process">Laad billboard lijst</string>
   <string name="load_channel_failed">Laden kanaal lijst mislukt, probeer het nogmaals</string>
   <string name="load_channel_in_process">Laad kanaal lijst</string>
+  <string name="load_recommend_failed">List failed to load</string>
+  <string name="load_recommend_in_process">Loading…</string>
   <string name="loading">Laden</string>
   <string name="login">Inloggen</string>
+  <string name="login_and_enable">Sign in and sync</string>
   <string name="login_first">U moet eerst inloggen met uw Xiaomi account</string>
   <string name="lrc_progress_modify">Pas songtekst scrollsnelheid aan</string>
   <string name="lrc_progress_modify_helper">Pas de songtekst scrollsnelheid aan door naar boven of benden te slepen</string>
@@ -205,7 +211,6 @@
   <string name="more">Meer</string>
   <string name="music_browser_label">Muziek</string>
   <string name="music_filter">Bestands filter</string>
-  <string name="music_filter_helper">Om bestanden te verbergen die geen muziek zijn, is een grootte filter toegepast van 800K om deze bestanden niet te tonen. Dit filter kan aangepast worden in Instellingen - bestands filter.</string>
   <string name="music_not_loaded">Geen audio bestanden gevonden!</string>
   <string name="music_open_other_connect">Download muziek door middel van mobiele data connectie</string>
   <string name="music_picker_title">Nummer selecteren</string>
@@ -221,8 +226,10 @@
   <string name="no_song_downloaded">Nummer kan niet worden gedownload</string>
   <string name="normal_quality">Normale kwaliteit</string>
   <string name="not_login">Inloggen</string>
+  <string name="not_now">Not now</string>
   <string name="not_selected">Selecteer een nummer a.u.b.</string>
   <string name="notification_artist_album">"%2$s %1$s"</string>
+  <string name="number_format" formatted="false">%s.%s</string>
   <string name="online_search_hint">Zoek naar online muziek</string>
   <string name="online_title">Online</string>
   <string name="other_settings">Overig</string>
@@ -232,6 +239,7 @@
   <string name="pay_service_guide_new">Hogere kwaliteit muziek is nu beschikbaar</string>
   <string name="payment_fail">Betaling mislukt!</string>
   <string name="payment_success">Betaling voltooid!</string>
+  <string name="period_format">%1$s-%2$s</string>
   <string name="play_all">Alles Afspelen</string>
   <string name="play_and_download">Afspelen en Downloaden</string>
   <string name="play_and_download_summary">Automatisch het online afgespeelde nummer downloaden</string>
@@ -251,7 +259,8 @@
   <string name="playlist_renamed_message">"Naam van afspeellijst gewijzigd in '%s'."</string>
   <string name="playlists_title">Afspeellijsten</string>
   <string name="powered_by">Ondersteuning door</string>
-  <string name="project_device">Xiaomi MiBox</string>
+  <string name="priority_storage">Priority downloaded to external SD card</string>
+  <string name="priority_storage_summary">When using an external SD card, this function takes effect</string>
   <string name="project_device_mobile">Mobiel apparaat</string>
   <string name="queue">Huidige afspeellijst</string>
   <string name="quit_player">Afsluiten</string>
@@ -291,6 +300,7 @@
   <string name="search_suggestion">Zoek Suggesties:</string>
   <string name="search_title">Zoeken</string>
   <string name="select_all">Selecteer alle</string>
+  <string name="select_device">Select device</string>
   <string name="select_folder">Selecteer map</string>
   <string name="select_quit_time">Selecteer tijd om applicatie te stoppen</string>
   <string name="send_to">Verzenden</string>
@@ -312,10 +322,13 @@
   <string name="start_to_download_album">Album art aan het downloaden voor uw nummer(s) bibliotheek</string>
   <string name="start_to_download_avatar">Artiest avatar aan het downloaden voor uw muziek bibliotheek</string>
   <string name="streamloadingtext">Verbinden met %s</string>
-  <string name="synchronize_guide_toast">Om sync in te schakelen, ga naar instellingen &gt; Sync afspeelijsten</string>
+  <string name="sync_alert_message">Sync your favourite songs across devices with your Mi Account.</string>
+  <string name="sync_alert_title">Sync music</string>
+  <string name="sync_disable_toast">You can enable sync later in Settings &gt; Accounts &gt; Mi Cloud</string>
+  <string name="sync_enable_toast">You can change this setting in Settings &gt; Accounts &gt; Mi Cloud</string>
   <string name="synchronize_playlist_setting">Afspeellijsten Synchroniseren</string>
   <string name="synchronize_playlist_summary">Afspeellijsten synchroniseren met MiCloud.</string>
-  <string name="synchronize_to_baidu_cloud">Backup online nummers in uw afspeellijsten met Baidu Cloud</string>
+  <string name="take_effect_afater_restart">You need to restart the Music app for this setting to take effect.</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_bit_rate_hd">Hoog</string>
   <string name="track_bit_rate_standard">Normaal</string>
@@ -324,6 +337,7 @@
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">Alle Nummers</string>
   <string name="ultra_high_quality">Hoogste kwaliteit</string>
+  <string name="uncollect_success">Removed from favorites</string>
   <string name="unknown_album_name">Onbekend album</string>
   <string name="unknown_artist_name">Onbekende artiest</string>
   <string name="use_local_album">Gebruik opgeslagen album art</string>
@@ -339,6 +353,8 @@
   <string name="vip_recommend_sub_title">Alleen 5 RMB per maand</string>
   <string name="vip_recommend_summary">Stream of download al uw favoriete artiesten met Baidu Music op 320 kbps.</string>
   <string name="vip_recommend_title">Hogere kwaliteit muziek</string>
+  <string name="volume_alert_playback_alert_title">Volume alert</string>
+  <string name="volume_alert_playback_message">Listening at high volume for long periods of time can harm your hearing.</string>
   <string name="where_is_barcode">"Waar is de QR code?"</string>
   <string name="xiaomi_account_setting">Xiaomi account</string>
 </resources>

@@ -9,8 +9,6 @@
   <string name="alert_message_delete_note">Wissen bevestigen?</string>
   <string name="alert_message_delete_notes">Bevestig wissen van de geselecteerde %d notities?</string>
   <string name="alert_message_edit_anyway">Deze notitie bevat inhoud die niet wordt ondersteund, aanpassen kan resulteren in gegevensverlies.</string>
-  <string name="alert_title_delete">Verwijder geselecteerde notitie</string>
-  <string name="alert_title_discard">Veranderingen weggooien?</string>
   <string name="alert_title_edit_anyway">Bevestig aanpassen notitie, dit kan dataverlies veroorzaken, weet u het zeker?</string>
   <string name="app_name">Notities</string>
   <string name="app_widget">Notities</string>
@@ -40,7 +38,6 @@
   <string name="menu_create_folder">Nieuwe map</string>
   <string name="menu_delete">Verwijderen</string>
   <string name="menu_folder_change_name">Wijzig naam van de map</string>
-  <string name="menu_font_size">Letter grootte</string>
   <string name="menu_move">verplaats naar map</string>
   <string name="menu_move_parent_folder">Bovenliggende map</string>
   <string name="menu_rename_folder">Hernoem map</string>
@@ -66,7 +63,6 @@
   <string name="pref_desc_mode_list">Lijst</string>
   <string name="pref_title_alarm_when_silent">Alarm in stille modus</string>
   <string name="pref_title_common">Normale instellingen</string>
-  <string name="pref_title_data_export">Gegevens export</string>
   <string name="pref_title_font_size">Lettertype grootte</string>
   <string name="pref_title_note_style">Notitie stijl</string>
   <string name="preferences_bg_random_appear_title">Willekeurige achtergrondkleur</string>
@@ -82,7 +78,6 @@
   <string name="toast_folder_privacy_mode">Kan map niet aanpassen in bewakings modus</string>
   <string name="toast_message_add_image_fail">afbeelding invoegen mislukt!</string>
   <string name="toast_note_privacy_mode">Kan notitie niet aanpassen in bewakings modus</string>
-  <string name="toast_privacy_mode">Kan geen notitie bewerken in bewakings modus</string>
   <string name="toast_reach_text_limit_attachment">De inhoud van deze notitie is te lang om nieuwe bijlagen toe te voegen.</string>
   <string name="toast_reach_text_limit_truncate">"De inhoud van deze notitie is geknipt omdat deze te lang is."</string>
   <string name="undo">Ongedaan maken</string>
