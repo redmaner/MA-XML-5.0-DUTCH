@@ -129,7 +129,6 @@
     <string-array name="power_mode_entries">
         <item>Prestaties</item>
         <item>Normaal</item>
-        <item>Energiebesparing</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Kort</item>
