@@ -542,7 +542,7 @@ Cc: %4$s
   <string name="outbox_alert_button_resend">Opnieuw verzenden</string>
   <string name="outbox_alert_description_sent_failed">"Oorzaak: De bijlage
 grootte overschrijd het ontvanglimiet"</string>
-  <string name="outbox_alert_mailbox_not_found">E-mailadres niet gevonden/string>
+  <string name="outbox_alert_mailbox_not_found">E-mailadres niet gevonden</string>
   <string name="outbox_alert_title_sent_failed">E-mail verzenden mislukt</string>
   <string name="outbox_no_mails">Geen e-mails in Outbox</string>
   <string name="parase_setup_data">Configuratie gegevens verkrijgen...</string>
