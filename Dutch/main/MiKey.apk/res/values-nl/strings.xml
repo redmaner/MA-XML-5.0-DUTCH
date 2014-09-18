@@ -77,8 +77,8 @@
   <string name="fail_generate_barcode">QR code maken mislukt</string>
   <string name="faq_comp_text">Voor MIUI en Xiaomi telefoons. De huidige versie van MiKey is beschikbaar op &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
   <string name="faq_comp_title">Compitabele apparaten</string>
-  <string name="faq_focus_text">Een foto met de flitser aan maken duurt langer maar het resultaat is scherper. Je kan deze functie uitschakelen maar dat kan resulteren in onscherpere foto's.</string>
-  <string name="faq_focus_title">Foto's maken duurt te lang?</string>
+  <string name="faq_focus_text">Een foto met de flitser aan maken duurt langer maar het resultaat is scherper. Je kan deze functie uitschakelen maar dat kan resulteren in onscherpere foto\'s.</string>
+  <string name="faq_focus_title">Foto\'s maken duurt te lang?</string>
   <string name="faq_misreq_text">"Als de muziek-bediening op het vergrendelscherm niet werkt moet je de app afsluiten via taakbeheer en de MiKey opnieuw aansluiten."</string>
   <string name="faq_misreq_title">Vaak voorkomende problemen</string>
   <string name="faq_plug_text">Deze methode van aansluiten voorkomt potentiële problemen. Druk de knop zelf niet in tijdens het aansluiten.</string>
